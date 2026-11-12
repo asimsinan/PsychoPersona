@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.162 düzeyindedir.",
+      "Sosyal kaygı ortalaması 3.143 düzeyindedir.",
+      "İyi oluş ortalaması 3.105 düzeyindedir.",
+      "Örneklemde bu profile atanan kişi sayısı 163'tür."
+    ],
+    "tone": "Veri temelli, dikkatli ve destek ihtimali bulunan bir profil tonu."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım eğilimi, daha düşük sosyal kaygı ve daha yüksek iyi oluş düzeyiyle öne çıkan bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2,74).",
+      "Sosyal kaygı ortalaması düşüktür (1,94).",
+      "İyi oluş ortalaması yüksektir (3,88).",
+      "Eğitim örnekleminde 320 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Dengeli, daha kontrollü dijital kullanım eğilimi gösteren ve psikolojik olarak görece daha iyi durumda olan bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım, sosyal kaygı ve iyi oluş göstergeleri örneklem içinde görece düşük düzeydedir. Bu profil, düşük dijital bağımlılık (ort. 1.57), düşük sosyal kaygı (ort. 1.56) ve düşük iyi oluş (ort. 1.53) örüntüsüyle tanımlanır.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde 54 kişiden oluşur; baskın demografik dayanak erkek, ön lisans düzeyi ve günlük 4-6 saat kullanım olarak öne çıkar.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.57).",
+      "Sosyal kaygı ortalaması düşüktür (1.56).",
+      "İyi oluş ortalaması düşüktür (1.53).",
+      "Profil, üç göstergede de görece düşük puan örüntüsü sergiler."
+    ],
+    "tone": "Temkinli, dengeli ve veri odaklı."
+  }
+]

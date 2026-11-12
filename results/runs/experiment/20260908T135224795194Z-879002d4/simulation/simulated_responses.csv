@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0170,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1698,247,1945,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0360,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1711,249,1960,1,0,1,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.5,0.2222222222222222,0.1428571428571428
+R0008,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1692,254,1946,1,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0628,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,253,1939,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0373,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1705,248,1953,1,0,1,0,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.2222222222222222,0.0
+R0396,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1711,250,1961,1,0,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.5,0.2222222222222222,0.1428571428571428
+R0504,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1688,249,1937,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0133,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1698,247,1945,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,1,1,0,3,2,3,2,2,2,2,1.625,1.4444444444444444,2.2857142857142856
+R0063,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,245,1931,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0021,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1692,246,1938,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0321,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1697,245,1942,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,1,1,0,3,2,3,2,2,2,2,1.625,1.4444444444444444,2.2857142857142856
+R0151,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1707,251,1958,1,0,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.5,0.2222222222222222,0.1428571428571428
+R0579,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,252,1938,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0419,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,245,1931,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0622,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,242,1928,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0171,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1696,253,1949,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,1,1,0,3,2,3,2,2,2,2,1.625,1.4444444444444444,2.2857142857142856
+R0283,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,252,1938,1,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0662,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1689,241,1930,1,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0441,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,248,1934,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0412,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,248,1934,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0187,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1692,248,1940,1,0,2,2,2,2,2,1,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.625,1.6666666666666667,2.2857142857142856
+R0728,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1695,251,1946,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0760,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1688,249,1937,1,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0520,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1684,244,1928,1,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0414,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1684,253,1937,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0282,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1692,249,1941,1,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0674,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,250,1936,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0251,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1710,247,1957,1,0,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.5,0.2222222222222222,0.1428571428571428
+R0602,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,262,1948,1,0,1,1,1,1,1,1,0,0,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0.75,0.4444444444444444,0.7142857142857143
+R0256,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1698,244,1942,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,2,3,2,3,2,2,2,1,1.75,1.6666666666666667,2.142857142857143
+R0516,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1698,247,1945,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,1,1,0,3,2,3,2,2,2,2,1.625,1.4444444444444444,2.2857142857142856
+R0294,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1697,251,1948,1,0,2,2,1,2,2,2,1,1,2,2,2,3,1,2,2,1,0,3,2,3,2,2,2,2,1.625,1.6666666666666667,2.2857142857142856
+R0065,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1694,243,1937,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.625,1.6666666666666667,2.2857142857142856
+R0715,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1692,244,1936,1,0,1,1,1,1,1,2,0,0,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0.875,0.4444444444444444,0.7142857142857143
+R0518,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1699,246,1945,1,0,2,2,2,2,2,1,1,1,2,2,2,2,1,2,1,1,1,3,2,3,2,2,2,2,1.625,1.5555555555555556,2.2857142857142856
+R0061,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1692,248,1940,1,0,2,2,2,2,1,2,1,1,2,2,2,3,1,2,2,1,0,3,2,3,2,2,2,1,1.625,1.6666666666666667,2.142857142857143
+R0510,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1692,245,1937,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0488,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1698,249,1947,1,0,2,2,2,2,2,2,1,1,2,2,2,3,1,2,2,1,0,3,2,3,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0461,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,241,1927,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0730,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1689,243,1932,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0634,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1711,249,1960,1,0,1,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.5,0.2222222222222222,0.1428571428571428
+R0569,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1692,260,1952,1,0,2,2,2,2,1,2,1,1,2,2,2,3,1,2,2,1,0,3,2,3,2,2,2,2,1.625,1.6666666666666667,2.2857142857142856
+R0299,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1698,244,1942,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,0,3,2,3,2,2,2,2,1.75,1.4444444444444444,2.2857142857142856
+R0334,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1699,239,1938,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.625,1.6666666666666667,2.2857142857142856
+R0083,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1688,244,1932,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0024,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1704,255,1959,1,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.625,0.2222222222222222,0.0
+R0312,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1691,243,1934,1,0,1,1,1,1,1,2,0,0,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,0.875,0.5555555555555556,0.7142857142857143
+R0524,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1708,251,1959,1,0,1,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.75,0.2222222222222222,0.1428571428571428
+R0708,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1692,250,1942,1,0,1,1,1,1,1,2,0,0,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0.875,0.4444444444444444,0.7142857142857143
+R0240,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,242,1928,1,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0245,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,242,1928,1,0,1,1,1,1,1,2,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.375,0.4444444444444444,0.7142857142857143
+R0434,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1698,246,1944,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0727,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1710,249,1959,1,0,1,0,1,1,0,1,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1.0,0.2222222222222222,0.1428571428571428
+R0491,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1685,246,1931,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1.25,0.3333333333333333,0.5714285714285714
+R0535,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,240,1926,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0701,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,252,1938,1,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0619,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1684,256,1940,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0289,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,243,1929,1,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0479,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1692,250,1942,1,0,2,2,2,2,2,2,1,1,2,2,2,3,1,2,2,1,0,3,2,3,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0678,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1689,252,1941,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0088,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1705,251,1956,1,0,1,0,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.875,0.2222222222222222,0.0
+R0459,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,247,1933,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0452,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1705,249,1954,1,0,1,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.2222222222222222,0.0
+R0156,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1692,250,1942,1,0,2,2,2,2,1,2,1,1,2,2,2,3,1,2,2,1,0,3,2,3,2,2,2,2,1.625,1.6666666666666667,2.2857142857142856
+R0570,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1710,250,1960,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.2222222222222222,0.0
+R0386,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1707,251,1958,1,0,1,1,0,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.2222222222222222,0.0
+R0327,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1698,244,1942,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.625,1.6666666666666667,2.2857142857142856
+R0451,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1683,248,1931,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0651,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1705,253,1958,1,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.625,0.2222222222222222,0.0
+R0026,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1691,241,1932,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0481,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1705,251,1956,1,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.625,0.2222222222222222,0.0
+R0494,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1699,251,1950,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,1,1,0,3,2,3,2,2,2,2,1.625,1.4444444444444444,2.2857142857142856
+R0498,0,"Low distress, highly educated male profile",primary,direct_stats_v1,openai/gpt-5.4,primary,1711,251,1962,1,0,1,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.75,0.2222222222222222,0.1428571428571428
+R0758,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1692,250,1942,1,0,2,2,2,2,1,2,1,1,2,2,2,3,1,2,2,1,0,3,2,3,2,2,2,2,1.625,1.6666666666666667,2.2857142857142856
+R0017,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1685,251,1936,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0223,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1693,248,1941,1,0,1,1,1,1,1,2,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.375,0.4444444444444444,0.7142857142857143
+R0450,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1688,251,1939,1,0,1,1,1,1,1,2,1,1,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0306,1,Profile 1,primary,direct_stats_v1,openai/gpt-5.4,primary,1692,243,1935,1,0,2,2,2,2,2,1,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.625,1.6666666666666667,2.2857142857142856
+R0239,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1683,242,1925,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0290,2,"Low Distress, Highly Educated Female",primary,direct_stats_v1,openai/gpt-5.4,primary,1686,245,1931,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143

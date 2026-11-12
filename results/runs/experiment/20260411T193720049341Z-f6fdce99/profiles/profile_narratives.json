@@ -1,0 +1,54 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "daha yüksek dijital kullanım, daha düşük sosyal kaygı, daha yüksek iyi oluş",
+    "demographic_anchor": "Kadın, Ön lisans, 4-6 saat",
+    "size": 271,
+    "feature_means": {
+      "digital_addiction_mean": 2.7859778597785976,
+      "social_anxiety_mean": 2.300626188080063,
+      "wellbeing_mean": 3.4947680548234055,
+      "usage_hours_midpoint": 5.0
+    }
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "daha düşük dijital kullanım, daha düşük sosyal kaygı, daha düşük iyi oluş",
+    "demographic_anchor": "Erkek, Ön lisans, 0-3 saat",
+    "size": 168,
+    "feature_means": {
+      "digital_addiction_mean": 2.467857142857143,
+      "social_anxiety_mean": 2.2257094757094755,
+      "wellbeing_mean": 3.4053996598639458,
+      "usage_hours_midpoint": 1.5
+    }
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "daha yüksek dijital kullanım, daha yüksek sosyal kaygı, daha düşük iyi oluş",
+    "demographic_anchor": "Kadın, Ön lisans, 7-9 saat",
+    "size": 70,
+    "feature_means": {
+      "digital_addiction_mean": 3.037142857142857,
+      "social_anxiety_mean": 2.5738095238095235,
+      "wellbeing_mean": 3.282142857142857,
+      "usage_hours_midpoint": 8.0
+    }
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "daha yüksek dijital kullanım, daha yüksek sosyal kaygı, daha düşük iyi oluş",
+    "demographic_anchor": "Erkek, Ön lisans, 10 saat ve üzeri",
+    "size": 28,
+    "feature_means": {
+      "digital_addiction_mean": 3.242857142857143,
+      "social_anxiety_mean": 2.3422619047619047,
+      "wellbeing_mean": 3.389030612244898,
+      "usage_hours_midpoint": 10.0
+    }
+  }
+]

@@ -1,0 +1,117 @@
+dataset,source,model,arm,points,correlation,slope,rmse,human_sd
+anket_tr,paper_split,Claude Opus 4.6,BBP,45,0.455593,0.398614,0.122293,0.123993
+anket_tr,paper_split,Claude Opus 4.6,BPP,45,0.461483,0.389148,0.119931,0.123993
+anket_tr,paper_split,Claude Opus 4.6,DOP,45,0.20927,0.306486,0.197362,0.123993
+anket_tr,paper_split,Claude Opus 4.6,FPNP,45,0.4493,0.39331,0.12296,0.123993
+anket_tr,paper_split,Claude Opus 4.6,HC,45,0.432714,0.421182,0.130488,0.123993
+anket_tr,paper_split,Claude Opus 4.6,SADP,45,0.481076,0.417949,0.11913,0.123993
+anket_tr,paper_split,Claude Opus 4.6,SCP,45,0.438273,0.376394,0.123238,0.123993
+anket_tr,paper_split,Claude Opus 4.6,TPSAP,45,0.406237,0.311181,0.1218,0.123993
+anket_tr,paper_split,DeepSeek V4.1 Flash,BPP,45,0.445066,0.33943,0.117877,0.123993
+anket_tr,paper_split,DeepSeek V4.1 Flash,DOP,45,0.000236,0.000396,0.242446,0.123993
+anket_tr,paper_split,DeepSeek V4.1 Flash,HC,45,0.518007,0.578688,0.129642,0.123993
+anket_tr,paper_split,DeepSeek V4.1 Flash,SADP,45,0.385167,0.302319,0.124721,0.123993
+anket_tr,paper_split,GPT-5.4,BBP,45,0.470301,0.37215,0.116545,0.123993
+anket_tr,paper_split,GPT-5.4,BPP,45,0.44868,0.344534,0.117689,0.123993
+anket_tr,paper_split,GPT-5.4,DOP,45,0.050128,0.074052,0.216048,0.123993
+anket_tr,paper_split,GPT-5.4,FPNP,45,0.444434,0.327743,0.116882,0.123993
+anket_tr,paper_split,GPT-5.4,HC,45,0.450106,0.433459,0.127798,0.123993
+anket_tr,paper_split,GPT-5.4,SADP,45,0.437104,0.353281,0.120691,0.123993
+anket_tr,paper_split,GPT-5.4,SCP,45,0.459348,0.33895,0.115426,0.123993
+anket_tr,paper_split,GPT-5.4,TPSAP,45,0.431019,0.351074,0.121625,0.123993
+anket_tr,paper_split,Gemini 3.1 Pro,BBP,45,0.42367,0.368384,0.125322,0.123993
+anket_tr,paper_split,Gemini 3.1 Pro,BPP,45,0.382647,0.336083,0.130107,0.123993
+anket_tr,paper_split,Gemini 3.1 Pro,DOP,45,0.028405,0.052054,0.255838,0.123993
+anket_tr,paper_split,Gemini 3.1 Pro,FPNP,45,0.466572,0.39591,0.119614,0.123993
+anket_tr,paper_split,Gemini 3.1 Pro,HC,45,0.466459,0.455069,0.126665,0.123993
+anket_tr,paper_split,Gemini 3.1 Pro,SADP,45,0.463573,0.389433,0.119412,0.123993
+anket_tr,paper_split,Gemini 3.1 Pro,SCP,45,0.420042,0.331062,0.121453,0.123993
+anket_tr,paper_split,Gemini 3.1 Pro,TPSAP,45,0.403534,0.349484,0.127206,0.123993
+anket_tr,paper_split,Qwen3.8 27B,BPP,45,0.352428,0.25864,0.125318,0.123993
+anket_tr,paper_split,Qwen3.8 27B,DOP,45,0.218215,0.296979,0.186411,0.123993
+anket_tr,paper_split,Qwen3.8 27B,HC,45,0.527729,0.592392,0.128692,0.123993
+anket_tr,paper_split,Qwen3.8 27B,SADP,45,0.456912,0.365427,0.118227,0.123993
+anket_tr,paper_split,profile-center baseline,profile-center baseline,45,0.34482,0.241256,0.124428,0.123993
+anket_tr,repeated_splits,Claude Opus 4.6,BPP,48,0.861741,0.602118,0.079123,0.147972
+anket_tr,repeated_splits,Claude Opus 4.6,DOP,48,0.445681,0.5225,0.171966,0.147972
+anket_tr,repeated_splits,Claude Opus 4.6,HC,48,0.809054,0.554961,0.089605,0.147972
+anket_tr,repeated_splits,Claude Opus 4.6,SADP,48,0.859358,0.606283,0.079186,0.147972
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,BPP,48,0.825588,0.434266,0.095818,0.147972
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,DOP,48,0.311199,0.387721,0.200098,0.147972
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,HC,48,0.804228,0.548368,0.090503,0.147972
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,SADP,48,0.89978,0.584511,0.074926,0.147972
+anket_tr,repeated_splits,GPT-5.4,BBP,48,0.847322,0.562991,0.08362,0.147972
+anket_tr,repeated_splits,GPT-5.4,BPP,48,0.870069,0.55477,0.081526,0.147972
+anket_tr,repeated_splits,GPT-5.4,DOP,48,0.338364,0.411667,0.191858,0.147972
+anket_tr,repeated_splits,GPT-5.4,FPNP,48,0.871521,0.569449,0.080028,0.147972
+anket_tr,repeated_splits,GPT-5.4,HC,48,0.584924,0.335748,0.121642,0.147972
+anket_tr,repeated_splits,GPT-5.4,SADP,48,0.879667,0.635482,0.074289,0.147972
+anket_tr,repeated_splits,GPT-5.4,SCP,48,0.858995,0.539223,0.084014,0.147972
+anket_tr,repeated_splits,GPT-5.4,TPSAP,48,0.872798,0.605739,0.077246,0.147972
+anket_tr,repeated_splits,Gemini 3.1 Pro,BPP,48,0.868472,0.644693,0.075877,0.147972
+anket_tr,repeated_splits,Gemini 3.1 Pro,DOP,48,0.416643,0.632855,0.212003,0.147972
+anket_tr,repeated_splits,Gemini 3.1 Pro,HC,48,0.813922,0.547823,0.089259,0.147972
+anket_tr,repeated_splits,Gemini 3.1 Pro,SADP,48,0.874615,0.6003,0.07726,0.147972
+anket_tr,repeated_splits,Qwen3.8 27B,BPP,48,0.851771,0.497412,0.088275,0.147972
+anket_tr,repeated_splits,Qwen3.8 27B,DOP,48,0.346785,0.360964,0.175253,0.147972
+anket_tr,repeated_splits,Qwen3.8 27B,HC,48,0.799503,0.529813,0.091936,0.147972
+anket_tr,repeated_splits,Qwen3.8 27B,SADP,48,0.880799,0.585136,0.07736,0.147972
+anket_tr,repeated_splits,profile-center baseline,profile-center baseline,48,0.855046,0.432716,0.093864,0.147972
+bangladesh_sns,paper_split,Claude Opus 4.6,BBP,48,0.84236,0.495763,0.104144,0.173232
+bangladesh_sns,paper_split,Claude Opus 4.6,BPP,48,0.819726,0.495287,0.106639,0.173232
+bangladesh_sns,paper_split,Claude Opus 4.6,DOP,48,0.479038,0.317185,0.155577,0.173232
+bangladesh_sns,paper_split,Claude Opus 4.6,FPNP,48,0.889633,0.544182,0.093668,0.173232
+bangladesh_sns,paper_split,Claude Opus 4.6,HC,48,0.767427,0.495632,0.11567,0.173232
+bangladesh_sns,paper_split,Claude Opus 4.6,SADP,48,0.910685,0.612512,0.083248,0.173232
+bangladesh_sns,paper_split,Claude Opus 4.6,SCP,48,0.805302,0.476886,0.10996,0.173232
+bangladesh_sns,paper_split,Claude Opus 4.6,TPSAP,48,0.916177,0.623929,0.081054,0.173232
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,BPP,48,0.899326,0.455807,0.104465,0.173232
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,DOP,48,0.536718,0.320124,0.146902,0.173232
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,HC,48,0.678666,0.486269,0.129891,0.173232
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,SADP,48,0.918983,0.583321,0.08554,0.173232
+bangladesh_sns,paper_split,GPT-5.4,BBP,48,0.866929,0.643303,0.089043,0.173232
+bangladesh_sns,paper_split,GPT-5.4,BPP,48,0.878878,0.614414,0.088597,0.173232
+bangladesh_sns,paper_split,GPT-5.4,DOP,48,0.474019,0.33387,0.15783,0.173232
+bangladesh_sns,paper_split,GPT-5.4,FPNP,48,0.864434,0.619819,0.090869,0.173232
+bangladesh_sns,paper_split,GPT-5.4,HC,48,0.791073,0.520388,0.11117,0.173232
+bangladesh_sns,paper_split,GPT-5.4,SADP,48,0.934109,0.712441,0.068935,0.173232
+bangladesh_sns,paper_split,GPT-5.4,SCP,48,0.889018,0.596666,0.088211,0.173232
+bangladesh_sns,paper_split,GPT-5.4,TPSAP,48,0.892141,0.625357,0.085279,0.173232
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BBP,48,0.894781,0.761458,0.077775,0.173232
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BPP,48,0.880601,0.756316,0.082225,0.173232
+bangladesh_sns,paper_split,Gemini 3.1 Pro,DOP,48,0.432045,0.449084,0.18918,0.173232
+bangladesh_sns,paper_split,Gemini 3.1 Pro,FPNP,48,0.883465,0.711294,0.08311,0.173232
+bangladesh_sns,paper_split,Gemini 3.1 Pro,HC,48,0.773622,0.508682,0.113846,0.173232
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SADP,48,0.917431,0.638048,0.079486,0.173232
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SCP,48,0.879667,0.758062,0.082508,0.173232
+bangladesh_sns,paper_split,Gemini 3.1 Pro,TPSAP,48,0.890923,0.62998,0.085096,0.173232
+bangladesh_sns,paper_split,Qwen3.8 27B,BPP,48,0.872474,0.559019,0.094899,0.173232
+bangladesh_sns,paper_split,Qwen3.8 27B,DOP,48,0.722286,0.220714,0.145754,0.173232
+bangladesh_sns,paper_split,Qwen3.8 27B,HC,48,0.672821,0.489883,0.131434,0.173232
+bangladesh_sns,paper_split,Qwen3.8 27B,SADP,48,0.904705,0.875571,0.074758,0.173232
+bangladesh_sns,paper_split,profile-center baseline,profile-center baseline,48,0.889288,0.564537,0.091581,0.173232
+bangladesh_sns,repeated_splits,Claude Opus 4.6,BPP,60,0.663909,0.412377,0.09933,0.132261
+bangladesh_sns,repeated_splits,Claude Opus 4.6,DOP,60,0.244225,0.231788,0.163408,0.132261
+bangladesh_sns,repeated_splits,Claude Opus 4.6,HC,60,0.737036,0.458045,0.090687,0.132261
+bangladesh_sns,repeated_splits,Claude Opus 4.6,SADP,60,0.819205,0.627357,0.077152,0.132261
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,BPP,60,0.806906,0.493304,0.083144,0.132261
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,DOP,60,0.191527,0.146048,0.154118,0.132261
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,HC,60,0.772495,0.49924,0.085671,0.132261
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,SADP,60,0.84902,0.592112,0.073327,0.132261
+bangladesh_sns,repeated_splits,GPT-5.4,BBP,60,0.81798,0.622894,0.079544,0.132261
+bangladesh_sns,repeated_splits,GPT-5.4,BPP,60,0.763311,0.513422,0.087658,0.132261
+bangladesh_sns,repeated_splits,GPT-5.4,DOP,60,0.377351,0.331407,0.14336,0.132261
+bangladesh_sns,repeated_splits,GPT-5.4,FPNP,60,0.842256,0.610755,0.074386,0.132261
+bangladesh_sns,repeated_splits,GPT-5.4,HC,60,0.738651,0.46856,0.090244,0.132261
+bangladesh_sns,repeated_splits,GPT-5.4,SADP,60,0.868435,0.688595,0.06723,0.132261
+bangladesh_sns,repeated_splits,GPT-5.4,SCP,60,0.76807,0.520931,0.086795,0.132261
+bangladesh_sns,repeated_splits,GPT-5.4,TPSAP,60,0.805788,0.576392,0.079735,0.132261
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,BPP,60,0.7484,0.70459,0.09852,0.132261
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,DOP,60,0.369183,0.459547,0.178727,0.132261
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,HC,60,0.730918,0.472008,0.090969,0.132261
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,SADP,60,0.871773,0.698499,0.06595,0.132261
+bangladesh_sns,repeated_splits,Qwen3.8 27B,BPP,60,0.747161,0.529401,0.089199,0.132261
+bangladesh_sns,repeated_splits,Qwen3.8 27B,DOP,60,0.135466,0.046958,0.134041,0.132261
+bangladesh_sns,repeated_splits,Qwen3.8 27B,HC,60,0.765929,0.500401,0.086389,0.132261
+bangladesh_sns,repeated_splits,Qwen3.8 27B,SADP,60,0.822867,0.760835,0.080365,0.132261
+bangladesh_sns,repeated_splits,profile-center baseline,profile-center baseline,60,0.830529,0.608472,0.074811,0.132261

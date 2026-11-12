@@ -1,0 +1,44 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, socially connected male graduate with light daily use",
+    "summary": "This profile reflects respondents with comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, with 1-3 hours of daily use",
+    "behavior_markers": [
+      "Reports relatively low loneliness compared with other profiles",
+      "Shows low average depressive symptom levels",
+      "Shows very low average anxiety symptom levels",
+      "Anchored by male respondents with graduate-level or higher education",
+      "Commonly associated with 1-3 hours of daily use"
+    ],
+    "tone": "Stable, connected, and low distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Respondents in this profile report comparatively higher loneliness, depressive symptoms, and anxiety symptoms, with anxiety appearing especially elevated among the three indicators.",
+    "demographic_anchor": "Female, graduate degree or above, more than 5 hours",
+    "behavior_markers": [
+      "Reports relatively high loneliness on the UCLA-8 indicator",
+      "Shows elevated depressive symptoms on the PHQ-9 indicator",
+      "Shows elevated anxiety symptoms on the GAD-7 indicator",
+      "Anxiety is the highest of the three mean symptom indicators",
+      "Represents a training-split subgroup of 181 respondents"
+    ],
+    "tone": "Distressed and emotionally burdened"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, well-educated male with light daily use",
+    "summary": "Respondents in this profile report relatively low loneliness, depressive symptoms, and anxiety symptoms overall.",
+    "demographic_anchor": "Male, graduate education or above, with 1–3 hours of daily use",
+    "behavior_markers": [
+      "Lower average loneliness score (UCLA-8 mean 1.25)",
+      "Lower average depression symptoms (PHQ-9 mean 0.81)",
+      "Lower average anxiety symptoms (GAD-7 mean 0.84)",
+      "Most strongly anchored demographically by being male and highly educated",
+      "Associated with a light-use pattern of 1–3 hours per day"
+    ],
+    "tone": "Stable, low-distress, and lightly engaged"
+  }
+]

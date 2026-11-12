@@ -1,0 +1,26 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0569,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,368,1312,1,0,1,1,1,1,1,2,0,1,1,2,1,2,1,2,1,1,0,2,2,2,1,1,2,1,1.0,1.2222222222222223,1.5714285714285714
+R0172,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,388,1332,1,0,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0507,2,Low-Distress Graduate Male,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,378,1322,1,0,1,1,1,2,1,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,0.875,0.6666666666666666,0.7142857142857143
+R0579,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,368,1312,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.25,0.6666666666666666,0.8571428571428571
+R0614,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,953,378,1331,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0078,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,956,370,1326,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0163,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,942,382,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0084,1,High-Distress Graduate Female,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,380,1324,1,0,1,1,1,2,1,2,1,1,1,2,1,1,1,2,1,1,0,2,2,2,1,1,1,1,1.25,1.1111111111111112,1.4285714285714286
+R0669,1,High-Distress Graduate Female,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,380,1324,1,0,1,1,1,2,1,2,0,1,1,1,2,2,1,1,2,1,0,2,2,2,2,1,2,1,1.125,1.2222222222222223,1.7142857142857142
+R0479,1,High-Distress Graduate Female,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,377,1321,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0278,2,Low-Distress Graduate Male,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,381,1325,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0745,1,High-Distress Graduate Female,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,957,374,1331,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0105,1,High-Distress Graduate Female,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,956,376,1332,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0476,1,High-Distress Graduate Female,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,956,369,1325,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0067,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,946,377,1323,1,0,1,1,1,2,1,1,1,2,1,2,2,1,1,2,2,1,0,2,2,2,1,1,2,1,1.25,1.3333333333333333,1.5714285714285714
+R0428,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,950,386,1336,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0100,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,377,1321,1,0,1,1,2,1,1,2,1,2,1,1,2,2,1,1,2,1,0,1,1,1,1,1,2,1,1.375,1.2222222222222223,1.1428571428571428
+R0322,1,High-Distress Graduate Female,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,953,366,1319,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0218,2,Low-Distress Graduate Male,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,957,378,1335,1,0,1,1,1,2,1,2,1,1,1,1,2,2,1,1,2,1,0,1,2,2,1,1,1,1,1.25,1.2222222222222223,1.2857142857142858
+R0747,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,367,1311,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0261,1,High-Distress Graduate Female,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,949,382,1331,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0765,2,Low-Distress Graduate Male,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,380,1324,1,0,1,1,1,1,1,2,0,0,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,0.875,0.6666666666666666,0.7142857142857143
+R0129,0,Profil 0,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,377,1321,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.0,0.8888888888888888,1.0
+R0311,2,Low-Distress Graduate Male,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,944,381,1325,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0554,2,Low-Distress Graduate Male,stability_2,demographic_only_v1,qwen/qwen3.8-27b,stability,941,389,1330,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.0,0.8888888888888888,1.0

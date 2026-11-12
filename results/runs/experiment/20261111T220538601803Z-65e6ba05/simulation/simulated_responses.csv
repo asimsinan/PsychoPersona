@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0551,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1237,369,1606,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0777,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1262,396,1658,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0739,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1251,369,1620,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0530,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1241,371,1612,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0405,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1251,369,1620,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0066,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1262,371,1633,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0068,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,375,1651,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0462,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,374,1624,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0520,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1248,374,1622,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0357,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,379,1629,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0791,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1251,360,1611,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0505,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1240,373,1613,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0747,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,380,1630,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0518,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1289,376,1665,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0369,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,372,1646,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0767,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,370,1620,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0325,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,404,1654,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0033,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1239,374,1613,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0727,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,375,1625,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0279,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1287,390,1677,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0124,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1252,370,1622,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0726,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1262,371,1633,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0169,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1239,374,1613,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0167,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1288,372,1660,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0632,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,364,1614,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0733,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1285,372,1657,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0771,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1244,362,1606,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0389,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1287,364,1651,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0013,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,387,1637,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0586,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1238,369,1607,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0337,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,383,1633,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0140,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,380,1656,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0313,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1247,402,1649,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0005,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,374,1650,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0016,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,371,1645,1,0,3,3,3,3,2,3,0,0,2,3,2,2,1,3,2,1,1,3,3,3,2,2,2,3,2.125,1.8888888888888888,2.5714285714285716
+R0636,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1272,381,1653,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0221,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,384,1660,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0490,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1261,369,1630,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0476,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1288,382,1670,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0144,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,365,1615,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0623,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,371,1621,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0679,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,366,1616,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0775,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1254,392,1646,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0063,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,380,1630,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0495,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,369,1619,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0396,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1251,369,1620,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0753,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1262,364,1626,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0656,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1259,369,1628,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0025,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,388,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0534,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,374,1624,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0304,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1239,369,1608,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0434,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1288,378,1666,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0187,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,370,1646,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0189,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,371,1627,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0214,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,380,1656,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0678,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1259,365,1624,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0699,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1287,389,1676,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0633,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1262,374,1636,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0667,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,392,1666,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0482,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1239,370,1609,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0721,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,371,1627,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0480,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1239,382,1621,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0034,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,378,1654,1,0,3,3,2,3,2,3,0,0,2,3,2,2,1,3,2,1,1,3,3,3,2,2,2,3,2.0,1.8888888888888888,2.5714285714285716
+R0423,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1261,396,1657,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0235,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,374,1650,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0275,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,380,1656,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0690,0,Low-Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1251,369,1620,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0610,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1252,369,1621,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0155,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,368,1644,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0045,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1261,364,1625,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0192,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1261,370,1631,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0308,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1259,376,1635,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0195,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,379,1655,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0032,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,379,1629,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0054,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,373,1636,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0593,1,High Distress and Loneliness,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1288,378,1666,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0575,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1262,364,1626,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0443,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,379,1629,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0531,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1261,392,1653,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0578,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1261,370,1631,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0

@@ -1,0 +1,57 @@
+calibration:
+  donor_pool_min: 20
+  enabled: true
+  neighbor_count: 8
+  profile_shrinkage: 0.25
+  save_raw_outputs: true
+  signal_scale: 0.25
+  strategy: hybrid_llm
+dataset_path: ../../../datasets/anket.xlsx
+lmstudio:
+  api_key_env: OPENROUTER_API_KEY
+  base_url: https://openrouter.ai/api/v1
+  headers:
+    HTTP-Referer: https://example.org
+    X-OpenRouter-Title: SaykoPersona
+  model_id: qwen/qwen3.8-27b
+  persona:
+    max_tokens: 1100
+    name: persona_card
+    temperature: 0.2
+    top_p: 1.0
+  primary:
+    max_tokens: 300
+    name: primary
+    temperature: 0.1
+    top_p: 1.0
+  provider:
+    allow_fallbacks: false
+    only:
+    - deepinfra
+    quantizations:
+    - bf16
+  reasoning:
+    enabled: false
+  stability:
+    max_tokens: 300
+    name: stability
+    temperature: 0.1
+    top_p: 1.0
+output_root: ../../../results
+profiles:
+  cluster_max: 6
+  cluster_min: 2
+  feature_columns:
+  - digital_addiction_mean
+  - social_anxiety_mean
+  - wellbeing_mean
+simulation:
+  evaluation_split: final_test
+  max_holdout_rows: null
+  parallel_workers: 4
+  prompt_version: v4_tr_hybrid_b
+  stability_runs: 3
+split:
+  final_test_size: 0.1
+  random_state: 42
+  validation_size: 0.1

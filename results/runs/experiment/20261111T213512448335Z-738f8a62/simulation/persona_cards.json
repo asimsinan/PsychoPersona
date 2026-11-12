@@ -1,0 +1,39 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Risk Well-Being Profile",
+    "summary": "This persona represents a group of respondents characterized by minimal psychological distress. They report very low levels of loneliness, depression, and anxiety, indicating a state of high emotional stability and social connectedness.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 0.79)",
+      "Reports minimal depressive symptoms (PHQ-9 mean: 0.28)",
+      "Reports negligible anxiety symptoms (GAD-7 mean: 0.04)"
+    ],
+    "tone": "Stable, connected, and psychologically resilient"
+  },
+  {
+    "profile_id": 1,
+    "label": "High Distress Graduate",
+    "summary": "A female respondent with a graduate-level education who reports spending more than five hours on the measured activity. This profile is characterized by elevated psychological distress, specifically higher levels of loneliness, depressive symptoms, and anxiety symptoms compared to the general population.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Elevated loneliness (UCLA-8 mean: 1.72)",
+      "Elevated depressive symptoms (PHQ-9 mean: 1.73)",
+      "Elevated anxiety symptoms (GAD-7 mean: 2.14)",
+      "High time investment (More than 5 hours)"
+    ],
+    "tone": "Distressed and isolated"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "This persona represents a group characterized by significantly lower levels of loneliness, depressive symptoms, and anxiety symptoms compared to other profiles.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports minimal loneliness (UCLA-8 mean: 1.25)",
+      "Reports minimal depressive symptoms (PHQ-9 mean: 0.81)",
+      "Reports minimal anxiety symptoms (GAD-7 mean: 0.84)"
+    ],
+    "tone": "Stable and resilient"
+  }
+]

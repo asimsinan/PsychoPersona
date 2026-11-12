@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0569,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,272,1933,1,0,2,1,2,2,1,3,2,1,1,1,2,2,1,1,1,0,0,1,1,1,2,1,2,0,1.75,1.0,1.1428571428571428
+R0172,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,263,1924,1,0,2,1,2,2,2,3,1,1,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,0,1.75,0.8888888888888888,0.7142857142857143
+R0507,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,263,1932,1,0,1,1,1,1,1,2,1,1,1,1,2,2,1,1,2,0,0,1,1,1,1,0,1,0,1.125,1.1111111111111112,0.7142857142857143
+R0579,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,261,1922,1,0,2,2,2,2,2,3,1,1,1,1,2,1,1,1,1,0,0,1,1,1,1,1,2,0,1.875,0.8888888888888888,1.0
+R0614,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1659,268,1927,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0078,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1662,266,1928,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0163,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1654,260,1914,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0084,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,265,1918,1,0,2,2,2,3,2,3,1,1,2,3,2,3,2,2,2,1,1,3,2,3,2,1,2,2,2.0,2.0,2.142857142857143
+R0669,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,266,1919,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0479,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,278,1931,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0278,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,269,1925,1,0,1,0,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0745,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1660,266,1926,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.5555555555555556,1.7142857142857142
+R0105,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1659,268,1927,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.5555555555555556,1.7142857142857142
+R0476,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1659,270,1929,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.5555555555555556,1.7142857142857142
+R0067,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,253,1916,1,0,2,1,2,2,2,3,2,1,1,1,2,1,1,1,2,0,0,1,1,1,1,0,1,0,1.875,1.0,0.7142857142857143
+R0428,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1659,259,1918,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0100,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,260,1921,1,0,2,2,2,2,1,3,2,1,1,1,2,1,1,1,2,0,0,1,1,1,1,1,2,0,1.875,1.0,1.0
+R0322,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,257,1913,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.5555555555555556,1.7142857142857142
+R0218,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1676,266,1942,1,0,1,1,1,1,1,1,2,2,1,1,2,2,1,1,1,0,0,1,0,1,1,0,1,0,1.25,1.0,0.5714285714285714
+R0747,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,254,1915,1,0,2,1,2,2,2,3,1,1,1,1,2,1,1,1,1,0,0,1,1,1,1,1,2,0,1.75,0.8888888888888888,1.0
+R0261,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1655,275,1930,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.6666666666666667,2.0
+R0765,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,270,1939,1,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,0,1.375,1.0,0.7142857142857143
+R0129,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,265,1926,1,0,2,1,2,2,2,3,2,1,1,1,2,2,1,1,1,0,0,1,1,1,1,0,2,0,1.875,1.0,0.8571428571428571
+R0311,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,262,1931,1,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,1,0,0,1,0,1,1,0,1,0,1.375,1.0,0.5714285714285714
+R0554,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1666,258,1924,1,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,0,1.375,1.0,0.7142857142857143
+R0128,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,260,1916,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0443,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,271,1932,1,0,2,1,2,2,1,3,2,1,1,1,2,2,1,1,1,0,0,1,1,1,2,1,1,0,1.75,1.0,1.0
+R0149,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1667,257,1924,1,0,2,1,2,2,1,2,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.5,0.6666666666666666,0.7142857142857143
+R0612,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1675,265,1940,1,0,1,1,1,1,1,2,2,2,1,1,2,1,1,0,1,0,0,1,0,1,1,0,1,0,1.375,0.7777777777777778,0.5714285714285714
+R0501,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,264,1925,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0445,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1664,264,1928,1,0,2,1,2,2,2,2,1,1,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,0,1.625,0.8888888888888888,0.7142857142857143
+R0312,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1666,258,1924,1,0,2,1,2,2,1,3,1,1,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,0,1.625,0.8888888888888888,0.7142857142857143
+R0505,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1662,266,1928,1,0,2,2,2,2,2,3,1,1,1,1,2,1,1,1,2,0,0,1,1,1,2,1,2,0,1.875,1.0,1.1428571428571428
+R0558,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,271,1924,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0152,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,267,1923,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0683,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1674,261,1935,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,0,1,1,0,1,0,1.25,0.6666666666666666,0.5714285714285714
+R0363,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1666,260,1926,1,0,2,1,2,2,2,2,2,1,1,1,2,1,1,1,1,0,0,1,1,1,1,1,2,0,1.75,0.8888888888888888,1.0
+R0381,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1662,263,1925,1,0,1,0,0,0,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.75,0.4444444444444444,0.5714285714285714
+R0026,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,264,1925,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1.125,0.6666666666666666,0.8571428571428571
+R0394,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,264,1925,1,0,2,2,2,2,1,2,1,1,1,1,2,1,1,1,1,0,0,1,1,1,1,1,1,0,1.625,0.8888888888888888,0.8571428571428571
+R0106,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1659,263,1922,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0535,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,268,1924,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0275,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,269,1922,1,0,2,2,2,3,2,3,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,2.0,1.7777777777777777,2.0
+R0176,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,261,1917,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0222,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,283,1936,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0210,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,262,1918,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0784,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1659,269,1928,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.5555555555555556,1.7142857142857142
+R0503,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,255,1918,1,0,2,1,2,2,1,2,2,1,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,0,1.625,0.8888888888888888,0.7142857142857143
+R0538,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,268,1924,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0338,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,258,1914,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0117,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,259,1920,1,0,2,1,2,2,2,2,1,1,1,1,2,1,1,1,2,0,0,1,1,1,1,1,2,0,1.625,1.0,1.0
+R0711,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1655,259,1914,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0040,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,263,1919,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0066,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1662,263,1925,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0791,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1676,268,1944,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0486,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,274,1935,1,0,2,1,2,2,2,3,2,1,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,0,1.875,0.8888888888888888,0.7142857142857143
+R0341,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,257,1926,1,0,1,1,1,1,1,2,1,1,1,1,2,2,1,1,2,0,0,1,1,1,1,0,1,0,1.125,1.1111111111111112,0.7142857142857143
+R0372,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1667,257,1924,1,0,2,1,2,2,1,2,2,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.625,0.6666666666666666,0.7142857142857143
+R0228,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,266,1929,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0635,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,268,1921,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.6666666666666667,2.0
+R0549,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,251,1904,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0333,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,267,1923,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0556,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,269,1922,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0578,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1661,260,1921,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0751,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1667,265,1932,1,0,2,1,2,2,1,3,1,1,1,1,2,2,1,1,1,0,0,1,1,1,2,1,2,0,1.625,1.0,1.1428571428571428
+R0530,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,275,1946,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,0,1,1,0,1,0,1.25,0.6666666666666666,0.5714285714285714
+R0774,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1654,271,1925,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1.25,0.7777777777777778,0.7142857142857143
+R0427,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1662,263,1925,1,0,1,0,1,0,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0308,2,Socially Connected but Lonely Heavy User,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1664,262,1926,1,0,2,1,2,2,2,3,1,1,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,0,1.75,0.8888888888888888,0.7142857142857143
+R0416,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,273,1926,1,0,3,2,2,3,2,3,1,1,2,3,2,3,2,2,2,1,1,3,2,3,2,1,2,2,2.125,2.0,2.142857142857143
+R0636,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1649,282,1931,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.5555555555555556,1.7142857142857142
+R0306,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,263,1916,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0248,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1653,273,1926,1,0,2,2,2,2,2,3,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0006,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1656,257,1913,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.4444444444444444,0.5714285714285714
+R0094,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1674,261,1935,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,0,1,1,0,1,0,1.25,0.6666666666666666,0.5714285714285714
+R0414,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1654,265,1919,1,0,1,1,1,1,1,1,2,2,1,1,1,2,1,1,1,0,0,1,1,1,1,0,1,1,1.25,0.8888888888888888,0.8571428571428571
+R0145,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1659,266,1925,1,0,2,1,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.625,1.5555555555555556,1.7142857142857142
+R0431,1,"Low distress, lighter social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1675,255,1930,1,0,1,1,1,1,1,2,1,1,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,0,1.125,1.0,0.7142857142857143
+R0432,0,High-distress heavy social-media user,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1657,266,1923,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.6666666666666667,2.0
+R0178,3,"Low distress, light social-media use",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1662,255,1917,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143

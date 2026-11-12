@@ -1,0 +1,105 @@
+{
+  "dataset_path": "/workspace/PsychoPersona/anket.xlsx",
+  "dataset_sha256": "b6eb498b5ff6f93793aecd298664c0fe253cc8189453e76c2705e9c8f1e3b24f",
+  "paper_path": "/workspace/PsychoPersona/prior_study_extract.pdf",
+  "paper_sha256": "f3bf7a12c311f3c148f55e5cbc3e9520cf0dbe8bdfcc29cf2c43078d87f8570c",
+  "run_dir": "/workspace/PsychoPersona/results/runs/experiment/20260411T201840113351Z-6c9b916b",
+  "checkpoint_path": "/workspace/PsychoPersona/results/runs/experiment/20260411T201840113351Z-6c9b916b/experiment_checkpoint.json",
+  "llm_archive_dir": "/workspace/PsychoPersona/results/runs/experiment/20260411T201840113351Z-6c9b916b/llm_archive",
+  "completed_steps": [
+    "data",
+    "audit",
+    "profiles",
+    "personas",
+    "simulation",
+    "evaluation",
+    "stability"
+  ],
+  "current_step": null,
+  "failed_step": null,
+  "model_id": "openai/gpt-5.4",
+  "evaluation_split": "validation",
+  "stability_runs_requested": 3,
+  "stability_runs_completed": 3,
+  "stability_runs": [
+    {
+      "run_label": "stability_1",
+      "correlation_rmse": 0.4164975837256942,
+      "profile_recovery_accuracy": 0.6,
+      "digital_addiction_mean_delta": 0.004,
+      "social_anxiety_mean_delta": 0.2000000000000006,
+      "wellbeing_mean_delta": 0.2199999999999997
+    },
+    {
+      "run_label": "stability_2",
+      "correlation_rmse": 0.4065293005612029,
+      "profile_recovery_accuracy": 0.6,
+      "digital_addiction_mean_delta": 0.0,
+      "social_anxiety_mean_delta": 0.1833333333333335,
+      "wellbeing_mean_delta": 0.1999999999999997
+    },
+    {
+      "run_label": "stability_3",
+      "correlation_rmse": 0.4068110998104509,
+      "profile_recovery_accuracy": 0.52,
+      "digital_addiction_mean_delta": 0.02,
+      "social_anxiety_mean_delta": 0.1933333333333338,
+      "wellbeing_mean_delta": 0.2199999999999997
+    }
+  ],
+  "config": {
+    "dataset_path": "/workspace/PsychoPersona/anket.xlsx",
+    "paper_path": "/workspace/PsychoPersona/prior_study_extract.pdf",
+    "output_root": "/workspace/PsychoPersona/results",
+    "split": {
+      "validation_size": 0.1,
+      "final_test_size": 0.1,
+      "random_state": 42
+    },
+    "profiles": {
+      "cluster_min": 2,
+      "cluster_max": 6,
+      "feature_columns": [
+        "digital_addiction_mean",
+        "social_anxiety_mean",
+        "wellbeing_mean",
+        "usage_hours_midpoint"
+      ]
+    },
+    "lmstudio": {
+      "base_url": "https://openrouter.ai/api/v1",
+      "model_id": "openai/gpt-5.4",
+      "api_key": null,
+      "api_key_env": "OPENROUTER_API_KEY",
+      "headers": {
+        "HTTP-Referer": "https://example.org",
+        "X-OpenRouter-Title": "SaykoPersona"
+      },
+      "primary": {
+        "name": "primary",
+        "temperature": 0.15,
+        "max_tokens": 600,
+        "top_p": 1.0
+      },
+      "persona": {
+        "name": "persona_card",
+        "temperature": 0.2,
+        "max_tokens": 1100,
+        "top_p": 1.0
+      },
+      "stability": {
+        "name": "stability",
+        "temperature": 0.2,
+        "max_tokens": 600,
+        "top_p": 1.0
+      }
+    },
+    "simulation": {
+      "prompt_version": "v2_tr",
+      "max_holdout_rows": null,
+      "stability_runs": 3,
+      "parallel_workers": 4,
+      "evaluation_split": "validation"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Higher Distress Profile",
+    "summary": "A respondent profile characterized by elevated loneliness, depressive symptoms, and anxiety symptoms relative to the broader sample, based on mean UCLA-8, PHQ-9, and GAD-7 scores.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours (as specified in the profile summary).",
+    "behavior_markers": [
+      "Higher loneliness (UCLA-8 mean 1.69)",
+      "Higher depressive symptoms (PHQ-9 mean 1.75)",
+      "Higher anxiety symptoms (GAD-7 mean 2.16)"
+    ],
+    "tone": "Clinical, neutral, and evidence-grounded; describes elevated psychological distress without inferring causes or additional traits."
+  },
+  {
+    "profile_id": 1,
+    "label": "Low-Distress Graduate Male",
+    "summary": "A male respondent with graduate-level education who reports very low levels of loneliness, depressive symptoms, and anxiety symptoms, with anxiety being particularly minimal.",
+    "demographic_anchor": "Male, graduate degree or higher, 1–3 hours of some unspecified activity (likely daily screen or media use).",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 0.75)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.35)",
+      "Reports near-zero anxiety symptoms (GAD-7 mean 0.02)",
+      "Engages in 1–3 hours of the referenced activity"
+    ],
+    "tone": "Calm, stable, and low-distress; emotionally even-keeled."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, characterized by low loneliness and minimal depressive and anxiety symptoms.",
+    "demographic_anchor": "Male; graduate degree or higher; 1–3 hours of daily activity.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.24)",
+      "Reports minimal depressive symptoms (PHQ-9 mean 0.79)",
+      "Reports minimal anxiety symptoms (GAD-7 mean 0.83)",
+      "Engages in 1–3 hours of daily activity"
+    ],
+    "tone": "Calm, stable, and low-distress; likely to communicate in a measured and composed manner."
+  }
+]

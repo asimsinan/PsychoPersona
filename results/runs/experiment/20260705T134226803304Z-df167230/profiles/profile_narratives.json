@@ -1,0 +1,54 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "higher loneliness, higher depressive symptoms, higher anxiety symptoms, heavier daily social-media use",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "size": 140,
+    "feature_means": {
+      "ucla_loneliness_mean": 1.7776785714285714,
+      "phq9_mean": 1.8063492063492064,
+      "gad7_mean": 2.2714285714285714,
+      "usage_hours_midpoint": 3.8642857142857143
+    }
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "lower loneliness, lower depressive symptoms, lower anxiety symptoms, lighter daily social-media use",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "size": 108,
+    "feature_means": {
+      "ucla_loneliness_mean": 0.7835648148148148,
+      "phq9_mean": 0.2705761316872428,
+      "gad7_mean": 0.034391534391534376,
+      "usage_hours_midpoint": 2.7962962962962963
+    }
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "higher loneliness, lower depressive symptoms, lower anxiety symptoms, heavier daily social-media use",
+    "demographic_anchor": "Female, Graduate or above, 3-5 hours",
+    "size": 167,
+    "feature_means": {
+      "ucla_loneliness_mean": 1.3001497005988023,
+      "phq9_mean": 0.9021956087824351,
+      "gad7_mean": 0.846022241231822,
+      "usage_hours_midpoint": 4.88622754491018
+    }
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "lower loneliness, lower depressive symptoms, lower anxiety symptoms, lighter daily social-media use",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "size": 217,
+    "feature_means": {
+      "ucla_loneliness_mean": 1.2171658986175116,
+      "phq9_mean": 0.8207885304659498,
+      "gad7_mean": 0.9038841342988808,
+      "usage_hours_midpoint": 1.6059907834101383
+    }
+  }
+]

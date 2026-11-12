@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş düzeyi görece düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.69 ile yüksektir.",
+      "Sosyal kaygı ortalaması 2.80 düzeyindedir ve diğer göstergelere göre yüksek bir örüntüye işaret eder.",
+      "İyi oluş ortalaması 3.19 ile görece düşüktür.",
+      "Profil, eğitim örnekleminde 121 kişiden oluşmaktadır."
+    ],
+    "tone": "Veri odaklı, temkinli ve destek ihtiyacına işaret eden."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı seviyesi düşük ve iyi oluş düzeyi yüksek görünen bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.59 ile görece düşüktür.",
+      "Sosyal kaygı ortalaması 2.25 ile düşüktür.",
+      "İyi oluş ortalaması 3.77 ile yüksektir.",
+      "Profil eğitim örnekleminde 366 kişiden oluşmaktadır."
+    ],
+    "tone": "Dengeli, daha kontrollü dijital kullanım gösteren ve psikolojik olarak görece iyi durumda bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım, sosyal kaygı ve iyi oluş ortalamaları örneklem içinde düşük düzeydedir. Bu profil 50 kişilik eğitim örnekleminde gözlenmiştir.",
+    "demographic_anchor": "Erkek, ön lisans, günlük 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.592).",
+      "Sosyal kaygı ortalaması düşüktür (1.607).",
+      "İyi oluş ortalaması düşüktür (1.557).",
+      "Profil, daha sınırlı dijital kullanım örüntüsüyle karakterize edilir."
+    ],
+    "tone": "Sakin, düşük yoğunluklu ve dengeli; ancak iyi oluş düzeyi de düşük seyretmektedir."
+  }
+]

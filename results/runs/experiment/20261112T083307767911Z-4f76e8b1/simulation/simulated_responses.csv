@@ -1,0 +1,80 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0565,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,275,1938,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0453,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1676,263,1939,1,0,1,1,1,1,1,1,2,2,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,0,1.25,0.8888888888888888,0.7142857142857143
+R0085,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1674,271,1945,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1.25,0.7777777777777778,0.8571428571428571
+R0724,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1677,266,1943,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0310,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,266,1929,1,0,2,2,2,2,2,3,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0451,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1660,271,1931,1,0,2,2,2,3,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.875,1.5555555555555556,1.8571428571428572
+R0399,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,275,1944,1,0,2,2,2,2,2,3,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0625,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1673,259,1932,1,0,1,1,1,1,0,1,2,2,1,1,2,2,1,1,2,0,0,1,1,1,2,1,1,0,1.125,1.1111111111111112,1.0
+R0352,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1677,265,1942,1,0,1,1,1,1,0,1,2,2,1,1,2,2,1,0,1,0,0,1,1,1,2,0,1,0,1.125,0.8888888888888888,0.8571428571428571
+R0050,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,267,1936,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0632,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,267,1930,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0468,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,279,1916,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0465,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1664,270,1934,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0498,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1677,265,1942,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0219,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,257,1920,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0019,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,262,1925,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0634,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1677,268,1945,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0146,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,266,1929,1,0,3,2,2,3,2,3,1,1,2,3,2,3,2,2,2,1,1,3,2,3,2,1,2,2,2.125,2.0,2.142857142857143
+R0433,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,268,1937,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0440,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1670,263,1933,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,0,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0079,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,272,1909,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0262,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1665,265,1930,1,0,2,2,2,2,2,3,1,1,2,3,2,2,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0002,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,273,1936,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0552,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1675,263,1938,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.4444444444444444,0.5714285714285714
+R0660,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1678,259,1937,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0455,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1673,257,1930,1,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0.875,0.4444444444444444,0.7142857142857143
+R0759,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1666,263,1929,1,0,2,2,2,2,2,3,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0602,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,258,1929,1,0,1,1,1,1,1,1,2,2,1,1,2,2,1,1,2,0,0,1,1,1,2,1,1,0,1.25,1.1111111111111112,1.0
+R0354,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,270,1933,1,0,2,2,2,3,2,2,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0606,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,270,1907,1,0,3,2,2,3,2,3,1,1,2,3,2,3,2,3,2,1,1,3,2,3,2,1,2,2,2.125,2.111111111111111,2.142857142857143
+R0258,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,263,1932,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0754,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,264,1927,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0123,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,264,1927,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0165,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,263,1932,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0562,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,280,1949,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0230,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,271,1908,1,0,3,2,2,3,2,2,1,1,2,3,2,2,1,2,2,1,1,2,2,3,2,1,2,2,2.0,1.7777777777777777,2.0
+R0298,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,266,1937,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0633,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,264,1933,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0316,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,266,1937,1,0,1,1,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0567,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,280,1917,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,2,2,1,2,2,2.125,1.8888888888888888,2.0
+R0284,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,259,1930,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0091,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,264,1933,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.75,1.5555555555555556,1.8571428571428572
+R0401,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1677,272,1949,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0193,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1665,271,1936,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0536,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,268,1905,1,0,3,2,2,3,2,3,1,1,2,3,2,3,2,3,2,1,1,3,2,3,2,1,2,2,2.125,2.111111111111111,2.142857142857143
+R0408,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,269,1906,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,2,2,1,2,2,2.125,1.8888888888888888,2.0
+R0231,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1635,264,1899,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0093,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,266,1937,1,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,2,0,0,1,1,2,2,1,2,1,1.375,1.1111111111111112,1.4285714285714286
+R0710,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1643,270,1913,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0397,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1677,260,1937,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0733,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1640,262,1902,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.75,1.5555555555555556,1.8571428571428572
+R0621,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,272,1935,1,0,2,2,2,3,2,2,1,1,2,2,2,3,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.7777777777777777,1.8571428571428572
+R0531,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1668,265,1933,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.5555555555555556,1.7142857142857142
+R0788,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,275,1912,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0263,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1676,261,1937,1,0,1,1,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0046,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1668,265,1933,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0779,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1669,269,1938,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0593,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1643,263,1906,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.75,1.5555555555555556,1.8571428571428572
+R0714,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1668,260,1928,1,0,2,2,2,2,2,3,1,1,2,2,3,2,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0027,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1673,264,1937,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0227,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1678,264,1942,1,0,1,1,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0168,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,269,1940,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1.25,0.7777777777777778,0.7142857142857143
+R0783,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,258,1929,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0574,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,273,1936,1,0,2,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.8888888888888888,2.0
+R0080,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1672,258,1930,1,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,2,1,0,1,1,2,2,1,2,1,1.375,1.2222222222222223,1.4285714285714286
+R0011,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,269,1940,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0358,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,282,1919,1,0,3,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.0,1.8888888888888888,2.142857142857143
+R0598,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,261,1932,1,0,1,1,1,1,0,1,2,2,1,1,2,1,1,1,2,0,0,1,1,1,1,1,2,0,1.125,1.0,1.0
+R0205,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1636,276,1912,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0570,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1676,264,1940,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0623,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,270,1933,1,0,2,2,2,3,2,2,1,1,2,2,2,3,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.7777777777777777,1.8571428571428572
+R0640,2,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1637,266,1903,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0459,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,268,1931,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0532,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1663,260,1923,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0250,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1676,257,1933,1,0,1,0,1,1,0,1,2,2,1,1,1,2,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.7777777777777778,0.7142857142857143
+R0550,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1666,264,1930,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.75,1.5555555555555556,1.8571428571428572
+R0378,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1673,267,1940,1,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,2,1,1,0,1.0,0.6666666666666666,1.0
+R0051,1,"Low Distress, Well-Educated Male",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1671,262,1933,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0083,0,Emotionally Strained Graduate Woman,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,1665,264,1929,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.6666666666666667,2.0

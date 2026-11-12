@@ -1,0 +1,58 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Digitally Immersed & Emotionally Strained",
+    "summary": "This profile represents highly educated women who spend substantial time on social media (averaging nearly 4 hours daily, with many exceeding 5 hours) and report elevated levels of loneliness, depressive symptoms, and anxiety. Across all three psychological distress measures, this group scores notably higher than typical respondents, with anxiety symptoms being particularly pronounced (mean GAD-7 item score of 2.27). The co-occurrence of heavy social-media engagement and heightened emotional distress is a defining characteristic of this cluster.",
+    "demographic_anchor": "Female, graduate-level education or above, daily social-media use exceeding 5 hours",
+    "behavior_markers": [
+      "Heavy daily social-media consumption averaging approximately 3.9 hours with a substantial proportion exceeding 5 hours",
+      "Elevated loneliness as measured by UCLA-8 (mean item score ~1.78)",
+      "Moderate-to-high depressive symptomatology on PHQ-9 (mean item score ~1.81)",
+      "Notably high anxiety symptoms on GAD-7 (mean item score ~2.27)",
+      "Pattern of co-occurring psychological distress across loneliness, depression, and anxiety domains"
+    ],
+    "tone": "Concerned and empathetic, acknowledging the interplay between digital habits and emotional well-being"
+  },
+  {
+    "profile_id": 1,
+    "label": "Well-Adjusted Light-Use Graduate Male",
+    "summary": "This profile represents male respondents with graduate-level education who report lower loneliness, fewer depressive symptoms, and minimal anxiety. They engage with social media at a lighter level, averaging roughly 2.8 hours daily (within the 1–3 hour bracket). Their psychological well-being indicators are consistently below average, suggesting a relatively balanced and mentally healthy cohort.",
+    "demographic_anchor": "Male, graduate degree or above, 1–3 hours of daily social media use",
+    "behavior_markers": [
+      "Light daily social-media engagement (~2.8 hours midpoint)",
+      "Low loneliness scores (UCLA-8 mean ≈ 0.78)",
+      "Minimal depressive symptomatology (PHQ-9 mean ≈ 0.27)",
+      "Near-floor anxiety levels (GAD-7 mean ≈ 0.03)",
+      "Pattern consistent with moderate, non-compulsive social-media habits"
+    ],
+    "tone": "Calm, stable, and psychologically resilient"
+  },
+  {
+    "profile_id": 2,
+    "label": "Lonely but Low-Distress Heavy Social-Media User",
+    "summary": "This profile captures highly educated women who report elevated loneliness yet comparatively low levels of depressive and anxiety symptoms, despite spending nearly five hours per day on social media. Their loneliness scores stand above average while their depression and anxiety remain subdued, suggesting that heavy social-media engagement may coexist with social disconnection without necessarily escalating into clinical-level mood or anxiety disturbance.",
+    "demographic_anchor": "Female, graduate-level education or above, approximately 3–5 hours of daily social-media use",
+    "behavior_markers": [
+      "Elevated loneliness (UCLA-8 mean ≈ 1.30) relative to mood symptom levels",
+      "Lower depressive symptoms (PHQ-9 mean ≈ 0.90) despite high loneliness",
+      "Lower anxiety symptoms (GAD-7 mean ≈ 0.85) despite high loneliness",
+      "Heavy daily social-media use averaging close to 5 hours (midpoint ≈ 4.89 hours)",
+      "Possible pattern of using social media as a substitute for in-person social connection"
+    ],
+    "tone": "Quietly disconnected; outwardly functional with low clinical distress but experiencing a persistent undercurrent of social isolation"
+  },
+  {
+    "profile_id": 3,
+    "label": "Well-Adjusted Light-Use Graduate Male",
+    "summary": "This profile represents a group of highly educated males who report notably low levels of loneliness, depressive symptoms, and anxiety symptoms, paired with relatively light daily social-media use averaging roughly 1.6 hours. With a UCLA-8 loneliness mean of approximately 1.22, a PHQ-9 depression mean of about 0.82, and a GAD-7 anxiety mean near 0.90, these respondents consistently score well below clinical concern thresholds across all three psychological measures. Their moderate, bounded engagement with social media (typically 1–3 hours per day) suggests disciplined digital habits that coexist with strong psychological well-being.",
+    "demographic_anchor": "Male, holding a graduate degree or above, reporting 1–3 hours of daily social-media use",
+    "behavior_markers": [
+      "Light daily social-media use averaging approximately 1.6 hours",
+      "Consistently low self-reported loneliness scores (UCLA-8 mean ~1.22)",
+      "Minimal depressive symptomatology (PHQ-9 mean ~0.82)",
+      "Low anxiety symptomatology (GAD-7 mean ~0.90)",
+      "Bounded and moderate digital engagement within the 1–3 hour range"
+    ],
+    "tone": "Stable, psychologically resilient, and measured in digital engagement"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High Distress and Loneliness",
+    "summary": "This profile is characterized by elevated loneliness alongside comparatively high depressive and anxiety symptoms, indicating a respondent group experiencing substantial emotional distress.",
+    "demographic_anchor": "Female, graduate education or above, and more than 5 hours",
+    "behavior_markers": [
+      "Reports higher loneliness",
+      "Shows elevated depressive symptoms",
+      "Shows elevated anxiety symptoms",
+      "Represents a relatively large subgroup in the training split (n=165)"
+    ],
+    "tone": "Vulnerable, distressed, and emotionally burdened"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms overall.",
+    "demographic_anchor": "Most closely anchored to male respondents with graduate-level education or above and 1–3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Reports lower UCLA-8 loneliness scores than more distressed profiles",
+      "Shows low PHQ-9 depressive symptom levels",
+      "Shows very low GAD-7 anxiety symptom levels",
+      "Represents a relatively low-distress respondent group overall"
+    ],
+    "tone": "Stable, low-distress, and relatively well-connected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2: Lonely but low distress",
+    "summary": "Respondents in this profile report comparatively higher loneliness while showing relatively low average depressive and anxiety symptoms.",
+    "demographic_anchor": "Most clearly anchored by female respondents with graduate-level education or above and 1-3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Higher mean loneliness (UCLA-8: 1.30)",
+      "Lower mean depressive symptoms (PHQ-9: 0.86)",
+      "Lower mean anxiety symptoms (GAD-7: 0.91)",
+      "Emotional pattern suggests social disconnection without similarly elevated general distress indicators"
+    ],
+    "tone": "Socially disconnected, but otherwise psychologically relatively stable on depression and anxiety measures."
+  }
+]

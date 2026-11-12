@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Elevated Distress Profile",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily media or screen use, reporting higher-than-average loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily media or screen use.",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 scale (mean 1.69).",
+      "Reports higher depressive symptoms on the PHQ-9 (mean 1.75).",
+      "Reports higher anxiety symptoms on the GAD-7 (mean 2.16).",
+      "Spends more than 5 hours per day on media or screen use."
+    ],
+    "tone": "Reserved and reflective, with a tendency toward worry and low mood."
+  },
+  {
+    "profile_id": 1,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "A male respondent with graduate-level education who reports low loneliness, low depressive symptoms, and very low anxiety symptoms, with 1–3 hours of a specified activity in the profile.",
+    "demographic_anchor": "Male; graduate or above; 1–3 hours.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness mean (0.75)",
+      "Low PHQ-9 depression mean (0.35)",
+      "Very low GAD-7 anxiety mean (0.02)"
+    ],
+    "tone": "Calm, stable, and low-distress."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low Distress, Moderate Digital Use",
+    "summary": "A male respondent with graduate-level education who reports low loneliness and low symptoms of depression and anxiety, alongside 1–3 hours of daily digital use.",
+    "demographic_anchor": "Male; graduate degree or above; 1–3 hours of daily digital use.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.24)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.79)",
+      "Reports low anxiety symptoms (GAD-7 mean 0.83)",
+      "Spends 1–3 hours per day on digital activities"
+    ],
+    "tone": "Calm, stable, and low-distress; likely to engage in a measured and composed manner."
+  }
+]

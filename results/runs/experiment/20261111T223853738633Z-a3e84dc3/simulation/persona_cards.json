@@ -1,0 +1,51 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Bu profil, yüksek dijital kullanım, belirgin sosyal kaygı ve düşük iyi oluş düzeyi ile karakterize edilir. Katılımcılar, günde 4-6 saatlik dijital maruziyet ile birlikte ortalama 3.45 dijital bağımlılık, 3.11 sosyal kaygı ve 2.81 iyi oluş puanlarına sahiptir.",
+    "demographic_anchor": "Kadın, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Yüksek dijital kullanım (Ortalama: 3.45)",
+      "Yüksek sosyal kaygı (Ortalama: 3.11)",
+      "Düşük iyi oluş (Ortalama: 2.81)"
+    ],
+    "tone": "Veri odaklı ve nötr"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Düşük dijital kullanım, düşük sosyal kaygı ve düşük iyi oluş düzeyine sahip öğrenci grubu.",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık (Ortalama: 1.58)",
+      "Düşük sosyal kaygı (Ortalama: 1.60)",
+      "Düşük iyi oluş (Ortalama: 1.59)",
+      "Örneklem büyüklüğü: 53 kişi"
+    ],
+    "tone": "Nötr ve veri odaklı"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Bu profil, yüksek dijital kullanım düzeyi, düşük sosyal kaygı ve yüksek iyi oluş hali ile karakterize edilir. Katılımcılar, dijital bağımlılık ölçeğinde ortalama 3.12 puan alırken, sosyal kaygı puanları 1.35 ile düşük seviyede kalmaktadır. Buna karşılık iyi oluş ortalaması 4.18 ile yüksek bir seviyede seyretmektedir.",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Yüksek dijital kullanım",
+      "Düşük sosyal kaygı",
+      "Yüksek iyi oluş"
+    ],
+    "tone": "Veri odaklı ve nötr"
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "Bu profil, dijital bağımlılık düzeyinin görece düşük (ortalama 2.69), sosyal kaygının orta düzeyde (ortalama 2.42) ve psikolojik iyi oluşun yüksek (ortalama 3.71) olduğu bir grup olarak öne çıkmaktadır. Veriler, bu öğrencilerin dijital cihaz kullanımından uzak durma eğilimlerinin, yüksek iyi oluş halleriyle ilişkili olduğunu göstermektedir.",
+    "demographic_anchor": "Kadın, Ön lisans öğrencisi, Günde 4-6 saat",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık skoru (Ortalama: 2.69)",
+      "Yüksek psikolojik iyi oluş skoru (Ortalama: 3.71)",
+      "Orta düzey sosyal kaygı skoru (Ortalama: 2.42)"
+    ],
+    "tone": "Dengeli, dijitalden uzak duran ve yüksek iyi oluşa sahip"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Demografik olarak erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrenciler etrafında kümelenmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.69 düzeyindedir.",
+      "Sosyal kaygı ortalaması 2.80 düzeyindedir.",
+      "İyi oluş ortalaması 3.19 düzeyindedir.",
+      "Profil, daha yüksek dijital kullanım ile birlikte daha düşük iyi oluş örüntüsü göstermektedir.",
+      "Eğitim örnekleminde bu profile dahil 121 kişi bulunmaktadır."
+    ],
+    "tone": "Veri odaklı, risk işaretleri taşıyan ve destek gereksinimi olabilecek bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı ortalaması düşük ve iyi oluş düzeyi yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (2.59).",
+      "Sosyal kaygı ortalaması düşüktür (2.25).",
+      "İyi oluş ortalaması yüksektir (3.77).",
+      "Eğitim örnekleminde 366 kişiden oluşmaktadır."
+    ],
+    "tone": "Dengeli, görece iyi uyum gösteren ve düşük riskli bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı düzeyi düşük ve iyi oluş ortalaması da düşük seyreden öğrenci profili.",
+    "demographic_anchor": "Bu profil, eğitim örnekleminde 50 kişilik bir grupta en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 1.592 ile düşüktür.",
+      "Sosyal kaygı ortalaması 1.607 ile düşüktür.",
+      "İyi oluş ortalaması 1.557 ile düşüktür.",
+      "Profil, görece sınırlı dijital kullanım ve düşük sosyal kaygı ile birlikte düşük iyi oluş örüntüsü gösterir."
+    ],
+    "tone": "Sakin, düşük yoğunluklu dijital etkileşime sahip, ancak iyi oluş açısından destek gereksinimi taşıyabilecek bir profil."
+  }
+]

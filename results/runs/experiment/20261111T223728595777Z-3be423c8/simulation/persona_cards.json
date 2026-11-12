@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanımın daha yüksek, sosyal kaygının daha yüksek ve iyi oluş düzeyinin daha düşük seyrettiği profil.",
+    "demographic_anchor": "Kadın, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece yüksektir (3.21).",
+      "Sosyal kaygı ortalaması görece yüksektir (3.19).",
+      "İyi oluş ortalaması görece daha düşüktür (3.04).",
+      "Eğitim örnekleminde 144 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Veri temelli, dikkatli ve destek ihtiyacına duyarlı."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı ortalaması düşük ve iyi oluş ortalaması yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2.70).",
+      "Sosyal kaygı ortalaması düşüktür (2.00).",
+      "İyi oluş ortalaması yüksektir (3.86).",
+      "Eğitim örnekleminde 342 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Dengeli, daha kontrollü dijital kullanım sergileyen ve psikolojik olarak görece daha iyi durumda görünen bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi düşük, sosyal kaygı düzeyi düşük ve iyi oluş düzeyi de düşük görünen bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde 51 kişiden oluşur; baskın demografik dayanak erkek, ön lisans ve günlük 4-6 saat kullanım örüntüsüdür.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.64).",
+      "Sosyal kaygı ortalaması düşüktür (1.59).",
+      "İyi oluş ortalaması düşüktür (1.57).",
+      "Profil, düşük dijital kullanım ile birlikte düşük sosyal kaygı ve düşük iyi oluş örüntüsünü yansıtır."
+    ],
+    "tone": "Temkinli, düşük yoğunluklu dijital kullanım sergileyen; sosyal açıdan daha az kaygılı ancak iyi oluş düzeyi de düşük bir profil."
+  }
+]

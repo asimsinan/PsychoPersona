@@ -1,0 +1,26 @@
+[
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "persona_card",
+    "prompt_tokens": 241,
+    "completion_tokens": 161,
+    "total_tokens": 402,
+    "response_id": "gen-1794434072-r0g50OLnowoA6SrNhQFL"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "persona_card",
+    "prompt_tokens": 238,
+    "completion_tokens": 175,
+    "total_tokens": 413,
+    "response_id": "gen-1794434076-YnakuwCEV7EDvNQe6iZo"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "persona_card",
+    "prompt_tokens": 238,
+    "completion_tokens": 184,
+    "total_tokens": 422,
+    "response_id": "gen-1794434080-tZcv9UnDbX0R55K7rkns"
+  }
+]

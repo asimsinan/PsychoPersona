@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High loneliness with elevated depression and anxiety",
+    "summary": "This profile is characterized by comparatively high loneliness alongside elevated depressive and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "More likely to be female, hold a graduate degree or higher, and report more than 5 hours in the referenced time category.",
+    "behavior_markers": [
+      "Reports relatively high loneliness on the UCLA-8 measure",
+      "Shows elevated depressive symptoms on the PHQ-9",
+      "Shows elevated anxiety symptoms on the GAD-7",
+      "Represents a training-split subgroup of 165 respondents"
+    ],
+    "tone": "Vulnerable, psychologically distressed, and socially disconnected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Lower distress, highly educated male with light daily use",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, 1-3 hours of daily use",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness score on average",
+      "Lower PHQ-9 depression score on average",
+      "Very low GAD-7 anxiety score on average",
+      "Most strongly anchored by male gender",
+      "Most strongly anchored by graduate-level or higher education",
+      "Most strongly anchored by 1-3 hours of daily use"
+    ],
+    "tone": "Stable, low-distress, and lightly engaged"
+  },
+  {
+    "profile_id": 2,
+    "label": "Higher loneliness with lower depression and anxiety",
+    "summary": "Respondents in this profile report comparatively higher loneliness while showing lower average depressive and anxiety symptoms.",
+    "demographic_anchor": "Typically female, educated to graduate level or above, and reporting 1-3 hours.",
+    "behavior_markers": [
+      "Reports relatively elevated loneliness on the UCLA-8 measure.",
+      "Shows lower average depressive symptoms on the PHQ-9.",
+      "Shows lower average anxiety symptoms on the GAD-7.",
+      "Represents a profile of emotional isolation without correspondingly high depression or anxiety levels."
+    ],
+    "tone": "Socially disconnected but otherwise emotionally stable on depression and anxiety indicators."
+  }
+]

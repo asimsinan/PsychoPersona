@@ -1,0 +1,88 @@
+{
+  "run_dir": "/workspace/PsychoPersona/results/runs/experiment/20260412T120936666433Z-770ddeaf",
+  "created_at": "2026-04-12T12:09:36.666580+00:00",
+  "updated_at": "2026-04-12T12:10:02.975618+00:00",
+  "completed_steps": [
+    "data",
+    "audit",
+    "profiles",
+    "personas"
+  ],
+  "current_step": "simulation",
+  "failed_step": "simulation",
+  "model_id": "openai/gpt-5.4",
+  "config": {
+    "dataset_path": "/workspace/PsychoPersona/anket.xlsx",
+    "paper_path": "/workspace/PsychoPersona/prior_study_extract.pdf",
+    "output_root": "/workspace/PsychoPersona/results",
+    "split": {
+      "validation_size": 0.1,
+      "final_test_size": 0.1,
+      "random_state": 42
+    },
+    "profiles": {
+      "cluster_min": 2,
+      "cluster_max": 6,
+      "feature_columns": [
+        "digital_addiction_mean",
+        "social_anxiety_mean",
+        "wellbeing_mean",
+        "usage_hours_midpoint"
+      ]
+    },
+    "lmstudio": {
+      "base_url": "https://openrouter.ai/api/v1",
+      "model_id": "openai/gpt-5.4",
+      "api_key": null,
+      "api_key_env": "OPENROUTER_API_KEY",
+      "headers": {
+        "HTTP-Referer": "https://example.org",
+        "X-OpenRouter-Title": "SaykoPersona"
+      },
+      "primary": {
+        "name": "primary",
+        "temperature": 0.15,
+        "max_tokens": 600,
+        "top_p": 1.0
+      },
+      "persona": {
+        "name": "persona_card",
+        "temperature": 0.2,
+        "max_tokens": 1100,
+        "top_p": 1.0
+      },
+      "stability": {
+        "name": "stability",
+        "temperature": 0.15,
+        "max_tokens": 600,
+        "top_p": 1.0
+      },
+      "ordinal": {
+        "name": "ordinal",
+        "temperature": 0.0,
+        "max_tokens": 1,
+        "top_p": 1.0
+      }
+    },
+    "simulation": {
+      "prompt_version": "v3_tr_gpt_f",
+      "response_mode": "latent_logprob",
+      "item_scoring_mode": "posterior_mean_round",
+      "trait_plan_samples": 3,
+      "max_holdout_rows": 5,
+      "stability_runs": 3,
+      "parallel_workers": 1,
+      "self_consistency_samples": 1,
+      "evaluation_split": "validation"
+    },
+    "calibration": {
+      "enabled": false,
+      "strategy": "direct",
+      "donor_pool_min": 20,
+      "profile_shrinkage": 0.25,
+      "signal_scale": 0.6,
+      "neighbor_count": 8,
+      "save_raw_outputs": true
+    }
+  }
+}

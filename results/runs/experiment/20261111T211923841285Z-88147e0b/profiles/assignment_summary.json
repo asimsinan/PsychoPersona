@@ -1,0 +1,36 @@
+{
+  "assignment": "coldstart",
+  "validation_n": 79,
+  "validation_oracle_agreement": 0.4937,
+  "validation_distinct_assigned": 1,
+  "final_test_n": 80,
+  "final_test_oracle_agreement": 0.5375,
+  "final_test_distinct_assigned": 1,
+  "coldstart_selected": "majority",
+  "coldstart_cv_scores": {
+    "majority": 0.5016,
+    "logreg": 0.356,
+    "forest_balanced": 0.4178,
+    "forest_plain": 0.4683
+  },
+  "coldstart_cv_standard_errors": {
+    "majority": 0.0008,
+    "logreg": 0.0105,
+    "forest_balanced": 0.0143,
+    "forest_plain": 0.0132
+  },
+  "coldstart_multi_select_expanded": [],
+  "coldstart_features": [
+    "age_band",
+    "gender",
+    "education",
+    "profession",
+    "monthly_income",
+    "residence",
+    "primary_platform",
+    "usage_band",
+    "usage_hours_midpoint"
+  ],
+  "coldstart_train_accuracy": 0.5016,
+  "coldstart_n_train": 632
+}

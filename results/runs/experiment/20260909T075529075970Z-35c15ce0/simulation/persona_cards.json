@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek olan, sosyal kaygı ortalaması daha yüksek ve iyi oluş ortalaması daha düşük görülen öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.69 ile görece yüksektir.",
+      "Sosyal kaygı ortalaması 2.80 düzeyindedir ve profile eşlik eden belirgin bir özelliktir.",
+      "İyi oluş ortalaması 3.19 ile daha düşük bir düzeydedir.",
+      "Eğitim örnekleminde bu profile atanan kişi sayısı 121'dir."
+    ],
+    "tone": "Risk göstergeleri görece belirgin, dijital kullanımı yoğun ve iyi oluş açısından daha kırılgan bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı ortalaması düşük ve iyi oluş düzeyi daha yüksek görünen bir öğrenci profili.",
+    "demographic_anchor": "Demografik olarak en belirgin dayanak: kadın, ön lisans ve günlük 4-6 saat kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (2.59).",
+      "Sosyal kaygı ortalaması düşüktür (2.25).",
+      "İyi oluş ortalaması görece yüksektir (3.77).",
+      "Eğitim örnekleminde 366 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Dengeli, daha kontrollü dijital kullanım sergileyen ve görece iyi oluşu yüksek bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım, sosyal kaygı ve iyi oluş ortalamaları örneklem içinde görece düşük düzeydedir. Bu profil, daha sınırlı dijital bağımlılık belirtileri ve daha düşük sosyal kaygı ile birlikte düşük iyi oluş puanı göstermektedir.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.592).",
+      "Sosyal kaygı ortalaması düşüktür (1.607).",
+      "İyi oluş ortalaması düşüktür (1.557).",
+      "Eğitim örnekleminde 50 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Temkinli, sade ve veri odaklı"
+  }
+]

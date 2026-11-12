@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı düzeyi görece düşük ve iyi oluş düzeyi görece yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.73'tür.",
+      "Sosyal kaygı ortalaması 2.05'tir.",
+      "İyi oluş ortalaması 3.85'tir.",
+      "Eğitim örnekleminde bu profile atanan kişi sayısı 348'dir."
+    ],
+    "tone": "Veri odaklı, dengeli ve işlevsel bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım, sosyal kaygı ve iyi oluş ortalamaları örneklem içinde düşük düzeydedir. Bu profil, görece sınırlı dijital bağımlılık göstergeleriyle birlikte düşük sosyal kaygı ve düşük iyi oluş örüntüsü sergiler.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.56).",
+      "Sosyal kaygı ortalaması düşüktür (1.58).",
+      "İyi oluş ortalaması düşüktür (1.57).",
+      "Eğitim örnekleminde 54 kişiden oluşur.",
+      "Demografik olarak erkek, ön lisans ve 4-6 saat kullanım ekseninde yoğunlaşır."
+    ],
+    "tone": "Temkinli, dengeli ve veri odaklı."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.19'dur.",
+      "Sosyal kaygı ortalaması 3.11'dir.",
+      "İyi oluş ortalaması 2.99'dur.",
+      "Eğitim örnekleminde bu profile atanan kişi sayısı 135'tir."
+    ],
+    "tone": "Veri temelli, dikkatli ve destekleyici"
+  }
+]

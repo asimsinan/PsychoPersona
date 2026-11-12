@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High distress and loneliness",
+    "summary": "Respondents in this profile show comparatively elevated loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "More often female, educated at graduate level or above, and reporting more than 5 hours.",
+    "behavior_markers": [
+      "Higher average loneliness relative to other profiles",
+      "Higher average depressive symptom levels",
+      "Higher average anxiety symptom levels",
+      "Pattern suggests a broader emotional distress profile"
+    ],
+    "tone": "Emotionally burdened, lonely, and anxious"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms based on the reported mean scale scores.",
+    "demographic_anchor": "Anchored by male respondents with graduate-level education or above and 1-3 hours as the reported time category.",
+    "behavior_markers": [
+      "Reports relatively low UCLA-8 loneliness scores",
+      "Shows low PHQ-9 depressive symptom levels",
+      "Shows very low GAD-7 anxiety symptom levels",
+      "Represents a lower-distress respondent pattern overall"
+    ],
+    "tone": "Stable, low-distress, and comparatively well-adjusted"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, and typically 1–3 hours.",
+    "behavior_markers": [
+      "Reports low UCLA-8 loneliness on average",
+      "Reports low PHQ-9 depressive symptoms on average",
+      "Reports low GAD-7 anxiety symptoms on average",
+      "Most identifiable demographic anchor is male with graduate-level education or higher",
+      "Associated with the 1–3 hours category"
+    ],
+    "tone": "Generally stable, low-distress, and comparatively well-adjusted."
+  }
+]

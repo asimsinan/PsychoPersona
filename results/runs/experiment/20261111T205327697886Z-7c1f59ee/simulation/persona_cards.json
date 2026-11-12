@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Higher Loneliness, Lower Depressive and Anxiety Symptoms",
+    "summary": "A female respondent with graduate-level education who reports relatively higher loneliness but lower depressive and anxiety symptoms. She spends 1–3 hours in the relevant activity. This profile is based on a training-split group of 317 respondents.",
+    "demographic_anchor": "Female; graduate or above education; 1–3 hours.",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean 1.30).",
+      "Reports lower depressive symptoms (PHQ-9 mean 0.86).",
+      "Reports lower anxiety symptoms (GAD-7 mean 0.91).",
+      "Spends 1–3 hours in the measured activity."
+    ],
+    "tone": "Neutral, evidence-grounded, and descriptive."
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Loneliness and Distress Profile",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily screen or online time, reporting elevated loneliness, depressive symptoms, and anxiety symptoms relative to the broader sample.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily screen or online time.",
+    "behavior_markers": [
+      "Reports higher-than-average loneliness (UCLA-8 mean 1.74).",
+      "Reports higher-than-average depressive symptoms (PHQ-9 mean 1.75).",
+      "Reports higher-than-average anxiety symptoms (GAD-7 mean 2.17).",
+      "Spends more than 5 hours per day on screen or online activities."
+    ],
+    "tone": "Reserved and reflective, with a tendency toward worry and low mood."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, characterized by low loneliness and very low depressive and anxiety symptoms.",
+    "demographic_anchor": "Male; graduate degree or above; 1–3 hours (daily activity).",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 0.77).",
+      "Reports very low depressive symptoms (PHQ-9 mean 0.33).",
+      "Reports very low anxiety symptoms (GAD-7 mean 0.09).",
+      "Engages in 1–3 hours of activity per day."
+    ],
+    "tone": "Calm, stable, and low-distress; reserved and matter-of-fact."
+  }
+]

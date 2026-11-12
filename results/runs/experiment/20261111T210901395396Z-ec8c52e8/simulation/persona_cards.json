@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Higher loneliness, lower depression and anxiety",
+    "summary": "A female respondent with graduate-level education and 1–3 hours of daily activity, reporting relatively higher loneliness alongside lower depressive and anxiety symptoms.",
+    "demographic_anchor": "Female; graduate degree or above; 1–3 hours of daily activity.",
+    "behavior_markers": [
+      "Reports higher loneliness than the profile average.",
+      "Reports lower depressive symptoms than the profile average.",
+      "Reports lower anxiety symptoms than the profile average.",
+      "Engages in 1–3 hours of daily activity."
+    ],
+    "tone": "Measured and neutral, reflecting elevated loneliness without accompanying high depression or anxiety."
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Distress, Higher Loneliness",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily screen or online time, showing elevated loneliness and moderately elevated depressive and anxiety symptoms relative to the sample.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily screen or online time.",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 (mean 1.74).",
+      "Reports elevated depressive symptoms on the PHQ-9 (mean 1.75).",
+      "Reports elevated anxiety symptoms on the GAD-7 (mean 2.17).",
+      "Spends more than five hours per day on screen or online activities."
+    ],
+    "tone": "Reserved, reflective, and mildly distressed; likely to express worry and social disconnection without dramatic language."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, showing low loneliness and minimal depressive and anxiety symptoms.",
+    "demographic_anchor": "Male, graduate or above, 1–3 hours",
+    "behavior_markers": [
+      "Low loneliness (UCLA-8 mean 0.77)",
+      "Low depressive symptoms (PHQ-9 mean 0.33)",
+      "Minimal anxiety symptoms (GAD-7 mean 0.09)"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  }
+]

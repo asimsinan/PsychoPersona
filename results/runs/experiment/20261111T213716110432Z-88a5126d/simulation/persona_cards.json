@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi düşük, sosyal kaygı düzeyi düşük ve iyi oluş puanı düşük seyreden öğrenci profili.",
+    "demographic_anchor": "Ağırlıklı olarak erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildirimiyle tanımlanan grup.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.58).",
+      "Sosyal kaygı ortalaması düşüktür (1.58).",
+      "İyi oluş ortalaması düşüktür (1.56).",
+      "Eğitim örnekleminde 52 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Düşük dijital kullanım ve düşük sosyal kaygıya eşlik eden, ancak iyi oluş düzeyi de düşük kalan bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım eğilimi, daha düşük sosyal kaygı ve daha yüksek iyi oluş düzeyi ile öne çıkan profildir. Eğitim örnekleminde 353 kişiyle temsil edilmektedir.",
+    "demographic_anchor": "Bu profil en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2.73).",
+      "Sosyal kaygı ortalaması düşüktür (2.04).",
+      "İyi oluş ortalaması yüksektir (3.81).",
+      "Profil, daha dengeli bir dijital kullanım örüntüsüne işaret eder."
+    ],
+    "tone": "Dengeli, görece rahat ve iyi oluşu yüksek"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş düzeyi daha düşük görünen bir öğrenci profili.",
+    "demographic_anchor": "Demografik olarak kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrenciler etrafında yoğunlaşmaktadır.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.31 düzeyindedir.",
+      "Sosyal kaygı ortalaması 3.26 ile yüksektir.",
+      "İyi oluş ortalaması 2.95 ile daha düşüktür.",
+      "Eğitim örnekleminde 132 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Veri odaklı, dikkatli ve destek ihtimali bulunan bir profil."
+  }
+]

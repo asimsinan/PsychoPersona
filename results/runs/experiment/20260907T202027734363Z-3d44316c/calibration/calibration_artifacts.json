@@ -1,0 +1,891 @@
+{
+  "scale_columns": [
+    "ucla_loneliness_mean",
+    "phq9_mean",
+    "gad7_mean"
+  ],
+  "item_columns": [
+    "ucla_item_01",
+    "ucla_item_02",
+    "ucla_item_03",
+    "ucla_item_04",
+    "ucla_item_05",
+    "ucla_item_06",
+    "ucla_item_07",
+    "ucla_item_08",
+    "phq9_item_01",
+    "phq9_item_02",
+    "phq9_item_03",
+    "phq9_item_04",
+    "phq9_item_05",
+    "phq9_item_06",
+    "phq9_item_07",
+    "phq9_item_08",
+    "phq9_item_09",
+    "gad7_item_01",
+    "gad7_item_02",
+    "gad7_item_03",
+    "gad7_item_04",
+    "gad7_item_05",
+    "gad7_item_06",
+    "gad7_item_07"
+  ],
+  "scale_to_items": {
+    "ucla_loneliness_mean": [
+      "ucla_item_01",
+      "ucla_item_02",
+      "ucla_item_03",
+      "ucla_item_04",
+      "ucla_item_05",
+      "ucla_item_06",
+      "ucla_item_07",
+      "ucla_item_08"
+    ],
+    "phq9_mean": [
+      "phq9_item_01",
+      "phq9_item_02",
+      "phq9_item_03",
+      "phq9_item_04",
+      "phq9_item_05",
+      "phq9_item_06",
+      "phq9_item_07",
+      "phq9_item_08",
+      "phq9_item_09"
+    ],
+    "gad7_mean": [
+      "gad7_item_01",
+      "gad7_item_02",
+      "gad7_item_03",
+      "gad7_item_04",
+      "gad7_item_05",
+      "gad7_item_06",
+      "gad7_item_07"
+    ]
+  },
+  "scale_shift_aliases": {
+    "ucla_loneliness_mean": "ucla",
+    "phq9_mean": "phq9",
+    "gad7_mean": "gad7"
+  },
+  "profile_column": "profile_id",
+  "subgroup_columns": [
+    "gender",
+    "education",
+    "usage_band"
+  ],
+  "donor_pool_min": 20,
+  "profile_shrinkage": 0.25,
+  "signal_scale": 0.25,
+  "neighbor_count": 8,
+  "response_min": 0,
+  "response_max": 3,
+  "global_scale_means": {
+    "ucla_loneliness_mean": 1.2816455696202531,
+    "phq9_mean": 0.9789029535864978,
+    "gad7_mean": 1.051763110307414
+  },
+  "global_scale_stds": {
+    "ucla_loneliness_mean": 0.6105803643350816,
+    "phq9_mean": 0.6891384217939552,
+    "gad7_mean": 0.8721429861800185
+  },
+  "global_scale_covariance": {
+    "ucla_loneliness_mean": {
+      "ucla_loneliness_mean": 0.37280838131156085,
+      "phq9_mean": 0.21582540383067975,
+      "gad7_mean": 0.25747185070341
+    },
+    "phq9_mean": {
+      "ucla_loneliness_mean": 0.21582540383067975,
+      "phq9_mean": 0.47491176439266336,
+      "gad7_mean": 0.42000555964727765
+    },
+    "gad7_mean": {
+      "ucla_loneliness_mean": 0.25747185070341,
+      "phq9_mean": 0.42000555964727765,
+      "gad7_mean": 0.760633388343
+    }
+  },
+  "profile_scale_means": {
+    "0": {
+      "ucla_loneliness_mean": 1.9241071428571428,
+      "phq9_mean": 2.361111111111111,
+      "gad7_mean": 2.857142857142857
+    },
+    "1": {
+      "ucla_loneliness_mean": 1.1337719298245614,
+      "phq9_mean": 0.7303443794671864,
+      "gad7_mean": 0.6131996658312449
+    },
+    "2": {
+      "ucla_loneliness_mean": 1.2487373737373737,
+      "phq9_mean": 0.898989898989899,
+      "gad7_mean": 0.8932178932178932
+    },
+    "3": {
+      "ucla_loneliness_mean": 1.6875,
+      "phq9_mean": 1.469135802469136,
+      "gad7_mean": 1.8000000000000003
+    },
+    "4": {
+      "ucla_loneliness_mean": 0.525,
+      "phq9_mean": 1.577777777777778,
+      "gad7_mean": 2.6857142857142855
+    },
+    "5": {
+      "ucla_loneliness_mean": 1.1888075313807531,
+      "phq9_mean": 0.8307763830776382,
+      "gad7_mean": 0.9037656903765691
+    }
+  },
+  "profile_scale_covariances": {
+    "0": {
+      "ucla_loneliness_mean": {
+        "ucla_loneliness_mean": 0.24807787698412692,
+        "phq9_mean": 0.048482510288065835,
+        "gad7_mean": -0.004629629629629645
+      },
+      "phq9_mean": {
+        "ucla_loneliness_mean": 0.048482510288065835,
+        "phq9_mean": 0.16152263374485595,
+        "gad7_mean": 0.008818342151675464
+      },
+      "gad7_mean": {
+        "ucla_loneliness_mean": -0.004629629629629645,
+        "phq9_mean": 0.008818342151675464,
+        "gad7_mean": 0.039304610733182165
+      }
+    },
+    "1": {
+      "ucla_loneliness_mean": {
+        "ucla_loneliness_mean": 0.28705495356037153,
+        "phq9_mean": 0.06863748423345947,
+        "gad7_mean": 0.046795297066194896
+      },
+      "phq9_mean": {
+        "ucla_loneliness_mean": 0.06863748423345947,
+        "phq9_mean": 0.19156399835221072,
+        "gad7_mean": 0.11935994670772793
+      },
+      "gad7_mean": {
+        "ucla_loneliness_mean": 0.046795297066194896,
+        "phq9_mean": 0.11935994670772793,
+        "gad7_mean": 0.2052076971139333
+      }
+    },
+    "2": {
+      "ucla_loneliness_mean": {
+        "ucla_loneliness_mean": 0.4290481344052772,
+        "phq9_mean": 0.297631931560503,
+        "gad7_mean": 0.37632152428070786
+      },
+      "phq9_mean": {
+        "ucla_loneliness_mean": 0.297631931560503,
+        "phq9_mean": 0.6062209395542728,
+        "gad7_mean": 0.5239273198456872
+      },
+      "gad7_mean": {
+        "ucla_loneliness_mean": 0.37632152428070786,
+        "phq9_mean": 0.5239273198456872,
+        "gad7_mean": 0.7464987231751079
+      }
+    },
+    "3": {
+      "ucla_loneliness_mean": {
+        "ucla_loneliness_mean": 0.22902036516853932,
+        "phq9_mean": 0.04509987515605492,
+        "gad7_mean": -0.03671749598715891
+      },
+      "phq9_mean": {
+        "ucla_loneliness_mean": 0.04509987515605492,
+        "phq9_mean": 0.2684915460612506,
+        "gad7_mean": -0.11485642946317103
+      },
+      "gad7_mean": {
+        "ucla_loneliness_mean": -0.03671749598715891,
+        "phq9_mean": -0.11485642946317103,
+        "gad7_mean": 0.34524191699151574
+      }
+    },
+    "4": {
+      "ucla_loneliness_mean": {
+        "ucla_loneliness_mean": 0.4875000000000001,
+        "phq9_mean": -0.5770833333333333,
+        "gad7_mean": 0.10357142857142858
+      },
+      "phq9_mean": {
+        "ucla_loneliness_mean": -0.5770833333333333,
+        "phq9_mean": 0.9283950617283951,
+        "gad7_mean": -0.2611111111111112
+      },
+      "gad7_mean": {
+        "ucla_loneliness_mean": 0.10357142857142858,
+        "phq9_mean": -0.2611111111111112,
+        "gad7_mean": 0.10612244897959189
+      }
+    },
+    "5": {
+      "ucla_loneliness_mean": {
+        "ucla_loneliness_mean": 0.33703544179177947,
+        "phq9_mean": 0.17645935640643984,
+        "gad7_mean": 0.2188763580746106
+      },
+      "phq9_mean": {
+        "ucla_loneliness_mean": 0.17645935640643984,
+        "phq9_mean": 0.3460744595374179,
+        "gad7_mean": 0.30043984120844985
+      },
+      "gad7_mean": {
+        "ucla_loneliness_mean": 0.2188763580746106,
+        "phq9_mean": 0.30043984120844985,
+        "gad7_mean": 0.6054316526371457
+      }
+    }
+  },
+  "profile_counts": {
+    "0": 28,
+    "1": 171,
+    "2": 99,
+    "3": 90,
+    "4": 5,
+    "5": 239
+  },
+  "global_subgroup_offsets": {
+    "gender": {
+      "Female": {
+        "ucla_loneliness_mean": 0.02807253126995457,
+        "phq9_mean": 0.07483921588267461,
+        "gad7_mean": 0.13051751707707093
+      },
+      "Male": {
+        "ucla_loneliness_mean": -0.032069298433812454,
+        "phq9_mean": -0.08549429068630954,
+        "gad7_mean": -0.14909967205075547
+      }
+    },
+    "education": {
+      "Graduate or above": {
+        "ucla_loneliness_mean": 0.004191586343049725,
+        "phq9_mean": 0.06314597607711081,
+        "gad7_mean": 0.11239154237934867
+      },
+      "Higher secondary": {
+        "ucla_loneliness_mean": 0.3433544303797469,
+        "phq9_mean": 1.021097046413502,
+        "gad7_mean": 1.948236889692586
+      },
+      "Primary": {
+        "ucla_loneliness_mean": 0.03085443037974689,
+        "phq9_mean": -0.140278614962159,
+        "gad7_mean": -0.2728515456815638
+      },
+      "Secondary": {
+        "ucla_loneliness_mean": -0.024195238494425286,
+        "phq9_mean": -0.1613900764709718,
+        "gad7_mean": -0.259899344933715
+      }
+    },
+    "usage_band": {
+      "1-3 hours": {
+        "ucla_loneliness_mean": -0.09283803823949999,
+        "phq9_mean": -0.14812657050885958,
+        "gad7_mean": -0.14799741993084503
+      },
+      "3-5 hours": {
+        "ucla_loneliness_mean": 0.03443723292751755,
+        "phq9_mean": 0.0614367491735871,
+        "gad7_mean": 0.06015681689913732
+      },
+      "Less than 1 hour": {
+        "ucla_loneliness_mean": -0.037833688432134194,
+        "phq9_mean": -0.08341340463160218,
+        "gad7_mean": -0.11682675952947896
+      },
+      "More than 5 hours": {
+        "ucla_loneliness_mean": 0.15261368963900623,
+        "phq9_mean": 0.2531958118456009,
+        "gad7_mean": 0.2794538209095172
+      }
+    }
+  },
+  "profile_subgroup_offsets": {
+    "0": {
+      "gender": {
+        "Female": {
+          "count": 25,
+          "offsets": {
+            "ucla_loneliness_mean": -0.029107142857142776,
+            "phq9_mean": 0.021111111111111303,
+            "gad7_mean": -0.005714285714285339
+          }
+        },
+        "Male": {
+          "count": 3,
+          "offsets": {
+            "ucla_loneliness_mean": 0.24255952380952372,
+            "phq9_mean": -0.17592592592592604,
+            "gad7_mean": 0.047619047619047894
+          }
+        }
+      },
+      "education": {
+        "Graduate or above": {
+          "count": 26,
+          "offsets": {
+            "ucla_loneliness_mean": -0.010645604395604247,
+            "phq9_mean": 0.002136752136752129,
+            "gad7_mean": -0.01098901098901095
+          }
+        },
+        "Higher secondary": {
+          "count": 1,
+          "offsets": {
+            "ucla_loneliness_mean": -0.2991071428571428,
+            "phq9_mean": -0.36111111111111116,
+            "gad7_mean": 0.1428571428571428
+          }
+        },
+        "Secondary": {
+          "count": 1,
+          "offsets": {
+            "ucla_loneliness_mean": 0.5758928571428572,
+            "phq9_mean": 0.30555555555555536,
+            "gad7_mean": 0.1428571428571428
+          }
+        }
+      },
+      "usage_band": {
+        "3-5 hours": {
+          "count": 10,
+          "offsets": {
+            "ucla_loneliness_mean": 0.050892857142857295,
+            "phq9_mean": -0.038888888888889195,
+            "gad7_mean": -0.014285714285714679
+          }
+        },
+        "More than 5 hours": {
+          "count": 18,
+          "offsets": {
+            "ucla_loneliness_mean": -0.028273809523809534,
+            "phq9_mean": 0.021604938271604812,
+            "gad7_mean": 0.007936507936507908
+          }
+        }
+      }
+    },
+    "1": {
+      "gender": {
+        "Female": {
+          "count": 86,
+          "offsets": {
+            "ucla_loneliness_mean": -0.027667278661770656,
+            "phq9_mean": -0.010706136573129688,
+            "gad7_mean": 0.0030794039361968784
+          }
+        },
+        "Male": {
+          "count": 85,
+          "offsets": {
+            "ucla_loneliness_mean": 0.027992776057791602,
+            "phq9_mean": 0.010832091121048881,
+            "gad7_mean": -0.0031156322177994245
+          }
+        }
+      },
+      "education": {
+        "Graduate or above": {
+          "count": 114,
+          "offsets": {
+            "ucla_loneliness_mean": -0.006578947368421018,
+            "phq9_mean": 0.01624431448992858,
+            "gad7_mean": 0.07101086048454464
+          }
+        },
+        "Primary": {
+          "count": 9,
+          "offsets": {
+            "ucla_loneliness_mean": 0.005116959064327409,
+            "phq9_mean": -0.0019493177387913674,
+            "gad7_mean": -0.08939014202172113
+          }
+        },
+        "Secondary": {
+          "count": 47,
+          "offsets": {
+            "ucla_loneliness_mean": 0.01250466592011934,
+            "phq9_mean": -0.044765183249692364,
+            "gad7_mean": -0.16335164151513554
+          }
+        }
+      },
+      "usage_band": {
+        "3-5 hours": {
+          "count": 111,
+          "offsets": {
+            "ucla_loneliness_mean": 0.055417259364627824,
+            "phq9_mean": 0.042428393305586454,
+            "gad7_mean": 0.020004967373388527
+          }
+        },
+        "More than 5 hours": {
+          "count": 60,
+          "offsets": {
+            "ucla_loneliness_mean": -0.10252192982456143,
+            "phq9_mean": -0.07849252761533454,
+            "gad7_mean": -0.037009189640768714
+          }
+        }
+      }
+    },
+    "2": {
+      "gender": {
+        "Female": {
+          "count": 46,
+          "offsets": {
+            "ucla_loneliness_mean": -0.028628678085199866,
+            "phq9_mean": 0.004391743522178193,
+            "gad7_mean": 0.09435974653365964
+          }
+        },
+        "Male": {
+          "count": 53,
+          "offsets": {
+            "ucla_loneliness_mean": 0.024847531923003707,
+            "phq9_mean": -0.0038117019249095385,
+            "gad7_mean": -0.08189713850091207
+          }
+        }
+      },
+      "education": {
+        "Graduate or above": {
+          "count": 55,
+          "offsets": {
+            "ucla_loneliness_mean": -0.03510101010101008,
+            "phq9_mean": 0.002020202020201922,
+            "gad7_mean": 0.07821067821067806
+          }
+        },
+        "Primary": {
+          "count": 13,
+          "offsets": {
+            "ucla_loneliness_mean": 0.28972416472416485,
+            "phq9_mean": 0.09246309246309248,
+            "gad7_mean": 0.051837051837051784
+          }
+        },
+        "Secondary": {
+          "count": 30,
+          "offsets": {
+            "ucla_loneliness_mean": -0.069570707070707,
+            "phq9_mean": -0.10269360269360261,
+            "gad7_mean": -0.16464646464646493
+          }
+        }
+      },
+      "usage_band": {
+        "Less than 1 hour": {
+          "count": 99,
+          "offsets": {
+            "ucla_loneliness_mean": 0.0,
+            "phq9_mean": 0.0,
+            "gad7_mean": 0.0
+          }
+        }
+      }
+    },
+    "3": {
+      "gender": {
+        "Female": {
+          "count": 56,
+          "offsets": {
+            "ucla_loneliness_mean": -0.013392857142857206,
+            "phq9_mean": 0.048721340388006684,
+            "gad7_mean": -0.014285714285714457
+          }
+        },
+        "Male": {
+          "count": 34,
+          "offsets": {
+            "ucla_loneliness_mean": 0.022058823529411686,
+            "phq9_mean": -0.08024691358024727,
+            "gad7_mean": 0.023529411764705355
+          }
+        }
+      },
+      "education": {
+        "Graduate or above": {
+          "count": 78,
+          "offsets": {
+            "ucla_loneliness_mean": -0.02083333333333326,
+            "phq9_mean": 0.047958214624881146,
+            "gad7_mean": -0.005128205128205332
+          }
+        },
+        "Primary": {
+          "count": 3,
+          "offsets": {
+            "ucla_loneliness_mean": 0.10416666666666674,
+            "phq9_mean": -0.2469135802469138,
+            "gad7_mean": -0.22857142857142887
+          }
+        },
+        "Secondary": {
+          "count": 9,
+          "offsets": {
+            "ucla_loneliness_mean": 0.14583333333333326,
+            "phq9_mean": -0.3333333333333335,
+            "gad7_mean": 0.12063492063492065
+          }
+        }
+      },
+      "usage_band": {
+        "3-5 hours": {
+          "count": 33,
+          "offsets": {
+            "ucla_loneliness_mean": -0.043560606060605966,
+            "phq9_mean": -0.017957351290684986,
+            "gad7_mean": 0.27359307359307294
+          }
+        },
+        "More than 5 hours": {
+          "count": 57,
+          "offsets": {
+            "ucla_loneliness_mean": 0.025219298245614086,
+            "phq9_mean": 0.010396361273553811,
+            "gad7_mean": -0.15839598997493742
+          }
+        }
+      }
+    },
+    "4": {
+      "gender": {
+        "Female": {
+          "count": 2,
+          "offsets": {
+            "ucla_loneliness_mean": -0.21250000000000002,
+            "phq9_mean": 0.3666666666666667,
+            "gad7_mean": -0.042857142857142705
+          }
+        },
+        "Male": {
+          "count": 3,
+          "offsets": {
+            "ucla_loneliness_mean": 0.1416666666666666,
+            "phq9_mean": -0.2444444444444447,
+            "gad7_mean": 0.02857142857142847
+          }
+        }
+      },
+      "education": {
+        "Graduate or above": {
+          "count": 5,
+          "offsets": {
+            "ucla_loneliness_mean": 0.0,
+            "phq9_mean": 0.0,
+            "gad7_mean": 0.0
+          }
+        }
+      },
+      "usage_band": {
+        "3-5 hours": {
+          "count": 3,
+          "offsets": {
+            "ucla_loneliness_mean": -0.31666666666666665,
+            "phq9_mean": 0.5703703703703704,
+            "gad7_mean": -0.20952380952380967
+          }
+        },
+        "Less than 1 hour": {
+          "count": 2,
+          "offsets": {
+            "ucla_loneliness_mean": 0.475,
+            "phq9_mean": -0.8555555555555557,
+            "gad7_mean": 0.3142857142857145
+          }
+        }
+      }
+    },
+    "5": {
+      "gender": {
+        "Female": {
+          "count": 122,
+          "offsets": {
+            "ucla_loneliness_mean": 0.027380993209410898,
+            "phq9_mean": 0.015307405629101267,
+            "gad7_mean": 0.10794391149696747
+          }
+        },
+        "Male": {
+          "count": 117,
+          "offsets": {
+            "ucla_loneliness_mean": -0.02855112112434277,
+            "phq9_mean": -0.015961568262823467,
+            "gad7_mean": -0.11255689916777789
+          }
+        }
+      },
+      "education": {
+        "Graduate or above": {
+          "count": 158,
+          "offsets": {
+            "ucla_loneliness_mean": -0.030579683279487346,
+            "phq9_mean": 0.004666654897045319,
+            "gad7_mean": 0.03746396604296087
+          }
+        },
+        "Primary": {
+          "count": 17,
+          "offsets": {
+            "ucla_loneliness_mean": -0.04174870785134144,
+            "phq9_mean": -0.11835808242404344,
+            "gad7_mean": -0.25670686684715727
+          }
+        },
+        "Secondary": {
+          "count": 64,
+          "offsets": {
+            "ucla_loneliness_mean": 0.08658309361924688,
+            "phq9_mean": 0.019918061366806183,
+            "gad7_mean": -0.024301404662283366
+          }
+        }
+      },
+      "usage_band": {
+        "1-3 hours": {
+          "count": 239,
+          "offsets": {
+            "ucla_loneliness_mean": 0.0,
+            "phq9_mean": 0.0,
+            "gad7_mean": 0.0
+          }
+        }
+      }
+    }
+  },
+  "global_item_priority": {
+    "ucla_loneliness_mean": [
+      "ucla_item_07",
+      "ucla_item_06",
+      "ucla_item_01",
+      "ucla_item_08",
+      "ucla_item_04",
+      "ucla_item_05",
+      "ucla_item_03",
+      "ucla_item_02"
+    ],
+    "phq9_mean": [
+      "phq9_item_04",
+      "phq9_item_01",
+      "phq9_item_02",
+      "phq9_item_03",
+      "phq9_item_07",
+      "phq9_item_05",
+      "phq9_item_06",
+      "phq9_item_08",
+      "phq9_item_09"
+    ],
+    "gad7_mean": [
+      "gad7_item_03",
+      "gad7_item_06",
+      "gad7_item_02",
+      "gad7_item_04",
+      "gad7_item_07",
+      "gad7_item_01",
+      "gad7_item_05"
+    ]
+  },
+  "profile_item_priority": {
+    "0": {
+      "ucla_loneliness_mean": [
+        "ucla_item_06",
+        "ucla_item_03",
+        "ucla_item_05",
+        "ucla_item_04",
+        "ucla_item_01",
+        "ucla_item_02",
+        "ucla_item_08",
+        "ucla_item_07"
+      ],
+      "phq9_mean": [
+        "phq9_item_06",
+        "phq9_item_02",
+        "phq9_item_03",
+        "phq9_item_04",
+        "phq9_item_05",
+        "phq9_item_09",
+        "phq9_item_07",
+        "phq9_item_08",
+        "phq9_item_01"
+      ],
+      "gad7_mean": [
+        "gad7_item_03",
+        "gad7_item_06",
+        "gad7_item_04",
+        "gad7_item_07",
+        "gad7_item_02",
+        "gad7_item_05",
+        "gad7_item_01"
+      ]
+    },
+    "1": {
+      "ucla_loneliness_mean": [
+        "ucla_item_07",
+        "ucla_item_06",
+        "ucla_item_08",
+        "ucla_item_05",
+        "ucla_item_01",
+        "ucla_item_04",
+        "ucla_item_03",
+        "ucla_item_02"
+      ],
+      "phq9_mean": [
+        "phq9_item_01",
+        "phq9_item_04",
+        "phq9_item_07",
+        "phq9_item_03",
+        "phq9_item_02",
+        "phq9_item_05",
+        "phq9_item_06",
+        "phq9_item_08",
+        "phq9_item_09"
+      ],
+      "gad7_mean": [
+        "gad7_item_03",
+        "gad7_item_06",
+        "gad7_item_01",
+        "gad7_item_02",
+        "gad7_item_04",
+        "gad7_item_07",
+        "gad7_item_05"
+      ]
+    },
+    "2": {
+      "ucla_loneliness_mean": [
+        "ucla_item_07",
+        "ucla_item_08",
+        "ucla_item_06",
+        "ucla_item_04",
+        "ucla_item_01",
+        "ucla_item_03",
+        "ucla_item_05",
+        "ucla_item_02"
+      ],
+      "phq9_mean": [
+        "phq9_item_07",
+        "phq9_item_04",
+        "phq9_item_01",
+        "phq9_item_02",
+        "phq9_item_03",
+        "phq9_item_05",
+        "phq9_item_06",
+        "phq9_item_08",
+        "phq9_item_09"
+      ],
+      "gad7_mean": [
+        "gad7_item_03",
+        "gad7_item_06",
+        "gad7_item_02",
+        "gad7_item_01",
+        "gad7_item_04",
+        "gad7_item_07",
+        "gad7_item_05"
+      ]
+    },
+    "3": {
+      "ucla_loneliness_mean": [
+        "ucla_item_06",
+        "ucla_item_01",
+        "ucla_item_03",
+        "ucla_item_04",
+        "ucla_item_05",
+        "ucla_item_02",
+        "ucla_item_08",
+        "ucla_item_07"
+      ],
+      "phq9_mean": [
+        "phq9_item_04",
+        "phq9_item_02",
+        "phq9_item_03",
+        "phq9_item_06",
+        "phq9_item_01",
+        "phq9_item_05",
+        "phq9_item_07",
+        "phq9_item_09",
+        "phq9_item_08"
+      ],
+      "gad7_mean": [
+        "gad7_item_02",
+        "gad7_item_03",
+        "gad7_item_04",
+        "gad7_item_06",
+        "gad7_item_07",
+        "gad7_item_05",
+        "gad7_item_01"
+      ]
+    },
+    "4": {
+      "ucla_loneliness_mean": [
+        "ucla_item_04",
+        "ucla_item_03",
+        "ucla_item_05",
+        "ucla_item_06",
+        "ucla_item_07",
+        "ucla_item_01",
+        "ucla_item_02",
+        "ucla_item_08"
+      ],
+      "phq9_mean": [
+        "phq9_item_03",
+        "phq9_item_04",
+        "phq9_item_02",
+        "phq9_item_05",
+        "phq9_item_06",
+        "phq9_item_07",
+        "phq9_item_08",
+        "phq9_item_09",
+        "phq9_item_01"
+      ],
+      "gad7_mean": [
+        "gad7_item_02",
+        "gad7_item_03",
+        "gad7_item_04",
+        "gad7_item_05",
+        "gad7_item_07",
+        "gad7_item_06",
+        "gad7_item_01"
+      ]
+    },
+    "5": {
+      "ucla_loneliness_mean": [
+        "ucla_item_07",
+        "ucla_item_08",
+        "ucla_item_06",
+        "ucla_item_01",
+        "ucla_item_04",
+        "ucla_item_05",
+        "ucla_item_03",
+        "ucla_item_02"
+      ],
+      "phq9_mean": [
+        "phq9_item_04",
+        "phq9_item_01",
+        "phq9_item_05",
+        "phq9_item_03",
+        "phq9_item_02",
+        "phq9_item_07",
+        "phq9_item_06",
+        "phq9_item_08",
+        "phq9_item_09"
+      ],
+      "gad7_mean": [
+        "gad7_item_03",
+        "gad7_item_06",
+        "gad7_item_02",
+        "gad7_item_04",
+        "gad7_item_07",
+        "gad7_item_01",
+        "gad7_item_05"
+      ]
+    }
+  }
+}

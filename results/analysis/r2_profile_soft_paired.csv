@@ -1,0 +1,17 @@
+dataset,setting,metric,hard,soft,difference,sd_difference,splits_soft_lower,splits_equal,splits
+anket_tr,oracle,RespItemMAE,0.764912,0.745987,-0.018925,0.014129,47,1,50
+anket_tr,oracle,RespScaleRMSE,0.630818,0.590293,-0.040525,0.01982,49,1,50
+anket_tr,oracle,ItemEMR,0.384024,0.391492,0.007468,0.010301,11,2,50
+anket_tr,oracle,SimUniqueRatio,0.047647,0.337647,0.29,0.105421,0,1,50
+anket_tr,coldstart,RespItemMAE,0.900806,0.902408,0.001602,0.026269,21,0,50
+anket_tr,coldstart,RespScaleRMSE,0.839874,0.794726,-0.045148,0.024914,50,0,50
+anket_tr,coldstart,ItemEMR,0.350079,0.327167,-0.022912,0.019277,45,0,50
+anket_tr,coldstart,SimUniqueRatio,0.019118,0.103529,0.084412,0.159742,0,38,50
+bangladesh_sns,oracle,RespItemMAE,0.633604,0.63226,-0.001344,0.009251,25,0,50
+bangladesh_sns,oracle,RespScaleRMSE,0.454029,0.441401,-0.012628,0.009072,46,0,50
+bangladesh_sns,oracle,ItemEMR,0.44725,0.443313,-0.003938,0.008098,37,1,50
+bangladesh_sns,oracle,SimUniqueRatio,0.03875,0.198,0.15925,0.03878,0,0,50
+bangladesh_sns,coldstart,RespItemMAE,0.814062,0.802646,-0.011417,0.03488,16,4,50
+bangladesh_sns,coldstart,RespScaleRMSE,0.67541,0.659657,-0.015753,0.034261,19,4,50
+bangladesh_sns,coldstart,ItemEMR,0.337438,0.333406,-0.004031,0.017361,33,4,50
+bangladesh_sns,coldstart,SimUniqueRatio,0.0195,0.04825,0.02875,0.044122,0,34,50

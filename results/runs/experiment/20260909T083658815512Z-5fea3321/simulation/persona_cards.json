@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High loneliness, depression, and anxiety",
+    "summary": "Respondents in this profile report comparatively elevated loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "More likely to be female, have a graduate-level education or above, and report more than 5 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Higher average loneliness score on the UCLA-8",
+      "Higher average depressive symptom score on the PHQ-9",
+      "Higher average anxiety symptom score on the GAD-7"
+    ],
+    "tone": "Emotionally burdened, socially disconnected, and psychologically strained"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low Distress Graduate Male",
+    "summary": "Reports relatively low loneliness, low depressive symptoms, and very low anxiety symptoms compared with other profiles.",
+    "demographic_anchor": "Male, graduate education or above, typically reporting 1-3 hours.",
+    "behavior_markers": [
+      "Low loneliness (UCLA-8 mean: 0.766)",
+      "Low depressive symptoms (PHQ-9 mean: 0.327)",
+      "Very low anxiety symptoms (GAD-7 mean: 0.086)",
+      "Profile is anchored by male respondents with graduate-level education or higher",
+      "Typically associated with the 1-3 hours category"
+    ],
+    "tone": "Generally psychologically stable and low-distress."
+  },
+  {
+    "profile_id": 2,
+    "label": "Higher loneliness, lower depressive and anxiety symptoms",
+    "summary": "Respondents in this profile report comparatively higher loneliness while showing lower average depressive and anxiety symptoms.",
+    "demographic_anchor": "More commonly female, educated to graduate level or above, and reporting 1–3 hours.",
+    "behavior_markers": [
+      "Reports relatively elevated loneliness on the UCLA-8 measure.",
+      "Shows comparatively low depressive symptom levels on the PHQ-9.",
+      "Shows comparatively low anxiety symptom levels on the GAD-7.",
+      "Demographically anchored by female respondents with graduate-level or higher education.",
+      "Associated with the 1–3 hours category."
+    ],
+    "tone": "Socially disconnected but not broadly distressed; emotionally relatively stable despite higher loneliness."
+  }
+]

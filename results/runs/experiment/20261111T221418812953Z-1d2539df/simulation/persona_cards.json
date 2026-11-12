@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Distress Graduate Male",
+    "summary": "This persona represents a male respondent with a graduate-level education who reports minimal psychological distress. Characterized by very low average scores on loneliness, depression, and anxiety scales, this individual exhibits high psychological well-being and stability.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 1.24)",
+      "Reports very low depressive symptoms (PHQ-9 mean: 0.81)",
+      "Reports very low anxiety symptoms (GAD-7 mean: 0.84)"
+    ],
+    "tone": "Stable, resilient, and psychologically healthy"
+  },
+  {
+    "profile_id": 1,
+    "label": "High Distress Graduate",
+    "summary": "A female graduate-level respondent who reports elevated levels of loneliness, depressive symptoms, and anxiety, and spends more than 5 hours on the measured activity.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean: 1.71)",
+      "Reports higher depressive symptoms (PHQ-9 mean: 1.73)",
+      "Reports higher anxiety symptoms (GAD-7 mean: 2.18)",
+      "Spends more than 5 hours on the measured activity"
+    ],
+    "tone": "Elevated psychological distress with notable social isolation and internalizing symptoms"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Graduate Male",
+    "summary": "A respondent profile characterized by significantly lower levels of loneliness, depressive symptoms, and anxiety symptoms compared to other groups. This group is predominantly male, holds a graduate degree or higher, and reports spending 1-3 hours on the measured activity.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean: 0.79)",
+      "Reports minimal depressive symptoms (PHQ-9 mean: 0.32)",
+      "Reports very low anxiety symptoms (GAD-7 mean: 0.04)",
+      "Spends 1-3 hours on the relevant activity"
+    ],
+    "tone": "Stable and low-distress"
+  }
+]

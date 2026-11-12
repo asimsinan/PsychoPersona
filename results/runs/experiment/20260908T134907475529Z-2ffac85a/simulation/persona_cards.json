@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "More likely to be male, have graduate-level education or higher, and report 1-3 hours.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness score on average (0.791)",
+      "Low PHQ-9 depression score on average (0.28)",
+      "Very low GAD-7 anxiety score on average (0.037)",
+      "Training-split profile size: 125"
+    ],
+    "tone": "Generally emotionally stable and low in distress."
+  },
+  {
+    "profile_id": 1,
+    "label": "Highly distressed, heavy-use female graduate",
+    "summary": "Respondents in this profile report comparatively high loneliness, elevated depressive symptoms, and the highest anxiety levels in the provided indicators. The profile is anchored by women with graduate-level education or above and more than 5 hours of use.",
+    "demographic_anchor": "Female, graduate degree or above, more than 5 hours of use",
+    "behavior_markers": [
+      "Reports higher loneliness relative to other profiles",
+      "Shows elevated depressive symptom levels",
+      "Shows elevated anxiety symptom levels, with anxiety appearing especially pronounced",
+      "Represents a heavy-use subgroup defined by more than 5 hours of use",
+      "Training-split profile size: 198 respondents"
+    ],
+    "tone": "Vulnerable, psychologically strained, and high-risk"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured scales.",
+    "demographic_anchor": "Most characteristically represented by a female respondent with graduate-level education or above and 1-3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Low average loneliness score (UCLA-8 mean: 1.21)",
+      "Low average depressive symptom score (PHQ-9 mean: 0.82)",
+      "Low average anxiety symptom score (GAD-7 mean: 0.79)",
+      "Overall pattern suggests relatively low psychological distress across indicators"
+    ],
+    "tone": "Stable, low-distress, and comparatively well-adjusted"
+  }
+]

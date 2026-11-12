@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low Distress Graduate Men with Moderate Daily Use",
+    "summary": "Men with graduate-level education or higher who report comparatively low loneliness, very low depressive symptoms, and minimal anxiety symptoms, with a typical daily use duration of 1-3 hours.",
+    "demographic_anchor": "Male; graduate education or above; 1-3 hours of daily use.",
+    "behavior_markers": [
+      "Reports lower loneliness relative to other profiles",
+      "Shows low average depressive symptom levels",
+      "Shows very low average anxiety symptom levels",
+      "Characterized by moderate daily use of 1-3 hours"
+    ],
+    "tone": "Stable, low-distress, and moderately engaged."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Respondents in this profile show comparatively higher loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Female, graduate education or above, and more than 5 hours.",
+    "behavior_markers": [
+      "Higher mean loneliness score on the UCLA-8.",
+      "Higher mean depressive symptom score on the PHQ-9.",
+      "Higher mean anxiety symptom score on the GAD-7.",
+      "Profile size in the training split: 176 respondents."
+    ],
+    "tone": "Distressed and socially disconnected, with elevated emotional burden."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured scales.",
+    "demographic_anchor": "Male, graduate education or above, with 1–3 hours as the reference time category.",
+    "behavior_markers": [
+      "Low mean loneliness score on the UCLA-8",
+      "Low mean depressive symptom score on the PHQ-9",
+      "Low mean anxiety symptom score on the GAD-7",
+      "Overall pattern suggests relatively low psychological distress"
+    ],
+    "tone": "Stable, low-distress, and comparatively well-adjusted"
+  }
+]

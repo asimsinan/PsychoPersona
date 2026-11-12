@@ -1,0 +1,6 @@
+{
+  "strategy": "hybrid_llm",
+  "within_profile_scale_rmse": 0.6366025610307116,
+  "mean_absolute_target_movement": 0.5943971083282469,
+  "mean_absolute_target_gap": 0.02481030655256016
+}

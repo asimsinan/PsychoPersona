@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress and low loneliness profile",
+    "summary": "Respondents in this profile report relatively low loneliness, low depressive symptoms, and very low anxiety symptoms overall.",
+    "demographic_anchor": "Male respondents, typically with graduate-level education or higher, and a 1-3 hour reference category.",
+    "behavior_markers": [
+      "Reports lower loneliness on the UCLA-8 measure",
+      "Shows low depressive symptoms on the PHQ-9",
+      "Shows very low anxiety symptoms on the GAD-7",
+      "Represents a comparatively low-distress respondent pattern"
+    ],
+    "tone": "Stable, low-distress, and socially connected overall"
+  },
+  {
+    "profile_id": 1,
+    "label": "Highly distressed, heavy-use female graduate profile",
+    "summary": "Respondents in this profile report comparatively higher loneliness, depressive symptoms, and anxiety symptoms. The pattern suggests a group with elevated emotional distress alongside substantial daily time use.",
+    "demographic_anchor": "Female, graduate education or above, more than 5 hours of daily use",
+    "behavior_markers": [
+      "Higher mean loneliness (UCLA-8: 1.72)",
+      "Higher mean depressive symptoms (PHQ-9: 1.73)",
+      "Higher mean anxiety symptoms (GAD-7: 2.15)",
+      "Heavy daily use exceeding 5 hours",
+      "Profile represented 180 respondents in the training split"
+    ],
+    "tone": "Vulnerable, strained, and emotionally burdened"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured scales.",
+    "demographic_anchor": "More likely anchored by male respondents with graduate-level education or above and 1–3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Reports low UCLA-8 loneliness on average",
+      "Reports low PHQ-9 depressive symptoms on average",
+      "Reports low GAD-7 anxiety symptoms on average",
+      "Represents a relatively low emotional distress pattern in the sample"
+    ],
+    "tone": "Stable, low-distress, and socially less isolated"
+  }
+]

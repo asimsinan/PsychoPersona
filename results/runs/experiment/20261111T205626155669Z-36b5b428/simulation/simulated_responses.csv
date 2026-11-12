@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0714,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4890,800,5690,3,1,2,2,2,3,2,3,1,1,2,2,3,2,1,2,2,1,1,2,2,3,2,1,2,2,2.0,1.7777777777777777,2.0
+R0366,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,780,5787,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0621,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,784,5791,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.4444444444444444,0.5714285714285714
+R0610,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5013,783,5796,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0732,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5013,783,5796,3,2,1,1,1,1,1,1,2,2,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,0,1.25,0.8888888888888888,0.7142857142857143
+R0477,0,"Low distress, well-being oriented respondents",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,775,5776,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0684,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5022,788,5810,3,0,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.5555555555555556,0.7142857142857143
+R0269,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,777,5784,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0588,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4875,804,5679,3,2,2,2,2,3,2,2,1,1,2,2,2,3,1,2,2,1,1,2,2,2,2,1,2,1,1.875,1.7777777777777777,1.7142857142857142
+R0688,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4893,779,5672,3,0,2,2,2,3,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0066,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5025,785,5810,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0428,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5016,796,5812,3,1,1,0,0,0,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.75,0.4444444444444444,0.5714285714285714
+R0707,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,783,5790,3,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0072,0,"Low distress, well-being oriented respondents",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4983,770,5753,3,0,1,1,1,1,0,1,2,2,1,1,2,1,1,1,2,0,0,1,0,1,1,0,1,0,1.125,1.0,0.5714285714285714
+R0121,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5022,788,5810,3,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1.25,0.7777777777777778,0.8571428571428571
+R0097,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,808,5815,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0166,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4893,818,5711,3,1,2,2,2,3,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.875,1.5555555555555556,1.8571428571428572
+R0533,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5013,789,5802,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0723,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5013,774,5787,3,0,1,1,1,1,1,1,2,2,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,0,1.25,1.0,0.7142857142857143
+R0042,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,792,5799,3,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,2,0,0,1,1,1,2,1,2,1,1.375,1.1111111111111112,1.2857142857142858
+R0425,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5022,779,5801,3,0,1,0,1,1,0,1,2,2,1,0,2,2,1,0,1,0,0,1,1,1,2,1,1,0,1.0,0.7777777777777778,1.0
+R0068,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4875,802,5677,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0020,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,798,5799,3,1,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.5555555555555556,0.7142857142857143
+R0523,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5028,785,5813,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0131,0,"Low distress, well-being oriented respondents",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4980,781,5761,3,1,1,1,1,1,1,2,2,2,1,1,2,2,1,1,1,0,0,1,0,1,1,0,1,0,1.375,1.0,0.5714285714285714
+R0371,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5025,793,5818,3,0,1,1,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0321,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4890,813,5703,3,0,2,2,2,2,2,2,1,1,2,2,1,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.4444444444444444,1.7142857142857142
+R0711,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4881,792,5673,3,1,2,2,2,3,2,3,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,1,2.0,1.6666666666666667,1.7142857142857142
+R0675,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4875,803,5678,3,0,2,2,2,3,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0125,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,792,5799,3,1,1,1,1,1,0,1,2,2,1,1,2,2,1,0,1,0,0,1,1,1,2,1,1,0,1.125,0.8888888888888888,1.0
+R0606,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4875,801,5676,3,1,2,2,2,3,2,2,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0301,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5022,789,5811,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0153,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4875,821,5696,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,1,1.75,1.6666666666666667,1.7142857142857142
+R0602,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,800,5807,3,2,1,0,1,1,0,1,2,2,1,1,2,2,1,1,1,0,0,1,1,1,2,0,1,0,1.0,1.0,0.8571428571428571
+R0214,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4875,841,5716,3,0,2,2,2,3,2,2,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0167,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4893,801,5694,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.75,1.5555555555555556,1.8571428571428572
+R0373,0,"Low distress, well-being oriented respondents",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4983,794,5777,3,2,1,1,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1.125,0.5555555555555556,0.5714285714285714
+R0441,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,785,5792,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0127,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5010,780,5790,3,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0736,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5016,786,5802,3,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0632,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,784,5791,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0358,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4875,820,5695,3,1,2,2,2,3,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.875,1.6666666666666667,1.8571428571428572
+R0182,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,799,5806,3,0,1,1,1,1,0,1,2,2,1,1,2,2,1,1,2,0,0,1,1,1,2,1,2,0,1.125,1.1111111111111112,1.1428571428571428
+R0504,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5013,788,5801,3,1,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0447,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5025,796,5821,3,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0134,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,791,5798,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0790,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5013,799,5812,3,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0464,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,784,5791,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0760,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5013,782,5795,3,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0682,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,787,5794,3,1,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0448,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4893,796,5689,3,0,2,2,2,3,2,3,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,2.0,1.7777777777777777,2.0
+R0238,0,"Low distress, well-being oriented respondents",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,782,5783,3,0,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1.0,0.5555555555555556,0.5714285714285714
+R0322,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4884,802,5686,3,1,2,2,2,2,2,2,1,1,2,2,1,2,1,2,1,1,0,2,2,2,2,1,2,1,1.75,1.3333333333333333,1.7142857142857142
+R0056,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5025,782,5807,3,2,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0313,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4998,773,5771,3,1,1,1,1,1,1,2,2,2,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,1,1.375,1.0,0.8571428571428571
+R0416,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4875,790,5665,3,0,3,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,2,2,3,2,1,2,2,2.0,1.8888888888888888,2.0
+R0126,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,780,5781,3,0,1,1,1,1,0,1,2,2,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,0,1.125,0.8888888888888888,0.7142857142857143
+R0347,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5025,784,5809,3,1,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0345,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5013,785,5798,3,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0060,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,777,5784,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.4444444444444444,0.5714285714285714
+R0184,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5028,779,5807,3,0,1,1,1,1,0,1,2,2,1,1,2,2,1,0,1,0,0,1,1,1,2,1,1,0,1.125,0.8888888888888888,1.0
+R0111,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,785,5792,3,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0451,0,"Low distress, well-being oriented respondents",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4974,779,5753,3,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1.25,0.7777777777777778,0.5714285714285714
+R0678,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5016,789,5805,3,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1.25,0.7777777777777778,0.8571428571428571
+R0281,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4998,790,5788,3,2,1,1,1,1,1,2,2,2,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,1,1.375,1.0,0.8571428571428571
+R0335,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5016,780,5796,3,1,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0644,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4875,825,5700,3,0,3,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,2,2,3,2,1,2,2,2.0,1.8888888888888888,2.0
+R0459,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,779,5786,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0272,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5022,795,5817,3,1,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0638,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5025,798,5823,3,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0424,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5022,783,5805,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0180,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4893,792,5685,3,1,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.75,1.5555555555555556,1.8571428571428572
+R0722,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5028,798,5826,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0328,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5022,787,5809,3,2,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0480,0,"Low distress, well-being oriented respondents",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4983,774,5757,3,1,1,1,1,1,1,2,1,1,1,1,2,2,1,1,2,0,0,1,0,1,1,0,1,0,1.125,1.1111111111111112,0.5714285714285714
+R0482,0,"Low distress, well-being oriented respondents",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4983,763,5746,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1.125,0.5555555555555556,0.4285714285714285
+R0685,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,779,5786,3,0,1,1,1,1,0,1,2,2,1,1,2,2,1,0,1,0,0,1,1,1,2,1,1,0,1.125,0.8888888888888888,1.0
+R0583,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5016,773,5789,3,1,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0502,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,802,5809,3,1,1,1,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0715,2,"Lower distress, highly educated male profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5025,788,5813,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143

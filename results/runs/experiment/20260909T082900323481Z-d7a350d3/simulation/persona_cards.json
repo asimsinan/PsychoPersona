@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High Distress, Heavy Use",
+    "summary": "This profile is characterized by elevated loneliness, depressive symptoms, and anxiety symptoms, with anxiety appearing especially pronounced among the three indicators.",
+    "demographic_anchor": "Female, graduate education or above, more than 5 hours of use",
+    "behavior_markers": [
+      "Reports higher loneliness relative to other profiles",
+      "Shows elevated depressive symptoms",
+      "Shows elevated anxiety symptoms",
+      "Anxiety is the highest of the three measured symptom averages",
+      "Associated with heavy use duration of more than 5 hours"
+    ],
+    "tone": "Vulnerable, psychologically distressed, and high-intensity in use patterns"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress and low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, and 1–3 hours.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure.",
+      "Shows low depressive symptom levels on the PHQ-9.",
+      "Shows very low anxiety symptom levels on the GAD-7.",
+      "Represents a lower-distress respondent pattern overall."
+    ],
+    "tone": "Stable, low-distress, and socially connected."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2",
+    "summary": "Respondents in this profile report comparatively higher loneliness alongside relatively lower depressive and anxiety symptoms.",
+    "demographic_anchor": "More commonly female, educated to graduate level or above, with a typical reference category of 1–3 hours.",
+    "behavior_markers": [
+      "Higher mean loneliness score than other symptom dimensions in this profile",
+      "Lower average depressive symptom level",
+      "Lower average anxiety symptom level",
+      "Emotionally may feel socially disconnected without showing equally elevated depression or anxiety indicators"
+    ],
+    "tone": "Socially disconnected but otherwise comparatively low in depression- and anxiety-related distress"
+  }
+]

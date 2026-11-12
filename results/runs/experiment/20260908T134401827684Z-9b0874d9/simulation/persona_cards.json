@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, socially connected profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Primarily male, educated to graduate level or above, with a typical reported duration of 1-3 hours.",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness scores than higher-distress profiles",
+      "Low PHQ-9 depressive symptom levels",
+      "Very low GAD-7 anxiety symptom levels",
+      "Pattern suggests relatively strong social connectedness and emotional stability within the sample"
+    ],
+    "tone": "Calm, stable, and comparatively well-adjusted"
+  },
+  {
+    "profile_id": 1,
+    "label": "High loneliness, depression, and anxiety",
+    "summary": "Respondents in this profile show comparatively elevated loneliness, depressive symptoms, and anxiety symptoms, with anxiety appearing especially pronounced among the three indicators.",
+    "demographic_anchor": "Typically female, educated to graduate level or above, and reporting more than 5 hours.",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 measure",
+      "Shows elevated depressive symptoms on the PHQ-9",
+      "Shows elevated anxiety symptoms on the GAD-7",
+      "Anxiety is the highest of the three mean symptom indicators in this profile"
+    ],
+    "tone": "Vulnerable and psychologically burdened"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness and low levels of depressive and anxiety symptoms.",
+    "demographic_anchor": "Typically anchored by male respondents with graduate-level education or higher and 1-3 hours as the referenced duration category.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness mean (1.25)",
+      "Low PHQ-9 depression mean (0.81)",
+      "Low GAD-7 anxiety mean (0.84)",
+      "Large training-split subgroup (n=335)"
+    ],
+    "tone": "Stable, low-distress, and socially less isolated"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "persona_card",
+    "prompt_tokens": 202,
+    "completion_tokens": 406,
+    "total_tokens": 608,
+    "response_id": "gen-1794430985-xQRmw5Awkm2DuXL36umf"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "persona_card",
+    "prompt_tokens": 226,
+    "completion_tokens": 474,
+    "total_tokens": 700,
+    "response_id": "gen-1794430990-dBH4rnG1AjzOZSTQatEU"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "persona_card",
+    "prompt_tokens": 228,
+    "completion_tokens": 417,
+    "total_tokens": 645,
+    "response_id": "gen-1794430995-yU7fr7OlZJhqKpF5YHJh"
+  }
+]

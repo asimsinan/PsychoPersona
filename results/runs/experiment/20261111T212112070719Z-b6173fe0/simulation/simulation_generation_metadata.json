@@ -1,0 +1,642 @@
+[
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 116,
+    "total_tokens": 564,
+    "response_id": "gen-1794432085-ogH7G4p07C1T3nfNcYWj"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 100,
+    "total_tokens": 548,
+    "response_id": "gen-1794432085-tdbEoO85ewPMnIQsfX5m"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 103,
+    "total_tokens": 551,
+    "response_id": "gen-1794432085-YKkREhltcVLjuL9neiRi"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 100,
+    "total_tokens": 548,
+    "response_id": "gen-1794432085-J68RTIWpYrDmtm9G69j8"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 457,
+    "completion_tokens": 96,
+    "total_tokens": 553,
+    "response_id": "gen-1794432087-U2eqZUVzLGxUxivrBrPz"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 99,
+    "total_tokens": 559,
+    "response_id": "gen-1794432087-AzhT2V39k0C2D4IdTVmP"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 446,
+    "completion_tokens": 120,
+    "total_tokens": 566,
+    "response_id": "gen-1794432087-G6k9BVaOqIQB10iafn55"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 117,
+    "total_tokens": 565,
+    "response_id": "gen-1794432089-A3ds17OJe9yLXUl8uCb4"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 106,
+    "total_tokens": 554,
+    "response_id": "gen-1794432089-WUo73DYc1SpjOH04oVBt"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 115,
+    "total_tokens": 563,
+    "response_id": "gen-1794432090-eAiFsyJO1j3C2HOUp0r0"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 99,
+    "total_tokens": 547,
+    "response_id": "gen-1794432090-Z19TP7bDDcVdIDMofzZx"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 461,
+    "completion_tokens": 99,
+    "total_tokens": 560,
+    "response_id": "gen-1794432092-oFldqq5b3yUEiL8DYSeB"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 103,
+    "total_tokens": 563,
+    "response_id": "gen-1794432094-Y8Qdo21PTL6MCgphp336"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 100,
+    "total_tokens": 560,
+    "response_id": "gen-1794432094-4DeFpebkhPzzi51QbMcT"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 450,
+    "completion_tokens": 99,
+    "total_tokens": 549,
+    "response_id": "gen-1794432094-VCftx760tfTMuIPb6rAG"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 454,
+    "completion_tokens": 99,
+    "total_tokens": 553,
+    "response_id": "gen-1794432095-Kzo86ks2naG3X1bffgqI"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 108,
+    "total_tokens": 556,
+    "response_id": "gen-1794432096-gIoINStuatC5oc7725ga"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 457,
+    "completion_tokens": 111,
+    "total_tokens": 568,
+    "response_id": "gen-1794432096-1pkngydpumIJ3z8JUxEO"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 461,
+    "completion_tokens": 98,
+    "total_tokens": 559,
+    "response_id": "gen-1794432098-gw3FYpC36mvEkdHX7IHF"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 115,
+    "total_tokens": 563,
+    "response_id": "gen-1794432099-FvcKm7IcH2ys9ckf4Z9K"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 453,
+    "completion_tokens": 103,
+    "total_tokens": 556,
+    "response_id": "gen-1794432099-E5qf0OOLPuSmbxa0Hpt3"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 107,
+    "total_tokens": 555,
+    "response_id": "gen-1794432100-DjEBRF5e4iGeWMpUJzkn"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 107,
+    "total_tokens": 555,
+    "response_id": "gen-1794432100-XyNY0J1uoBnssjvsmvmx"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 99,
+    "total_tokens": 547,
+    "response_id": "gen-1794432101-8feAoTwVZtSujj4rIq6L"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 445,
+    "completion_tokens": 98,
+    "total_tokens": 543,
+    "response_id": "gen-1794432101-Dw8S3qX1V9333ZcVPm5F"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 114,
+    "total_tokens": 562,
+    "response_id": "gen-1794432102-s3NHbaA0XMLkPpaxJ9ii"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 121,
+    "total_tokens": 569,
+    "response_id": "gen-1794432103-M8zE84sWTm5jVGFaGRIK"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 98,
+    "total_tokens": 558,
+    "response_id": "gen-1794432104-AdTYACd0uffanQeVoBxi"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 121,
+    "total_tokens": 581,
+    "response_id": "gen-1794432104-2WqoLqYrCWIMAm4xmzIo"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 459,
+    "completion_tokens": 118,
+    "total_tokens": 577,
+    "response_id": "gen-1794432106-Z6ly3vswbWxAAOgf9sSn"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 457,
+    "completion_tokens": 105,
+    "total_tokens": 562,
+    "response_id": "gen-1794432106-FFCDZTL7Ix8mfjLSr1ng"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 459,
+    "completion_tokens": 99,
+    "total_tokens": 558,
+    "response_id": "gen-1794432106-HSn0FpVOn4KdRXFa08sL"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 449,
+    "completion_tokens": 113,
+    "total_tokens": 562,
+    "response_id": "gen-1794432107-aZhuPKNntiAir5yqgrAU"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 115,
+    "total_tokens": 563,
+    "response_id": "gen-1794432108-nH65h5iIoAht5rFiXPJO"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 99,
+    "total_tokens": 547,
+    "response_id": "gen-1794432109-VFgKk7eVD6TOMLNE2Ovf"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 459,
+    "completion_tokens": 99,
+    "total_tokens": 558,
+    "response_id": "gen-1794432110-L74idEqYukk7YSBL72p8"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 459,
+    "completion_tokens": 125,
+    "total_tokens": 584,
+    "response_id": "gen-1794432110-wCmBE7bCAeoLIzBiBRnr"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 120,
+    "total_tokens": 580,
+    "response_id": "gen-1794432111-El5cu1CnQeEK624wItas"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 459,
+    "completion_tokens": 100,
+    "total_tokens": 559,
+    "response_id": "gen-1794432111-ssptLevFKmIOYk8rzxFu"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 105,
+    "total_tokens": 553,
+    "response_id": "gen-1794432112-OLByX1rBndLSLbmzF0Ri"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 457,
+    "completion_tokens": 126,
+    "total_tokens": 583,
+    "response_id": "gen-1794432113-xR3BiaHKBfl0xG5UWhuT"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 111,
+    "total_tokens": 559,
+    "response_id": "gen-1794432114-XH0CtOThYIUIIUArESpL"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 119,
+    "total_tokens": 567,
+    "response_id": "gen-1794432114-yL6obXVRqhmLMrcs7BSo"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 99,
+    "total_tokens": 547,
+    "response_id": "gen-1794432114-1Lah2CNyDQha8TSspGRT"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 119,
+    "total_tokens": 567,
+    "response_id": "gen-1794432116-s8ZXp1qAQkyZIFo3nhQW"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 113,
+    "total_tokens": 561,
+    "response_id": "gen-1794432116-juOvta8Od6NAbrKlc3WQ"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 98,
+    "total_tokens": 558,
+    "response_id": "gen-1794432116-2QyjoUGOV4EkKfneMwic"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 450,
+    "completion_tokens": 100,
+    "total_tokens": 550,
+    "response_id": "gen-1794432116-XEk7TjBNlSDfo2Y1qUnM"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 96,
+    "total_tokens": 544,
+    "response_id": "gen-1794432119-boRPFADrnklfsLUKL9JU"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 99,
+    "total_tokens": 547,
+    "response_id": "gen-1794432119-nANHL3j2FSYRGbHfkzDX"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 115,
+    "total_tokens": 563,
+    "response_id": "gen-1794432119-wrdVSC9POBtTOAJiNh3C"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 453,
+    "completion_tokens": 98,
+    "total_tokens": 551,
+    "response_id": "gen-1794432120-Yayi5JRtsvCrGHtQmLO7"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 117,
+    "total_tokens": 565,
+    "response_id": "gen-1794432121-VtLUJlPdR54iuQPmyCQS"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 102,
+    "total_tokens": 562,
+    "response_id": "gen-1794432121-9B7XCLsh1SgPd3ff2BuY"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 100,
+    "total_tokens": 560,
+    "response_id": "gen-1794432122-yefKUuVskaat4j627zkI"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 106,
+    "total_tokens": 554,
+    "response_id": "gen-1794432122-mMBb0sjY7H1LhhfwBYpE"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 117,
+    "total_tokens": 565,
+    "response_id": "gen-1794432123-eA5BLfovR69WrLpE0b2X"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 98,
+    "total_tokens": 558,
+    "response_id": "gen-1794432124-K18VDYlldAlU7UpbQRIX"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 461,
+    "completion_tokens": 103,
+    "total_tokens": 564,
+    "response_id": "gen-1794432124-Lc7saCa2ya1BbC4MhaWV"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 111,
+    "total_tokens": 559,
+    "response_id": "gen-1794432124-09MoFghKE1oIIZIVLiDu"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 445,
+    "completion_tokens": 121,
+    "total_tokens": 566,
+    "response_id": "gen-1794432126-kuTMW9cyAQajaSZlbVix"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 99,
+    "total_tokens": 547,
+    "response_id": "gen-1794432126-GPXoxScQIjJ36eXK3USX"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 99,
+    "total_tokens": 547,
+    "response_id": "gen-1794432126-cC0qBWmeRhDk5duEOhKX"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 459,
+    "completion_tokens": 105,
+    "total_tokens": 564,
+    "response_id": "gen-1794432127-Dt49kurgBmmKwFyQpBFs"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 98,
+    "total_tokens": 558,
+    "response_id": "gen-1794432129-WfAaYYp6pITgsWaN0dXo"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 450,
+    "completion_tokens": 107,
+    "total_tokens": 557,
+    "response_id": "gen-1794432129-JQiovR6KdHiHif8yeTGC"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 446,
+    "completion_tokens": 98,
+    "total_tokens": 544,
+    "response_id": "gen-1794432129-EVr835RUcd1ctV36zJvU"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 96,
+    "total_tokens": 556,
+    "response_id": "gen-1794432129-1XUkJFbBjgbWhH9oY9ue"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 457,
+    "completion_tokens": 98,
+    "total_tokens": 555,
+    "response_id": "gen-1794432131-BdPj88SjLK1DKXCcoWyp"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 109,
+    "total_tokens": 557,
+    "response_id": "gen-1794432132-Q6ML5VZgeCEZRNYO07DN"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 444,
+    "completion_tokens": 121,
+    "total_tokens": 565,
+    "response_id": "gen-1794432132-fhkadhUOuWGm0PCmRcbt"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 113,
+    "total_tokens": 561,
+    "response_id": "gen-1794432132-zpnyq7AI3l4AXxMWfqJ0"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 116,
+    "total_tokens": 564,
+    "response_id": "gen-1794432133-f52adiBDNkGfnQrvNTiC"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 448,
+    "completion_tokens": 118,
+    "total_tokens": 566,
+    "response_id": "gen-1794432134-hbTJYlons7dFAIs5xpSp"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 459,
+    "completion_tokens": 106,
+    "total_tokens": 565,
+    "response_id": "gen-1794432135-NGMb6b7hlU2phP9dZ0MQ"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 446,
+    "completion_tokens": 114,
+    "total_tokens": 560,
+    "response_id": "gen-1794432135-OFF6ql8jDR5c4h1C4pg8"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 111,
+    "total_tokens": 571,
+    "response_id": "gen-1794432136-Lls5E3UCoryzmNrRwtqZ"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 106,
+    "total_tokens": 566,
+    "response_id": "gen-1794432137-zkfnhguWWS9fzzQiHHGP"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 458,
+    "completion_tokens": 106,
+    "total_tokens": 564,
+    "response_id": "gen-1794432137-PE0cRtSwnf8Yev3keEPq"
+  },
+  {
+    "model_id": "qwen/qwen3.8-27b",
+    "preset_name": "primary",
+    "prompt_tokens": 460,
+    "completion_tokens": 102,
+    "total_tokens": 562,
+    "response_id": "gen-1794432137-K32WEiAazQxILnPQerDG"
+  }
+]

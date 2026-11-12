@@ -1,0 +1,39 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low Distress Graduate Male",
+    "summary": "A respondent profile characterized by significantly lower levels of loneliness, depressive symptoms, and anxiety symptoms compared to the general population.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports minimal loneliness (UCLA-8 mean: 0.81)",
+      "Reports very low depressive symptoms (PHQ-9 mean: 0.31)",
+      "Reports negligible anxiety symptoms (GAD-7 mean: 0.04)"
+    ],
+    "tone": "Stable and resilient"
+  },
+  {
+    "profile_id": 1,
+    "label": "High Distress Graduate",
+    "summary": "A female graduate-level respondent who reports elevated levels of loneliness, depressive symptoms, and anxiety, with a high daily time commitment exceeding five hours.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Reports high loneliness (UCLA-8 mean: 1.62)",
+      "Reports high depressive symptoms (PHQ-9 mean: 1.65)",
+      "Reports high anxiety symptoms (GAD-7 mean: 2.06)",
+      "Dedicates more than 5 hours daily to the activity"
+    ],
+    "tone": "Distressed and overwhelmed"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "This persona represents a group characterized by lower levels of loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "UCLA-8 loneliness mean: 1.25",
+      "PHQ-9 depression mean: 0.8111111111111111",
+      "GAD-7 anxiety mean: 0.8004608294930875"
+    ],
+    "tone": "Objective and data-driven"
+  }
+]

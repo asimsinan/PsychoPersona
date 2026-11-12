@@ -1,0 +1,85 @@
+dataset,arm,model,split,echo
+anket_tr,BBP,Claude Opus 4.6,final_test,1.0
+anket_tr,BBP,Claude Opus 4.6,validation,0.9701492537313433
+anket_tr,BBP,GPT-5.4,final_test,1.0
+anket_tr,BBP,GPT-5.4,validation,0.9701492537313433
+anket_tr,BBP,Gemini 3.1 Pro,final_test,1.0
+anket_tr,BBP,Gemini 3.1 Pro,validation,0.9701492537313433
+anket_tr,BPP,Claude Opus 4.6,final_test,1.0
+anket_tr,BPP,Claude Opus 4.6,validation,0.9701492537313433
+anket_tr,BPP,GPT-5.4,final_test,1.0
+anket_tr,BPP,GPT-5.4,validation,0.9850746268656716
+anket_tr,BPP,Gemini 3.1 Pro,final_test,1.0
+anket_tr,BPP,Gemini 3.1 Pro,validation,0.9701492537313433
+anket_tr,FPNP,Claude Opus 4.6,final_test,1.0
+anket_tr,FPNP,Claude Opus 4.6,validation,0.9701492537313433
+anket_tr,FPNP,GPT-5.4,final_test,1.0
+anket_tr,FPNP,GPT-5.4,validation,0.9701492537313433
+anket_tr,FPNP,Gemini 3.1 Pro,final_test,1.0
+anket_tr,FPNP,Gemini 3.1 Pro,validation,0.9552238805970149
+anket_tr,HC,Claude Opus 4.6,final_test,0.5735294117647058
+anket_tr,HC,Claude Opus 4.6,validation,0.7910447761194029
+anket_tr,HC,GPT-5.4,final_test,0.5882352941176471
+anket_tr,HC,GPT-5.4,validation,0.7761194029850746
+anket_tr,HC,Gemini 3.1 Pro,final_test,0.5882352941176471
+anket_tr,HC,Gemini 3.1 Pro,validation,0.7761194029850746
+anket_tr,SADP,Claude Opus 4.6,final_test,1.0
+anket_tr,SADP,Claude Opus 4.6,validation,0.9552238805970149
+anket_tr,SADP,GPT-5.4,final_test,1.0
+anket_tr,SADP,GPT-5.4,validation,0.9552238805970149
+anket_tr,SADP,Gemini 3.1 Pro,final_test,1.0
+anket_tr,SADP,Gemini 3.1 Pro,validation,0.9552238805970149
+anket_tr,SCP,Claude Opus 4.6,final_test,1.0
+anket_tr,SCP,Claude Opus 4.6,validation,0.9701492537313433
+anket_tr,SCP,GPT-5.4,final_test,1.0
+anket_tr,SCP,GPT-5.4,validation,0.9701492537313433
+anket_tr,SCP,Gemini 3.1 Pro,final_test,1.0
+anket_tr,SCP,Gemini 3.1 Pro,validation,0.9701492537313433
+anket_tr,TPSAP,Claude Opus 4.6,final_test,1.0
+anket_tr,TPSAP,Claude Opus 4.6,validation,0.9552238805970149
+anket_tr,TPSAP,GPT-5.4,final_test,1.0
+anket_tr,TPSAP,GPT-5.4,validation,0.9552238805970149
+anket_tr,TPSAP,Gemini 3.1 Pro,final_test,0.8970588235294118
+anket_tr,TPSAP,Gemini 3.1 Pro,validation,0.9552238805970149
+bangladesh_sns,BBP,Claude Opus 4.6,final_test,1.0
+bangladesh_sns,BBP,Claude Opus 4.6,validation,1.0
+bangladesh_sns,BBP,GPT-5.4,final_test,1.0
+bangladesh_sns,BBP,GPT-5.4,validation,1.0
+bangladesh_sns,BBP,Gemini 3.1 Pro,final_test,1.0
+bangladesh_sns,BBP,Gemini 3.1 Pro,validation,1.0
+bangladesh_sns,BPP,Claude Opus 4.6,final_test,1.0
+bangladesh_sns,BPP,Claude Opus 4.6,validation,1.0
+bangladesh_sns,BPP,GPT-5.4,final_test,1.0
+bangladesh_sns,BPP,GPT-5.4,validation,1.0
+bangladesh_sns,BPP,Gemini 3.1 Pro,final_test,1.0
+bangladesh_sns,BPP,Gemini 3.1 Pro,validation,1.0
+bangladesh_sns,FPNP,Claude Opus 4.6,final_test,1.0
+bangladesh_sns,FPNP,Claude Opus 4.6,validation,1.0
+bangladesh_sns,FPNP,GPT-5.4,final_test,1.0
+bangladesh_sns,FPNP,GPT-5.4,validation,1.0
+bangladesh_sns,FPNP,Gemini 3.1 Pro,final_test,1.0
+bangladesh_sns,FPNP,Gemini 3.1 Pro,validation,1.0
+bangladesh_sns,HC,Claude Opus 4.6,final_test,1.0
+bangladesh_sns,HC,Claude Opus 4.6,validation,1.0
+bangladesh_sns,HC,GPT-5.4,final_test,1.0
+bangladesh_sns,HC,GPT-5.4,validation,1.0
+bangladesh_sns,HC,Gemini 3.1 Pro,final_test,1.0
+bangladesh_sns,HC,Gemini 3.1 Pro,validation,1.0
+bangladesh_sns,SADP,Claude Opus 4.6,final_test,1.0
+bangladesh_sns,SADP,Claude Opus 4.6,validation,1.0
+bangladesh_sns,SADP,GPT-5.4,final_test,1.0
+bangladesh_sns,SADP,GPT-5.4,validation,1.0
+bangladesh_sns,SADP,Gemini 3.1 Pro,final_test,1.0
+bangladesh_sns,SADP,Gemini 3.1 Pro,validation,1.0
+bangladesh_sns,SCP,Claude Opus 4.6,final_test,1.0
+bangladesh_sns,SCP,Claude Opus 4.6,validation,1.0
+bangladesh_sns,SCP,GPT-5.4,final_test,1.0
+bangladesh_sns,SCP,GPT-5.4,validation,1.0
+bangladesh_sns,SCP,Gemini 3.1 Pro,final_test,1.0
+bangladesh_sns,SCP,Gemini 3.1 Pro,validation,1.0
+bangladesh_sns,TPSAP,Claude Opus 4.6,final_test,1.0
+bangladesh_sns,TPSAP,Claude Opus 4.6,validation,1.0
+bangladesh_sns,TPSAP,GPT-5.4,final_test,1.0
+bangladesh_sns,TPSAP,GPT-5.4,validation,1.0
+bangladesh_sns,TPSAP,Gemini 3.1 Pro,final_test,1.0
+bangladesh_sns,TPSAP,Gemini 3.1 Pro,validation,1.0

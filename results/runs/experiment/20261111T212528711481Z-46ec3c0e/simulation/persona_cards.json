@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-distress, well-educated female with light daily engagement",
+    "summary": "This profile reflects respondents with comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms. It appears to represent a relatively emotionally stable group with light-to-moderate daily engagement.",
+    "demographic_anchor": "Female, graduate degree or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports lower loneliness on average",
+      "Shows low average depressive symptom levels",
+      "Shows very low average anxiety symptom levels",
+      "Anchored in a highly educated female subgroup",
+      "Associated with 1-3 hours of daily engagement"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Highly distressed, socially isolated female heavy user",
+    "summary": "This profile is characterized by elevated loneliness alongside comparatively high depressive and anxiety symptoms. It represents respondents with a heavier daily-use pattern and a clear concentration of emotional distress indicators.",
+    "demographic_anchor": "Female respondents, educated to graduate level or above, who report more than 5 hours of daily use.",
+    "behavior_markers": [
+      "Reports elevated loneliness relative to other profiles",
+      "Shows comparatively high depressive symptom levels",
+      "Shows comparatively high anxiety symptom levels",
+      "Associated with more than 5 hours of daily use",
+      "Demographically anchored in female, highly educated respondents"
+    ],
+    "tone": "Vulnerable, distressed, and socially isolated"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Most characteristically represented by a male respondent with graduate-level education or above and 1-3 hours in the referenced duration category.",
+    "behavior_markers": [
+      "Low average loneliness score on the UCLA-8",
+      "Low average depressive symptom score on the PHQ-9",
+      "Low average anxiety symptom score on the GAD-7",
+      "Overall pattern suggests relatively low emotional distress across measures"
+    ],
+    "tone": "Stable, low-distress, and comparatively socially connected"
+  }
+]

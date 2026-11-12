@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Bu profil, yüksek dijital kullanım, belirgin sosyal kaygı ve düşük iyi oluş düzeyi ile karakterize edilir. Veriler, bu grubun dijital bağımlılık ve sosyal kaygı puanlarının ortalamanın üzerinde, iyi oluş puanının ise görece düşük olduğunu göstermektedir.",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Yüksek dijital kullanım",
+      "Yüksek sosyal kaygı",
+      "Düşük iyi oluş"
+    ],
+    "tone": "Veri odaklı ve nötr"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Düşük dijital kullanım, düşük sosyal kaygı ve yüksek iyi oluş düzeyine sahip öğrenci grubu.",
+    "demographic_anchor": "Kadın, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 2.59",
+      "Sosyal kaygı ortalaması: 2.25",
+      "İyi oluş ortalaması: 3.77"
+    ],
+    "tone": "Dengeli ve pozitif"
+  },
+  {
+    "profile_id": 2,
+    "label": "Düşük Dijital Kullanım ve Düşük Sosyal Kaygı Grubu",
+    "summary": "Bu profil, dijital bağımlılık, sosyal kaygı ve iyi oluş düzeylerinin genel olarak düşük seyrettiği bir grup olarak öne çıkmaktadır. Katılımcılar, dijital cihaz kullanımında sınırlı bir tutum sergilerken sosyal ortamlarda belirgin bir kaygı yaşamamaktadır. Ancak bu durum, genel psikolojik iyi oluş düzeylerinin de düşük olmasına eşlik etmektedir. Veriler, bu grubun dijital dünyadan uzak durma eğiliminin sosyal rahatlıkla bir arada var olduğunu ancak bu durumun mutluluk veya tatmin duygusunu artırmadığını göstermektedir.",
+    "demographic_anchor": "Erkek, Ön lisans, Günde 4-6 saat",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık (Ortalama: 1.59)",
+      "Düşük sosyal kaygı (Ortalama: 1.61)",
+      "Düşük iyi oluş (Ortalama: 1.56)"
+    ],
+    "tone": "Nötr ve gözlemci"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş düzeyi daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.69 düzeyindedir.",
+      "Sosyal kaygı ortalaması 2.80 düzeyindedir.",
+      "İyi oluş ortalaması 3.19 düzeyindedir.",
+      "Örneklemde bu profile atanan kişi sayısı 121'dir."
+    ],
+    "tone": "Veri odaklı, dikkatli ve destek ihtimali bulunan bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım ve dijital bağımlılık düzeyi görece düşük, sosyal kaygı ortalaması düşük ve iyi oluş düzeyi yüksek görünen öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (2.59).",
+      "Sosyal kaygı ortalaması düşüktür (2.25).",
+      "İyi oluş ortalaması yüksektir (3.77).",
+      "Eğitim örnekleminde bu profile dahil 366 kişi bulunmaktadır."
+    ],
+    "tone": "Dengeli, görece düşük riskli ve iyi oluşu güçlü bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım, sosyal kaygı ve iyi oluş ortalamaları örneklem içinde düşük düzeyde görünen bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.592).",
+      "Sosyal kaygı ortalaması düşüktür (1.607).",
+      "İyi oluş ortalaması düşüktür (1.557).",
+      "Eğitim örnekleminde 50 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Düşük dijital kullanım ve düşük sosyal kaygı ile birlikte düşük iyi oluş gösteren, görece sakin ancak iyi oluş açısından sınırlı bir profil."
+  }
+]

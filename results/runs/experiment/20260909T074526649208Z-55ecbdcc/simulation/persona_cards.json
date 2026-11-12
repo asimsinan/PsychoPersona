@@ -1,0 +1,44 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Digitally Immersed & Emotionally Distressed",
+    "summary": "This profile represents highly educated women who spend more than 5 hours daily online and report elevated levels of loneliness, depressive symptoms, and anxiety. Their UCLA-8 loneliness score (1.74), PHQ-9 depression score (1.75), and GAD-7 anxiety score (2.17) all sit in the higher range, suggesting a pattern of co-occurring emotional distress. Despite advanced educational attainment, heavy digital engagement does not appear to buffer against psychological difficulties, and may coincide with social isolation and mental health challenges.",
+    "demographic_anchor": "Female, graduate-level education or above, more than 5 hours of daily screen/internet use",
+    "behavior_markers": [
+      "Elevated loneliness scores indicating perceived social disconnection",
+      "Higher depressive symptom severity suggesting persistent low mood and functional impact",
+      "Notably high anxiety symptoms, the most pronounced of the three distress indicators",
+      "Extensive daily digital engagement exceeding 5 hours",
+      "Co-occurrence of loneliness, depression, and anxiety forming a compounded distress pattern"
+    ],
+    "tone": "Concerned and empathetic, reflecting significant emotional burden across multiple mental health dimensions"
+  },
+  {
+    "profile_id": 1,
+    "label": "Well-Adjusted Male Graduate",
+    "summary": "This profile represents respondents who report notably low levels of loneliness, depressive symptoms, and anxiety symptoms. With UCLA-8 loneliness, PHQ-9 depression, and GAD-7 anxiety scores all well below typical thresholds, these individuals appear to be psychologically well-adjusted and emotionally stable. They spend a moderate amount of time (1–3 hours) on activities captured in the study, suggesting balanced engagement rather than excessive or minimal use.",
+    "demographic_anchor": "Male, graduate-level education or above, 1–3 hours of daily usage",
+    "behavior_markers": [
+      "Reports very low loneliness scores (UCLA-8 mean ≈ 0.77)",
+      "Exhibits minimal depressive symptoms (PHQ-9 mean ≈ 0.33)",
+      "Shows near-floor anxiety levels (GAD-7 mean ≈ 0.09)",
+      "Engages in moderate daily usage of 1–3 hours, suggesting balanced habits",
+      "Belongs to a relatively well-represented group (n = 150) indicating a common, stable profile"
+    ],
+    "tone": "Calm, stable, and emotionally grounded"
+  },
+  {
+    "profile_id": 2,
+    "label": "Lonely but Emotionally Resilient",
+    "summary": "This profile captures respondents who report notably elevated loneliness yet maintain relatively low levels of depressive and anxiety symptoms. Despite feeling socially disconnected, they appear to manage their emotional well-being without significant clinical distress, suggesting a degree of psychological resilience or effective coping mechanisms that buffer against mood and anxiety disorders.",
+    "demographic_anchor": "Predominantly female, holding graduate-level or higher education, reporting 1–3 hours of daily screen time or social media use",
+    "behavior_markers": [
+      "Elevated loneliness scores (UCLA-8 mean ~1.30) indicating moderate-to-high perceived social isolation",
+      "Below-average depressive symptom severity (PHQ-9 mean ~0.86) suggesting subclinical mood levels",
+      "Below-average anxiety symptom severity (GAD-7 mean ~0.91) indicating minimal anxious distress",
+      "Relatively limited daily screen/media engagement (1–3 hours), possibly reflecting structured routines",
+      "Disconnect between social isolation feelings and affective symptom burden, suggesting compensatory coping"
+    ],
+    "tone": "Quietly isolated yet emotionally composed; reflective and self-sufficient rather than distressed"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress and low loneliness",
+    "summary": "Respondents in this profile report relatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "More likely to be male, have graduate-level education or above, and report 1–3 hours.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness score on average (mean 0.791)",
+      "Low PHQ-9 depression score on average (mean 0.28)",
+      "Very low GAD-7 anxiety score on average (mean 0.037)",
+      "Profile size in training split: 125 respondents"
+    ],
+    "tone": "Stable, low-distress, and generally well-adjusted"
+  },
+  {
+    "profile_id": 1,
+    "label": "High distress profile",
+    "summary": "Respondents in this profile report comparatively higher loneliness along with elevated depressive and anxiety symptoms.",
+    "demographic_anchor": "More commonly anchored by female respondents with graduate-level education or above and more than 5 hours in the referenced time category.",
+    "behavior_markers": [
+      "Higher reported loneliness (UCLA-8 mean 1.66)",
+      "Higher depressive symptoms (PHQ-9 mean 1.65)",
+      "Highest elevation is in anxiety symptoms (GAD-7 mean 2.10)",
+      "Pattern reflects broad emotional distress across loneliness, depression, and anxiety indicators"
+    ],
+    "tone": "Emotionally burdened, socially disconnected, and anxious"
+  },
+  {
+    "profile_id": 2,
+    "label": "Lower distress, emotionally stable respondents",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms, indicating a generally emotionally stable and lower-distress pattern.",
+    "demographic_anchor": "More likely to be female, have graduate-level education or above, and report 1-3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Low average loneliness (UCLA-8 mean 1.21)",
+      "Low average depressive symptoms (PHQ-9 mean 0.82)",
+      "Low average anxiety symptoms (GAD-7 mean 0.79)",
+      "Overall pattern reflects relatively low emotional distress across indicators"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  }
+]

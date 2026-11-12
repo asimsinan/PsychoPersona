@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, highly educated male profile",
+    "summary": "This profile is characterized by comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Male respondent, graduate education or above, with 1-3 hours as the defining time-use category.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure.",
+      "Shows low average depressive symptom levels on the PHQ-9.",
+      "Shows very low average anxiety symptom levels on the GAD-7.",
+      "Represents a lower-distress respondent pattern overall.",
+      "Most strongly anchored demographically by being male and highly educated."
+    ],
+    "tone": "Stable, low-distress, and psychologically well-adjusted overall."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Respondents in this profile report comparatively higher loneliness, depressive symptoms, and anxiety symptoms than other groups in the sample.",
+    "demographic_anchor": "Typically female, educated at graduate level or above, and reporting more than 5 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Higher mean loneliness score (UCLA-8: 1.69)",
+      "Higher mean depressive symptom score (PHQ-9: 1.68)",
+      "Higher mean anxiety symptom score (GAD-7: 2.15)",
+      "Represents 178 respondents in the training split"
+    ],
+    "tone": "Vulnerable and psychologically burdened"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low Distress, Highly Educated Female",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Primarily female, with graduate-level education or higher, and associated with the 1–3 hours category.",
+    "behavior_markers": [
+      "Low mean loneliness score on the UCLA-8",
+      "Low mean depressive symptom score on the PHQ-9",
+      "Low mean anxiety symptom score on the GAD-7",
+      "Represents a relatively large subgroup in the training split (n=339)"
+    ],
+    "tone": "Generally emotionally stable and low-distress."
+  }
+]

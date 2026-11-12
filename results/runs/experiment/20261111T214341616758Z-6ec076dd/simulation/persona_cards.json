@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "This profile describes a male respondent with graduate-level education who reports very low levels of loneliness, depressive symptoms, and anxiety symptoms. The mean UCLA-8 loneliness score is 0.79, PHQ-9 depression mean is 0.28, and GAD-7 anxiety mean is 0.04, indicating minimal psychological distress across all three measures.",
+    "demographic_anchor": "Male; graduate degree or above; 1–3 hours (as specified in the profile summary).",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean 0.79)",
+      "Reports minimal depressive symptoms (PHQ-9 mean 0.28)",
+      "Reports minimal anxiety symptoms (GAD-7 mean 0.04)",
+      "Profile appears in the training split with 116 respondents"
+    ],
+    "tone": "Calm, low-distress, and emotionally stable; responses suggest minimal psychological symptom burden."
+  },
+  {
+    "profile_id": 1,
+    "label": "Elevated Distress Profile",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily media or screen use, showing higher-than-average loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily media or screen use.",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean 1.72)",
+      "Reports higher depressive symptoms (PHQ-9 mean 1.73)",
+      "Reports higher anxiety symptoms (GAD-7 mean 2.14)",
+      "Spends more than 5 hours per day on media or screen activities"
+    ],
+    "tone": "Cautious, clinically neutral, and evidence-grounded; avoids diagnostic language and emphasizes elevated symptom levels rather than clinical disorder."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, showing low loneliness and low depressive and anxiety symptoms relative to the profile set.",
+    "demographic_anchor": "Male; graduate or above; 1–3 hours.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.25)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.81)",
+      "Reports low anxiety symptoms (GAD-7 mean 0.84)",
+      "Engages in 1–3 hours of activity per day"
+    ],
+    "tone": "Calm, stable, and low-distress."
+  }
+]

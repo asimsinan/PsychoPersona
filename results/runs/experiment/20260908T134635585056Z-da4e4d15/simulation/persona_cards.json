@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, low loneliness graduate male",
+    "summary": "Reports comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms relative to other profiles.",
+    "demographic_anchor": "Male, graduate education or above, with a typical reported duration of 1-3 hours.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness score (mean 0.791)",
+      "Low PHQ-9 depression score (mean 0.28)",
+      "Very low GAD-7 anxiety score (mean 0.037)",
+      "Training-split profile size: 125"
+    ],
+    "tone": "Stable, low-distress, and relatively well-adjusted"
+  },
+  {
+    "profile_id": 1,
+    "label": "Highly distressed, heavy-use graduate woman",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms. It represents respondents with elevated emotional distress across all three indicators.",
+    "demographic_anchor": "Female respondents with graduate-level education or above and more than 5 hours of use.",
+    "behavior_markers": [
+      "Reports relatively high loneliness on the UCLA-8 indicator",
+      "Shows comparatively elevated depressive symptoms on the PHQ-9",
+      "Shows comparatively elevated anxiety symptoms on the GAD-7",
+      "Associated with heavy use duration of more than 5 hours"
+    ],
+    "tone": "Emotionally strained and vulnerable, with consistently elevated internal distress."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, highly educated female with light daily use",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms. The pattern suggests generally low emotional distress within the sample.",
+    "demographic_anchor": "Female, graduate education or above, 1-3 hours of daily use",
+    "behavior_markers": [
+      "Reports low loneliness on average",
+      "Reports low depressive symptoms on average",
+      "Reports low anxiety symptoms on average",
+      "Anchored by women with graduate-level education or higher",
+      "Associated with 1-3 hours of daily use"
+    ],
+    "tone": "Stable, low-distress, and emotionally well-adjusted"
+  }
+]

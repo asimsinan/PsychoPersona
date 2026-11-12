@@ -1,0 +1,11 @@
+{
+  "assignment": "oracle",
+  "method": "kmeans",
+  "membership": "hard",
+  "validation_n": 67,
+  "validation_oracle_agreement": 1.0,
+  "validation_distinct_assigned": 3,
+  "final_test_n": 68,
+  "final_test_oracle_agreement": 1.0,
+  "final_test_distinct_assigned": 3
+}

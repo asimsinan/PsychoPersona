@@ -1,0 +1,26 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0569,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,379,1572,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0172,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,388,1581,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0507,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,404,1597,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0579,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,393,1586,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0614,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1202,382,1584,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.5555555555555556,0.7142857142857143
+R0078,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1205,378,1583,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0163,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1191,372,1563,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0084,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,373,1566,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0669,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,380,1573,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0479,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,374,1567,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0278,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,371,1564,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0745,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1206,396,1602,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0105,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1205,372,1577,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.5555555555555556,0.7142857142857143
+R0476,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1205,381,1586,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0067,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1195,373,1568,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0428,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1199,413,1612,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0100,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,410,1603,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0322,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1202,387,1589,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0218,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1206,385,1591,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0747,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,392,1585,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0261,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1198,371,1569,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0765,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,373,1566,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0129,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,375,1568,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0311,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1193,377,1570,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0554,0,Profil 0,stability_1,v3_tr_gpt_b,qwen/qwen3.8-27b,stability,1190,375,1565,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0

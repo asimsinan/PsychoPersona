@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High Distress and Loneliness",
+    "summary": "Respondents in this profile report comparatively higher loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "More likely to be female, have graduate-level education or above, and report more than 5 hours.",
+    "behavior_markers": [
+      "Higher UCLA-8 loneliness scores",
+      "Higher PHQ-9 depressive symptom scores",
+      "Higher GAD-7 anxiety symptom scores"
+    ],
+    "tone": "Distressed, isolated, and anxious"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low Distress and Low Loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Typically male, educated to graduate level or above, and reporting 1-3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness scores than higher-distress profiles",
+      "Low PHQ-9 depressive symptom levels",
+      "Very low GAD-7 anxiety symptom levels",
+      "Relatively stable overall emotional well-being pattern"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 2,
+    "label": "Higher loneliness with comparatively lower depression and anxiety",
+    "summary": "This profile is characterized by elevated loneliness alongside comparatively lower average depressive and anxiety symptom levels. It suggests respondents who feel more socially disconnected while not showing similarly high emotional distress on depression and anxiety measures.",
+    "demographic_anchor": "More commonly represented by women with graduate-level education or higher and daily usage in the 1-3 hour range.",
+    "behavior_markers": [
+      "Reports relatively higher loneliness on the UCLA-8 measure",
+      "Shows comparatively lower depressive symptoms on the PHQ-9",
+      "Shows comparatively lower anxiety symptoms on the GAD-7",
+      "Presents a pattern of social disconnection without equally elevated depression or anxiety"
+    ],
+    "tone": "Socially disconnected but otherwise comparatively emotionally stable"
+  }
+]

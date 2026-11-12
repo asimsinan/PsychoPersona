@@ -1,0 +1,39 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profile 0",
+    "summary": "A male with graduate-level education who spends 1–3 hours on the measured activity, showing low loneliness, minimal depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Low loneliness (UCLA-8 mean 0.79)",
+      "Minimal depressive symptoms (PHQ-9 mean 0.28)",
+      "Very low anxiety symptoms (GAD-7 mean 0.04)"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Loneliness, Depression, and Anxiety Profile",
+    "summary": "This profile describes a respondent group with elevated loneliness, depressive symptoms, and anxiety symptoms relative to typical levels. The profile is anchored to female respondents with graduate-level education or above and more than five hours of some unspecified daily activity.",
+    "demographic_anchor": "Female; graduate education or above; more than 5 hours (as specified in the profile summary).",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean 1.72)",
+      "Reports higher depressive symptoms (PHQ-9 mean 1.73)",
+      "Reports higher anxiety symptoms (GAD-7 mean 2.14)"
+    ],
+    "tone": "Evidence-grounded, neutral, and descriptive; no causal or clinical claims beyond the reported means."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "This profile describes a male respondent with graduate-level education who reports low loneliness and minimal depressive and anxiety symptoms. His daily activity or engagement level falls in the 1–3 hour range. Across the three mental-health indicators, his scores are consistently low, indicating a comparatively well-adjusted emotional state.",
+    "demographic_anchor": "Male; graduate degree or above; 1–3 hours of daily activity or engagement.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean ≈ 1.25).",
+      "Reports minimal depressive symptoms (PHQ-9 mean ≈ 0.81).",
+      "Reports minimal anxiety symptoms (GAD-7 mean ≈ 0.84).",
+      "Maintains a moderate daily time allocation of 1–3 hours in the measured activity domain."
+    ],
+    "tone": "Calm, stable, and low-distress; emotionally reserved and composed."
+  }
+]

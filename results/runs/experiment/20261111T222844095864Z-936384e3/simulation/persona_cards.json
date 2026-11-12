@@ -1,0 +1,51 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Daha yüksek dijital kullanım, daha düşük sosyal kaygı ve daha yüksek iyi oluş düzeyi ile öne çıkan öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.65",
+      "Sosyal kaygı ortalaması 1.65",
+      "İyi oluş ortalaması 3.45"
+    ],
+    "tone": "Veri temelli, betimleyici ve yargısız."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha yüksek dijital kullanım, daha yüksek sosyal kaygı ve daha düşük iyi oluş eğilimleri gösteren öğrenci profili.",
+    "demographic_anchor": "Kadın, ön lisans, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.06",
+      "Sosyal kaygı ortalaması 3.56",
+      "İyi oluş ortalaması 3.25"
+    ],
+    "tone": "Veri temelli, dikkatli ve yargısız."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Düşük dijital kullanım, düşük sosyal kaygı ve düşük iyi oluş düzeyleriyle öne çıkan erkek ön lisans öğrencileri.",
+    "demographic_anchor": "Erkek, ön lisans, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital araçları günlük 4-6 saat kullanır",
+      "Dijital bağımlılık düzeyi düşüktür (ortalama 1.56)",
+      "Sosyal kaygı düzeyi düşüktür (ortalama 1.58)",
+      "İyi oluş düzeyi düşüktür (ortalama 1.59)"
+    ],
+    "tone": "Sakin, ölçülü ve düşük katılımlı"
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha yüksek iyi oluş düzeyi ile öne çıkan bir öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.58 (düşük)",
+      "Sosyal kaygı ortalaması 2.09 (düşük)",
+      "İyi oluş ortalaması 3.82 (yüksek)"
+    ],
+    "tone": "Dengeli ve olumlu; düşük dijital kullanım ve sosyal kaygı ile yüksek iyi oluşu vurgular."
+  }
+]

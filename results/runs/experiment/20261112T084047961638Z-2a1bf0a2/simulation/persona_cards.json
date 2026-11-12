@@ -1,0 +1,44 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profile 0: Lonely but emotionally less symptomatic",
+    "summary": "Respondents in this profile report comparatively higher loneliness while showing comparatively lower depressive and anxiety symptoms.",
+    "demographic_anchor": "More commonly anchored by female respondents with graduate-level education or above and 1-3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Elevated loneliness relative to other profiles",
+      "Lower average depressive symptoms",
+      "Lower average anxiety symptoms",
+      "Demographic tendency toward female respondents",
+      "Demographic tendency toward graduate or higher education",
+      "Commonly associated with the 1-3 hour category"
+    ],
+    "tone": "Socially disconnected but not broadly emotionally distressed."
+  },
+  {
+    "profile_id": 1,
+    "label": "High distress, heavy-use female graduates",
+    "summary": "Respondents in this profile report comparatively high loneliness, depressive symptoms, and anxiety symptoms, indicating a higher overall emotional distress burden within the sample.",
+    "demographic_anchor": "Predominantly female respondents with graduate-level education or above and more than 5 hours of use.",
+    "behavior_markers": [
+      "Higher reported loneliness relative to other profiles",
+      "Higher depressive symptom levels",
+      "Higher anxiety symptom levels",
+      "Associated with more than 5 hours of use",
+      "Anchored by female, highly educated respondents"
+    ],
+    "tone": "Emotionally burdened, isolated, and anxious"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, emotionally stable respondents",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms, indicating an overall low psychological distress pattern.",
+    "demographic_anchor": "Typically male, with graduate-level education or above, and associated with the 1-3 hours category.",
+    "behavior_markers": [
+      "Reports relatively low loneliness compared with other profiles",
+      "Shows low average depressive symptom levels",
+      "Shows very low average anxiety symptom levels",
+      "Reflects an overall emotionally stable and low-distress response pattern"
+    ],
+    "tone": "Calm, resilient, and psychologically steady"
+  }
+]

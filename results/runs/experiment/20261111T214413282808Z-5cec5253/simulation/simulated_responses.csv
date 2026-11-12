@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0714,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,374,1648,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0366,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,372,1640,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0621,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,365,1633,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0610,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,372,1642,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0732,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,367,1637,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0477,0,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1253,369,1622,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0684,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,364,1643,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0269,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0588,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,383,1646,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0688,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1275,368,1643,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0066,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,375,1655,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0428,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,370,1644,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0707,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0072,0,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1241,386,1627,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0121,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,370,1649,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0097,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,372,1640,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0166,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1275,368,1643,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0533,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,388,1658,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0723,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,370,1640,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0042,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0425,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,377,1656,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0068,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,394,1657,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0020,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1266,378,1644,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0523,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1281,377,1658,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0131,0,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1239,383,1622,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0371,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,372,1652,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0321,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,380,1654,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.625,1.6666666666666667,2.0
+R0711,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,386,1654,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0675,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,378,1641,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0125,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0606,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,379,1642,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0301,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,372,1651,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0153,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,380,1643,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0602,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,378,1646,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0214,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,374,1637,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0167,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1275,368,1643,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0373,0,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1241,370,1611,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0441,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0127,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,379,1647,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0736,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,372,1646,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0632,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,382,1650,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0358,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,373,1636,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0182,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,376,1644,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0504,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,364,1634,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0447,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,370,1650,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0134,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,360,1628,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0790,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,370,1640,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0464,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0760,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,370,1640,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0682,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,372,1640,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0448,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1275,372,1647,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0238,0,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1253,379,1632,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0322,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1272,377,1649,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.625,1.6666666666666667,2.0
+R0056,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,370,1650,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0313,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1265,370,1635,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0416,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,381,1644,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0126,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1266,370,1636,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0347,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,370,1650,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0345,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1273,376,1649,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0060,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,379,1647,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0184,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1281,380,1661,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0111,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0451,0,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1238,370,1608,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0678,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1277,380,1657,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0281,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1265,370,1635,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0335,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,370,1644,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0644,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1263,370,1633,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0459,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0272,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,361,1640,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+R0638,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,372,1652,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0424,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,370,1649,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0180,1,Profil 1,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1275,375,1650,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0722,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1281,369,1650,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0328,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,370,1649,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0480,0,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1241,369,1610,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0482,0,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1241,364,1605,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0685,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,377,1645,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0583,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,382,1656,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0502,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0715,2,Profil 2,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,369,1649,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0

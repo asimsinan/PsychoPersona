@@ -1,0 +1,634 @@
+[
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 266,
+    "total_tokens": 1909,
+    "response_id": "gen-1788942734-opnMTTlZARvgJgOKK9Up"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1648,
+    "completion_tokens": 276,
+    "total_tokens": 1924,
+    "response_id": "gen-1788942734-Qwh43QeDfNVUy4YyIwm4"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1646,
+    "completion_tokens": 253,
+    "total_tokens": 1899,
+    "response_id": "gen-1788942734-Fm7GB3SbStN9oqE4xueX"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 260,
+    "total_tokens": 1909,
+    "response_id": "gen-1788942734-YseNx9RLlTwASyGFyOZz"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 257,
+    "total_tokens": 1900,
+    "response_id": "gen-1788942736-N5NJBRHbTKIAaHqRVyQ7"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1640,
+    "completion_tokens": 268,
+    "total_tokens": 1908,
+    "response_id": "gen-1788942737-2hvSg49Rwm4vEdrT9sdj"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 269,
+    "total_tokens": 1918,
+    "response_id": "gen-1788942737-g5Gs5EO1QOEWq9e7Hijz"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1645,
+    "completion_tokens": 262,
+    "total_tokens": 1907,
+    "response_id": "gen-1788942737-WWg2nK7MgVXof10Jwzte"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 262,
+    "total_tokens": 1911,
+    "response_id": "gen-1788942739-7z8N9Ook4cprAa0StHbN"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 265,
+    "total_tokens": 1914,
+    "response_id": "gen-1788942739-2Z44cmr1TuAb81Aeoboa"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 265,
+    "total_tokens": 1908,
+    "response_id": "gen-1788942740-iRJA79OEs0Cj660V7ej4"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 271,
+    "total_tokens": 1914,
+    "response_id": "gen-1788942740-kHCnWq3JevnMmTFf6Cb8"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1644,
+    "completion_tokens": 260,
+    "total_tokens": 1904,
+    "response_id": "gen-1788942742-ZHOapSqAB4kbFKuv3f6P"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 256,
+    "total_tokens": 1905,
+    "response_id": "gen-1788942742-RsdqTpo3E5A6j3qbabVg"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 255,
+    "total_tokens": 1898,
+    "response_id": "gen-1788942743-hTbW9E16pao7ANqPXiKQ"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 266,
+    "total_tokens": 1909,
+    "response_id": "gen-1788942743-50HhG4LKIcR0A6szFi1y"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 258,
+    "total_tokens": 1907,
+    "response_id": "gen-1788942745-yHhmCURisCEISGv7rR8O"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 268,
+    "total_tokens": 1911,
+    "response_id": "gen-1788942745-dbGV4OpXeMyUu53drken"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 268,
+    "total_tokens": 1917,
+    "response_id": "gen-1788942746-vxf1BXwg48rx04hl4I84"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1642,
+    "completion_tokens": 264,
+    "total_tokens": 1906,
+    "response_id": "gen-1788942747-ZqZfm2iUfoLiZGdchvfs"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 263,
+    "total_tokens": 1906,
+    "response_id": "gen-1788942748-PS4ocY8pgJGEjEjv6lXB"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1645,
+    "completion_tokens": 266,
+    "total_tokens": 1911,
+    "response_id": "gen-1788942748-CgUNAczUBTeo2XjeFW1n"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 263,
+    "total_tokens": 1906,
+    "response_id": "gen-1788942749-iEtvnSUxiZl6ySPeBUN3"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1647,
+    "completion_tokens": 255,
+    "total_tokens": 1902,
+    "response_id": "gen-1788942750-5Kyd3ynMRAg9E6aEEH2g"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1650,
+    "completion_tokens": 261,
+    "total_tokens": 1911,
+    "response_id": "gen-1788942751-rPLROnGLtsHtZhZiLMYN"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1645,
+    "completion_tokens": 268,
+    "total_tokens": 1913,
+    "response_id": "gen-1788942751-Anap9FKD5nUlEq2fZDsv"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1646,
+    "completion_tokens": 262,
+    "total_tokens": 1908,
+    "response_id": "gen-1788942753-eiz7TSIQj6nRp0GdRV4F"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 261,
+    "total_tokens": 1904,
+    "response_id": "gen-1788942754-4TE5ucxWhjouaYI9Ry3J"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 257,
+    "total_tokens": 1900,
+    "response_id": "gen-1788942754-cGWu30dMsBBQkRjlBoH3"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 253,
+    "total_tokens": 1896,
+    "response_id": "gen-1788942756-XqBH85dukxHDrZI4o9fJ"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 254,
+    "total_tokens": 1903,
+    "response_id": "gen-1788942757-0ugMq9qssnJomFt7zErW"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 255,
+    "total_tokens": 1898,
+    "response_id": "gen-1788942757-nT1G85wsjfd3fFg8K6RD"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 257,
+    "total_tokens": 1900,
+    "response_id": "gen-1788942758-n8foQhFbv4jo4ar0R5KK"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 263,
+    "total_tokens": 1912,
+    "response_id": "gen-1788942759-X7aAUV0Vn2hVcoVtFfbq"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1641,
+    "completion_tokens": 266,
+    "total_tokens": 1907,
+    "response_id": "gen-1788942760-HC4c4Y1Y5Khqwk8fwc8o"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 259,
+    "total_tokens": 1902,
+    "response_id": "gen-1788942760-ptvekXcamfc3YYfYeKQb"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 255,
+    "total_tokens": 1898,
+    "response_id": "gen-1788942761-tGgca5xRTDuOoXptL1ci"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 259,
+    "total_tokens": 1908,
+    "response_id": "gen-1788942762-jOHX6HFyIzekq0LSHfVD"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 253,
+    "total_tokens": 1896,
+    "response_id": "gen-1788942762-HcOhZcROiM1oUMCjc1D8"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 263,
+    "total_tokens": 1906,
+    "response_id": "gen-1788942763-nWtVFbwsa19gDQvrt0y9"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 262,
+    "total_tokens": 1905,
+    "response_id": "gen-1788942764-aaoUfMzJn4wd6NHASVFQ"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 252,
+    "total_tokens": 1901,
+    "response_id": "gen-1788942765-B31hCYgAcCMbxG4Xsd3e"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 253,
+    "total_tokens": 1902,
+    "response_id": "gen-1788942765-pngqDOnOEFcPpiJWIE2Y"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1645,
+    "completion_tokens": 257,
+    "total_tokens": 1902,
+    "response_id": "gen-1788942766-owXg7z6t8BgnsJvMWjMY"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 264,
+    "total_tokens": 1907,
+    "response_id": "gen-1788942767-vaQ4hfm0SQJm4WQnfAkb"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 255,
+    "total_tokens": 1898,
+    "response_id": "gen-1788942768-nGUmxXe6xCimV3g04UqX"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1641,
+    "completion_tokens": 258,
+    "total_tokens": 1899,
+    "response_id": "gen-1788942768-4Baeq6rCI9X9WT9PYfvb"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 266,
+    "total_tokens": 1909,
+    "response_id": "gen-1788942768-xSkYOzYcoSxl28B6FZHd"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 261,
+    "total_tokens": 1910,
+    "response_id": "gen-1788942770-PCjogjYmqFrhhWhsdEqM"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 259,
+    "total_tokens": 1908,
+    "response_id": "gen-1788942770-qrn9nMdFogpJEc81DBPs"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1646,
+    "completion_tokens": 257,
+    "total_tokens": 1903,
+    "response_id": "gen-1788942770-c34eAOy9AVnsqLEguez8"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 255,
+    "total_tokens": 1898,
+    "response_id": "gen-1788942771-eZ0k74VEiLlNV20PtIQ4"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1648,
+    "completion_tokens": 260,
+    "total_tokens": 1908,
+    "response_id": "gen-1788942772-dzdxEJH6mMpSC9zC3Xhf"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 260,
+    "total_tokens": 1903,
+    "response_id": "gen-1788942773-mnmfZqODh1hlv7RXinm6"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1648,
+    "completion_tokens": 259,
+    "total_tokens": 1907,
+    "response_id": "gen-1788942773-938nTGTXMMhAe2HB8eaH"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1648,
+    "completion_tokens": 261,
+    "total_tokens": 1909,
+    "response_id": "gen-1788942775-gUEsE2nchiH3uvAKiNZi"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 258,
+    "total_tokens": 1907,
+    "response_id": "gen-1788942775-V4kjmzI4tOIoaHpMGHFP"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1649,
+    "completion_tokens": 263,
+    "total_tokens": 1912,
+    "response_id": "gen-1788942775-JQJmqX4i2TfajPTOlC0O"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1648,
+    "completion_tokens": 255,
+    "total_tokens": 1903,
+    "response_id": "gen-1788942777-95U0LlDtMRPSd1RPwMUZ"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1645,
+    "completion_tokens": 263,
+    "total_tokens": 1908,
+    "response_id": "gen-1788942777-TQ89SH6yBaol0oKlovha"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1650,
+    "completion_tokens": 258,
+    "total_tokens": 1908,
+    "response_id": "gen-1788942778-DSLdlVsPeceAf2fcYZ44"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 254,
+    "total_tokens": 1897,
+    "response_id": "gen-1788942779-5x7dLu9i8LXxfySnkEfH"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 260,
+    "total_tokens": 1903,
+    "response_id": "gen-1788942779-RdGB2wQtm2gbTB6d8Cxy"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 255,
+    "total_tokens": 1898,
+    "response_id": "gen-1788942780-bEoIWzc8UFmQxFxZFwKP"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1644,
+    "completion_tokens": 263,
+    "total_tokens": 1907,
+    "response_id": "gen-1788942781-LPh2R0dft4Cuj7UEd6Jf"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 264,
+    "total_tokens": 1907,
+    "response_id": "gen-1788942781-R5vumQhBV5QEzjlfg55R"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 268,
+    "total_tokens": 1911,
+    "response_id": "gen-1788942783-w0tkd8A5Az9ZvCL3HZLt"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 258,
+    "total_tokens": 1901,
+    "response_id": "gen-1788942783-e42FdRKeBtcxX0KvPdRm"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1642,
+    "completion_tokens": 263,
+    "total_tokens": 1905,
+    "response_id": "gen-1788942783-DmOw83I1NDbEcvWNlDAd"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1648,
+    "completion_tokens": 265,
+    "total_tokens": 1913,
+    "response_id": "gen-1788942784-NcvUAWTrCaWOEqZRbrc3"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 260,
+    "total_tokens": 1903,
+    "response_id": "gen-1788942786-Vqh87EsUrJuHn7m2R9ZN"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 271,
+    "total_tokens": 1914,
+    "response_id": "gen-1788942786-ZY1kd6ikvISpRtig28ro"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 269,
+    "total_tokens": 1912,
+    "response_id": "gen-1788942787-jYXALpwQgoSwBk0AhlRS"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 254,
+    "total_tokens": 1897,
+    "response_id": "gen-1788942787-SnbEqI0Py6YbppeKz7dg"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1648,
+    "completion_tokens": 256,
+    "total_tokens": 1904,
+    "response_id": "gen-1788942788-8feRL8JT799f2sCO09mG"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1646,
+    "completion_tokens": 258,
+    "total_tokens": 1904,
+    "response_id": "gen-1788942789-3LyEWUsz4WxGjy3Tgq8u"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1645,
+    "completion_tokens": 257,
+    "total_tokens": 1902,
+    "response_id": "gen-1788942789-uFADA6AAOcRWTpKuWcp3"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1643,
+    "completion_tokens": 256,
+    "total_tokens": 1899,
+    "response_id": "gen-1788942790-fS7uwiiDRfKz43AqIkaL"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "primary",
+    "prompt_tokens": 1645,
+    "completion_tokens": 258,
+    "total_tokens": 1903,
+    "response_id": "gen-1788942791-kh9YSw1byq5DpLkoVzf4"
+  }
+]

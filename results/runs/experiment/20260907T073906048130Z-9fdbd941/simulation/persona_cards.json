@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım eğilimi görece yüksek, sosyal kaygı düzeyi yüksek ve iyi oluş düzeyi daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.69 ile görece yüksektir.",
+      "Sosyal kaygı ortalaması 2.80 düzeyindedir.",
+      "İyi oluş ortalaması 3.19 ile diğer boyutlara kıyasla daha düşüktür.",
+      "Eğitim örnekleminde bu profile atanan kişi sayısı 121'dir."
+    ],
+    "tone": "Kırılgan, yoğun dijital etkileşim içinde ve sosyal açıdan çekingen bir örüntü sergiler."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım ve daha düşük sosyal kaygı ile birlikte daha yüksek iyi oluş düzeyi gösteren öğrenci profili.",
+    "demographic_anchor": "Kadın, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2.59).",
+      "Sosyal kaygı ortalaması düşüktür (2.25).",
+      "İyi oluş ortalaması yüksektir (3.77).",
+      "Eğitim örnekleminde 366 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Dengeli, daha kontrollü dijital kullanım gösteren ve psikososyal açıdan görece daha iyi durumda olan profil"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi, sosyal kaygı ve iyi oluş ortalaması örneklem içinde düşük seyreden bir öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.592).",
+      "Sosyal kaygı ortalaması düşüktür (1.607).",
+      "İyi oluş ortalaması düşüktür (1.557).",
+      "Eğitim örnekleminde 50 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Sade, düşük yoğunluklu ancak iyi oluş açısından dikkat gerektiren bir profil."
+  }
+]

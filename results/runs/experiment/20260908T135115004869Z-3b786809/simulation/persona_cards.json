@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low Distress, Low Loneliness",
+    "summary": "Respondents in this profile report relatively low loneliness, low depressive symptoms, and very low anxiety symptoms overall.",
+    "demographic_anchor": "Primarily female, with graduate-level education or higher, and a reported duration category of 1-3 hours.",
+    "behavior_markers": [
+      "Reports lower loneliness on the UCLA-8 measure",
+      "Shows low depressive symptom levels on the PHQ-9",
+      "Shows very low anxiety symptom levels on the GAD-7",
+      "Represents a comparatively low-distress respondent group"
+    ],
+    "tone": "Stable, low-distress, and generally well-adjusted"
+  },
+  {
+    "profile_id": 1,
+    "label": "High distress, high loneliness",
+    "summary": "Respondents in this profile report comparatively higher loneliness along with elevated depressive and anxiety symptoms.",
+    "demographic_anchor": "More likely to be female, have a graduate-level education or above, and report more than 5 hours.",
+    "behavior_markers": [
+      "Higher mean loneliness on the UCLA-8 measure",
+      "Higher mean depressive symptoms on the PHQ-9 measure",
+      "Higher mean anxiety symptoms on the GAD-7 measure"
+    ],
+    "tone": "Emotionally burdened, isolated, and anxious"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, socially connected male graduates with light daily use",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms. The group appears relatively socially connected and emotionally stable, with light daily use in the 1-3 hour range.",
+    "demographic_anchor": "Male, graduate education or above, 1-3 hours of daily use",
+    "behavior_markers": [
+      "Reports low loneliness on the UCLA-8 indicator",
+      "Shows low average depressive symptoms on the PHQ-9",
+      "Shows low average anxiety symptoms on the GAD-7",
+      "Represents a relatively low-distress respondent group",
+      "Associated with light daily use of 1-3 hours"
+    ],
+    "tone": "Calm, stable, and socially connected"
+  }
+]

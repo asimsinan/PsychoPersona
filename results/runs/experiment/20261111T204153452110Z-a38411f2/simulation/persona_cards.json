@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, 1-3 hours",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness score on average",
+      "Lower PHQ-9 depressive symptom level on average",
+      "Very low GAD-7 anxiety symptom level on average",
+      "Relatively low overall emotional distress across measured indicators"
+    ],
+    "tone": "Stable, low-distress, and socially connected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Respondents in this profile show comparatively higher loneliness, depressive symptoms, and anxiety symptoms, with anxiety appearing especially elevated among the three indicators.",
+    "demographic_anchor": "Female respondents, graduate education or above, and more than 5 hours",
+    "behavior_markers": [
+      "Reports relatively high loneliness",
+      "Shows elevated depressive symptoms",
+      "Shows elevated anxiety symptoms",
+      "Anxiety is the highest of the three measured symptom indicators"
+    ],
+    "tone": "Distressed and emotionally burdened"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, socially connected profile",
+    "summary": "Respondents in this profile report comparatively low loneliness as well as low depressive and anxiety symptoms, indicating a generally emotionally stable and socially connected pattern.",
+    "demographic_anchor": "More commonly represented by men with graduate-level education or higher and a typical time-use anchor of 1–3 hours.",
+    "behavior_markers": [
+      "Reports low loneliness relative to other profiles",
+      "Shows low depressive symptom levels",
+      "Shows low anxiety symptom levels",
+      "Overall pattern suggests relatively good emotional well-being"
+    ],
+    "tone": "Stable, connected, and low distress"
+  }
+]

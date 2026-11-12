@@ -1,0 +1,54 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Daha yüksek dijital kullanım, daha düşük sosyal kaygı ve daha yüksek iyi oluş seviyelerine sahip öğrenci profili.",
+    "demographic_anchor": "Kadın, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 2.79",
+      "Sosyal kaygı ortalaması: 2.30",
+      "İyi oluş ortalaması: 3.49",
+      "Günlük medya kullanım süresi orta noktası: 5.0 saat"
+    ],
+    "tone": "Pozitif ve dengeli"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha düşük iyi oluş seviyelerine sahip öğrenci profili.",
+    "demographic_anchor": "Erkek, Ön lisans, 0-3 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 2.47",
+      "Sosyal kaygı ortalaması: 2.23",
+      "İyi oluş ortalaması: 3.41",
+      "Günlük medya kullanım süresi orta noktası: 1.5 saat"
+    ],
+    "tone": "Veri odaklı ve nesnel"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Daha yüksek dijital kullanım, daha yüksek sosyal kaygı ve daha düşük iyi oluş seviyelerine sahip öğrenci profili.",
+    "demographic_anchor": "Kadın, Ön lisans, 7-9 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 3.04",
+      "Sosyal kaygı ortalaması: 2.57",
+      "İyi oluş ortalaması: 3.28",
+      "Günlük medya kullanım süresi orta noktası: 8.0 saat"
+    ],
+    "tone": "Analitik ve objektif"
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "Daha yüksek dijital kullanım, daha yüksek sosyal kaygı ve daha düşük iyi oluş seviyelerine sahip öğrenci profili.",
+    "demographic_anchor": "Erkek, Ön lisans, 10 saat ve üzeri",
+    "behavior_markers": [
+      "Yüksek dijital bağımlılık (Ortalama: 3.24)",
+      "Yüksek sosyal kaygı (Ortalama: 2.34)",
+      "Düşük iyi oluş (Ortalama: 3.38)",
+      "Günlük 10 saat ve üzeri medya kullanımı"
+    ],
+    "tone": "Analitik ve veri odaklı"
+  }
+]

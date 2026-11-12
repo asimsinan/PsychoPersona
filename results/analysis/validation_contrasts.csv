@@ -1,0 +1,10 @@
+dataset,model,split,n,arm,metric,mean,sd,ci_lo,ci_hi,kind,contrast,mean_delta,delta_ci_lo,delta_ci_hi,cohens_dz
+anket_tr,GPT-5.4,validation,67,TPSAP,ScaleRMSE,0.776965,0.412307,0.67788,0.880292,per_arm_ci,,,,,
+anket_tr,GPT-5.4,validation,67,TPSAP,ItemMAE,0.926368,0.293621,0.858706,0.996032,per_arm_ci,,,,,
+anket_tr,GPT-5.4,validation,67,TPSAP,ItemEMR,0.319403,0.13928,0.287562,0.352749,per_arm_ci,,,,,
+anket_tr,GPT-5.4,validation,67,SADP,ScaleRMSE,0.798771,0.434672,0.698487,0.901318,per_arm_ci,,,,,
+anket_tr,GPT-5.4,validation,67,SADP,ItemMAE,0.924378,0.309261,0.853209,1.003993,per_arm_ci,,,,,
+anket_tr,GPT-5.4,validation,67,SADP,ItemEMR,0.324876,0.141105,0.291045,0.357711,per_arm_ci,,,,,
+anket_tr,GPT-5.4,validation,67,,ScaleRMSE,,,,,paired_contrast,TPSAP_vs_SADP,-0.021806,-0.042522,-5.1e-05,-0.249732
+anket_tr,GPT-5.4,validation,67,,ItemMAE,,,,,paired_contrast,TPSAP_vs_SADP,0.00199,-0.016418,0.022388,0.024198
+anket_tr,GPT-5.4,validation,67,,ItemEMR,,,,,paired_contrast,TPSAP_vs_SADP,-0.005473,-0.0199,0.007463,-0.095468

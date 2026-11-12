@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low Distress, Educated Male, Moderate Daily Use",
+    "summary": "This profile reflects respondents with comparatively low loneliness, depressive symptoms, and anxiety symptoms. It represents a lower-distress group in the sample, with generally favorable emotional well-being indicators.",
+    "demographic_anchor": "Male respondent, graduate education or above, reporting 1-3 hours of daily use.",
+    "behavior_markers": [
+      "Reports low loneliness on average",
+      "Shows low average depressive symptom levels",
+      "Shows low average anxiety symptom levels",
+      "Represents a relatively emotionally stable or low-distress segment",
+      "Typically associated with moderate daily use of 1-3 hours"
+    ],
+    "tone": "Calm, emotionally stable, and low-distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Highly distressed, heavy-use graduate woman",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms, alongside a pattern of more than 5 hours of use and a graduate-level or higher educational background.",
+    "demographic_anchor": "Female, graduate degree or above, more than 5 hours of use",
+    "behavior_markers": [
+      "Reports relatively elevated loneliness",
+      "Shows relatively elevated depressive symptoms",
+      "Shows relatively elevated anxiety symptoms",
+      "Associated with more than 5 hours of use",
+      "Most strongly anchored to women with graduate-level or higher education"
+    ],
+    "tone": "Vulnerable, strained, and emotionally burdened"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness group",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "More commonly anchored by male respondents with graduate-level education or above and 1–3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Low average loneliness on UCLA-8",
+      "Low average depressive symptoms on PHQ-9",
+      "Very low average anxiety symptoms on GAD-7",
+      "Overall profile suggests relatively good emotional well-being compared with higher-distress groups"
+    ],
+    "tone": "Stable, low-distress, and emotionally well-functioning"
+  }
+]

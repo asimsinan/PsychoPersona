@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Distress Graduate Male",
+    "summary": "A male respondent with graduate-level education who reports low loneliness and very low depressive and anxiety symptoms, with 1–3 hours of daily activity or engagement.",
+    "demographic_anchor": "Male, graduate or above, 1–3 hours",
+    "behavior_markers": [
+      "Reports lower loneliness (UCLA-8 mean 0.72)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.30)",
+      "Reports very low anxiety symptoms (GAD-7 mean 0.03)",
+      "Engages for 1–3 hours"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Distress Profile",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily media use, showing elevated loneliness, depressive symptoms, and anxiety symptoms relative to the sample.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily media use.",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 (mean 1.72)",
+      "Reports higher depressive symptoms on the PHQ-9 (mean 1.73)",
+      "Reports higher anxiety symptoms on the GAD-7 (mean 2.15)",
+      "Spends more than 5 hours per day using media"
+    ],
+    "tone": "Clinical, cautious, and evidence-grounded; avoid causal or diagnostic claims."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "A male respondent with graduate-level education who reports low loneliness and minimal depressive and anxiety symptoms, spending 1–3 hours in the measured activity.",
+    "demographic_anchor": "Male; graduate degree or above; 1–3 hours.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.24).",
+      "Reports minimal depressive symptoms (PHQ-9 mean 0.79).",
+      "Reports minimal anxiety symptoms (GAD-7 mean 0.81).",
+      "Spends 1–3 hours in the measured activity."
+    ],
+    "tone": "Calm, stable, and low-distress."
+  }
+]

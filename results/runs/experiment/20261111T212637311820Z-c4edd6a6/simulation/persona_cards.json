@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Daha yüksek dijital kullanım, daha yüksek sosyal kaygı, daha düşük iyi oluş",
+    "demographic_anchor": "Kadın, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 3.2069444444444444",
+      "Sosyal kaygı ortalaması: 3.189236111111111",
+      "İyi oluş ortalaması: 3.042485119047619"
+    ],
+    "tone": "Objektif ve veri odaklı"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı, daha yüksek iyi oluş",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 2.697",
+      "Sosyal kaygı ortalaması: 2.002",
+      "İyi oluş ortalaması: 3.858"
+    ],
+    "tone": "Dengeli ve pozitif"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı, daha düşük iyi oluş",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 1.6392156862745098",
+      "Sosyal kaygı ortalaması: 1.588235294117647",
+      "İyi oluş ortalaması: 1.5682773109243697"
+    ],
+    "tone": "Tarafsız ve veri odaklı"
+  }
+]

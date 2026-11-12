@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Distress Male Graduate",
+    "summary": "A male respondent with graduate-level education who reports very low levels of loneliness, depressive symptoms, and anxiety symptoms, and who spends 1–3 hours on the measured activity.",
+    "demographic_anchor": "Male, graduate or above, 1–3 hours",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 0.791)",
+      "Reports minimal depressive symptoms (PHQ-9 mean 0.28)",
+      "Reports minimal anxiety symptoms (GAD-7 mean 0.037)",
+      "Spends 1–3 hours on the measured activity"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Loneliness and Distress Profile",
+    "summary": "This profile describes a group with elevated loneliness, depressive symptoms, and anxiety symptoms relative to typical respondents. The mean UCLA-8 loneliness score is 1.66, PHQ-9 depression mean is 1.65, and GAD-7 anxiety mean is 2.10, indicating a pattern of co-occurring social and emotional distress.",
+    "demographic_anchor": "Female; graduate or above education; more than 5 hours (likely daily screen or online time).",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8",
+      "Shows elevated depressive symptoms on the PHQ-9",
+      "Shows elevated anxiety symptoms on the GAD-7",
+      "Spends more than 5 hours in the referenced activity",
+      "Has completed graduate-level education"
+    ],
+    "tone": "Cautious, evidence-grounded, and non-stigmatizing; describes distress as measured by standardized scales without inferring clinical diagnosis."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low Distress, Low Loneliness",
+    "summary": "A female respondent with graduate-level education and 1–3 hours of daily media use, showing low loneliness and low symptoms of depression and anxiety.",
+    "demographic_anchor": "Female; graduate degree or above; 1–3 hours of daily media use.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.21)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.82)",
+      "Reports low anxiety symptoms (GAD-7 mean 0.79)",
+      "Uses media for 1–3 hours per day"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  }
+]

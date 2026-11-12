@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High Distress and Loneliness",
+    "summary": "Respondents in this profile report relatively high loneliness along with elevated depressive and anxiety symptoms.",
+    "demographic_anchor": "Predominantly female, graduate educated or above, and reporting more than 5 hours.",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 measure",
+      "Shows elevated depressive symptoms on the PHQ-9",
+      "Shows elevated anxiety symptoms on the GAD-7"
+    ],
+    "tone": "Vulnerable, distressed, and emotionally burdened"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "More commonly male, with graduate-level education or higher, and typically reporting 1–3 hours.",
+    "behavior_markers": [
+      "Low average loneliness (UCLA-8 mean: 0.766)",
+      "Low average depressive symptoms (PHQ-9 mean: 0.327)",
+      "Very low average anxiety symptoms (GAD-7 mean: 0.086)",
+      "Relatively well-adjusted overall symptom pattern"
+    ],
+    "tone": "Stable, low-distress, and generally well-adjusted"
+  },
+  {
+    "profile_id": 2,
+    "label": "Higher loneliness with comparatively lower depression and anxiety",
+    "summary": "Respondents in this profile report relatively elevated loneliness while showing lower average depressive and anxiety symptoms. The pattern suggests social disconnection is more prominent than broader emotional distress in this group.",
+    "demographic_anchor": "Primarily anchored by female respondents with graduate-level education or above and a typical reported duration of 1-3 hours.",
+    "behavior_markers": [
+      "Reports comparatively higher loneliness on the UCLA-8 measure",
+      "Shows lower average depressive symptoms on the PHQ-9",
+      "Shows lower average anxiety symptoms on the GAD-7",
+      "Profile pattern is defined more by loneliness than by general mood or anxiety burden"
+    ],
+    "tone": "Socially disconnected but otherwise comparatively emotionally stable"
+  }
+]

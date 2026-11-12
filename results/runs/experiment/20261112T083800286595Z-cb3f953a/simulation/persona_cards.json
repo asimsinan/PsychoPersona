@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Higher loneliness with comparatively low depression and anxiety",
+    "summary": "Respondents in this profile report relatively elevated loneliness while showing lower average depressive and anxiety symptoms. The pattern suggests social disconnection is more prominent than broader emotional distress.",
+    "demographic_anchor": "More commonly anchored by female respondents with graduate-level education or above and 1-3 hours in the referenced usage/time category.",
+    "behavior_markers": [
+      "Reports comparatively higher loneliness on the UCLA-8 measure",
+      "Shows lower average depressive symptoms on the PHQ-9",
+      "Shows lower average anxiety symptoms on the GAD-7",
+      "Profile pattern is characterized by social disconnection without similarly elevated mood or anxiety symptoms"
+    ],
+    "tone": "Socially disconnected but otherwise relatively emotionally stable"
+  },
+  {
+    "profile_id": 1,
+    "label": "High distress and loneliness",
+    "summary": "Respondents in this profile report comparatively higher loneliness, depressive symptoms, and anxiety symptoms than other groups in the dataset.",
+    "demographic_anchor": "More likely to be female, have graduate-level education or above, and report more than 5 hours in the relevant time-use category.",
+    "behavior_markers": [
+      "Elevated loneliness relative to other profiles",
+      "Elevated depressive symptoms relative to other profiles",
+      "Elevated anxiety symptoms relative to other profiles",
+      "Anxiety appears especially pronounced within this profile"
+    ],
+    "tone": "Vulnerable, emotionally strained, and socially disconnected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, highly educated male with limited daily exposure",
+    "summary": "This profile reflects respondents with comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Male, graduate education or above, 1–3 hours",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure",
+      "Shows low depressive symptom levels on the PHQ-9",
+      "Shows very low anxiety symptom levels on the GAD-7",
+      "Anchored demographically by male respondents with graduate-level education or higher",
+      "Associated with the 1–3 hours exposure category"
+    ],
+    "tone": "Stable, low-distress, and relatively well-adjusted"
+  }
+]

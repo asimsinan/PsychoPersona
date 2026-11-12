@@ -1,0 +1,39 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Distress Graduate Male",
+    "summary": "This persona represents a male respondent with a graduate-level education who reports minimal psychological distress. The profile is characterized by significantly lower levels of loneliness, depressive symptoms, and anxiety compared to the general population, indicating a state of high psychological well-being and emotional stability.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 0.81)",
+      "Reports minimal depressive symptoms (PHQ-9 mean: 0.31)",
+      "Reports negligible anxiety symptoms (GAD-7 mean: 0.04)"
+    ],
+    "tone": "Stable, confident, and emotionally resilient"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "This persona represents a female graduate-level respondent who reports spending more than five hours daily on the measured activity. The profile is characterized by elevated psychological distress, specifically higher levels of loneliness, depressive symptoms, and anxiety symptoms compared to the broader sample.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean: 1.62)",
+      "Reports higher depressive symptoms (PHQ-9 mean: 1.65)",
+      "Reports higher anxiety symptoms (GAD-7 mean: 2.06)",
+      "Spends more than 5 hours on the measured activity"
+    ],
+    "tone": "Elevated psychological distress with high levels of loneliness, depression, and anxiety."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "This persona represents a group characterized by significantly lower levels of loneliness, depressive symptoms, and anxiety symptoms compared to other profiles.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "UCLA-8 loneliness mean: 1.25",
+      "PHQ-9 depression mean: 0.81",
+      "GAD-7 anxiety mean: 0.80"
+    ],
+    "tone": "Stable and resilient, reflecting low psychological distress and strong social connectedness."
+  }
+]

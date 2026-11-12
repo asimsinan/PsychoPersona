@@ -1,0 +1,44 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High Loneliness, Depression, and Anxiety",
+    "summary": "Respondents in this profile report comparatively elevated loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Female, graduate education or above, and more than 5 hours",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 measure",
+      "Shows higher depressive symptoms on the PHQ-9 measure",
+      "Shows higher anxiety symptoms on the GAD-7 measure",
+      "Most closely anchored to respondents who are female",
+      "Most closely anchored to respondents with graduate-level education or above",
+      "Most closely anchored to respondents in the more-than-5-hours category"
+    ],
+    "tone": "Distressed, isolated, and psychologically burdened"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, well-educated male with light daily use",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Predominantly male, educated to graduate level or above, and reporting 1-3 hours of daily use.",
+    "behavior_markers": [
+      "Low mean loneliness score on the UCLA-8.",
+      "Low mean depression score on the PHQ-9.",
+      "Very low mean anxiety score on the GAD-7.",
+      "Represents a relatively low-distress respondent group in the sample."
+    ],
+    "tone": "Stable, low-distress, and comparatively well-adjusted."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2: Lonely but low distress",
+    "summary": "Respondents in this profile report comparatively higher loneliness while showing relatively low average depressive and anxiety symptoms.",
+    "demographic_anchor": "Typically represented by a female respondent with graduate-level education or higher and 1-3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Reports elevated loneliness relative to other profiles",
+      "Shows low average depressive symptom levels",
+      "Shows low average anxiety symptom levels",
+      "Demographic pattern is anchored by women with higher educational attainment",
+      "Most associated with the 1-3 hour category in the source grouping"
+    ],
+    "tone": "Socially disconnected yet emotionally relatively stable overall."
+  }
+]

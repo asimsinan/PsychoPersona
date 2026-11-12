@@ -1,0 +1,770 @@
+\clearpage
+
+\appendix
+
+\counterwithin{table}{section}
+
+\section{Results by model family}
+\label{app:a}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Turkish final-test results for DOP, BPP, SADP and HC on the five model families. The majority-profile rate is 0.603 under oracle assignment and 0.574 under cold-start assignment.}
+\label{tab:grid-tr}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lllcccccccc@{}}
+\toprule
+Method & Model & Assignment & Corr & Within & Recovery & Scale RMSE & Item MAE & Item EMR & Unique & Stability \\
+\midrule
+DOP & GPT-5.4 & -- & 0.583 & 1.053 & 0.471 & 0.972 & 1.114 & 0.273 & 0.985 & 0.737 \\
+DOP & Claude Opus 4.6 & -- & 0.480 & 1.089 & 0.279 & 1.034 & 1.113 & 0.249 & 0.868 & 0.660 \\
+DOP & Gemini 3.1 Pro & -- & 0.664 & 1.170 & 0.426 & 1.087 & 1.200 & 0.248 & 0.985 & 0.854 \\
+DOP & Qwen3.8 27B & -- & 0.473 & 1.156 & 0.353 & 1.087 & 1.222 & 0.217 & 0.838 & 0.719 \\
+DOP & DeepSeek V4.1 Flash & -- & 0.638 & 1.093 & 0.456 & 1.030 & 1.147 & 0.240 & 0.750 & 0.732 \\
+\addlinespace[2pt]
+BPP & GPT-5.4 & Oracle & 0.480 & 0.541 & 0.912 & 0.674 & 0.862 & 0.356 & 0.735 & 0.612 \\
+BPP & Claude Opus 4.6 & Oracle & 0.254 & 0.323 & 0.897 & 0.613 & 0.809 & 0.366 & 0.779 & 0.339 \\
+BPP & Gemini 3.1 Pro & Oracle & 0.313 & 0.427 & 0.897 & 0.726 & 0.835 & 0.372 & 0.794 & 0.432 \\
+BPP & Qwen3.8 27B & Oracle & 0.497 & 0.515 & 0.897 & 0.687 & 0.867 & 0.340 & 0.779 & 0.565 \\
+BPP & DeepSeek V4.1 Flash & Oracle & 0.382 & 0.377 & 0.897 & 0.648 & 0.854 & 0.336 & 0.750 & 0.418 \\
+BPP & GPT-5.4 & Cold-start & 0.948 & 0.617 & 0.603 & 0.868 & 0.981 & 0.325 & 0.647 & 1.053 \\
+BPP & Claude Opus 4.6 & Cold-start & 0.909 & 0.592 & 0.603 & 0.838 & 0.947 & 0.333 & 0.735 & 0.964 \\
+BPP & Gemini 3.1 Pro & Cold-start & 0.914 & 0.515 & 0.603 & 0.859 & 0.960 & 0.323 & 0.779 & 1.033 \\
+BPP & Qwen3.8 27B & Cold-start & 0.954 & 0.548 & 0.603 & 0.879 & 0.992 & 0.311 & 0.632 & 1.008 \\
+BPP & DeepSeek V4.1 Flash & Cold-start & 0.858 & 0.499 & 0.412 & 0.863 & 1.023 & 0.286 & 0.765 & 0.975 \\
+\addlinespace[2pt]
+SADP & GPT-5.4 & Oracle & 0.296 & 0.325 & 0.897 & 0.629 & 0.817 & 0.373 & 0.838 & 0.353 \\
+SADP & Claude Opus 4.6 & Oracle & 0.286 & 0.293 & 0.897 & 0.597 & 0.786 & 0.380 & 0.912 & 0.334 \\
+SADP & Gemini 3.1 Pro & Oracle & 0.329 & 0.273 & 0.926 & 0.596 & 0.786 & 0.374 & 0.750 & 0.361 \\
+SADP & Qwen3.8 27B & Oracle & 0.286 & 0.389 & 0.897 & 0.643 & 0.790 & 0.389 & 0.441 & 0.375 \\
+SADP & DeepSeek V4.1 Flash & Oracle & 0.264 & 0.351 & 0.897 & 0.624 & 0.815 & 0.371 & 0.603 & 0.333 \\
+SADP & GPT-5.4 & Cold-start & 0.973 & 0.579 & 0.603 & 0.862 & 0.980 & 0.322 & 0.647 & 1.085 \\
+SADP & Claude Opus 4.6 & Cold-start & 0.902 & 0.551 & 0.603 & 0.820 & 0.949 & 0.323 & 0.794 & 0.924 \\
+SADP & Gemini 3.1 Pro & Cold-start & 0.986 & 0.499 & 0.603 & 0.828 & 0.936 & 0.333 & 0.544 & 1.115 \\
+SADP & Qwen3.8 27B & Cold-start & 1.040 & 0.623 & 0.603 & 0.880 & 0.959 & 0.329 & 0.382 & 1.190 \\
+SADP & DeepSeek V4.1 Flash & Cold-start & 0.926 & 0.488 & 0.588 & 0.874 & 0.971 & 0.327 & 0.500 & 1.100 \\
+\addlinespace[2pt]
+HC & GPT-5.4 & Oracle & 0.258 & 0.519 & 0.691 & 0.940 & 1.136 & 0.293 & 1.000 & 0.456 \\
+HC & Claude Opus 4.6 & Oracle & 0.271 & 0.530 & 0.676 & 0.945 & 1.132 & 0.283 & 1.000 & 0.454 \\
+HC & Gemini 3.1 Pro & Oracle & 0.263 & 0.524 & 0.691 & 0.940 & 1.133 & 0.292 & 1.000 & 0.451 \\
+HC & Qwen3.8 27B & Oracle & 0.305 & 0.543 & 0.691 & 0.944 & 1.107 & 0.307 & 1.000 & 0.421 \\
+HC & DeepSeek V4.1 Flash & Oracle & 0.286 & 0.537 & 0.691 & 0.943 & 1.129 & 0.284 & 1.000 & 0.418 \\
+HC & GPT-5.4 & Cold-start & 0.420 & 0.348 & 0.515 & 1.052 & 1.208 & 0.295 & 1.000 & 0.559 \\
+HC & Claude Opus 4.6 & Cold-start & 0.429 & 0.384 & 0.500 & 1.051 & 1.201 & 0.287 & 1.000 & 0.575 \\
+HC & Gemini 3.1 Pro & Cold-start & 0.422 & 0.371 & 0.515 & 1.054 & 1.236 & 0.280 & 1.000 & 0.559 \\
+HC & Qwen3.8 27B & Cold-start & 0.390 & 0.383 & 0.618 & 1.043 & 1.214 & 0.271 & 1.000 & 0.421 \\
+HC & DeepSeek V4.1 Flash & Cold-start & 0.388 & 0.370 & 0.603 & 1.044 & 1.222 & 0.266 & 1.000 & 0.431 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize DOP receives no profile and takes a single row. Entries marked n/d are not defined. Recovery is not defined when every held-out respondent is assigned one profile, and correlation RMSE is not defined when the generated scale means carry no variance.
+\end{table}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Bangladesh final-test results for DOP, BPP, SADP and HC on the five model families. The majority-profile rate is 0.438 under oracle assignment.}
+\label{tab:grid-bd}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lllcccccccc@{}}
+\toprule
+Method & Model & Assignment & Corr & Within & Recovery & Scale RMSE & Item MAE & Item EMR & Unique & Stability \\
+\midrule
+DOP & GPT-5.4 & -- & 0.303 & 0.659 & 0.438 & 0.699 & 0.867 & 0.328 & 0.637 & 0.264 \\
+DOP & Claude Opus 4.6 & -- & 0.348 & 0.728 & 0.425 & 0.730 & 0.909 & 0.292 & 0.613 & 0.280 \\
+DOP & Gemini 3.1 Pro & -- & 0.391 & 0.746 & 0.412 & 0.783 & 0.964 & 0.295 & 0.700 & 0.321 \\
+DOP & Qwen3.8 27B & -- & 0.145 & 0.643 & 0.463 & 0.650 & 0.827 & 0.321 & 0.388 & 0.327 \\
+DOP & DeepSeek V4.1 Flash & -- & 0.284 & 0.672 & 0.475 & 0.689 & 0.873 & 0.316 & 0.537 & 0.242 \\
+\addlinespace[2pt]
+BPP & GPT-5.4 & Oracle & 0.232 & 0.328 & 0.700 & 0.521 & 0.727 & 0.406 & 0.438 & 0.205 \\
+BPP & Claude Opus 4.6 & Oracle & 0.278 & 0.228 & 0.812 & 0.470 & 0.703 & 0.407 & 0.625 & 0.228 \\
+BPP & Gemini 3.1 Pro & Oracle & 0.352 & 0.333 & 0.812 & 0.570 & 0.739 & 0.411 & 0.675 & 0.336 \\
+BPP & Qwen3.8 27B & Oracle & 0.180 & 0.239 & 0.800 & 0.475 & 0.686 & 0.440 & 0.375 & 0.151 \\
+BPP & DeepSeek V4.1 Flash & Oracle & 0.163 & 0.307 & 0.787 & 0.501 & 0.711 & 0.402 & 0.237 & 0.136 \\
+BPP & GPT-5.4 & Cold-start & 0.088 & 0.324 & n/d & 0.720 & 0.855 & 0.369 & 0.338 & 0.131 \\
+BPP & Claude Opus 4.6 & Cold-start & 0.059 & 0.193 & n/d & 0.692 & 0.850 & 0.356 & 0.512 & 0.100 \\
+BPP & Gemini 3.1 Pro & Cold-start & 0.400 & 0.599 & n/d & 0.870 & 0.954 & 0.357 & 0.650 & 0.524 \\
+BPP & Qwen3.8 27B & Cold-start & 0.464 & 0.132 & n/d & 0.672 & 0.814 & 0.343 & 0.087 & n/d \\
+BPP & DeepSeek V4.1 Flash & Cold-start & n/d & 0.310 & n/d & 0.702 & 0.833 & 0.377 & 0.087 & n/d \\
+\addlinespace[2pt]
+SADP & GPT-5.4 & Oracle & 0.300 & 0.150 & 0.825 & 0.440 & 0.671 & 0.440 & 0.300 & 0.270 \\
+SADP & Claude Opus 4.6 & Oracle & 0.346 & 0.129 & 0.825 & 0.430 & 0.665 & 0.432 & 0.588 & 0.301 \\
+SADP & Gemini 3.1 Pro & Oracle & 0.368 & 0.129 & 0.825 & 0.436 & 0.673 & 0.431 & 0.425 & 0.323 \\
+SADP & Qwen3.8 27B & Oracle & 0.203 & 0.285 & 0.650 & 0.527 & 0.704 & 0.438 & 0.287 & 0.217 \\
+SADP & DeepSeek V4.1 Flash & Oracle & 0.290 & 0.153 & 0.825 & 0.441 & 0.667 & 0.436 & 0.237 & 0.254 \\
+SADP & GPT-5.4 & Cold-start & n/d & 0.407 & n/d & 0.729 & 0.852 & 0.379 & 0.087 & n/d \\
+SADP & Claude Opus 4.6 & Cold-start & 0.179 & 0.186 & n/d & 0.676 & 0.840 & 0.354 & 0.425 & 0.164 \\
+SADP & Gemini 3.1 Pro & Cold-start & 0.411 & 0.219 & n/d & 0.676 & 0.841 & 0.365 & 0.362 & 0.367 \\
+SADP & Qwen3.8 27B & Cold-start & 0.318 & 0.595 & n/d & 0.841 & 0.923 & 0.340 & 0.188 & 0.315 \\
+SADP & DeepSeek V4.1 Flash & Cold-start & 0.394 & 0.283 & n/d & 0.690 & 0.830 & 0.374 & 0.138 & 0.379 \\
+\addlinespace[2pt]
+HC & GPT-5.4 & Oracle & 0.170 & 0.356 & 0.575 & 0.695 & 0.967 & 0.353 & 1.000 & 0.192 \\
+HC & Claude Opus 4.6 & Oracle & 0.160 & 0.369 & 0.575 & 0.692 & 0.961 & 0.355 & 1.000 & 0.203 \\
+HC & Gemini 3.1 Pro & Oracle & 0.175 & 0.364 & 0.550 & 0.698 & 0.945 & 0.353 & 1.000 & 0.209 \\
+HC & Qwen3.8 27B & Oracle & 0.165 & 0.343 & 0.588 & 0.714 & 0.956 & 0.357 & 1.000 & 0.194 \\
+HC & DeepSeek V4.1 Flash & Oracle & 0.167 & 0.346 & 0.575 & 0.701 & 0.949 & 0.348 & 1.000 & 0.194 \\
+HC & GPT-5.4 & Cold-start & 0.272 & 0.123 & n/d & 0.840 & 1.089 & 0.294 & 1.000 & 0.282 \\
+HC & Claude Opus 4.6 & Cold-start & 0.272 & 0.108 & n/d & 0.830 & 1.043 & 0.316 & 1.000 & 0.293 \\
+HC & Gemini 3.1 Pro & Cold-start & 0.273 & 0.100 & n/d & 0.837 & 1.033 & 0.318 & 1.000 & 0.286 \\
+HC & Qwen3.8 27B & Cold-start & 0.270 & 0.133 & n/d & 0.839 & 1.044 & 0.323 & 1.000 & 0.279 \\
+HC & DeepSeek V4.1 Flash & Cold-start & 0.275 & 0.119 & n/d & 0.826 & 1.060 & 0.305 & 1.000 & 0.295 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize DOP receives no profile and takes a single row. Entries marked n/d are not defined. Recovery is not defined when every held-out respondent is assigned one profile, and correlation RMSE is not defined when the generated scale means carry no variance.
+\end{table}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Bangladesh validation results for DOP, BPP and SADP on the five model families. The majority-profile rate is 0.430 under oracle assignment.}
+\label{tab:grid-bd-val}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lllcccccccc@{}}
+\toprule
+Method & Model & Assignment & Corr & Within & Recovery & Scale RMSE & Item MAE & Item EMR & Unique & Stability \\
+\midrule
+DOP & GPT-5.4 & -- & 0.260 & 0.526 & 0.506 & 0.594 & 0.797 & 0.364 & 0.620 & 0.512 \\
+DOP & Claude Opus 4.6 & -- & 0.256 & 0.518 & 0.532 & 0.593 & 0.804 & 0.353 & 0.494 & 0.556 \\
+DOP & Gemini 3.1 Pro & -- & 0.292 & 0.520 & 0.481 & 0.644 & 0.851 & 0.334 & 0.646 & 0.576 \\
+DOP & Qwen3.8 27B & -- & 0.336 & 0.598 & 0.456 & 0.611 & 0.799 & 0.344 & 0.430 & 0.354 \\
+DOP & DeepSeek V4.1 Flash & -- & 0.272 & 0.524 & 0.544 & 0.590 & 0.795 & 0.361 & 0.608 & 0.538 \\
+\addlinespace[2pt]
+BPP & GPT-5.4 & Oracle & 0.138 & 0.263 & 0.861 & 0.462 & 0.709 & 0.434 & 0.620 & 0.244 \\
+BPP & Claude Opus 4.6 & Oracle & 0.243 & 0.182 & 0.848 & 0.409 & 0.675 & 0.435 & 0.646 & 0.484 \\
+BPP & Gemini 3.1 Pro & Oracle & 0.212 & 0.326 & 0.861 & 0.510 & 0.735 & 0.435 & 0.873 & 0.161 \\
+BPP & Qwen3.8 27B & Oracle & 0.125 & 0.186 & 0.823 & 0.426 & 0.681 & 0.441 & 0.342 & 0.339 \\
+BPP & DeepSeek V4.1 Flash & Oracle & 0.145 & 0.257 & 0.848 & 0.437 & 0.680 & 0.423 & 0.278 & 0.363 \\
+BPP & GPT-5.4 & Cold-start & 0.061 & 0.335 & n/d & 0.676 & 0.849 & 0.379 & 0.430 & 0.346 \\
+BPP & Claude Opus 4.6 & Cold-start & 0.078 & 0.151 & n/d & 0.624 & 0.825 & 0.367 & 0.405 & 0.242 \\
+BPP & Gemini 3.1 Pro & Cold-start & 0.369 & 0.542 & n/d & 0.798 & 0.925 & 0.373 & 0.633 & 0.186 \\
+BPP & Qwen3.8 27B & Cold-start & 0.572 & 0.150 & n/d & 0.641 & 0.818 & 0.342 & 0.127 & 0.123 \\
+BPP & DeepSeek V4.1 Flash & Cold-start & 0.124 & 0.277 & n/d & 0.655 & 0.829 & 0.371 & 0.127 & 0.134 \\
+\addlinespace[2pt]
+SADP & GPT-5.4 & Oracle & 0.240 & 0.143 & 0.861 & 0.400 & 0.659 & 0.457 & 0.266 & 0.517 \\
+SADP & Claude Opus 4.6 & Oracle & 0.301 & 0.087 & 0.861 & 0.378 & 0.641 & 0.461 & 0.557 & 0.567 \\
+SADP & Gemini 3.1 Pro & Oracle & 0.294 & 0.091 & 0.861 & 0.384 & 0.657 & 0.452 & 0.506 & 0.555 \\
+SADP & Qwen3.8 27B & Oracle & 0.209 & 0.273 & 0.696 & 0.497 & 0.682 & 0.448 & 0.215 & 0.417 \\
+SADP & DeepSeek V4.1 Flash & Oracle & 0.217 & 0.135 & 0.861 & 0.393 & 0.651 & 0.457 & 0.215 & 0.440 \\
+SADP & GPT-5.4 & Cold-start & n/d & 0.344 & n/d & 0.676 & 0.846 & 0.373 & 0.114 & n/d \\
+SADP & Claude Opus 4.6 & Cold-start & 0.308 & 0.144 & n/d & 0.616 & 0.808 & 0.374 & 0.430 & 0.080 \\
+SADP & Gemini 3.1 Pro & Cold-start & 0.272 & 0.203 & n/d & 0.625 & 0.834 & 0.362 & 0.405 & 0.380 \\
+SADP & Qwen3.8 27B & Cold-start & 0.206 & 0.556 & n/d & 0.774 & 0.875 & 0.380 & 0.253 & 0.392 \\
+SADP & DeepSeek V4.1 Flash & Cold-start & 0.534 & 0.270 & n/d & 0.649 & 0.834 & 0.367 & 0.127 & 0.284 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize DOP receives no profile and takes a single row. Entries marked n/d are not defined. Recovery is not defined when every held-out respondent is assigned one profile, and correlation RMSE is not defined when the generated scale means carry no variance.
+\end{table}
+
+\clearpage
+
+\section{Repeated splits}
+\label{app:b}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Between-split dispersion of each arm across the ten repeated splits, final-test split. Each cell gives the mean across splits with the standard deviation in parentheses.}
+\label{tab:c2-arms}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llccc@{}}
+\toprule
+Arm & Model & Corr RMSE & Profile recovery & Item MAE \\
+\midrule
+\multicolumn{5}{@{}l}{\textit{Turkish}} \\
+DOP & GPT-5.4 & 0.422 (0.093) & 0.431 (0.069) & 1.043 (0.044) \\
+DOP & Claude Opus 4.6 & 0.405 (0.073) & 0.404 (0.072) & 1.052 (0.041) \\
+DOP & Gemini 3.1 Pro & 0.554 (0.081) & 0.375 (0.082) & 1.138 (0.045) \\
+DOP & Qwen3.8 27B & 0.342 (0.120) & 0.284 (0.065) & 1.181 (0.041) \\
+DOP & DeepSeek V4.1 Flash & 0.455 (0.102) & 0.351 (0.065) & 1.109 (0.047) \\
+BPP & GPT-5.4 & 0.327 (0.116) & 0.797 (0.105) & 0.835 (0.050) \\
+BPP & Claude Opus 4.6 & 0.202 (0.104) & 0.809 (0.085) & 0.793 (0.041) \\
+BPP & Gemini 3.1 Pro & 0.203 (0.106) & 0.806 (0.095) & 0.793 (0.039) \\
+BPP & Qwen3.8 27B & 0.442 (0.160) & 0.801 (0.096) & 0.854 (0.060) \\
+BPP & DeepSeek V4.1 Flash & 0.315 (0.164) & 0.785 (0.104) & 0.835 (0.056) \\
+FPNP & GPT-5.4 & 0.288 (0.137) & 0.803 (0.099) & 0.826 (0.048) \\
+BBP & GPT-5.4 & 0.286 (0.113) & 0.803 (0.101) & 0.841 (0.045) \\
+SCP & GPT-5.4 & 0.295 (0.120) & 0.796 (0.104) & 0.827 (0.041) \\
+SADP & GPT-5.4 & 0.226 (0.125) & 0.812 (0.084) & 0.826 (0.040) \\
+SADP & Claude Opus 4.6 & 0.204 (0.095) & 0.810 (0.082) & 0.792 (0.042) \\
+SADP & Gemini 3.1 Pro & 0.226 (0.071) & 0.812 (0.080) & 0.786 (0.036) \\
+SADP & Qwen3.8 27B & 0.304 (0.106) & 0.810 (0.084) & 0.817 (0.054) \\
+SADP & DeepSeek V4.1 Flash & 0.265 (0.090) & 0.803 (0.097) & 0.806 (0.056) \\
+TPSAP & GPT-5.4 & 0.220 (0.084) & 0.815 (0.078) & 0.841 (0.036) \\
+HC & GPT-5.4 & 0.145 (0.063) & 0.538 (0.102) & 1.113 (0.039) \\
+HC & Claude Opus 4.6 & 0.175 (0.068) & 0.544 (0.099) & 1.116 (0.049) \\
+HC & Gemini 3.1 Pro & 0.176 (0.068) & 0.554 (0.100) & 1.113 (0.044) \\
+HC & Qwen3.8 27B & 0.177 (0.070) & 0.553 (0.104) & 1.109 (0.041) \\
+HC & DeepSeek V4.1 Flash & 0.175 (0.070) & 0.544 (0.099) & 1.113 (0.040) \\
+\midrule
+\multicolumn{5}{@{}l}{\textit{Bangladesh}} \\
+DOP & GPT-5.4 & 0.304 (0.082) & 0.453 (0.057) & 0.855 (0.046) \\
+DOP & Claude Opus 4.6 & 0.328 (0.076) & 0.448 (0.039) & 0.871 (0.043) \\
+DOP & Gemini 3.1 Pro & 0.361 (0.073) & 0.383 (0.054) & 0.938 (0.049) \\
+DOP & Qwen3.8 27B & 0.241 (0.108) & 0.477 (0.075) & 0.818 (0.033) \\
+DOP & DeepSeek V4.1 Flash & 0.295 (0.083) & 0.477 (0.053) & 0.853 (0.042) \\
+BPP & GPT-5.4 & 0.395 (0.054) & 0.739 (0.052) & 0.723 (0.033) \\
+BPP & Claude Opus 4.6 & 0.348 (0.081) & 0.789 (0.038) & 0.712 (0.026) \\
+BPP & Gemini 3.1 Pro & 0.421 (0.059) & 0.614 (0.128) & 0.754 (0.038) \\
+BPP & Qwen3.8 27B & 0.409 (0.062) & 0.614 (0.089) & 0.791 (0.042) \\
+BPP & DeepSeek V4.1 Flash & 0.397 (0.065) & 0.734 (0.043) & 0.721 (0.030) \\
+FPNP & GPT-5.4 & 0.407 (0.063) & 0.735 (0.061) & 0.719 (0.040) \\
+BBP & GPT-5.4 & 0.406 (0.061) & 0.667 (0.085) & 0.733 (0.036) \\
+SCP & GPT-5.4 & 0.397 (0.055) & 0.730 (0.056) & 0.727 (0.036) \\
+SADP & GPT-5.4 & 0.346 (0.068) & 0.797 (0.036) & 0.693 (0.032) \\
+SADP & Claude Opus 4.6 & 0.358 (0.069) & 0.792 (0.102) & 0.682 (0.022) \\
+SADP & Gemini 3.1 Pro & 0.408 (0.057) & 0.820 (0.028) & 0.668 (0.030) \\
+SADP & Qwen3.8 27B & 0.419 (0.067) & 0.505 (0.080) & 0.836 (0.049) \\
+SADP & DeepSeek V4.1 Flash & 0.407 (0.067) & 0.796 (0.024) & 0.690 (0.031) \\
+TPSAP & GPT-5.4 & 0.399 (0.060) & 0.824 (0.025) & 0.693 (0.028) \\
+HC & GPT-5.4 & 0.130 (0.059) & 0.507 (0.071) & 0.965 (0.043) \\
+HC & Claude Opus 4.6 & 0.141 (0.058) & 0.494 (0.073) & 0.959 (0.042) \\
+HC & Gemini 3.1 Pro & 0.141 (0.055) & 0.497 (0.079) & 0.963 (0.039) \\
+HC & Qwen3.8 27B & 0.129 (0.049) & 0.509 (0.075) & 0.950 (0.034) \\
+HC & DeepSeek V4.1 Flash & 0.137 (0.052) & 0.510 (0.072) & 0.954 (0.037) \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Paired contrasts across the ten repeated splits, by model family. Each cell gives the mean difference between the two arms, computed within split, followed by the number of splits in which the difference takes the sign of that mean.}
+\label{tab:c2-contrasts}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llccc@{}}
+\toprule
+Contrast & Model & Corr RMSE & Profile recovery & Item MAE \\
+\midrule
+\multicolumn{5}{@{}l}{\textit{Turkish}} \\
+SADP $-$ DOP & GPT-5.4 & $-$0.196 (10/10) & +0.381 (10/10) & $-$0.217 (10/10) \\
+SADP $-$ DOP & Claude Opus 4.6 & $-$0.201 (10/10) & +0.406 (10/10) & $-$0.260 (10/10) \\
+SADP $-$ DOP & Gemini 3.1 Pro & $-$0.328 (10/10) & +0.437 (10/10) & $-$0.351 (10/10) \\
+SADP $-$ DOP & Qwen3.8 27B & $-$0.039 (6/10) & +0.526 (10/10) & $-$0.364 (10/10) \\
+SADP $-$ DOP & DeepSeek V4.1 Flash & $-$0.189 (9/10) & +0.451 (10/10) & $-$0.304 (10/10) \\
+BPP $-$ DOP & GPT-5.4 & $-$0.095 (8/10) & +0.366 (10/10) & $-$0.207 (10/10) \\
+BPP $-$ DOP & Claude Opus 4.6 & $-$0.203 (10/10) & +0.404 (10/10) & $-$0.259 (10/10) \\
+BPP $-$ DOP & Gemini 3.1 Pro & $-$0.351 (10/10) & +0.431 (10/10) & $-$0.345 (10/10) \\
+BPP $-$ DOP & Qwen3.8 27B & +0.100 (8/10) & +0.518 (10/10) & $-$0.327 (10/10) \\
+BPP $-$ DOP & DeepSeek V4.1 Flash & $-$0.140 (9/10) & +0.434 (10/10) & $-$0.274 (10/10) \\
+SADP $-$ BPP & GPT-5.4 & $-$0.101 (9/10) & +0.015 (3/10) & $-$0.009 (6/10) \\
+SADP $-$ BPP & Claude Opus 4.6 & +0.002 (5/10) & +0.001 (1/10) & $-$0.001 (6/10) \\
+SADP $-$ BPP & Gemini 3.1 Pro & +0.022 (7/10) & +0.006 (3/10) & $-$0.007 (7/10) \\
+SADP $-$ BPP & Qwen3.8 27B & $-$0.139 (9/10) & +0.009 (3/10) & $-$0.037 (10/10) \\
+SADP $-$ BPP & DeepSeek V4.1 Flash & $-$0.050 (6/10) & +0.018 (3/10) & $-$0.030 (9/10) \\
+HC $-$ SADP & GPT-5.4 & $-$0.082 (6/10) & $-$0.274 (10/10) & +0.287 (10/10) \\
+HC $-$ SADP & Claude Opus 4.6 & $-$0.029 (7/10) & $-$0.266 (10/10) & +0.324 (10/10) \\
+HC $-$ SADP & Gemini 3.1 Pro & $-$0.050 (7/10) & $-$0.257 (10/10) & +0.327 (10/10) \\
+HC $-$ SADP & Qwen3.8 27B & $-$0.127 (8/10) & $-$0.257 (10/10) & +0.292 (10/10) \\
+HC $-$ SADP & DeepSeek V4.1 Flash & $-$0.091 (7/10) & $-$0.259 (10/10) & +0.307 (10/10) \\
+\midrule
+\multicolumn{5}{@{}l}{\textit{Bangladesh}} \\
+SADP $-$ DOP & GPT-5.4 & +0.041 (10/10) & +0.345 (10/10) & $-$0.161 (10/10) \\
+SADP $-$ DOP & Claude Opus 4.6 & +0.030 (8/10) & +0.345 (10/10) & $-$0.189 (10/10) \\
+SADP $-$ DOP & Gemini 3.1 Pro & +0.047 (10/10) & +0.438 (10/10) & $-$0.270 (10/10) \\
+SADP $-$ DOP & Qwen3.8 27B & +0.178 (8/10) & +0.028 (6/10) & +0.018 (5/10) \\
+SADP $-$ DOP & DeepSeek V4.1 Flash & +0.112 (10/10) & +0.319 (10/10) & $-$0.163 (10/10) \\
+BPP $-$ DOP & GPT-5.4 & +0.091 (10/10) & +0.286 (10/10) & $-$0.132 (10/10) \\
+BPP $-$ DOP & Claude Opus 4.6 & +0.020 (7/10) & +0.341 (10/10) & $-$0.159 (10/10) \\
+BPP $-$ DOP & Gemini 3.1 Pro & +0.060 (10/10) & +0.231 (9/10) & $-$0.184 (10/10) \\
+BPP $-$ DOP & Qwen3.8 27B & +0.169 (8/10) & +0.136 (8/10) & $-$0.026 (7/10) \\
+BPP $-$ DOP & DeepSeek V4.1 Flash & +0.102 (10/10) & +0.256 (10/10) & $-$0.132 (10/10) \\
+SADP $-$ BPP & GPT-5.4 & $-$0.050 (9/10) & +0.059 (8/10) & $-$0.029 (10/10) \\
+SADP $-$ BPP & Claude Opus 4.6 & +0.009 (6/10) & +0.004 (6/10) & $-$0.030 (9/10) \\
+SADP $-$ BPP & Gemini 3.1 Pro & $-$0.013 (10/10) & +0.206 (9/10) & $-$0.086 (10/10) \\
+SADP $-$ BPP & Qwen3.8 27B & +0.009 (7/10) & $-$0.109 (10/10) & +0.044 (10/10) \\
+SADP $-$ BPP & DeepSeek V4.1 Flash & +0.010 (6/10) & +0.062 (8/10) & $-$0.031 (10/10) \\
+HC $-$ SADP & GPT-5.4 & $-$0.216 (10/10) & $-$0.290 (10/10) & +0.272 (10/10) \\
+HC $-$ SADP & Claude Opus 4.6 & $-$0.216 (10/10) & $-$0.299 (9/10) & +0.277 (10/10) \\
+HC $-$ SADP & Gemini 3.1 Pro & $-$0.267 (10/10) & $-$0.323 (10/10) & +0.295 (10/10) \\
+HC $-$ SADP & Qwen3.8 27B & $-$0.290 (10/10) & +0.004 (6/10) & +0.115 (10/10) \\
+HC $-$ SADP & DeepSeek V4.1 Flash & $-$0.270 (10/10) & $-$0.286 (10/10) & +0.263 (10/10) \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+\clearpage
+
+\section{Distributional fidelity and uncertainty}
+\label{app:c}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Group-level distributional fidelity on the final-test split, averaged over items and over the three hosted model families. TVD, JSD and WD are lower-is-better; coverage is higher-is-better.}
+\label{tab:distributional}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lcccc@{}}
+\toprule
+Arm & TVD & JSD (bits) & Wasserstein & Coverage \\
+\midrule
+\multicolumn{5}{@{}l}{\textit{Turkish}} \\
+DOP & 0.487 & 0.275 & 0.202 & 0.653 \\
+BPP & 0.391 & 0.199 & 0.145 & 0.651 \\
+FPNP & 0.383 & 0.198 & 0.140 & 0.636 \\
+BBP & 0.372 & 0.186 & 0.140 & 0.656 \\
+SCP & 0.391 & 0.203 & 0.143 & 0.629 \\
+SADP & 0.367 & 0.180 & 0.136 & 0.673 \\
+TPSAP & 0.358 & 0.175 & 0.135 & 0.689 \\
+HC & 0.139 & 0.024 & 0.052 & 1.000 \\
+\midrule
+\multicolumn{5}{@{}l}{\textit{Bangladesh}} \\
+DOP & 0.412 & 0.226 & 0.189 & 0.649 \\
+BPP & 0.389 & 0.204 & 0.179 & 0.684 \\
+FPNP & 0.380 & 0.196 & 0.179 & 0.694 \\
+BBP & 0.375 & 0.188 & 0.176 & 0.722 \\
+SCP & 0.365 & 0.185 & 0.174 & 0.729 \\
+SADP & 0.369 & 0.187 & 0.159 & 0.663 \\
+TPSAP & 0.363 & 0.175 & 0.159 & 0.740 \\
+HC & 0.101 & 0.015 & 0.053 & 1.000 \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Bootstrap 95\% confidence intervals for respondent-level means on the final-test split of each dataset, GPT-5.4, 2000 resamples.}
+\label{tab:ci-arms}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llcc@{}}
+\toprule
+Arm & Metric & Mean & 95\% CI \\
+\midrule
+\multicolumn{4}{@{}l}{\textit{Turkish, $n=68$}} \\
+SADP & Scale RMSE & 0.629 & [0.568, 0.692] \\
+ & Item MAE & 0.817 & [0.752, 0.883] \\
+ & Item EMR & 0.373 & [0.340, 0.405] \\
+BPP & Scale RMSE & 0.674 & [0.600, 0.757] \\
+ & Item MAE & 0.862 & [0.791, 0.932] \\
+ & Item EMR & 0.356 & [0.326, 0.387] \\
+HC & Scale RMSE & 0.940 & [0.841, 1.042] \\
+ & Item MAE & 1.136 & [1.050, 1.225] \\
+ & Item EMR & 0.293 & [0.262, 0.326] \\
+Profile mean & Scale RMSE & 0.622 & [0.553, 0.694] \\
+ & Item MAE & 0.735 & [0.658, 0.815] \\
+ & Item EMR & 0.396 & [0.347, 0.445] \\
+\midrule
+\multicolumn{4}{@{}l}{\textit{Bangladesh, $n=80$}} \\
+SADP & Scale RMSE & 0.440 & [0.397, 0.485] \\
+ & Item MAE & 0.671 & [0.627, 0.717] \\
+ & Item EMR & 0.440 & [0.412, 0.469] \\
+BPP & Scale RMSE & 0.521 & [0.479, 0.564] \\
+ & Item MAE & 0.727 & [0.680, 0.774] \\
+ & Item EMR & 0.406 & [0.378, 0.435] \\
+HC & Scale RMSE & 0.695 & [0.620, 0.777] \\
+ & Item MAE & 0.967 & [0.898, 1.030] \\
+ & Item EMR & 0.353 & [0.324, 0.382] \\
+Profile mean & Scale RMSE & 0.435 & [0.392, 0.480] \\
+ & Item MAE & 0.610 & [0.556, 0.667] \\
+ & Item EMR & 0.458 & [0.415, 0.503] \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Paired contrasts on the final-test split of each dataset, GPT-5.4. Negative values favor the first-named method for the error metrics and the second-named method for item EMR. An asterisk marks an interval excluding zero.}
+\label{tab:ci-contrasts}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llccc@{}}
+\toprule
+Contrast & Metric & Mean difference & 95\% CI & $d_z$ \\
+\midrule
+\multicolumn{5}{@{}l}{\textit{Turkish, $n=68$}} \\
+SADP $-$ BPP & Scale RMSE & $-$0.045$^{*}$ & [$-$0.086, $-$0.006] & $-$0.26 \\
+ & Item MAE & $-$0.046$^{*}$ & [$-$0.082, $-$0.014] & $-$0.32 \\
+ & Item EMR & +0.016 & [$-$0.003, +0.036] & +0.19 \\
+SADP $-$ profile mean & Scale RMSE & +0.007 & [$-$0.037, +0.048] & +0.04 \\
+ & Item MAE & +0.082$^{*}$ & [+0.039, +0.123] & +0.47 \\
+ & Item EMR & $-$0.023 & [$-$0.060, +0.014] & $-$0.15 \\
+SADP $-$ HC & Scale RMSE & $-$0.311$^{*}$ & [$-$0.411, $-$0.216] & $-$0.73 \\
+ & Item MAE & $-$0.319$^{*}$ & [$-$0.408, $-$0.238] & $-$0.92 \\
+ & Item EMR & +0.079$^{*}$ & [+0.043, +0.115] & +0.54 \\
+BPP $-$ HC & Scale RMSE & $-$0.266$^{*}$ & [$-$0.361, $-$0.172] & $-$0.67 \\
+ & Item MAE & $-$0.274$^{*}$ & [$-$0.353, $-$0.192] & $-$0.82 \\
+ & Item EMR & +0.063$^{*}$ & [+0.031, +0.096] & +0.45 \\
+\midrule
+\multicolumn{5}{@{}l}{\textit{Bangladesh, $n=80$}} \\
+SADP $-$ BPP & Scale RMSE & $-$0.080$^{*}$ & [$-$0.115, $-$0.047] & $-$0.52 \\
+ & Item MAE & $-$0.056$^{*}$ & [$-$0.083, $-$0.030] & $-$0.47 \\
+ & Item EMR & +0.034$^{*}$ & [+0.011, +0.056] & +0.33 \\
+SADP $-$ profile mean & Scale RMSE & +0.006 & [$-$0.026, +0.038] & +0.04 \\
+ & Item MAE & +0.060$^{*}$ & [+0.030, +0.092] & +0.42 \\
+ & Item EMR & $-$0.019 & [$-$0.046, +0.010] & $-$0.15 \\
+SADP $-$ HC & Scale RMSE & $-$0.254$^{*}$ & [$-$0.329, $-$0.178] & $-$0.73 \\
+ & Item MAE & $-$0.296$^{*}$ & [$-$0.354, $-$0.242] & $-$1.17 \\
+ & Item EMR & +0.086$^{*}$ & [+0.055, +0.118] & +0.60 \\
+BPP $-$ HC & Scale RMSE & $-$0.174$^{*}$ & [$-$0.242, $-$0.098] & $-$0.52 \\
+ & Item MAE & $-$0.240$^{*}$ & [$-$0.303, $-$0.178] & $-$0.85 \\
+ & Item EMR & +0.053$^{*}$ & [+0.015, +0.090] & +0.30 \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+\begin{table}[pos=!htbp]
+\small\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Response style of the synthetic and human records, repeated splits, mean over the five model families.}
+\label{tab:response-style}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lccccc@{}}
+\toprule
+Records & Lowest category & Highest category & Midpoint & Entropy & Straight-lining \\
+\midrule
+\multicolumn{6}{@{}l}{\textit{Turkish}} \\
+Human & 0.22 & 0.09 & 0.18 & 0.88 & 0.19 \\
+DOP & 0.02 & 0.03 & 0.49 & 0.50 & 0.08 \\
+BPP & 0.06 & 0.00 & 0.29 & 0.57 & 0.07 \\
+SADP & 0.09 & 0.00 & 0.27 & 0.59 & 0.11 \\
+HC & 0.21 & 0.11 & 0.22 & 0.91 & 0.06 \\
+\midrule
+\multicolumn{6}{@{}l}{\textit{Bangladesh}} \\
+Human & 0.35 & 0.13 & -- & 0.91 & 0.13 \\
+DOP & 0.13 & 0.01 & -- & 0.44 & 0.06 \\
+BPP & 0.29 & 0.03 & -- & 0.59 & 0.03 \\
+SADP & 0.33 & 0.03 & -- & 0.57 & 0.14 \\
+HC & 0.34 & 0.13 & -- & 0.93 & 0.08 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\small Entries are shares of answers, except entropy, which is the entropy of the answer distribution divided by its maximum, and straight-lining, which is the share of respondent-by-scale blocks with one answer throughout. The Bangladesh response range has no midpoint.
+\end{table}
+
+\clearpage
+
+\section{Non-LLM baselines}
+\label{app:d}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Turkish final-test results for the GPT-5.4 arms and the non-LLM baselines under oracle assignment, with item MAE under cold-start assignment in the last column. The majority-profile rate is 0.603.}
+\label{tab:baselines-tr}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llcccccccc@{}}
+\toprule
+Method & Information & Corr & Scale RMSE & Item MAE & Item EMR & Recovery & Unique & TVD & Cold-start MAE \\
+\midrule
+\multicolumn{10}{@{}l}{\textit{LLM arms, GPT-5.4}} \\
+DOP & metadata & 0.583 & 0.972 & 1.114 & 0.273 & 0.471 & 0.985 & 0.456 & -- \\
+BPP & profile, metadata & 0.480 & 0.674 & 0.862 & 0.356 & 0.912 & 0.735 & 0.420 & 0.981 \\
+FPNP & profile, metadata & 0.322 & 0.631 & 0.833 & 0.366 & 0.897 & 0.647 & 0.408 & 0.984 \\
+BBP & profile, metadata & 0.291 & 0.642 & 0.835 & 0.371 & 0.897 & 0.765 & 0.399 & 0.983 \\
+SCP & profile, metadata & 0.335 & 0.640 & 0.836 & 0.363 & 0.897 & 0.779 & 0.411 & 0.977 \\
+SADP & profile, metadata & 0.296 & 0.629 & 0.817 & 0.373 & 0.897 & 0.838 & 0.392 & 0.980 \\
+TPSAP & profile, metadata & 0.316 & 0.572 & 0.824 & 0.371 & 0.926 & 1.000 & 0.373 & 0.982 \\
+HC & profile, metadata & 0.258 & 0.940 & 1.136 & 0.293 & 0.691 & 1.000 & 0.137 & 1.208 \\
+\midrule
+\multicolumn{10}{@{}l}{\textit{Non-LLM baselines}} \\
+Marginal sampler & none & 0.433 & 0.869 & 1.251 & 0.270 & 0.584 & 1.000 & 0.125 & -- \\
+Graded response model & none & 0.280 & 1.147 & 1.247 & 0.271 & 0.453 & 0.999 & 0.124 & -- \\
+Gaussian copula & none & 0.272 & 1.129 & 1.229 & 0.275 & 0.462 & 1.000 & 0.126 & -- \\
+Profile mean & profile & 0.296 & 0.622 & 0.735 & 0.396 & 0.926 & 0.044 & 0.420 & 0.889 \\
+Within-profile sampler & profile & 0.138 & 0.809 & 0.989 & 0.341 & 0.836 & 0.940 & 0.121 & 1.168 \\
+Graded response model & profile & 0.176 & 0.841 & 1.027 & 0.328 & 0.812 & 0.992 & 0.124 & 1.175 \\
+Gaussian copula & profile & 0.135 & 0.834 & 1.007 & 0.333 & 0.816 & 1.000 & 0.122 & 1.175 \\
+Nearest neighbor & metadata & 0.502 & 1.145 & 1.237 & 0.292 & 0.515 & 0.809 & 0.135 & -- \\
+Regression, sampled & metadata & 0.369 & 0.868 & 1.232 & 0.274 & 0.577 & 1.000 & 0.125 & -- \\
+Regression, median & metadata & 0.399 & 0.805 & 0.873 & 0.375 & 0.603 & 0.809 & 0.480 & -- \\
+Regression, sampled & profile, metadata & 0.125 & 0.661 & 1.034 & 0.320 & 0.890 & 1.000 & 0.120 & 1.180 \\
+Regression, median & profile, metadata & 0.300 & 0.602 & 0.718 & 0.421 & 0.912 & 0.882 & 0.297 & 0.893 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize Sampled baselines are averaged over 50 replicates. The information column names what a method knows about a held-out respondent. A cold-start value is given for methods that use the profile. Regression is the proportional-odds regression, with answers sampled from the predicted probabilities or set to the predicted median.
+\end{table}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Bangladesh final-test results for the GPT-5.4 arms and the non-LLM baselines under oracle assignment, with item MAE under cold-start assignment in the last column. The majority-profile rate is 0.438.}
+\label{tab:baselines-bd}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llcccccccc@{}}
+\toprule
+Method & Information & Corr & Scale RMSE & Item MAE & Item EMR & Recovery & Unique & TVD & Cold-start MAE \\
+\midrule
+\multicolumn{10}{@{}l}{\textit{LLM arms, GPT-5.4}} \\
+DOP & metadata & 0.303 & 0.699 & 0.867 & 0.328 & 0.438 & 0.637 & 0.426 & -- \\
+BPP & profile, metadata & 0.232 & 0.521 & 0.727 & 0.406 & 0.700 & 0.438 & 0.401 & 0.855 \\
+FPNP & profile, metadata & 0.153 & 0.569 & 0.755 & 0.392 & 0.688 & 0.500 & 0.390 & 0.842 \\
+BBP & profile, metadata & 0.194 & 0.507 & 0.713 & 0.417 & 0.775 & 0.512 & 0.369 & 0.876 \\
+SCP & profile, metadata & 0.345 & 0.500 & 0.709 & 0.408 & 0.725 & 0.512 & 0.368 & 0.842 \\
+SADP & profile, metadata & 0.300 & 0.440 & 0.671 & 0.440 & 0.825 & 0.300 & 0.382 & 0.852 \\
+TPSAP & profile, metadata & 0.360 & 0.436 & 0.670 & 0.440 & 0.825 & 0.675 & 0.363 & 0.849 \\
+HC & profile, metadata & 0.170 & 0.695 & 0.967 & 0.353 & 0.575 & 1.000 & 0.094 & 1.089 \\
+\midrule
+\multicolumn{10}{@{}l}{\textit{Non-LLM baselines}} \\
+Marginal sampler & none & 0.598 & 0.752 & 1.095 & 0.304 & 0.423 & 1.000 & 0.093 & -- \\
+Graded response model & none & 0.089 & 0.932 & 1.104 & 0.302 & 0.333 & 0.996 & 0.095 & -- \\
+Gaussian copula & none & 0.085 & 0.928 & 1.095 & 0.304 & 0.340 & 0.999 & 0.093 & -- \\
+Profile mean & profile & 0.401 & 0.435 & 0.610 & 0.458 & 0.825 & 0.037 & 0.368 & 0.790 \\
+Within-profile sampler & profile & 0.092 & 0.603 & 0.849 & 0.400 & 0.705 & 0.938 & 0.096 & 1.001 \\
+Graded response model & profile & 0.094 & 0.611 & 0.853 & 0.400 & 0.711 & 0.999 & 0.095 & 1.009 \\
+Gaussian copula & profile & 0.069 & 0.611 & 0.852 & 0.399 & 0.704 & 1.000 & 0.095 & 0.999 \\
+Nearest neighbor & metadata & 0.076 & 0.880 & 1.030 & 0.343 & 0.375 & 0.762 & 0.091 & -- \\
+Regression, sampled & metadata & 0.472 & 0.733 & 1.074 & 0.311 & 0.447 & 1.000 & 0.094 & -- \\
+Regression, median & metadata & 0.175 & 0.680 & 0.806 & 0.368 & 0.425 & 0.662 & 0.482 & -- \\
+Regression, sampled & profile, metadata & 0.076 & 0.510 & 0.857 & 0.397 & 0.793 & 1.000 & 0.094 & 1.019 \\
+Regression, median & profile, metadata & 0.318 & 0.453 & 0.614 & 0.485 & 0.825 & 0.762 & 0.280 & 0.814 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize Sampled baselines are averaged over 50 replicates. The information column names what a method knows about a held-out respondent. A cold-start value is given for methods that use the profile. Regression is the proportional-odds regression, with answers sampled from the predicted probabilities or set to the predicted median.
+\end{table}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Non-LLM baselines across 50 random splits with profiles refitted on every training split. Each cell gives the mean across splits with the standard deviation in parentheses.}
+\label{tab:baselines-splits}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llccccc@{}}
+\toprule
+Method & Information & Item MAE & Cold-start MAE & Corr RMSE & Recovery & Unique \\
+\midrule
+\multicolumn{7}{@{}l}{\textit{Turkish}} \\
+Marginal sampler & none & 1.246 (0.028) & -- & 0.277 (0.096) & 0.498 (0.094) & 1.000 (0.000) \\
+Graded response model & none & 1.250 (0.053) & -- & 0.195 (0.077) & 0.405 (0.102) & 0.994 (0.011) \\
+Gaussian copula & none & 1.249 (0.037) & -- & 0.162 (0.066) & 0.401 (0.095) & 1.000 (0.000) \\
+Profile mean & profile & 0.765 (0.039) & 0.901 (0.045) & 0.361 (0.147) & 0.830 (0.060) & 0.048 (0.007) \\
+Within-profile sampler & profile & 1.043 (0.053) & 1.145 (0.042) & 0.152 (0.080) & 0.721 (0.082) & 0.933 (0.030) \\
+Graded response model & profile & 1.070 (0.046) & 1.157 (0.042) & 0.170 (0.081) & 0.703 (0.083) & 0.995 (0.009) \\
+Gaussian copula & profile & 1.047 (0.051) & 1.151 (0.043) & 0.146 (0.060) & 0.697 (0.084) & 1.000 (0.000) \\
+Nearest neighbor & metadata & 1.198 (0.050) & -- & 0.185 (0.093) & 0.426 (0.102) & 0.836 (0.040) \\
+Regression, sampled & metadata & 1.218 (0.026) & -- & 0.244 (0.081) & 0.509 (0.089) & 1.000 (0.000) \\
+Regression, median & metadata & 0.877 (0.037) & -- & 0.277 (0.082) & 0.546 (0.104) & 0.756 (0.132) \\
+Regression, sampled & profile, metadata & 1.043 (0.038) & 1.152 (0.034) & 0.194 (0.087) & 0.800 (0.066) & 1.000 (0.000) \\
+Regression, median & profile, metadata & 0.760 (0.037) & 0.893 (0.044) & 0.300 (0.105) & 0.824 (0.063) & 0.844 (0.054) \\
+\midrule
+\multicolumn{7}{@{}l}{\textit{Bangladesh}} \\
+Marginal sampler & none & 1.089 (0.025) & -- & 0.594 (0.083) & 0.431 (0.082) & 1.000 (0.000) \\
+Graded response model & none & 1.096 (0.047) & -- & 0.109 (0.048) & 0.335 (0.076) & 0.996 (0.007) \\
+Gaussian copula & none & 1.087 (0.050) & -- & 0.120 (0.056) & 0.353 (0.086) & 0.999 (0.003) \\
+Profile mean & profile & 0.634 (0.029) & 0.814 (0.048) & 0.367 (0.089) & 0.818 (0.054) & 0.039 (0.005) \\
+Within-profile sampler & profile & 0.859 (0.029) & 1.013 (0.043) & 0.101 (0.049) & 0.690 (0.074) & 0.930 (0.024) \\
+Graded response model & profile & 0.857 (0.037) & 1.021 (0.041) & 0.113 (0.048) & 0.684 (0.071) & 0.998 (0.005) \\
+Gaussian copula & profile & 0.852 (0.034) & 1.009 (0.045) & 0.107 (0.056) & 0.683 (0.071) & 0.999 (0.003) \\
+Nearest neighbor & metadata & 1.054 (0.051) & -- & 0.135 (0.072) & 0.384 (0.062) & 0.675 (0.040) \\
+Regression, sampled & metadata & 1.062 (0.025) & -- & 0.460 (0.088) & 0.439 (0.074) & 1.000 (0.000) \\
+Regression, median & metadata & 0.795 (0.034) & -- & 0.159 (0.054) & 0.430 (0.077) & 0.570 (0.079) \\
+Regression, sampled & profile, metadata & 0.862 (0.035) & 1.019 (0.039) & 0.114 (0.061) & 0.781 (0.060) & 1.000 (0.000) \\
+Regression, median & profile, metadata & 0.630 (0.026) & 0.821 (0.047) & 0.333 (0.071) & 0.816 (0.055) & 0.741 (0.047) \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+\clearpage
+
+\section{Psychometric properties and measurement invariance}
+\label{app:e}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Classical item and scale properties of the synthetic records by model family, repeated splits.}
+\label{tab:psychometric-families}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llccccccc@{}}
+\toprule
+Arm & Model & $\alpha$ & $\bar{r}$ & Item-rest $r$ & Item-rest profile $r$ & Items lacking a category & Threshold MAD & DIF items \\
+\midrule
+\multicolumn{9}{@{}l}{\textit{Turkish}} \\
+DOP & GPT-5.4 & 0.94 & 0.62 & 0.76 & $-$0.10 & 28 & 0.80 & 0.83 \\
+DOP & Claude Opus 4.6 & 0.94 & 0.64 & 0.76 & $-$0.18 & 28 & 0.98 & 0.77 \\
+DOP & Gemini 3.1 Pro & 0.95 & 0.68 & 0.79 & $-$0.27 & 25 & 0.90 & 0.83 \\
+DOP & Qwen3.8 27B & 0.83 & 0.42 & 0.56 & $-$0.01 & 30 & 1.34 & 0.87 \\
+DOP & DeepSeek V4.1 Flash & 0.95 & 0.68 & 0.80 & 0.38 & 30 & 0.81 & 0.70 \\
+BPP & GPT-5.4 & 0.97 & 0.78 & 0.87 & 0.25 & 28 & 0.69 & 0.87 \\
+BPP & Claude Opus 4.6 & 0.97 & 0.76 & 0.86 & 0.20 & 25 & 0.61 & 0.70 \\
+BPP & Gemini 3.1 Pro & 0.97 & 0.78 & 0.87 & 0.22 & 25 & 0.59 & 0.77 \\
+BPP & Qwen3.8 27B & 0.97 & 0.77 & 0.86 & 0.29 & 28 & 0.58 & 0.73 \\
+BPP & DeepSeek V4.1 Flash & 0.96 & 0.74 & 0.84 & 0.35 & 27 & 0.67 & 0.80 \\
+SADP & GPT-5.4 & 0.97 & 0.79 & 0.87 & 0.39 & 24 & 0.64 & 0.97 \\
+SADP & Claude Opus 4.6 & 0.97 & 0.76 & 0.85 & 0.17 & 23 & 0.64 & 0.70 \\
+SADP & Gemini 3.1 Pro & 0.97 & 0.77 & 0.86 & 0.34 & 24 & 0.66 & 0.70 \\
+SADP & Qwen3.8 27B & 0.98 & 0.85 & 0.91 & 0.59 & 28 & 0.64 & 0.70 \\
+SADP & DeepSeek V4.1 Flash & 0.97 & 0.80 & 0.88 & 0.37 & 26 & 0.59 & 0.77 \\
+HC & GPT-5.4 & 0.91 & 0.50 & 0.67 & 0.86 & 0 & 0.12 & 0.00 \\
+HC & Claude Opus 4.6 & 0.91 & 0.51 & 0.68 & 0.88 & 0 & 0.13 & 0.00 \\
+HC & Gemini 3.1 Pro & 0.91 & 0.50 & 0.67 & 0.86 & 0 & 0.12 & 0.00 \\
+HC & Qwen3.8 27B & 0.91 & 0.51 & 0.68 & 0.89 & 0 & 0.13 & 0.03 \\
+HC & DeepSeek V4.1 Flash & 0.91 & 0.51 & 0.68 & 0.88 & 0 & 0.13 & 0.00 \\
+\midrule
+\multicolumn{9}{@{}l}{\textit{Bangladesh}} \\
+DOP & GPT-5.4 & 0.81 & 0.45 & 0.60 & 0.82 & 24 & 0.66 & 0.91 \\
+DOP & Claude Opus 4.6 & 0.71 & 0.37 & 0.55 & 0.84 & 24 & 0.82 & 0.83 \\
+DOP & Gemini 3.1 Pro & 0.78 & 0.43 & 0.61 & 0.86 & 15 & 0.76 & 0.92 \\
+DOP & Qwen3.8 27B & 0.55 & 0.32 & 0.42 & 0.55 & 22 & 1.24 & 0.79 \\
+DOP & DeepSeek V4.1 Flash & 0.67 & 0.36 & 0.51 & 0.82 & 24 & 0.59 & 0.91 \\
+BPP & GPT-5.4 & 0.88 & 0.58 & 0.73 & 0.88 & 16 & 0.58 & 0.83 \\
+BPP & Claude Opus 4.6 & 0.83 & 0.50 & 0.64 & 0.88 & 21 & 0.64 & 0.75 \\
+BPP & Gemini 3.1 Pro & 0.87 & 0.61 & 0.76 & 0.88 & 10 & 0.53 & 0.96 \\
+BPP & Qwen3.8 27B & 0.59 & 0.61 & 0.74 & 0.86 & 15 & 0.52 & 0.83 \\
+BPP & DeepSeek V4.1 Flash & 0.80 & 0.53 & 0.68 & 0.85 & 24 & 0.60 & 0.92 \\
+SADP & GPT-5.4 & 0.92 & 0.72 & 0.81 & 0.80 & 17 & 0.54 & 0.88 \\
+SADP & Claude Opus 4.6 & 0.89 & 0.61 & 0.73 & 0.86 & 21 & 0.51 & 0.75 \\
+SADP & Gemini 3.1 Pro & 0.89 & 0.63 & 0.76 & 0.87 & 19 & 0.49 & 0.83 \\
+SADP & Qwen3.8 27B & 0.71 & 0.72 & 0.82 & 0.87 & 24 & 0.70 & 1.00 \\
+SADP & DeepSeek V4.1 Flash & 0.82 & 0.55 & 0.70 & 0.85 & 23 & 0.48 & 0.92 \\
+HC & GPT-5.4 & 0.82 & 0.38 & 0.55 & 0.98 & 0 & 0.08 & 0.00 \\
+HC & Claude Opus 4.6 & 0.82 & 0.38 & 0.55 & 0.99 & 0 & 0.08 & 0.00 \\
+HC & Gemini 3.1 Pro & 0.82 & 0.38 & 0.55 & 0.98 & 0 & 0.09 & 0.04 \\
+HC & Qwen3.8 27B & 0.82 & 0.38 & 0.55 & 0.97 & 0 & 0.11 & 0.17 \\
+HC & DeepSeek V4.1 Flash & 0.82 & 0.37 & 0.54 & 0.99 & 0 & 0.08 & 0.00 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize Item-rest profile $r$ is the correlation between the human and the synthetic item-rest correlations across items. Threshold MAD is the mean absolute difference between human and synthetic category thresholds in probit units.
+\end{table}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Measurement invariance between human and synthetic records by model family, one-factor model per scale, repeated splits.}
+\label{tab:invariance-families}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llcccccc@{}}
+\toprule
+Arm & Model & Tests & Metric rejected & Scalar rejected & $\Delta$CFI, metric & $\Delta$CFI, scalar & Merged categories \\
+\midrule
+\multicolumn{8}{@{}l}{\textit{Turkish}} \\
+Human halves & -- & 60 & 0.15 & 0.08 & $-$0.001 & $-$0.000 & 0.0 \\
+DOP & GPT-5.4 & 2 & 1.00 & 1.00 & $-$0.034 & $-$0.051 & 17.0 \\
+DOP & Claude Opus 4.6 & 3 & 1.00 & 1.00 & $-$0.016 & $-$0.049 & 16.0 \\
+DOP & Gemini 3.1 Pro & 3 & 1.00 & 1.00 & $-$0.048 & $-$0.042 & 12.3 \\
+DOP & Qwen3.8 27B & 2 & 1.00 & 1.00 & $-$0.071 & $-$0.115 & 18.7 \\
+DOP & DeepSeek V4.1 Flash & 2 & 1.00 & 1.00 & $-$0.031 & $-$0.053 & 21.0 \\
+BPP & GPT-5.4 & 3 & 1.00 & 1.00 & $-$0.015 & $-$0.065 & 12.3 \\
+BPP & Claude Opus 4.6 & 3 & 1.00 & 1.00 & $-$0.008 & $-$0.039 & 9.7 \\
+BPP & Gemini 3.1 Pro & 3 & 1.00 & 1.00 & $-$0.008 & $-$0.041 & 11.0 \\
+BPP & Qwen3.8 27B & 3 & 1.00 & 1.00 & $-$0.015 & $-$0.056 & 15.7 \\
+BPP & DeepSeek V4.1 Flash & 3 & 1.00 & 1.00 & $-$0.011 & $-$0.065 & 14.7 \\
+SADP & GPT-5.4 & 3 & 1.00 & 1.00 & $-$0.013 & $-$0.067 & 8.7 \\
+SADP & Claude Opus 4.6 & 3 & 1.00 & 1.00 & $-$0.006 & $-$0.040 & 8.7 \\
+SADP & Gemini 3.1 Pro & 3 & 1.00 & 1.00 & $-$0.009 & $-$0.039 & 10.3 \\
+SADP & Qwen3.8 27B & 3 & 1.00 & 1.00 & $-$0.010 & $-$0.047 & 11.0 \\
+SADP & DeepSeek V4.1 Flash & 3 & 1.00 & 1.00 & $-$0.008 & $-$0.053 & 12.3 \\
+HC & GPT-5.4 & 3 & 0.33 & 0.00 & $-$0.002 & +0.000 & 0.0 \\
+HC & Claude Opus 4.6 & 3 & 0.33 & 0.00 & $-$0.001 & +0.000 & 0.0 \\
+HC & Gemini 3.1 Pro & 3 & 0.00 & 0.00 & $-$0.000 & +0.001 & 0.0 \\
+HC & Qwen3.8 27B & 3 & 0.00 & 0.33 & $-$0.000 & +0.000 & 0.0 \\
+HC & DeepSeek V4.1 Flash & 3 & 0.33 & 0.00 & $-$0.001 & +0.000 & 0.0 \\
+\midrule
+\multicolumn{8}{@{}l}{\textit{Bangladesh}} \\
+Human halves & -- & 60 & 0.00 & 0.03 & +0.001 & $-$0.000 & 0.0 \\
+DOP & GPT-5.4 & 3 & 1.00 & 1.00 & $-$0.044 & $-$0.110 & 13.3 \\
+DOP & Claude Opus 4.6 & 3 & 1.00 & 1.00 & $-$0.060 & $-$0.088 & 12.0 \\
+DOP & Gemini 3.1 Pro & 3 & 1.00 & 1.00 & $-$0.030 & $-$0.110 & 6.3 \\
+DOP & Qwen3.8 27B & 2 & 0.50 & 1.00 & $-$0.109 & $-$0.032 & 9.0 \\
+DOP & DeepSeek V4.1 Flash & 3 & 1.00 & 1.00 & $-$0.055 & $-$0.089 & 14.0 \\
+BPP & GPT-5.4 & 3 & 0.67 & 1.00 & $-$0.026 & $-$0.054 & 7.0 \\
+BPP & Claude Opus 4.6 & 3 & 1.00 & 1.00 & $-$0.030 & $-$0.058 & 9.3 \\
+BPP & Gemini 3.1 Pro & 3 & 1.00 & 1.00 & $-$0.020 & $-$0.057 & 3.7 \\
+BPP & Qwen3.8 27B & 1 & 1.00 & 1.00 & $-$0.008 & $-$0.010 & 6.0 \\
+BPP & DeepSeek V4.1 Flash & 2 & 1.00 & 1.00 & $-$0.021 & $-$0.073 & 12.0 \\
+SADP & GPT-5.4 & 2 & 1.00 & 1.00 & $-$0.019 & $-$0.020 & 7.0 \\
+SADP & Claude Opus 4.6 & 3 & 1.00 & 1.00 & $-$0.021 & $-$0.031 & 8.3 \\
+SADP & Gemini 3.1 Pro & 2 & 1.00 & 1.00 & $-$0.016 & $-$0.018 & 9.0 \\
+SADP & Qwen3.8 27B & 0 & n/d & n/d & n/d & n/d & n/d \\
+SADP & DeepSeek V4.1 Flash & 2 & 1.00 & 1.00 & $-$0.025 & $-$0.041 & 11.0 \\
+HC & GPT-5.4 & 3 & 0.00 & 0.00 & +0.000 & $-$0.000 & 0.0 \\
+HC & Claude Opus 4.6 & 3 & 0.00 & 0.00 & +0.000 & +0.001 & 0.0 \\
+HC & Gemini 3.1 Pro & 3 & 0.00 & 0.33 & +0.000 & $-$0.004 & 0.0 \\
+HC & Qwen3.8 27B & 3 & 0.00 & 1.00 & $-$0.000 & $-$0.011 & 0.0 \\
+HC & DeepSeek V4.1 Flash & 3 & 0.00 & 0.00 & +0.001 & +0.001 & 0.0 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize Tests is the number of scales, or of scales by random halves for the human control. Rejection is at 0.05 on the scaled difference test of the continuous sequence. Merged categories is the mean number of response categories per scale that had to be merged before the ordinal sequence could be fitted. A scale whose model did not converge is not counted, and n/d marks a cell with no converged model.
+\end{table}
+
+\clearpage
+
+\section{Profile construction}
+\label{app:f}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Sensitivity to the clustering method at the profile count the benchmark selects.}
+\label{tab:profile-sensitivity}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lccccccc@{}}
+\toprule
+Clustering method & ARI & Item MAE & Recovery & BPP $>$ DOP & SADP $>$ DOP & SADP $\geq$ BPP & HC $<$ SADP \\
+\midrule
+\multicolumn{8}{@{}l}{\textit{Turkish}} \\
+Mixture, full (benchmark) & 1.00 & 0.765 & 0.830 & 1.00 & 1.00 & 0.91 & 1.00 \\
+Mixture, diagonal & 0.60 & 0.734 & 0.904 & 1.00 & 1.00 & 0.78 & 0.98 \\
+Mixture, tied & 0.55 & 0.725 & 0.913 & 1.00 & 1.00 & 0.87 & 1.00 \\
+k-means & 0.38 & 0.722 & 0.965 & 1.00 & 1.00 & 0.85 & 1.00 \\
+Ward & 0.40 & 0.732 & 0.947 & 0.91 & 0.91 & 0.82 & 1.00 \\
+\midrule
+\multicolumn{8}{@{}l}{\textit{Bangladesh}} \\
+Mixture, full (benchmark) & 1.00 & 0.634 & 0.818 & 0.95 & 0.93 & 0.75 & 0.87 \\
+Mixture, diagonal & 0.65 & 0.615 & 0.891 & 0.93 & 0.91 & 0.73 & 0.91 \\
+Mixture, tied & 0.31 & 0.633 & 0.854 & 1.00 & 0.98 & 0.71 & 0.82 \\
+k-means & 0.33 & 0.622 & 0.971 & 0.96 & 0.98 & 0.71 & 0.82 \\
+Ward & 0.32 & 0.625 & 0.959 & 0.91 & 0.93 & 0.76 & 0.89 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize Full, diagonal and tied name the covariance structure of the mixture. ARI is the adjusted Rand index against the benchmark's partition on the training split. Item MAE and recovery are those of the profile-mean baseline under the method. These three columns are means of 50 splits. The last four columns give the share of model-by-split cells in which the recovery contrast holds when the held-out respondents of the existing LLM runs are relabeled by the method.
+\end{table}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Generation under alternative profile constructions, GPT-5.4. Each run is compared with the benchmark run of the same arm and split on the same held-out respondents.}
+\label{tab:alt-profiles}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lllcccccc@{}}
+\toprule
+Dataset & Arm & Split & Benchmark & Variant & Difference [95\% CI] & Recovery & Unique & Profile mean \\
+\midrule
+\multicolumn{9}{@{}l}{\textit{k-means profiles, oracle assignment}} \\
+Turkish & BPP & Validation & 0.838 & 0.760 & $-$0.078 [$-$0.124, $-$0.033] & 0.881 / 1.000 & 0.657 / 0.746 & 0.741 / 0.676 \\
+Turkish & BPP & Final test & 0.862 & 0.800 & $-$0.063 [$-$0.105, $-$0.021] & 0.912 / 0.985 & 0.735 / 0.779 & 0.735 / 0.673 \\
+Turkish & SADP & Validation & 0.838 & 0.775 & $-$0.064 [$-$0.109, $-$0.020] & 0.881 / 1.000 & 0.851 / 0.896 & 0.741 / 0.676 \\
+Turkish & SADP & Final test & 0.817 & 0.764 & $-$0.052 [$-$0.094, $-$0.014] & 0.897 / 0.985 & 0.838 / 0.809 & 0.735 / 0.673 \\
+Bangladesh & BPP & Validation & 0.709 & 0.799 & +0.089 [+0.037, +0.139] & 0.861 / 0.418 & 0.620 / 0.494 & 0.602 / 0.622 \\
+Bangladesh & BPP & Final test & 0.727 & 0.798 & +0.071 [+0.029, +0.117] & 0.700 / 0.463 & 0.438 / 0.487 & 0.610 / 0.627 \\
+Bangladesh & SADP & Validation & 0.659 & 0.700 & +0.041 [+0.012, +0.069] & 0.861 / 0.975 & 0.266 / 0.582 & 0.602 / 0.622 \\
+Bangladesh & SADP & Final test & 0.671 & 0.670 & $-$0.001 [$-$0.027, +0.024] & 0.825 / 0.988 & 0.300 / 0.438 & 0.610 / 0.627 \\
+\midrule
+\multicolumn{9}{@{}l}{\textit{Soft membership, cold-start assignment}} \\
+Turkish & BPP & Validation & 0.936 & 0.957 & +0.021 [$-$0.022, +0.066] & 0.731 / 0.672 & 0.552 / 0.970 & 0.861 / 0.861 \\
+Turkish & BPP & Final test & 0.981 & 0.993 & +0.012 [$-$0.031, +0.053] & 0.603 / 0.485 & 0.647 / 0.956 & 0.889 / 0.889 \\
+Turkish & SADP & Validation & 0.936 & 0.934 & $-$0.001 [$-$0.035, +0.032] & 0.701 / 0.731 & 0.716 / 0.985 & 0.861 / 0.861 \\
+Turkish & SADP & Final test & 0.980 & 0.980 & +0.000 [$-$0.030, +0.030] & 0.603 / 0.559 & 0.647 / 0.971 & 0.889 / 0.889 \\
+Bangladesh & BPP & Validation & 0.849 & 0.802 & $-$0.047 [$-$0.077, $-$0.017] & n/d / n/d & 0.430 / 0.582 & 0.793 / 0.793 \\
+Bangladesh & BPP & Final test & 0.855 & 0.874 & +0.019 [$-$0.019, +0.057] & n/d / n/d & 0.338 / 0.625 & 0.790 / 0.790 \\
+Bangladesh & SADP & Validation & 0.846 & 0.844 & $-$0.002 [$-$0.031, +0.027] & n/d / n/d & 0.114 / 0.316 & 0.793 / 0.793 \\
+Bangladesh & SADP & Final test & 0.852 & 0.839 & $-$0.013 [$-$0.046, +0.022] & n/d / n/d & 0.087 / 0.475 & 0.790 / 0.790 \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize Benchmark, variant and difference are item MAE. Profile mean is the item MAE of the profile-mean baseline. Paired values are given as benchmark / variant. The difference is variant minus benchmark, paired by respondent, with a bootstrap interval over respondents.
+\end{table}
+
+\clearpage
+
+\section{Subgroup fidelity}
+\label{app:g}
+
+\begin{table}[pos=!htbp]
+\scriptsize\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Spread of item MAE across the levels of each demographic variable, validation and final-test respondents of the paper's split.}
+\label{tab:subgroup}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lcccccc@{}}
+\toprule
+Variable & Levels & Cells beyond bound & Spread, LLM & Spread, relabeled & Spread, profile mean & Beyond bound \\
+\midrule
+\multicolumn{7}{@{}l}{\textit{Turkish}} \\
+Gender & 2 & 0 of 32 & 0.037 & 0.043 & 0.002 & no \\
+Age band & 4 & 1 of 32 & 0.116 & 0.121 & 0.128 & no \\
+Program & 2 & 0 of 32 & 0.034 & 0.044 & 0.032 & no \\
+Grade band & 4 & 5 of 32 & 0.129 & 0.113 & 0.059 & no \\
+Residence & 3 & 0 of 32 & 0.111 & 0.102 & 0.149 & no \\
+\midrule
+\multicolumn{7}{@{}l}{\textit{Bangladesh}} \\
+Gender & 2 & 29 of 32 & 0.121 & 0.033 & 0.153 & yes \\
+Age band & 3 & 8 of 32 & 0.130 & 0.074 & 0.164 & yes \\
+Education & 2 & 13 of 32 & 0.082 & 0.037 & 0.088 & no \\
+Profession & 4 & 5 of 32 & 0.139 & 0.100 & 0.143 & no \\
+Monthly income & 3 & 18 of 32 & 0.142 & 0.072 & 0.182 & yes \\
+Residence & 2 & 23 of 32 & 0.111 & 0.033 & 0.147 & yes \\
+\bottomrule
+\end{tabular*}
+\par\smallskip
+\scriptsize Spread is the largest minus the smallest subgroup mean. A cell is one arm on one model family, and the LLM spread is the mean over cells. The bound is the 95th percentile of the spread when respondents are relabeled at random, and the relabeled spread is its mean. The last column states whether the profile-mean baseline lies beyond its own bound.
+\end{table}
+
+\begin{table}[pos=!htbp]
+\small\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Correlation between human and synthetic subgroup differences in scale means, repeated splits. Each cell gives the mean over the five model families with the range in parentheses.}
+\label{tab:subgroup-structure}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lccccc@{}}
+\toprule
+Dataset & DOP & BPP & SADP & HC & Profile mean \\
+\midrule
+Turkish & 0.37 (0.31 to 0.45) & 0.86 (0.83 to 0.87) & 0.88 (0.86 to 0.90) & 0.76 (0.58 to 0.81) & 0.86 \\
+Bangladesh & 0.26 (0.14 to 0.38) & 0.75 (0.66 to 0.81) & 0.85 (0.82 to 0.87) & 0.75 (0.73 to 0.77) & 0.83 \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+\clearpage

@@ -1,0 +1,39 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Elevated Distress and Loneliness",
+    "summary": "A demographic segment characterized by significantly elevated levels of loneliness, depressive symptoms, and anxiety. This profile represents a group with high psychological distress, as indicated by mean scores on the UCLA-8, PHQ-9, and GAD-7 scales that are notably higher than typical baseline levels.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Reports high levels of loneliness (UCLA-8 mean: 1.73)",
+      "Exhibits elevated depressive symptoms (PHQ-9 mean: 1.73)",
+      "Exhibits elevated anxiety symptoms (GAD-7 mean: 2.13)",
+      "Part of a training-split cohort of 184 respondents"
+    ],
+    "tone": "Clinical and objective"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "A respondent group characterized by notably low levels of loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "UCLA-8 loneliness mean: 0.7179203539823009",
+      "PHQ-9 depression mean: 0.31170108161258603",
+      "GAD-7 anxiety mean: 0.034134007585335004"
+    ],
+    "tone": "Stable and low-distress"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "This persona represents a group characterized by notably low levels of loneliness, depressive symptoms, and anxiety symptoms, indicating a generally stable and resilient psychological profile.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports minimal loneliness (UCLA-8 mean: 1.21)",
+      "Exhibits very low depressive symptoms (PHQ-9 mean: 0.78)",
+      "Shows very low anxiety symptoms (GAD-7 mean: 0.79)"
+    ],
+    "tone": "Stable, resilient, and psychologically well-adjusted"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Dijital Aktif, Düşük Kaygılı İyi Oluş Profili",
+    "summary": "271 kişilik bir örneklemi temsil eden bu profil, ortalamanın üzerinde dijital bağımlılık (2.79) ve günlük 5 saatlik medya kullanımıyla yüksek dijital kullanım sergilerken, sosyal kaygı düzeyi görece düşük (2.30) ve öznel iyi oluş düzeyi görece yüksek (3.49) olan öğrencileri kapsamaktadır. Yoğun dijital etkileşime rağmen bu grup, psikolojik iyi oluş açısından olumlu bir tablo çizmektedir.",
+    "demographic_anchor": "Kadın, Ön lisans, günlük 4-6 saat medya kullanımı",
+    "behavior_markers": [
+      "Günlük ortalama 5 saat medya kullanımıyla yüksek dijital etkileşim",
+      "Orta-yüksek düzeyde dijital bağımlılık eğilimi (ort. 2.79)",
+      "Düşük sosyal kaygı düzeyi (ort. 2.30)",
+      "Ortalamanın üzerinde öznel iyi oluş skoru (ort. 3.49)",
+      "Yoğun dijital kullanımın sosyal kaygıyı artırmadığı bir kullanım örüntüsü"
+    ],
+    "tone": "Dengeli ve veri odaklı; dijital yoğunluğa rağmen psikolojik dayanıklılığı öne çıkaran analitik bir ton"
+  },
+  {
+    "profile_id": 1,
+    "label": "Düşük Dijital Kullanımlı Düşük Kaygılı Erkek Öğrenci",
+    "summary": "168 kişilik bir örneklemden oluşan bu profil, düşük düzeyde dijital bağımlılık (ort. 2.47), düşük sosyal kaygı (ort. 2.23), ortalamanın altında iyi oluş (ort. 3.41) ve düşük günlük medya kullanımı (orta nokta 1.5 saat) sergileyen öğrencileri temsil etmektedir. Dijital araçlarla sınırlı etkileşime rağmen, iyi oluş düzeylerinin de nispeten düşük kalması dikkat çekicidir; bu durum, düşük dijital kullanımın tek başına yüksek iyi oluşu garanti etmediğine işaret etmektedir.",
+    "demographic_anchor": "Erkek, Ön lisans düzeyinde, günlük 0-3 saat ekran süresi",
+    "behavior_markers": [
+      "Dijital bağımlılık düzeyi düşük (ort. 2.47/5)",
+      "Sosyal kaygı düzeyi düşük (ort. 2.23/5)",
+      "İyi oluş düzeyi ortalamanın altında (ort. 3.41/5)",
+      "Günlük sosyal medya kullanımı 0-3 saat aralığında (orta nokta 1.5 saat)",
+      "Dijital ortamlarla sınırlı düzeyde etkileşim kurma eğilimi"
+    ],
+    "tone": "Sakin, içe dönük ve dijital dünyaya mesafeli"
+  },
+  {
+    "profile_id": 2,
+    "label": "Yoğun Dijital Kullanıcı – Yüksek Sosyal Kaygılı Profil",
+    "summary": "70 kişilik bir örneklemden elde edilen bu profil, dijital bağımlılık düzeyi ortalamanın üzerinde (3.04), sosyal kaygısı belirgin biçimde yüksek (2.57) ve öznel iyi oluş hali görece düşük (3.28) olan öğrencileri temsil etmektedir. Günlük sosyal medya kullanım süreleri ortalama 8 saat civarında olup yoğun bir dijital maruziyete işaret etmektedir. Yüksek dijital bağımlılık ve sosyal kaygı düzeyleri ile düşük iyi oluş arasındaki örüntü, bu gruptaki öğrencilerin dijital ortamlarla ilişkisinin psikolojik sağlıklarını olumsuz etkileyebileceğini düşündürmektedir.",
+    "demographic_anchor": "Kadın, Ön lisans öğrencisi, günlük 7-9 saat ekran/medya kullanımı",
+    "behavior_markers": [
+      "Günlük ortalama 8 saat sosyal medya/dijital medya kullanımı",
+      "Dijital bağımlılık puanı ortalamanın üzerinde (3.04/5)",
+      "Sosyal kaygı düzeyi belirgin biçimde yüksek (2.57)",
+      "Öznel iyi oluş düzeyi diğer profillere kıyasla düşük (3.28)",
+      "Yoğun dijital kullanım ile düşük iyi oluş arasında eş zamanlı örüntü"
+    ],
+    "tone": "Endişe verici ve dikkat gerektiren; yoğun dijital kullanımın sosyal kaygı ve düşük iyi oluşla birlikte seyrettiği risk altındaki bir profil"
+  },
+  {
+    "profile_id": 3,
+    "label": "Yoğun Dijital Kullanıcı – Yüksek Sosyal Kaygılı Erkek Öğrenci",
+    "summary": "Ön lisans düzeyinde öğrenim gören, günlük 10 saat ve üzeri medya kullanımına sahip erkek öğrencilerden oluşan 28 kişilik bir küme. Bu profil, ortalamanın üzerinde dijital bağımlılık (3.24) ve sosyal kaygı (2.34) düzeyleri ile daha düşük iyi oluş (3.39) puanlarıyla karakterize edilmektedir. Yoğun dijital medya kullanımı, yüksek sosyal kaygı ve düşük iyi oluş hali arasında belirgin bir örüntü gözlemlenmektedir.",
+    "demographic_anchor": "Erkek, Ön lisans öğrencisi, günlük medya kullanımı 10 saat ve üzeri",
+    "behavior_markers": [
+      "Günlük dijital medya kullanım süresi 10 saat ve üzerinde (orta nokta: 10.0)",
+      "Dijital bağımlılık düzeyi ortalamanın üzerinde (ort. 3.24)",
+      "Sosyal kaygı düzeyi yüksek (ort. 2.34)",
+      "İyi oluş düzeyi diğer profillere kıyasla düşük (ort. 3.39)",
+      "Yoğun ekran süresi ile düşük psikolojik iyi oluş arasında belirgin birliktelik"
+    ],
+    "tone": "Endişe verici; yoğun dijital kullanım alışkanlıkları ile psikolojik risk göstergeleri bir arada gözlemlenmekte olup, bu profil destek ve müdahale açısından öncelikli bir grup olarak değerlendirilmelidir."
+  }
+]

@@ -1,0 +1,26 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0569,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,897,3298,1,0,3,2,2,3,2,3,0,1,1,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,2.0,0.4444444444444444,0.4285714285714285
+R0172,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,404,2805,1,0,2,2,3,2,2,3,1,1,1,1,1,2,0,1,1,0,0,1,1,1,1,0,1,0,2.0,0.7777777777777778,0.7142857142857143
+R0507,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,421,2822,1,0,2,2,3,3,2,2,0,1,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,0,1.875,1.0,0.7142857142857143
+R0579,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,419,2820,1,0,2,2,3,2,2,3,1,1,1,1,1,2,0,1,1,0,0,1,0,1,1,0,1,0,2.0,0.7777777777777778,0.5714285714285714
+R0614,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2410,397,2807,1,0,2,2,2,2,2,3,1,1,1,1,1,1,0,0,0,0,0,1,1,1,1,0,1,0,1.875,0.4444444444444444,0.7142857142857143
+R0078,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2413,417,2830,1,0,2,2,2,3,2,3,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,2.0,0.3333333333333333,0.4285714285714285
+R0163,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2399,846,3245,1,0,2,2,3,2,2,3,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,0,2.0,0.3333333333333333,0.4285714285714285
+R0084,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,1021,3422,1,0,2,2,3,2,2,3,1,1,0,1,1,1,0,1,1,0,0,1,0,1,1,0,1,0,2.0,0.5555555555555556,0.5714285714285714
+R0669,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,416,2817,1,0,3,2,3,3,2,2,0,1,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,0,2.0,1.0,0.7142857142857143
+R0479,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,852,3253,1,0,2,2,3,2,2,3,1,1,1,0,1,1,0,1,0,0,0,1,0,1,0,0,1,0,2.0,0.4444444444444444,0.4285714285714285
+R0278,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,396,2797,1,0,2,2,2,3,2,2,1,1,1,1,1,1,0,1,0,0,0,1,0,1,1,0,1,0,1.875,0.5555555555555556,0.5714285714285714
+R0745,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2414,856,3270,1,0,2,2,3,2,2,3,0,1,1,0,1,1,0,0,1,0,0,1,0,1,0,0,1,0,1.875,0.4444444444444444,0.4285714285714285
+R0105,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2413,400,2813,1,0,2,2,2,2,2,3,1,1,1,1,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.875,0.5555555555555556,0.5714285714285714
+R0476,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2413,822,3235,1,0,2,2,3,2,2,3,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0,1,0,2.0,0.3333333333333333,0.4285714285714285
+R0067,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2403,408,2811,1,0,2,2,3,2,2,3,1,1,1,1,1,2,0,1,1,0,0,1,1,1,1,0,1,0,2.0,0.7777777777777778,0.7142857142857143
+R0428,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2407,399,2806,1,0,2,2,2,3,2,3,1,1,1,1,0,1,0,0,1,0,0,1,0,1,1,0,1,0,2.0,0.4444444444444444,0.5714285714285714
+R0100,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,418,2819,1,0,2,2,3,3,2,2,0,0,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,0,1.75,1.0,0.7142857142857143
+R0322,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2410,402,2812,1,0,2,2,2,2,2,2,1,1,1,1,1,1,0,0,0,0,0,1,1,1,1,0,1,0,1.75,0.4444444444444444,0.7142857142857143
+R0218,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2414,421,2835,1,0,2,2,3,2,2,3,1,1,1,1,1,2,1,1,1,0,0,1,1,1,1,0,1,0,2.0,0.8888888888888888,0.7142857142857143
+R0747,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,403,2804,1,0,2,2,3,2,2,3,1,1,1,1,1,2,0,1,1,0,0,1,0,1,1,0,1,0,2.0,0.7777777777777778,0.5714285714285714
+R0261,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2406,409,2815,1,0,2,2,3,2,2,3,1,1,1,1,1,2,0,0,1,0,0,1,0,1,1,0,1,0,2.0,0.6666666666666666,0.5714285714285714
+R0765,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,939,3340,1,0,2,2,3,2,2,3,0,1,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,1.875,0.3333333333333333,0.2857142857142857
+R0129,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,929,3330,1,0,2,2,3,2,2,3,0,1,1,0,1,1,0,0,1,0,0,1,0,1,0,0,1,0,1.875,0.4444444444444444,0.4285714285714285
+R0311,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2401,1009,3410,1,0,2,2,3,2,2,3,1,1,0,1,1,1,0,0,1,0,0,1,0,1,1,0,0,0,2.0,0.4444444444444444,0.4285714285714285
+R0554,2,Profil 2,stability_1,v3_tr_gpt_e,google/gemini-3.1-pro-preview,stability,2398,426,2824,1,0,2,2,3,2,2,3,1,1,1,1,1,2,0,1,0,0,0,1,1,1,0,0,1,0,2.0,0.6666666666666666,0.5714285714285714

@@ -1,0 +1,42 @@
+dataset_path: ../../anket.xlsx
+paper_path: prior_study_extract.pdf
+output_root: ../../results
+split:
+  validation_size: 0.1
+  final_test_size: 0.1
+  random_state: 42
+profiles:
+  cluster_min: 2
+  cluster_max: 6
+  feature_columns:
+  - digital_addiction_mean
+  - social_anxiety_mean
+  - wellbeing_mean
+lmstudio:
+  base_url: https://openrouter.ai/api/v1
+  model_id: anthropic/claude-opus-4.6
+  api_key_env: OPENROUTER_API_KEY
+  headers:
+    HTTP-Referer: https://example.org
+    X-OpenRouter-Title: SaykoPersona
+  primary:
+    name: primary
+    temperature: 0.15
+    max_tokens: 600
+    top_p: 1.0
+  persona:
+    name: persona_card
+    temperature: 0.2
+    max_tokens: 1100
+    top_p: 1.0
+  stability:
+    name: stability
+    temperature: 0.15
+    max_tokens: 600
+    top_p: 1.0
+simulation:
+  prompt_version: v3_tr_gpt_b
+  max_holdout_rows: null
+  stability_runs: 3
+  parallel_workers: 4
+  evaluation_split: validation

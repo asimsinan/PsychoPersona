@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Highly distressed, heavy-use women with graduate education",
+    "summary": "Respondents in this profile report comparatively high loneliness, depressive symptoms, and anxiety symptoms. The group is anchored by women with graduate-level education who report more than 5 hours of use, indicating a pattern of elevated emotional distress alongside heavy engagement.",
+    "demographic_anchor": "Female, graduate education or above, more than 5 hours of use",
+    "behavior_markers": [
+      "Higher UCLA-8 loneliness scores",
+      "Higher PHQ-9 depressive symptom scores",
+      "Higher GAD-7 anxiety symptom scores",
+      "Reports more than 5 hours of use"
+    ],
+    "tone": "Emotionally burdened, anxious, and socially disconnected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Reports comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, 1–3 hours",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness score relative to higher-distress profiles",
+      "Lower PHQ-9 depression score",
+      "Very low GAD-7 anxiety score",
+      "Profile is anchored by men with graduate-level education or higher",
+      "Associated with the 1–3 hours category in the source summary"
+    ],
+    "tone": "Generally stable and low-distress"
+  },
+  {
+    "profile_id": 2,
+    "label": "Lower distress, well-educated male profile",
+    "summary": "This profile reflects respondents with comparatively low loneliness, low depressive symptoms, and low anxiety symptoms based on the reported mean scores.",
+    "demographic_anchor": "Typically male, educated to graduate level or above, with 1-3 hours reported in the referenced time category.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure",
+      "Shows low average depressive symptom levels on the PHQ-9",
+      "Shows low average anxiety symptom levels on the GAD-7",
+      "Anchored demographically by male respondents with graduate-level or higher education",
+      "Associated with the 1-3 hours category in the provided profile summary"
+    ],
+    "tone": "Stable, low-distress, and psychologically well-adjusted overall."
+  }
+]

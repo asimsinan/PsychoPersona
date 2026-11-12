@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0716,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5043,790,5833,3,1,2,1,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.625,1.5555555555555556,1.8571428571428572
+R0351,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,779,5780,3,0,1,1,1,1,0,1,2,2,1,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0546,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,792,5799,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0350,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,787,5836,3,1,2,1,2,2,1,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.5,1.5555555555555556,1.8571428571428572
+R0558,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,815,5864,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,2,2,2,1.75,1.6666666666666667,2.142857142857143
+R0363,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5016,788,5804,3,1,1,1,1,1,1,1,2,2,1,1,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.25,0.7777777777777778,0.7142857142857143
+R0001,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5010,785,5795,3,0,1,1,1,1,1,1,2,2,1,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.5555555555555556,0.7142857142857143
+R0423,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5016,790,5806,3,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,2,0,0,1,1,1,2,1,2,0,1.375,1.1111111111111112,1.1428571428571428
+R0591,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,787,5836,3,0,2,1,2,1,1,2,2,1,2,2,2,2,1,2,1,1,0,2,2,2,2,1,2,2,1.5,1.4444444444444444,1.8571428571428572
+R0526,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5019,796,5815,3,1,1,1,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0259,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5019,801,5820,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0433,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5067,780,5847,3,1,2,1,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.625,1.5555555555555556,1.8571428571428572
+R0061,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,790,5839,3,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.625,1.6666666666666667,2.0
+R0437,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5010,772,5782,3,0,1,1,1,1,1,1,2,2,1,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.5555555555555556,0.7142857142857143
+R0251,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4965,778,5743,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0275,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,801,5850,3,0,2,2,2,2,2,2,1,1,2,2,2,3,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.7777777777777777,2.2857142857142856
+R0142,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,779,5786,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0742,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,800,5801,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0393,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5019,790,5809,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0667,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5043,783,5826,3,0,2,2,2,2,2,1,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.625,1.5555555555555556,1.8571428571428572
+R0568,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5067,809,5876,3,1,2,1,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.625,1.5555555555555556,1.8571428571428572
+R0761,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4950,796,5746,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1.125,0.5555555555555556,0.4285714285714285
+R0248,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,820,5869,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,2,2,2,1.75,1.6666666666666667,2.142857142857143
+R0114,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4950,786,5736,3,0,1,1,1,1,0,1,2,2,1,1,2,2,1,1,1,0,0,1,0,1,1,0,1,0,1.125,1.0,0.5714285714285714
+R0240,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,783,5784,3,1,1,1,1,1,1,2,1,1,1,1,2,2,1,1,1,0,0,1,1,1,1,0,1,1,1.125,1.0,0.8571428571428571
+R0699,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5064,769,5833,3,1,2,1,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.625,1.5555555555555556,1.8571428571428572
+R0018,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,788,5789,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0014,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,789,5790,3,2,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1.25,0.6666666666666666,0.8571428571428571
+R0736,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5010,769,5779,3,0,1,1,1,1,1,1,2,2,1,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.5555555555555556,0.7142857142857143
+R0725,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,797,5804,3,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,2,0,0,1,1,1,2,1,2,0,1.375,1.1111111111111112,1.1428571428571428
+R0041,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5043,800,5843,3,1,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,2,2,2,1.75,1.6666666666666667,2.142857142857143
+R0152,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,773,5774,3,1,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0301,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5016,800,5816,3,1,1,1,1,1,0,1,2,2,1,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0320,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4968,786,5754,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0358,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,813,5862,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,2,2,2,1.75,1.6666666666666667,2.142857142857143
+R0153,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,785,5834,3,1,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0467,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,803,5804,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0125,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,808,5809,3,1,1,1,1,1,0,1,2,2,1,1,2,2,1,0,1,0,0,1,1,1,2,1,1,0,1.125,0.8888888888888888,1.0
+R0773,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5055,798,5853,3,1,2,1,2,2,1,2,1,1,2,2,2,2,1,2,1,1,0,2,2,2,2,1,2,2,1.5,1.4444444444444444,1.8571428571428572
+R0455,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4956,809,5765,3,1,1,0,0,1,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0.625,0.4444444444444444,0.4285714285714285
+R0679,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,788,5789,3,0,1,1,1,1,1,1,2,2,1,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.5555555555555556,0.7142857142857143
+R0737,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5055,790,5845,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0091,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5019,784,5803,3,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0090,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5007,804,5811,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0099,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5055,782,5837,3,0,2,1,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.625,1.5555555555555556,1.8571428571428572
+R0421,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,784,5785,3,1,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0138,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5064,798,5862,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,2,2,2,1.75,1.6666666666666667,2.142857142857143
+R0371,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5019,784,5803,3,0,1,1,1,1,1,1,2,2,1,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.5555555555555556,0.7142857142857143
+R0528,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,800,5801,3,0,1,1,1,1,1,1,2,2,1,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.5555555555555556,0.7142857142857143
+R0637,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,822,5871,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,2,2,2,1.75,1.6666666666666667,2.142857142857143
+R0299,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5067,799,5866,3,0,2,1,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,2,2,2,1.625,1.6666666666666667,2.142857142857143
+R0009,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,799,5800,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0397,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4968,794,5762,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0394,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,798,5799,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0381,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5019,796,5815,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0102,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4950,788,5738,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1.125,0.5555555555555556,0.4285714285714285
+R0609,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4950,797,5747,3,1,1,1,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,1.0,0.4444444444444444,0.2857142857142857
+R0603,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4968,797,5765,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1.0,0.4444444444444444,0.4285714285714285
+R0174,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4950,785,5735,3,2,1,1,1,1,1,2,2,2,1,1,2,2,1,1,1,0,0,1,0,1,1,0,1,0,1.375,1.0,0.5714285714285714
+R0499,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,796,5797,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0098,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4950,789,5739,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1.125,0.5555555555555556,0.4285714285714285
+R0368,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,789,5790,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0784,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5067,780,5847,3,0,2,1,1,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.5,1.5555555555555556,1.8571428571428572
+R0364,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,794,5795,3,0,1,1,1,1,1,1,2,2,1,1,2,1,1,1,1,0,0,1,1,1,1,0,1,1,1.25,0.8888888888888888,0.8571428571428571
+R0572,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4968,788,5756,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0255,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,817,5866,3,0,2,2,2,2,2,2,1,1,2,2,2,3,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.7777777777777777,2.2857142857142856
+R0012,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,783,5784,3,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,2,0,0,1,1,1,2,1,2,1,1.375,1.1111111111111112,1.2857142857142858
+R0315,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4968,770,5738,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1.0,0.4444444444444444,0.4285714285714285
+R0661,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4950,804,5754,3,1,1,1,0,1,0,1,2,2,1,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1.0,0.5555555555555556,0.4285714285714285
+R0369,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5043,816,5859,3,0,2,2,2,2,2,2,1,1,2,2,2,3,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.7777777777777777,2.2857142857142856
+R0396,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4968,795,5763,3,0,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1.0,0.5555555555555556,0.5714285714285714
+R0154,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,815,5864,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,3,2,2,2,2,1.75,1.6666666666666667,2.142857142857143
+R0741,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5001,788,5789,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0476,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5067,797,5864,3,1,2,1,2,2,1,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.5,1.5555555555555556,1.8571428571428572
+R0451,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4941,781,5722,3,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1.25,0.7777777777777778,0.5714285714285714
+R0573,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,819,5868,3,0,2,2,2,2,2,2,1,1,2,2,2,3,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.7777777777777777,2.2857142857142856
+R0387,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,809,5858,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0293,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5058,805,5863,3,1,2,1,2,2,2,2,1,1,2,2,2,2,1,2,1,1,0,2,2,2,2,1,2,2,1.625,1.4444444444444444,1.8571428571428572
+R0763,2,Profile 2: Low distress and low loneliness,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5019,803,5822,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0659,0,"High distress, heavy-use female graduates",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,5049,799,5848,3,0,2,2,2,2,2,2,1,1,2,2,2,3,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.7777777777777777,2.2857142857142856

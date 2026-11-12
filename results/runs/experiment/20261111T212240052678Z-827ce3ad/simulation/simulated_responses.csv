@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0716,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1670,258,1928,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.5555555555555556,1.7142857142857142
+R0351,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,266,1929,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0546,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1665,267,1932,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0350,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,271,1943,1,0,2,2,2,2,2,1,1,1,2,2,1,2,1,2,2,1,1,2,2,2,1,1,2,2,1.625,1.5555555555555556,1.7142857142857142
+R0558,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,280,1952,1,0,3,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.0,1.8888888888888888,2.142857142857143
+R0363,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1668,263,1931,1,0,1,0,1,1,0,1,1,1,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.75,0.4444444444444444,0.5714285714285714
+R0001,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1666,265,1931,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0423,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1668,270,1938,1,0,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.5555555555555556,0.7142857142857143
+R0591,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,266,1938,1,0,2,2,2,2,2,1,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,1,2,1.625,1.5555555555555556,1.7142857142857142
+R0526,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1669,264,1933,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.0,0.4444444444444444,0.7142857142857143
+R0259,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1669,262,1931,1,0,1,0,1,1,0,1,2,2,0,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.3333333333333333,0.5714285714285714
+R0433,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1678,270,1948,1,0,2,2,2,2,2,3,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0061,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,270,1942,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,2,1.75,1.6666666666666667,1.8571428571428572
+R0437,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1666,267,1933,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.625,0.4444444444444444,0.5714285714285714
+R0251,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1679,265,1944,1,0,1,0,0,0,0,1,2,2,0,0,1,1,0,0,1,0,0,1,0,0,1,0,1,0,0.75,0.3333333333333333,0.4285714285714285
+R0275,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,292,1964,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0142,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1665,260,1925,1,0,1,0,1,1,0,1,2,2,0,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.0,0.5555555555555556,0.7142857142857143
+R0742,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,267,1930,1,0,1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0393,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1669,273,1942,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.625,0.4444444444444444,0.5714285714285714
+R0667,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1670,263,1933,1,0,2,2,2,2,2,1,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.625,1.5555555555555556,1.7142857142857142
+R0568,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1678,276,1954,1,0,2,2,2,2,2,3,1,1,2,3,2,2,1,2,1,1,1,2,2,3,2,1,2,2,1.875,1.6666666666666667,2.0
+R0761,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,257,1931,1,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0.875,0.4444444444444444,0.4285714285714285
+R0248,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,271,1943,1,0,3,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.0,1.8888888888888888,2.142857142857143
+R0114,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,275,1949,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1.0,0.4444444444444444,0.4285714285714285
+R0240,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,259,1922,1,0,1,1,1,1,0,1,2,2,1,1,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.125,0.7777777777777778,0.7142857142857143
+R0699,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1677,263,1940,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,2,1.875,1.5555555555555556,1.8571428571428572
+R0018,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,259,1922,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.4444444444444444,0.5714285714285714
+R0014,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,257,1920,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,0,1,1,0,1,0,1.0,0.5555555555555556,0.5714285714285714
+R0736,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1666,271,1937,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0725,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1665,257,1922,1,0,1,0,1,1,0,1,1,1,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,0.75,0.6666666666666666,0.7142857142857143
+R0041,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1670,264,1934,1,0,2,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.8888888888888888,2.0
+R0152,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,264,1927,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0301,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1668,263,1931,1,0,1,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.625,0.3333333333333333,0.5714285714285714
+R0320,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1680,258,1938,1,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0358,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,267,1939,1,0,3,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,2,2,3,2,1,2,2,2.0,1.8888888888888888,2.0
+R0153,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,259,1931,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,1,1.75,1.6666666666666667,1.7142857142857142
+R0467,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,277,1940,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.625,0.4444444444444444,0.5714285714285714
+R0125,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,264,1927,1,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,2,0,1,0,1.0,0.6666666666666666,0.8571428571428571
+R0773,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,259,1933,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.75,1.5555555555555556,1.7142857142857142
+R0455,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1676,264,1940,1,0,1,0,0,0,0,1,2,2,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0.75,0.3333333333333333,0.4285714285714285
+R0679,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,268,1931,1,0,1,0,1,1,0,1,1,1,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.75,0.4444444444444444,0.5714285714285714
+R0737,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,266,1940,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0091,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1669,266,1935,1,0,1,0,1,1,0,1,2,2,0,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.3333333333333333,0.5714285714285714
+R0090,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1665,273,1938,1,0,1,0,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.625,0.4444444444444444,0.5714285714285714
+R0099,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,271,1945,1,0,2,2,2,2,2,2,1,1,2,2,1,2,1,2,1,1,1,2,2,2,2,1,1,2,1.75,1.4444444444444444,1.7142857142857142
+R0421,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,258,1921,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0138,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1677,269,1946,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0371,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1669,268,1937,1,0,1,0,1,1,0,1,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0.75,0.4444444444444444,0.7142857142857143
+R0528,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,266,1929,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0637,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,272,1944,1,0,3,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.0,1.8888888888888888,2.142857142857143
+R0299,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1678,268,1946,1,0,2,2,2,2,2,3,1,1,2,2,2,3,1,2,2,1,1,2,2,3,2,1,2,2,1.875,1.7777777777777777,2.0
+R0009,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,261,1924,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0397,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1680,272,1952,1,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0394,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,262,1925,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.4444444444444444,0.5714285714285714
+R0381,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1669,260,1929,1,0,1,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.625,0.3333333333333333,0.5714285714285714
+R0102,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,254,1928,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,1.0,0.5555555555555556,0.2857142857142857
+R0609,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,271,1945,1,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0.875,0.4444444444444444,0.4285714285714285
+R0603,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1680,271,1951,1,0,1,0,0,0,0,1,2,2,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0.75,0.3333333333333333,0.2857142857142857
+R0174,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,264,1938,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,0,1,1,0,1,0,1.0,0.5555555555555556,0.5714285714285714
+R0499,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,268,1931,1,0,1,1,1,1,0,1,2,2,0,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.3333333333333333,0.5714285714285714
+R0098,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,270,1944,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1.0,0.4444444444444444,0.4285714285714285
+R0368,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,256,1919,1,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0784,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1678,266,1944,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,1,2,1.75,1.5555555555555556,1.7142857142857142
+R0364,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,261,1924,1,0,1,1,1,1,0,1,2,2,0,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0572,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1680,258,1938,1,0,1,0,0,0,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.75,0.4444444444444444,0.5714285714285714
+R0255,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,281,1953,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0012,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,259,1922,1,0,1,1,1,1,0,2,2,2,1,1,2,1,1,0,2,0,0,1,1,1,2,1,2,0,1.25,0.8888888888888888,1.1428571428571428
+R0315,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1680,258,1938,1,0,1,0,0,0,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0.5,0.4444444444444444,0.2857142857142857
+R0661,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1674,258,1932,1,0,1,0,0,1,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0.625,0.4444444444444444,0.4285714285714285
+R0369,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1670,271,1941,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0396,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1680,253,1933,1,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0154,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,266,1938,1,0,3,2,2,3,2,2,1,1,2,3,2,3,1,2,2,1,1,2,2,3,2,1,2,2,2.0,1.8888888888888888,2.0
+R0741,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1663,265,1928,1,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0476,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1678,267,1945,1,0,2,1,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,1,1.625,1.5555555555555556,1.7142857142857142
+R0451,1,"Low distress, low loneliness",primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1671,258,1929,1,0,1,1,0,1,0,1,2,2,1,0,1,1,0,1,0,0,0,1,0,1,0,0,1,0,1.0,0.4444444444444444,0.4285714285714285
+R0573,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,273,1945,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143
+R0387,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,275,1947,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,1,2,1,1.625,1.6666666666666667,1.7142857142857142
+R0293,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1675,265,1940,1,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,1,1,1,2,2,3,2,1,2,2,1.875,1.5555555555555556,2.0
+R0763,2,Profile 2,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1669,274,1943,1,0,1,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.625,0.3333333333333333,0.5714285714285714
+R0659,0,High loneliness with elevated depression and anxiety,primary,v3_tr_gpt_e,openai/gpt-5.4,primary,1672,269,1941,1,0,3,2,2,3,2,3,1,1,2,3,2,3,1,2,2,1,1,3,2,3,2,1,2,2,2.125,1.8888888888888888,2.142857142857143

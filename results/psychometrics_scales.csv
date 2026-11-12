@@ -1,0 +1,7 @@
+dataset,scale,label,n_items,response_min,response_max,reverse_coded,n_respondents,n_complete,item_missing_pct,listwise_missing_pct,alpha,omega,mean_interitem_r,mean,sd,min,max,skew,kurtosis
+anket_tr,digital_addiction,Dijital bağımlılık ortalaması,10,1,5,none,672,672,0.0,0.0,0.893,0.894,0.458,2.7359,0.8492,1.0,5.0,0.2359,-0.2259
+anket_tr,social_anxiety,Sosyal kaygı ortalaması,12,1,5,none,672,664,0.12,1.19,0.938,0.934,0.558,2.2774,0.8943,1.0,5.0,0.6102,0.0847
+anket_tr,wellbeing,İyi oluş ortalaması,8,1,5,none,672,663,0.2,1.34,0.938,0.94,0.659,3.4146,0.9461,1.0,5.0,-0.8667,0.3381
+bangladesh_sns,ucla_loneliness,UCLA-8 loneliness mean,8,0,3,"ucla_item_07, ucla_item_08",791,791,0.0,0.0,0.75,0.805,0.279,1.2786,0.6211,0.0,3.0,0.1831,-0.5631
+bangladesh_sns,phq9,PHQ-9 depression mean,9,0,3,none,791,791,0.0,0.0,0.858,0.861,0.401,0.9743,0.6817,0.0,3.0,0.7361,0.1442
+bangladesh_sns,gad7,GAD-7 anxiety mean,7,0,3,none,791,791,0.0,0.0,0.927,0.927,0.645,1.0493,0.8679,0.0,3.0,0.6916,-0.4356

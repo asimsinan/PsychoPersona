@@ -1,0 +1,79 @@
+{
+  "scale_mean_deltas": {
+    "digital_addiction_mean": 0.7632352941176466,
+    "social_anxiety_mean": 0.5686274509803919,
+    "wellbeing_mean": 0.23529411764705843
+  },
+  "scale_std_deltas": {
+    "digital_addiction_mean": 0.3904579543896771,
+    "social_anxiety_mean": 0.4480813197641396,
+    "wellbeing_mean": 0.576438389904524
+  },
+  "correlation_rmse": 0.4795678200322147,
+  "regression_deltas": {
+    "social_anxiety_on_digital": 0.23086311113844127,
+    "wellbeing_on_digital": 0.5604023130030691
+  },
+  "standardized_regression_deltas": {
+    "social_anxiety_on_digital": 0.1791188111108986,
+    "wellbeing_on_digital": 0.5911754349751839
+  },
+  "profile_recovery_accuracy": 0.27941176470588236,
+  "within_profile_scale_rmse": 1.0894918722468068,
+  "item_mean_deltas": {
+    "digital_item_01": 1.1470588235294121,
+    "digital_item_02": 0.6323529411764706,
+    "digital_item_03": 0.8676470588235294,
+    "digital_item_04": 0.5294117647058822,
+    "digital_item_05": 1.1323529411764706,
+    "digital_item_06": 0.32352941176470607,
+    "digital_item_07": 0.75,
+    "digital_item_08": 0.5294117647058827,
+    "digital_item_09": 0.9264705882352944,
+    "digital_item_10": 0.7941176470588238,
+    "social_item_01": 0.8088235294117649,
+    "social_item_02": 0.6323529411764706,
+    "social_item_03": 0.6764705882352942,
+    "social_item_04": 1.0882352941176472,
+    "social_item_05": 1.0147058823529411,
+    "social_item_06": 0.3235294117647056,
+    "social_item_07": 0.4705882352941173,
+    "social_item_08": 0.19117647058823506,
+    "social_item_09": 0.4264705882352944,
+    "social_item_10": 0.9558823529411766,
+    "social_item_11": 0.4852941176470589,
+    "social_item_12": 0.13235294117647056,
+    "wellbeing_item_01": 0.20588235294117618,
+    "wellbeing_item_02": 0.27941176470588225,
+    "wellbeing_item_03": 0.42647058823529393,
+    "wellbeing_item_04": 0.1617647058823528,
+    "wellbeing_item_05": 0.5294117647058822,
+    "wellbeing_item_06": 0.3235294117647056,
+    "wellbeing_item_07": 0.08823529411764719,
+    "wellbeing_item_08": 0.13235294117647056
+  },
+  "nonlinear_deltas": {
+    "social_anxiety_on_digital_linear": 1.7195040626440856,
+    "social_anxiety_on_digital_quadratic": 0.23673777640604632,
+    "wellbeing_on_digital_linear": 0.365382343949745,
+    "wellbeing_on_digital_quadratic": 0.09964440760349597
+  },
+  "response_pattern_diversity": {
+    "human_unique_ratio": 0.9852941176470589,
+    "simulated_unique_ratio": 0.8676470588235294,
+    "absolute_delta": 0.11764705882352944
+  },
+  "subgroup_rmse": {
+    "gender": 0.5823310084507217,
+    "program": 0.5576880669747625,
+    "usage_band": 0.9073657710851825,
+    "profile_id": 1.0894918722468068
+  },
+  "individual_level_metrics": {
+    "aligned_respondent_count": 68.0,
+    "respondent_scale_rmse_mean": 1.0336284634444206,
+    "respondent_item_mae_mean": 1.1132352941176469,
+    "respondent_item_exact_match_mean": 0.24852941176470586,
+    "respondent_item_all_match_ratio": 0.0
+  }
+}

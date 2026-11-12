@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High distress, highly educated women with heavy daily use",
+    "summary": "Respondents in this profile report comparatively higher loneliness, depressive symptoms, and anxiety symptoms. The group is anchored by women with graduate-level education or above who report more than 5 hours of daily use.",
+    "demographic_anchor": "Female, graduate education or above, more than 5 hours of daily use",
+    "behavior_markers": [
+      "Higher mean loneliness score (UCLA-8: 1.689)",
+      "Higher mean depressive symptom score (PHQ-9: 1.754)",
+      "Higher mean anxiety symptom score (GAD-7: 2.158)",
+      "Represents a training-split profile size of 170 respondents"
+    ],
+    "tone": "Vulnerable, psychologically burdened, and intensive in daily use"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report relatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Typically male, with graduate-level education or above, and reporting 1-3 hours.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness score on average (0.75)",
+      "Low PHQ-9 depressive symptom score on average (0.35)",
+      "Very low GAD-7 anxiety symptom score on average (0.02)",
+      "Profile is anchored by men with higher educational attainment"
+    ],
+    "tone": "Stable, low-distress, and socially connected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "More commonly male, with graduate-level education or above, and a typical reported duration of 1–3 hours.",
+    "behavior_markers": [
+      "Low mean loneliness score (UCLA-8: 1.24)",
+      "Low mean depressive symptom score (PHQ-9: 0.79)",
+      "Low mean anxiety symptom score (GAD-7: 0.83)",
+      "Profile represents 346 respondents in the training split"
+    ],
+    "tone": "Stable, low-distress, and relatively well-adjusted"
+  }
+]

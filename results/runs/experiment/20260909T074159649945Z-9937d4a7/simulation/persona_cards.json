@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profile 0",
+    "summary": "Individuals exhibiting higher levels of loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Elevated loneliness",
+      "Elevated depressive symptoms",
+      "Elevated anxiety symptoms"
+    ],
+    "tone": "Anxious and distressed"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "A profile characterized by lower levels of loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "lower loneliness",
+      "lower depressive symptoms",
+      "lower anxiety symptoms"
+    ],
+    "tone": "Stable and well-adjusted"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2",
+    "summary": "Higher loneliness, lower depressive symptoms, lower anxiety symptoms",
+    "demographic_anchor": "Female, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Experiences higher loneliness",
+      "Shows lower depressive symptoms",
+      "Exhibits lower anxiety symptoms"
+    ],
+    "tone": "Lonely but emotionally stable"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Emotionally Strained Graduate Woman",
+    "summary": "A female respondent profile marked by elevated loneliness alongside comparatively higher depressive and anxiety symptoms. This group appears to experience notable emotional strain across social disconnection, low mood, and worry-related symptoms.",
+    "demographic_anchor": "Female, graduate education or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 measure",
+      "Shows comparatively elevated depressive symptoms on the PHQ-9",
+      "Shows comparatively elevated anxiety symptoms on the GAD-7",
+      "Presents a pattern of co-occurring social disconnection and internalizing distress"
+    ],
+    "tone": "Vulnerable, burdened, and emotionally distressed"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low Distress, Well-Educated Male",
+    "summary": "This profile reflects respondents with comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Male, graduate education or above, with 1-3 hours as the characteristic time-use category.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure.",
+      "Shows comparatively low depressive symptom levels on the PHQ-9.",
+      "Shows comparatively low anxiety symptom levels on the GAD-7.",
+      "Centered on a male, highly educated demographic anchor.",
+      "Associated with the 1-3 hours time-use category."
+    ],
+    "tone": "Stable, low-distress, and generally well-adjusted."
+  },
+  {
+    "profile_id": 2,
+    "label": "High loneliness with elevated depression and anxiety",
+    "summary": "Respondents in this profile report comparatively high loneliness alongside elevated depressive and anxiety symptoms.",
+    "demographic_anchor": "More commonly female, educated at graduate level or above, and reporting more than 5 hours.",
+    "behavior_markers": [
+      "Higher UCLA-8 loneliness scores",
+      "Higher PHQ-9 depressive symptom scores",
+      "Higher GAD-7 anxiety symptom scores",
+      "Represents a subgroup with elevated emotional distress across multiple indicators"
+    ],
+    "tone": "Vulnerable, emotionally strained, and psychologically burdened"
+  }
+]

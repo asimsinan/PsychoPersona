@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0004,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4914,768,5682,3,2,1,1,1,1,1,1,2,2,1,1,2,1,1,1,1,0,0,1,0,1,1,0,1,0,1.25,0.8888888888888888,0.5714285714285714
+R0238,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4932,796,5728,3,1,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,0,1,1,0,1,0,1.0,0.6666666666666666,0.5714285714285714
+R0508,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4914,795,5709,3,0,1,1,1,1,0,1,2,2,1,1,2,1,1,1,1,0,0,1,0,1,1,0,1,0,1.125,0.8888888888888888,0.5714285714285714
+R0584,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,781,5659,3,1,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,2,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0170,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4896,788,5684,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0627,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4887,774,5661,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,1,3,3,3,2,2,2,2,1.75,1.5555555555555556,2.4285714285714284
+R0574,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,798,5676,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,3,1.75,1.6666666666666667,2.5714285714285716
+R0394,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,793,5722,3,1,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0107,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,779,5708,3,1,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0775,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4941,796,5737,3,1,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0602,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,806,5735,3,1,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.5555555555555556,0.7142857142857143
+R0588,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,795,5673,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,2,3,2,2,2,1.75,1.6666666666666667,2.4285714285714284
+R0694,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,789,5718,3,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,2,0,0,1,1,1,2,1,1,0,1.0,0.7777777777777778,1.0
+R0545,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,796,5725,3,1,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.5555555555555556,0.7142857142857143
+R0377,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4932,793,5725,3,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0183,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,778,5656,3,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,2,1.875,1.6666666666666667,2.4285714285714284
+R0154,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,802,5680,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,2,1.75,1.6666666666666667,2.4285714285714284
+R0191,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4896,772,5668,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,3,1.75,1.6666666666666667,2.5714285714285716
+R0093,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,803,5732,3,1,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0428,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4938,789,5727,3,1,1,0,0,1,0,1,2,3,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0562,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4908,783,5691,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1.0,0.4444444444444444,0.4285714285714285
+R0617,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,806,5735,3,1,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0145,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4896,786,5682,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,3,1.75,1.6666666666666667,2.4285714285714284
+R0601,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,805,5683,3,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,3,1.875,1.6666666666666667,2.5714285714285716
+R0016,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4872,789,5661,3,1,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,2,1.75,1.6666666666666667,2.4285714285714284
+R0001,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4938,777,5715,3,1,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1.0,0.5555555555555556,0.5714285714285714
+R0177,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,796,5725,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.4444444444444444,0.5714285714285714
+R0384,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4884,804,5688,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,2,1.75,1.6666666666666667,2.4285714285714284
+R0231,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4872,785,5657,3,1,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0284,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,794,5723,3,1,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.4444444444444444,0.5714285714285714
+R0759,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4938,801,5739,3,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0654,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4947,790,5737,3,1,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0422,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,809,5738,3,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,0,1,1,0,1,0,1.0,0.6666666666666666,0.5714285714285714
+R0662,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4938,775,5713,3,2,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0646,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,801,5679,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,2,1.75,1.6666666666666667,2.4285714285714284
+R0070,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4917,794,5711,3,2,1,0,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,0,1,1,0,1,0,1.0,0.6666666666666666,0.5714285714285714
+R0613,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,815,5744,3,0,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0289,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,792,5721,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0693,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,790,5668,3,1,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,2,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0242,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4935,802,5737,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0577,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,794,5723,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,0,1,1,0,1,0,1.125,0.5555555555555556,0.5714285714285714
+R0370,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,819,5697,3,1,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,3,1.875,1.6666666666666667,2.5714285714285716
+R0251,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,788,5717,3,0,1,0,1,0,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0605,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4896,777,5673,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,2,1.75,1.6666666666666667,2.4285714285714284
+R0182,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,801,5730,3,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0124,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4935,804,5739,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0122,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4932,798,5730,3,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,0,1,1,0,1,0,1.0,0.6666666666666666,0.5714285714285714
+R0738,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4896,777,5673,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,2,3,2,2,2,2,1.75,1.6666666666666667,2.2857142857142856
+R0366,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,786,5715,3,1,1,1,1,1,0,1,2,2,1,0,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0273,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4917,799,5716,3,2,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,0,1,1,0,1,0,1.125,0.6666666666666666,0.5714285714285714
+R0404,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,795,5724,3,1,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0038,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4926,797,5723,3,1,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,2,1,1,0,1.0,0.6666666666666666,1.0
+R0283,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,794,5723,3,1,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0668,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4893,776,5669,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,1,1,0,3,2,3,2,2,2,2,1.75,1.4444444444444444,2.2857142857142856
+R0776,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,806,5735,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.125,0.4444444444444444,0.5714285714285714
+R0499,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,797,5726,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.5555555555555556,0.7142857142857143
+R0706,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4935,815,5750,3,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0747,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,810,5739,3,1,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1.0,0.5555555555555556,0.5714285714285714
+R0625,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4935,795,5730,3,0,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0008,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4947,795,5742,3,0,1,0,1,0,0,1,2,3,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0363,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4944,811,5755,3,0,1,1,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.125,0.4444444444444444,0.7142857142857143
+R0479,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,769,5647,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,2,1.75,1.6666666666666667,2.4285714285714284
+R0676,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4947,790,5737,3,0,1,0,1,1,0,1,2,2,1,0,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.0,0.5555555555555556,0.7142857142857143
+R0566,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4932,796,5728,3,2,1,0,0,0,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.75,0.4444444444444444,0.5714285714285714
+R0041,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4872,783,5655,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,3,1.75,1.6666666666666667,2.5714285714285716
+R0097,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,795,5673,3,1,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,2,3,2,2,2,1.75,1.6666666666666667,2.4285714285714284
+R0012,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,769,5698,3,1,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,2,1,1,0,1.0,0.6666666666666666,1.0
+R0398,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4956,811,5767,3,1,1,0,1,0,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0.875,0.4444444444444444,0.5714285714285714
+R0179,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4884,800,5684,3,0,2,2,2,2,2,3,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,2,1.875,1.6666666666666667,2.4285714285714284
+R0682,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,801,5730,3,0,1,1,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0585,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4932,801,5733,3,2,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714
+R0751,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4947,782,5729,3,2,1,0,1,1,0,1,2,2,1,0,2,1,1,0,1,0,0,1,1,1,2,0,1,0,1.0,0.6666666666666666,0.8571428571428571
+R0513,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4944,788,5732,3,1,1,0,0,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,0.875,0.4444444444444444,0.7142857142857143
+R0549,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4920,789,5709,3,0,1,1,1,1,0,1,2,2,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0344,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,782,5660,3,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,3,1.75,1.6666666666666667,2.5714285714285716
+R0174,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4914,798,5712,3,1,1,1,1,1,1,1,2,2,1,1,2,1,1,1,1,0,0,1,0,1,1,0,1,0,1.25,0.8888888888888888,0.5714285714285714
+R0453,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4929,784,5713,3,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1.25,0.7777777777777778,0.5714285714285714
+R0644,1,Profile 1,primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4878,804,5682,3,2,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,3,3,3,2,2,2,2,1.75,1.6666666666666667,2.4285714285714284
+R0089,0,"Low distress, low loneliness",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4914,785,5699,3,0,1,1,1,1,0,1,2,2,1,1,2,1,1,0,2,0,0,1,0,1,1,1,1,0,1.125,0.8888888888888888,0.7142857142857143
+R0149,2,"Low distress, socially connected profile",primary,v3_tr_gpt_b,openai/gpt-5.4,primary,4947,813,5760,3,0,1,0,1,1,0,1,2,2,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1.0,0.4444444444444444,0.5714285714285714

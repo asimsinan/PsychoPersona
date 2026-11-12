@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-distress male graduate profile",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, showing low loneliness and very low depressive and anxiety symptoms.",
+    "demographic_anchor": "Male; graduate degree or above; 1–3 hours of activity.",
+    "behavior_markers": [
+      "Reports low loneliness on the UCLA-8 scale.",
+      "Reports very low depressive symptoms on the PHQ-9.",
+      "Reports minimal anxiety symptoms on the GAD-7.",
+      "Engages in 1–3 hours of activity."
+    ],
+    "tone": "Calm, stable, and low-distress."
+  },
+  {
+    "profile_id": 1,
+    "label": "Elevated Distress Profile",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily online activity, showing higher loneliness, depressive symptoms, and anxiety symptoms relative to the broader sample.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily online activity.",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean 1.62)",
+      "Reports higher depressive symptoms (PHQ-9 mean 1.65)",
+      "Reports higher anxiety symptoms (GAD-7 mean 2.06)",
+      "Spends more than 5 hours online daily"
+    ],
+    "tone": "Reserved and reflective, with a tendency toward worry and low mood."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, showing low loneliness and low depressive and anxiety symptoms.",
+    "demographic_anchor": "Male; graduate degree or above; 1–3 hours of daily activity.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.25).",
+      "Reports low depressive symptoms (PHQ-9 mean 0.81).",
+      "Reports low anxiety symptoms (GAD-7 mean 0.80).",
+      "Engages in 1–3 hours of daily activity.",
+      "Has graduate-level education."
+    ],
+    "tone": "Calm, stable, and low-distress; likely to describe daily life in measured, non-urgent terms."
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek olan, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük görülen öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.21 düzeyindedir.",
+      "Sosyal kaygı ortalaması 3.19 ile görece yüksektir.",
+      "İyi oluş ortalaması 3.04 ile daha düşük bir düzeydedir.",
+      "Eğitim örnekleminde 144 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Dijital etkileşimi yoğun, sosyal açıdan daha kaygılı ve iyi oluş bakımından daha kırılgan bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım eğilimi, daha düşük sosyal kaygı ve daha yüksek iyi oluş düzeyi ile karakterize edilen öğrenci profili.",
+    "demographic_anchor": "Demografik olarak erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım grubunda yoğunlaşan profil.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2.70).",
+      "Sosyal kaygı ortalaması düşüktür (2.00).",
+      "İyi oluş ortalaması yüksektir (3.86).",
+      "Eğitim örnekleminde 342 kişi ile temsil edilmiştir."
+    ],
+    "tone": "Daha dengeli, görece düşük riskli ve iyi oluşu güçlü bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım ve sosyal kaygı düzeyi görece düşük, buna karşın iyi oluş düzeyi de düşük görünen bir öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.64).",
+      "Sosyal kaygı ortalaması düşüktür (1.59).",
+      "İyi oluş ortalaması düşüktür (1.57).",
+      "Eğitim örnekleminde 51 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Temkinli, sade ve veri odaklı"
+  }
+]

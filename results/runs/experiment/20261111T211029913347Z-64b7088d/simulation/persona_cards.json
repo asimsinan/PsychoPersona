@@ -1,0 +1,57 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Dijital Aktif, Düşük Kaygılı ve Yüksek İyi Oluşlu Erkek Öğrenciler",
+    "summary": "Ön lisans düzeyinde öğrenim gören, günlük 4-6 saat dijital cihaz kullanan erkek öğrencilerden oluşan 84 kişilik bir profil grubudur. Bu grup ortalamanın üzerinde dijital bağımlılık puanına (3.65) sahipken, sosyal kaygı düzeyleri belirgin biçimde düşüktür (1.65). Aynı zamanda iyi oluş ortalamaları görece yüksek seviyededir (3.45). Yoğun dijital kullanıma rağmen düşük sosyal kaygı ve yüksek iyi oluş bir arada gözlemlenmektedir.",
+    "demographic_anchor": "Erkek, Ön lisans öğrencisi, günlük 4-6 saat dijital kullanım süresi",
+    "behavior_markers": [
+      "Ortalamanın üzerinde dijital bağımlılık düzeyi (3.65)",
+      "Belirgin biçimde düşük sosyal kaygı seviyesi (1.65)",
+      "Görece yüksek öznel iyi oluş puanı (3.45)",
+      "Günlük 4-6 saat dijital cihaz kullanımı",
+      "Yoğun dijital kullanıma rağmen psikolojik iyi oluşun korunması"
+    ],
+    "tone": "Dengeli ve uyumlu; dijital dünyayla yoğun etkileşim içinde olmasına karşın sosyal kaygıdan uzak, genel iyi oluş hali olumlu bir profil"
+  },
+  {
+    "profile_id": 1,
+    "label": "Yüksek Dijital Kullanım ve Sosyal Kaygı Profili",
+    "summary": "113 kişilik bir örneklemden oluşan bu profil, ortalamanın üzerinde dijital bağımlılık (3.06) ve yüksek sosyal kaygı (3.56) düzeyleri ile karakterize edilmektedir. İyi oluş düzeyi ise görece düşük kalmaktadır (3.25). Günlük 4-6 saat dijital cihaz kullanımı bildiren ön lisans düzeyindeki kadın öğrenciler bu profilin demografik çekirdeğini oluşturmaktadır. Dijital bağımlılık ve sosyal kaygı arasındaki bu birliktelik, düşük iyi oluş hali ile eş zamanlı olarak gözlemlenmektedir.",
+    "demographic_anchor": "Kadın, ön lisans öğrencisi, günlük 4-6 saat dijital cihaz kullanımı",
+    "behavior_markers": [
+      "Ortalamanın üzerinde dijital bağımlılık düzeyi (ort. 3.06)",
+      "Yüksek sosyal kaygı düzeyi (ort. 3.56)",
+      "Düşük iyi oluş düzeyi (ort. 3.25)",
+      "Günlük 4-6 saat arası yoğun dijital cihaz kullanımı",
+      "Dijital kullanım artışı ile sosyal kaygı arasında eş zamanlı yükselme örüntüsü"
+    ],
+    "tone": "Kaygılı, dijital ortama yoğun biçimde bağımlı ve düşük psikolojik iyi oluş hali sergileyen içe dönük profil"
+  },
+  {
+    "profile_id": 2,
+    "label": "Düşük Dijital Kullanımlı, Düşük Sosyal Kaygılı, Düşük İyi Oluşlu Erkek Öğrenci",
+    "summary": "51 kişilik bir örneklemi temsil eden bu profil, ön lisans düzeyinde eğitim gören ve günde 4-6 saat dijital cihaz kullanan erkek öğrencilerden oluşmaktadır. Dijital bağımlılık düzeyleri düşüktür (ort. 1.56), sosyal kaygı seviyeleri düşüktür (ort. 1.58) ve buna rağmen iyi oluş düzeyleri de düşük kalmaktadır (ort. 1.59). Düşük dijital bağımlılık ve düşük sosyal kaygıya sahip olmalarına karşın iyi oluş puanlarının da düşük olması, bu gruptaki öğrencilerin refahını etkileyen farklı faktörlerin olabileceğine işaret etmektedir.",
+    "demographic_anchor": "Erkek, Ön lisans, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık düzeyi (ort. 1.56)",
+      "Düşük sosyal kaygı seviyesi (ort. 1.58)",
+      "Düşük iyi oluş düzeyi (ort. 1.59)",
+      "Günlük orta düzeyde (4-6 saat) dijital cihaz kullanımı",
+      "Düşük kaygıya rağmen düşük öznel iyi oluş"
+    ],
+    "tone": "Analitik ve dikkatli; düşük kaygı ile düşük iyi oluşun bir arada bulunmasına ilişkin sorgulayıcı bir yaklaşım benimseyen"
+  },
+  {
+    "profile_id": 3,
+    "label": "Düşük Dijital Kullanımlı, Düşük Sosyal Kaygılı, Yüksek İyi Oluşlu Profil",
+    "summary": "289 kişilik bir örneklemden elde edilen bu profil, düşük düzeyde dijital bağımlılık (ort. 2.58) ve düşük sosyal kaygı (ort. 2.09) ile birlikte yüksek öznel iyi oluş (ort. 3.82) sergileyen öğrencileri temsil etmektedir. Günlük 4-6 saat dijital cihaz kullanımı bildiren bu grup, dijital araçlarla ölçülü bir ilişki sürdürürken sosyal ortamlarda belirgin bir rahatsızlık yaşamamakta ve genel yaşam memnuniyeti açısından olumlu bir tablo çizmektedir.",
+    "demographic_anchor": "Erkek, Ön lisans düzeyinde öğrenim gören, günlük 4-6 saat dijital cihaz kullanan öğrenciler",
+    "behavior_markers": [
+      "Dijital bağımlılık düzeyi ortalamanın altında (ort. 2.58), kontrollü ve ölçülü dijital kullanım örüntüsü",
+      "Sosyal kaygı düzeyi düşük (ort. 2.09), sosyal etkileşimlerde rahat ve işlevsel",
+      "Öznel iyi oluş düzeyi yüksek (ort. 3.82), genel yaşam memnuniyeti ve psikolojik sağlık açısından olumlu",
+      "Günlük dijital ekran süresi 4-6 saat aralığında, aşırıya kaçmayan bir kullanım profili"
+    ],
+    "tone": "Dengeli, uyumlu ve psikolojik açıdan sağlıklı bir profil; dijital kullanım ile iyi oluş arasında olumlu bir denge kurabilmiş öğrenci grubu"
+  }
+]

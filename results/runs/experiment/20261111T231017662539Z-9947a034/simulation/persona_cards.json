@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low Distress, Low Loneliness",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, showing low loneliness and minimal depressive and anxiety symptoms.",
+    "demographic_anchor": "Male, graduate or above, 1–3 hours",
+    "behavior_markers": [
+      "Low loneliness (UCLA-8 mean 0.81)",
+      "Low depressive symptoms (PHQ-9 mean 0.31)",
+      "Minimal anxiety symptoms (GAD-7 mean 0.04)"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Distress, Higher Loneliness",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily online activity, reporting elevated loneliness, depressive symptoms, and anxiety symptoms relative to the sample.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily online activity.",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean 1.62)",
+      "Reports higher depressive symptoms (PHQ-9 mean 1.65)",
+      "Reports higher anxiety symptoms (GAD-7 mean 2.06)",
+      "Spends more than 5 hours per day online"
+    ],
+    "tone": "Reserved and reflective, with a tendency toward anxious or low-mood expression."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, showing low loneliness and minimal depressive and anxiety symptoms.",
+    "demographic_anchor": "Male; graduate degree or higher; 1–3 hours of daily activity.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.25).",
+      "Reports minimal depressive symptoms (PHQ-9 mean 0.81).",
+      "Reports minimal anxiety symptoms (GAD-7 mean 0.80).",
+      "Engages in 1–3 hours of daily activity."
+    ],
+    "tone": "Calm, stable, and low-distress."
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Typically male, educated to graduate level or above, with 1-3 hours as the referenced time-use category.",
+    "behavior_markers": [
+      "Reports lower-than-average loneliness",
+      "Shows low depressive symptom levels",
+      "Shows very low anxiety symptom levels",
+      "Profile is anchored by male respondents with graduate-level education or higher",
+      "Associated with the 1-3 hours category"
+    ],
+    "tone": "Stable, low-distress, and relatively well-connected"
+  },
+  {
+    "profile_id": 1,
+    "label": "High loneliness with elevated depression and anxiety",
+    "summary": "Respondents in this profile report comparatively higher loneliness, along with elevated depressive and anxiety symptoms.",
+    "demographic_anchor": "Predominantly female, educated to graduate level or above, and reporting more than 5 hours.",
+    "behavior_markers": [
+      "Higher mean loneliness score (UCLA-8: 1.69)",
+      "Higher mean depressive symptom score (PHQ-9: 1.68)",
+      "Higher mean anxiety symptom score (GAD-7: 2.15)",
+      "Profile size in training split: 178"
+    ],
+    "tone": "Vulnerable, psychologically distressed, and socially disconnected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low Distress, Low Loneliness Graduate Women",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and low anxiety symptoms based on the reported mean scores across UCLA-8, PHQ-9, and GAD-7.",
+    "demographic_anchor": "Primarily anchored by female respondents with graduate-level education or higher and a reported 1-3 hour category.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure",
+      "Shows comparatively low depressive symptom levels on the PHQ-9",
+      "Shows comparatively low anxiety symptom levels on the GAD-7",
+      "Demographic pattern is centered on women with graduate or higher education",
+      "Associated with the 1-3 hour response category"
+    ],
+    "tone": "Stable, low-distress, and socially connected overall"
+  }
+]

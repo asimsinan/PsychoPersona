@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "higher loneliness, lower depressive symptoms, lower anxiety symptoms",
+    "demographic_anchor": "Female, Graduate or above, 1-3 hours",
+    "size": 317,
+    "feature_means": {
+      "ucla_loneliness_mean": 1.3020504731861198,
+      "phq9_mean": 0.8604977216964599,
+      "gad7_mean": 0.9094186570527264
+    }
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "higher loneliness, higher depressive symptoms, higher anxiety symptoms",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "size": 165,
+    "feature_means": {
+      "ucla_loneliness_mean": 1.7401515151515152,
+      "phq9_mean": 1.7515151515151515,
+      "gad7_mean": 2.16969696969697
+    }
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "lower loneliness, lower depressive symptoms, lower anxiety symptoms",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "size": 150,
+    "feature_means": {
+      "ucla_loneliness_mean": 0.7658333333333334,
+      "phq9_mean": 0.32740740740740737,
+      "gad7_mean": 0.08571428571428569
+    }
+  }
+]

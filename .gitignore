@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Environments and caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Human records. Rebuilt locally by scripts/restore_run_data.py, never committed.
+results/runs/*/*/data/
+results/runs/*/*/llm_archive/
+results/analysis/r2_item_records_*.csv
+results/analysis/r2_respondent_errors.csv
+
+# Third-party survey file
+datasets/bangladesh_sns/*.xlsx
+datasets/bangladesh_sns/*.docx

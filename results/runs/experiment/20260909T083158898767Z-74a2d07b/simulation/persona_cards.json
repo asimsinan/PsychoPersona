@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High distress and loneliness",
+    "summary": "Respondents in this profile show comparatively elevated loneliness, depressive symptoms, and anxiety symptoms, with anxiety appearing especially pronounced among the three indicators.",
+    "demographic_anchor": "Female, graduate education or above, and more than 5 hours",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 measure",
+      "Shows elevated depressive symptoms on the PHQ-9",
+      "Shows elevated anxiety symptoms on the GAD-7",
+      "Anxiety levels are the highest relative indicator within this profile"
+    ],
+    "tone": "Distressed, isolated, and psychologically strained"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "More likely to be male, have graduate-level education or higher, and report 1–3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness score on average (0.77)",
+      "Low PHQ-9 depression score on average (0.33)",
+      "Very low GAD-7 anxiety score on average (0.09)",
+      "Training-split profile size: 150 respondents"
+    ],
+    "tone": "Relatively stable, low-distress, and socially less isolated."
+  },
+  {
+    "profile_id": 2,
+    "label": "Higher loneliness with lower depression and anxiety",
+    "summary": "This profile is characterized by comparatively elevated loneliness alongside relatively low depressive and anxiety symptoms.",
+    "demographic_anchor": "More likely to be female, have graduate-level education or above, and report 1–3 hours in the referenced time category.",
+    "behavior_markers": [
+      "Reports higher average loneliness than other symptom indicators in this profile",
+      "Shows relatively low average depressive symptoms",
+      "Shows relatively low average anxiety symptoms",
+      "Represents a training-split subgroup of 317 respondents"
+    ],
+    "tone": "Socially disconnected but not broadly emotionally distressed"
+  }
+]

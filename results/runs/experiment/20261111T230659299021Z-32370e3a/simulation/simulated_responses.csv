@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0144,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,369,1637,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0052,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,365,1635,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0035,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1271,377,1648,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0706,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,386,1656,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0621,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,383,1651,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0752,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,368,1636,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0200,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,380,1648,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0505,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1271,374,1645,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0024,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1269,375,1644,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0248,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1264,376,1640,1,0,2,2,2,2,1,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.375,1.6666666666666667,2.0
+R0597,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,369,1637,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0298,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,373,1643,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0083,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1273,369,1642,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0172,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,369,1637,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0617,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,373,1641,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0278,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,384,1652,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0185,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,366,1634,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0126,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1266,387,1653,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0419,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0770,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1266,380,1646,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0536,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1264,375,1639,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0389,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1275,376,1651,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.625,1.6666666666666667,2.0
+R0229,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1264,376,1640,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0335,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,369,1643,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0267,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,373,1647,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+R0503,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,361,1631,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0493,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,371,1645,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0583,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1274,360,1634,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0772,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1264,382,1646,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0365,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1266,373,1639,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0517,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,363,1633,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0198,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1281,371,1652,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0069,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,368,1647,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0431,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1282,378,1660,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0549,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1265,369,1634,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0103,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1266,373,1639,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0567,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1264,377,1641,1,0,2,2,2,2,1,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.375,1.6666666666666667,2.0
+R0731,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,374,1644,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0017,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1267,381,1648,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0674,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,363,1631,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0679,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,369,1637,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0098,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,366,1636,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0042,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,372,1640,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0399,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,383,1663,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0336,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,371,1639,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0421,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,369,1637,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0317,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1275,367,1642,1,0,2,2,1,2,1,2,0,0,2,2,1,2,1,2,2,1,0,2,2,2,2,1,2,2,1.25,1.4444444444444444,1.8571428571428572
+R0268,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1264,377,1641,1,0,2,2,2,2,1,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.375,1.6666666666666667,2.0
+R0343,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,381,1660,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0234,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,368,1636,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0067,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,378,1648,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0342,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1264,372,1636,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0077,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,366,1645,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0032,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,377,1645,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0652,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,413,1681,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0393,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,369,1649,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0263,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,371,1650,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0785,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,382,1661,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0689,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,364,1644,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0081,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1279,388,1667,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0416,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1264,374,1638,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0396,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1282,378,1660,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0538,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,369,1637,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0461,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,373,1641,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+R0391,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1277,374,1651,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0453,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1281,382,1663,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0071,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1266,367,1633,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.625,1.6666666666666667,2.0
+R0247,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,369,1645,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0446,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1281,363,1644,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0152,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,366,1634,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0251,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1281,375,1656,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0777,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1280,378,1658,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0366,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,371,1639,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0099,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1266,384,1650,1,0,2,2,2,2,1,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.625,1.6666666666666667,2.0
+R0499,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,369,1637,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0379,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1277,372,1649,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0677,1,Elevated Psychological Distress,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1276,367,1643,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0011,2,Low Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1270,366,1636,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0184,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1281,370,1651,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0313,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1265,365,1630,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0

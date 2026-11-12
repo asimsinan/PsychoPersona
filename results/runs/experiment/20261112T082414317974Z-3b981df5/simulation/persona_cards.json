@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük seyreden bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.69 ile görece yüksektir.",
+      "Sosyal kaygı ortalaması 2.80 düzeyindedir.",
+      "İyi oluş ortalaması 3.19 ile daha düşük bir düzeydedir.",
+      "Profil, eğitim örnekleminde 121 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Veri odaklı, temkinli ve risk işaretlerine dikkat çeken."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım ve daha düşük sosyal kaygı ile birlikte daha yüksek iyi oluş düzeyi gösteren öğrenci profili.",
+    "demographic_anchor": "Demografik olarak kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım grubunda yoğunlaşmaktadır. Eğitim örnekleminde bu profile 366 kişi dahildir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2.586).",
+      "Sosyal kaygı ortalaması düşüktür (2.251).",
+      "İyi oluş ortalaması yüksektir (3.770)."
+    ],
+    "tone": "Dengeli, görece iyi uyum gösteren ve düşük riskli bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi, sosyal kaygı ve iyi oluş ortalamaları düşük seyreden; eğitim örnekleminde 50 kişiden oluşan bir öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans, günlük 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.592).",
+      "Sosyal kaygı ortalaması düşüktür (1.607).",
+      "İyi oluş ortalaması düşüktür (1.557).",
+      "Profil, eğitim örnekleminde 50 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha düşük iyi oluş ile tanımlanan dengeli fakat görece düşük düzeyli bir profil."
+  }
+]

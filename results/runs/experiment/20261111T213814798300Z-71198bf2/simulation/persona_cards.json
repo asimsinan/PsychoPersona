@@ -1,0 +1,50 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Daha yüksek dijital kullanım, daha düşük sosyal kaygı ve daha yüksek iyi oluş eğilimleri gösteren öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.59 (yüksek dijital kullanım eğilimi)",
+      "Sosyal kaygı ortalaması 1.65 (düşük sosyal kaygı eğilimi)",
+      "İyi oluş ortalaması 3.49 (yüksek iyi oluş eğilimi)"
+    ],
+    "tone": "Veri temelli, betimleyici ve temkinli; kesin nedensellik iddiası içermez."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha düşük iyi oluş düzeyleriyle öne çıkan öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 1.55 (düşük düzey).",
+      "Sosyal kaygı ortalaması 1.58 (düşük düzey).",
+      "İyi oluş ortalaması 1.54 (düşük düzey)."
+    ],
+    "tone": "Düşük dijital kullanım, düşük sosyal kaygı ve düşük iyi oluşu bir arada yansıtan; sakin ama iyilik hâli göstergeleri sınırlı bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Daha yüksek dijital kullanım, daha yüksek sosyal kaygı ve daha düşük iyi oluş düzeyi ile öne çıkan öğrenci profili.",
+    "demographic_anchor": "Kadın, ön lisans, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.09",
+      "Sosyal kaygı ortalaması 3.55",
+      "İyi oluş ortalaması 3.21"
+    ],
+    "tone": "Veri temelli, betimleyici ve yargısız"
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha yüksek iyi oluş düzeyi ile öne çıkan öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.59 (düşük)",
+      "Sosyal kaygı ortalaması 2.13 (düşük)",
+      "İyi oluş ortalaması 3.79 (yüksek)"
+    ],
+    "tone": "Sakin, dengeli ve olumlu."
+  }
+]

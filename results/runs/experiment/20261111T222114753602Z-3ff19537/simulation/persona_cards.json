@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Risk Well-Being",
+    "summary": "This persona represents a group of respondents characterized by minimal psychological distress, reporting very low levels of loneliness, depression, and anxiety.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 0.791)",
+      "Reports minimal depressive symptoms (PHQ-9 mean: 0.28)",
+      "Reports negligible anxiety symptoms (GAD-7 mean: 0.037)"
+    ],
+    "tone": "Stable and positive"
+  },
+  {
+    "profile_id": 1,
+    "label": "High Distress and Loneliness",
+    "summary": "This persona represents respondents characterized by elevated levels of psychological distress, specifically marked by higher scores in loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Elevated UCLA-8 loneliness (mean: 1.66)",
+      "Elevated PHQ-9 depression (mean: 1.65)",
+      "Elevated GAD-7 anxiety (mean: 2.10)"
+    ],
+    "tone": "Distressed and isolated"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "This persona represents a group characterized by lower levels of loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Female, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "UCLA-8 loneliness mean: 1.2099514563106797",
+      "PHQ-9 depression mean: 0.8234448040273282",
+      "GAD-7 anxiety mean: 0.7868700878409616"
+    ],
+    "tone": "Objective, data-driven, and concise"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8454,
+    "completion_tokens": 1047,
+    "total_tokens": 9501,
+    "response_id": "gen-1788789285-lCZWTxmggby8WQrSvfLJ"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8454,
+    "completion_tokens": 984,
+    "total_tokens": 9438,
+    "response_id": "gen-1788789285-eSEW75Ue7Y4vrO3QM9k5"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8298,
+    "completion_tokens": 992,
+    "total_tokens": 9290,
+    "response_id": "gen-1788789285-fuK5KLb5GByGaYJYzSil"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8451,
+    "completion_tokens": 1064,
+    "total_tokens": 9515,
+    "response_id": "gen-1788789285-TaEAFfFofguGYuFTGV4l"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8514,
+    "completion_tokens": 957,
+    "total_tokens": 9471,
+    "response_id": "gen-1788789305-LSDT42cCK9bvv8Kfr4H1"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8523,
+    "completion_tokens": 1007,
+    "total_tokens": 9530,
+    "response_id": "gen-1788789307-paSS8BaD1UFcoyLmUH1a"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8490,
+    "completion_tokens": 972,
+    "total_tokens": 9462,
+    "response_id": "gen-1788789307-Z2D4fWCaNuuoBitWZOro"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 996,
+    "total_tokens": 9495,
+    "response_id": "gen-1788789307-uvFeU2A483EJwy1Z75bU"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 1019,
+    "total_tokens": 9518,
+    "response_id": "gen-1788789324-YmZe4PQYlZ107TEVR82u"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 1063,
+    "total_tokens": 9562,
+    "response_id": "gen-1788789333-UCOXkOmu5xOsOqi1ceig"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8502,
+    "completion_tokens": 981,
+    "total_tokens": 9483,
+    "response_id": "gen-1788789327-6545jJoYhPFinqG7cJ9A"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8526,
+    "completion_tokens": 1003,
+    "total_tokens": 9529,
+    "response_id": "gen-1788789338-cQ9tOnCcnT7M4pZgdBCU"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8520,
+    "completion_tokens": 972,
+    "total_tokens": 9492,
+    "response_id": "gen-1788789346-XngtG1g2D8JGLnj9xr9K"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8520,
+    "completion_tokens": 976,
+    "total_tokens": 9496,
+    "response_id": "gen-1788789347-739b0MscFQVcyrEdHwlT"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8457,
+    "completion_tokens": 1047,
+    "total_tokens": 9504,
+    "response_id": "gen-1788789347-KH8GqdKxuzeRWMXCfFnP"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8514,
+    "completion_tokens": 973,
+    "total_tokens": 9487,
+    "response_id": "gen-1788789367-LTYoeYMiAv9DwwvZGjca"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8451,
+    "completion_tokens": 1008,
+    "total_tokens": 9459,
+    "response_id": "gen-1788789372-6hJx3MnD4fcavSEYgdQ5"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8511,
+    "completion_tokens": 942,
+    "total_tokens": 9453,
+    "response_id": "gen-1788789367-LRLByyp1LdGJIQ6E7unu"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8328,
+    "completion_tokens": 945,
+    "total_tokens": 9273,
+    "response_id": "gen-1788789370-s3cizOTuMb7sNHj5VlcJ"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8451,
+    "completion_tokens": 1089,
+    "total_tokens": 9540,
+    "response_id": "gen-1788789380-SpGn3TYTMpgXc3tSNzLp"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8508,
+    "completion_tokens": 1002,
+    "total_tokens": 9510,
+    "response_id": "gen-1788789387-CQ9KOFkV9nZPnmv99lXP"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8301,
+    "completion_tokens": 977,
+    "total_tokens": 9278,
+    "response_id": "gen-1788789387-70LGxGhbBLNp71bazsxC"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8460,
+    "completion_tokens": 1006,
+    "total_tokens": 9466,
+    "response_id": "gen-1788789388-RNoXNh9FZGlkwAoZnc1A"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8295,
+    "completion_tokens": 989,
+    "total_tokens": 9284,
+    "response_id": "gen-1788789403-AcA4tTgIyRTqYI6JUnO8"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8292,
+    "completion_tokens": 997,
+    "total_tokens": 9289,
+    "response_id": "gen-1788789407-lD1RbQJOxBp549ArpFFp"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 939,
+    "total_tokens": 9438,
+    "response_id": "gen-1788789408-ANL6UN8reJVfFyhPfqyv"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8454,
+    "completion_tokens": 1047,
+    "total_tokens": 9501,
+    "response_id": "gen-1788789408-G1y3PGkUNusCcIZxq2M1"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8475,
+    "completion_tokens": 1088,
+    "total_tokens": 9563,
+    "response_id": "gen-1788789422-9db76F71VwGOVuXYNMkL"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8322,
+    "completion_tokens": 928,
+    "total_tokens": 9250,
+    "response_id": "gen-1788789426-kMLBE3B0l6PcqC0HXb2o"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8517,
+    "completion_tokens": 981,
+    "total_tokens": 9498,
+    "response_id": "gen-1788789428-DCPWPZb602WqowiLSAIi"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8466,
+    "completion_tokens": 1069,
+    "total_tokens": 9535,
+    "response_id": "gen-1788789445-HWPDUWZ0MTNfIXSlhZ2v"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8472,
+    "completion_tokens": 1041,
+    "total_tokens": 9513,
+    "response_id": "gen-1788789450-cr35UXPxc9UyPVVtB0Cj"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8457,
+    "completion_tokens": 1010,
+    "total_tokens": 9467,
+    "response_id": "gen-1788789446-4jOTJF3aTjHmXouhCnmI"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 1045,
+    "total_tokens": 9544,
+    "response_id": "gen-1788789449-hmRMYozracoBDpkJYgh9"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 943,
+    "total_tokens": 9442,
+    "response_id": "gen-1788789452-693j7uw8vJOtLobOTICY"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8319,
+    "completion_tokens": 942,
+    "total_tokens": 9261,
+    "response_id": "gen-1788789464-DX8Kc02jjnWYauUZPhWN"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8469,
+    "completion_tokens": 1042,
+    "total_tokens": 9511,
+    "response_id": "gen-1788789465-JB7O5vBBNYMfFwEKOQNJ"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8523,
+    "completion_tokens": 976,
+    "total_tokens": 9499,
+    "response_id": "gen-1788789477-PBgeep3zIhziYho3Es3K"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8517,
+    "completion_tokens": 973,
+    "total_tokens": 9490,
+    "response_id": "gen-1788789471-SHVoZbq33oJfcSGh0dV0"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8451,
+    "completion_tokens": 989,
+    "total_tokens": 9440,
+    "response_id": "gen-1788789484-99981uVmm812BcJS8JrL"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8514,
+    "completion_tokens": 986,
+    "total_tokens": 9500,
+    "response_id": "gen-1788789487-OqgqFUksiXaUBkbRP2Ts"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 938,
+    "total_tokens": 9437,
+    "response_id": "gen-1788789491-6nCMThMl4mn54bN204FW"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 1008,
+    "total_tokens": 9507,
+    "response_id": "gen-1788789492-gGvve3u4cnFS6w1BRei7"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 926,
+    "total_tokens": 9425,
+    "response_id": "gen-1788789504-M3zkawWMl8fUxqqmtXbl"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 1000,
+    "total_tokens": 9499,
+    "response_id": "gen-1788789509-jP5MLCjjjoVio11VhQzL"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 939,
+    "total_tokens": 9438,
+    "response_id": "gen-1788789510-Bkn0AoSD7CPKeds9qGbK"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8520,
+    "completion_tokens": 927,
+    "total_tokens": 9447,
+    "response_id": "gen-1788789513-aRbCMU3IDdLN3fQnZRpP"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8457,
+    "completion_tokens": 1068,
+    "total_tokens": 9525,
+    "response_id": "gen-1788789523-HSJfFmsQ79QNtnZe8euu"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8502,
+    "completion_tokens": 978,
+    "total_tokens": 9480,
+    "response_id": "gen-1788789528-vmnJeHo112hWZOLaBh6B"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8502,
+    "completion_tokens": 967,
+    "total_tokens": 9469,
+    "response_id": "gen-1788789529-uU8oSRj9pjRi61tZBFQ3"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8451,
+    "completion_tokens": 1070,
+    "total_tokens": 9521,
+    "response_id": "gen-1788789533-Hp9McCC0BEUqCFI54Hlz"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8508,
+    "completion_tokens": 953,
+    "total_tokens": 9461,
+    "response_id": "gen-1788789547-EcFSwzPkBuSIxB9khMYW"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 945,
+    "total_tokens": 9444,
+    "response_id": "gen-1788789547-Wm8HepSbKQeIHDZ0F6bX"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8523,
+    "completion_tokens": 1003,
+    "total_tokens": 9526,
+    "response_id": "gen-1788789548-QIW0okZC8A2HN6vIi9AZ"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8331,
+    "completion_tokens": 977,
+    "total_tokens": 9308,
+    "response_id": "gen-1788789555-XBvbipI1E77nIbgtwlKg"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8454,
+    "completion_tokens": 994,
+    "total_tokens": 9448,
+    "response_id": "gen-1788789566-pMx5JVqN4FLCuYGa1GYY"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8298,
+    "completion_tokens": 982,
+    "total_tokens": 9280,
+    "response_id": "gen-1788789567-27uEUBxvuEYueaZ5ze5F"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8475,
+    "completion_tokens": 1057,
+    "total_tokens": 9532,
+    "response_id": "gen-1788789568-7TXNYnkhEEl3rrzM6BpX"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8529,
+    "completion_tokens": 984,
+    "total_tokens": 9513,
+    "response_id": "gen-1788789574-g5v8o888xH4oQn5KIaGS"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 998,
+    "total_tokens": 9497,
+    "response_id": "gen-1788789594-XEm5HYKkbMWuyev9epRl"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8493,
+    "completion_tokens": 1027,
+    "total_tokens": 9520,
+    "response_id": "gen-1788789587-D5PHZoKS5tqtV2AX4WAa"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 922,
+    "total_tokens": 9421,
+    "response_id": "gen-1788789590-T0GXKQphizeBDtHlGzy4"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 975,
+    "total_tokens": 9474,
+    "response_id": "gen-1788789594-0Pe9fdWQZ1oz8boo7WZA"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8517,
+    "completion_tokens": 1080,
+    "total_tokens": 9597,
+    "response_id": "gen-1788789607-q2npYrR9NdblYSb3vGB9"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8475,
+    "completion_tokens": 1052,
+    "total_tokens": 9527,
+    "response_id": "gen-1788789608-iWrSMnFVQRbAzfivKcFr"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8304,
+    "completion_tokens": 966,
+    "total_tokens": 9270,
+    "response_id": "gen-1788789612-OH8SYqzHFKE4z3WgO7GS"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8496,
+    "completion_tokens": 942,
+    "total_tokens": 9438,
+    "response_id": "gen-1788789615-rGwH8Pj44XemNWY5svTq"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8523,
+    "completion_tokens": 954,
+    "total_tokens": 9477,
+    "response_id": "gen-1788789629-sO1ZQnj9ln95rYe6qN8M"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8466,
+    "completion_tokens": 1058,
+    "total_tokens": 9524,
+    "response_id": "gen-1788789630-x9DPhd9KAzxK7cmmxINi"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 1097,
+    "total_tokens": 9596,
+    "response_id": "gen-1788789631-ZetdMhWsVc2hEvOoSgTA"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8484,
+    "completion_tokens": 999,
+    "total_tokens": 9483,
+    "response_id": "gen-1788789633-Z25UhfmYoGywwKDOe22P"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8496,
+    "completion_tokens": 1128,
+    "total_tokens": 9624,
+    "response_id": "gen-1788789657-yCXNhY0l0HOh4cVp9EvN"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 1085,
+    "total_tokens": 9584,
+    "response_id": "gen-1788789652-5d5yxXeZfxBwIjWHgvRN"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8499,
+    "completion_tokens": 1043,
+    "total_tokens": 9542,
+    "response_id": "gen-1788789653-Dzmn7Dl84zUgJ09UfRdB"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8319,
+    "completion_tokens": 991,
+    "total_tokens": 9310,
+    "response_id": "gen-1788789654-D4kdXaqSTZbg8hKhbK67"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8496,
+    "completion_tokens": 946,
+    "total_tokens": 9442,
+    "response_id": "gen-1788789672-BJq5wctEjCWfhBPfd9CP"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8520,
+    "completion_tokens": 1144,
+    "total_tokens": 9664,
+    "response_id": "gen-1788789681-9FpzynquNufDIFftwXQ1"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8322,
+    "completion_tokens": 1010,
+    "total_tokens": 9332,
+    "response_id": "gen-1788789675-2L2laQdUDwOi84bLeXDX"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8514,
+    "completion_tokens": 1019,
+    "total_tokens": 9533,
+    "response_id": "gen-1788789676-NubE0tmopsCLuoZRvkym"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "primary",
+    "prompt_tokens": 8523,
+    "completion_tokens": 1019,
+    "total_tokens": 9542,
+    "response_id": "gen-1788789691-YkfoteHNx9y2tWzgxPSD"
+  }
+]

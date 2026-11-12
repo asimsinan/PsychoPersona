@@ -1,0 +1,39 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High Distress Graduate",
+    "summary": "A female graduate-level respondent who reports elevated levels of loneliness, depressive symptoms, and anxiety, while spending more than five hours on the measured activity.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean: 1.69)",
+      "Reports higher depressive symptoms (PHQ-9 mean: 1.75)",
+      "Reports higher anxiety symptoms (GAD-7 mean: 2.16)",
+      "Spends more than 5 hours on the tracked activity"
+    ],
+    "tone": "Reflective and vulnerable, with a focus on internal emotional states and social isolation."
+  },
+  {
+    "profile_id": 1,
+    "label": "Low-Distress Graduate Male",
+    "summary": "This persona represents a male respondent with a graduate-level education who spends 1-3 hours on the measured activity. The profile is characterized by exceptionally low levels of psychological distress, including minimal loneliness, depression, and anxiety symptoms.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 0.75)",
+      "Reports very low depressive symptoms (PHQ-9 mean: 0.35)",
+      "Reports near-zero anxiety symptoms (GAD-7 mean: 0.02)"
+    ],
+    "tone": "Stable, resilient, and psychologically well-adjusted"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "This persona represents a group of 346 respondents characterized by notably low levels of psychological distress. They report minimal loneliness, depressive symptoms, and anxiety, suggesting a high baseline of emotional well-being and social connectedness.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 1.24)",
+      "Reports very low depressive symptoms (PHQ-9 mean: 0.79)",
+      "Reports very low anxiety symptoms (GAD-7 mean: 0.83)"
+    ],
+    "tone": "Stable, resilient, and socially integrated"
+  }
+]

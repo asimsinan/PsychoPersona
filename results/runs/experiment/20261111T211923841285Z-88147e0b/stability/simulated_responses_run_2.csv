@@ -1,0 +1,26 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0569,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,372,1627,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1.25,0.1111111111111111,0.0
+R0172,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,369,1624,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.2222222222222222,0.7142857142857143
+R0507,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,375,1630,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0579,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,370,1625,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.2222222222222222,0.7142857142857143
+R0614,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1264,390,1654,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,1.25,0.1111111111111111,0.7142857142857143
+R0078,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1267,383,1650,1,0,1,1,1,1,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.25,0.0,0.0
+R0163,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1253,387,1640,1,0,1,1,1,1,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.25,0.0,0.0
+R0084,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,374,1629,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1.25,0.1111111111111111,0.1428571428571428
+R0669,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,373,1628,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.25,0.1111111111111111,0.1428571428571428
+R0479,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,400,1655,1,0,1,1,1,1,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.25,0.0,0.0
+R0278,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,372,1627,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0745,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1268,385,1653,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1.25,0.1111111111111111,0.0
+R0105,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1267,373,1640,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.2222222222222222,0.7142857142857143
+R0476,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1267,377,1644,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,1.25,0.1111111111111111,0.7142857142857143
+R0067,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1257,370,1627,1,0,1,1,1,1,1,1,2,2,0,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.3333333333333333,0.7142857142857143
+R0428,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1261,372,1633,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.25,0.1111111111111111,0.1428571428571428
+R0100,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,369,1624,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.2222222222222222,0.7142857142857143
+R0322,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1264,375,1639,1,0,1,1,1,1,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.25,0.0,0.0
+R0218,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1268,389,1657,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.2222222222222222,0.7142857142857143
+R0747,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,378,1633,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0261,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1260,377,1637,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.2222222222222222,0.7142857142857143
+R0765,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,371,1626,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1.25,0.2222222222222222,0.4285714285714285
+R0129,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,378,1633,1,0,1,1,1,1,1,1,2,2,1,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1.25,0.4444444444444444,0.7142857142857143
+R0311,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1255,375,1630,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1.25,0.1111111111111111,0.1428571428571428
+R0554,0,Profil 0,stability_2,direct_stats_v1,qwen/qwen3.8-27b,stability,1252,374,1626,1,0,1,1,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.25,0.1111111111111111,0.1428571428571428

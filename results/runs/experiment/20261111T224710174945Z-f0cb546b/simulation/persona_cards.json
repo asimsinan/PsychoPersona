@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım eğilimi görece düşük, sosyal kaygı düzeyi düşük ve iyi oluş düzeyi daha yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat aralığında yer alan öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.68 ile görece düşüktür.",
+      "Sosyal kaygı ortalaması 1.97 ile düşüktür.",
+      "İyi oluş ortalaması 3.83 ile görece yüksektir.",
+      "Profil, eğitim örnekleminde 340 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Dengeli, daha düşük riskli ve iyi oluşu güçlü bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük görünen öğrenci profili.",
+    "demographic_anchor": "Kadın, ön lisans, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.20 ile görece yüksektir.",
+      "Sosyal kaygı ortalaması 3.24 ile yüksektir.",
+      "İyi oluş ortalaması 3.07 ile daha düşüktür.",
+      "Eğitim örnekleminde 143 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Veri odaklı, dikkatli ve temkinli"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım ve sosyal kaygı düzeyi görece düşük olan, buna karşın iyi oluş puanı da düşük seyreden öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans düzeyi, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.59).",
+      "Sosyal kaygı ortalaması düşüktür (1.58).",
+      "İyi oluş ortalaması düşüktür (1.51).",
+      "Eğitim örnekleminde 54 kişi ile temsil edilmiştir."
+    ],
+    "tone": "Sakin, düşük yoğunluklu dijital kullanım örüntüsü gösteren; sosyal kaygısı görece düşük, ancak iyi oluş açısından destek gereksinimi sinyali veren bir profil."
+  }
+]

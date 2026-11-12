@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha düşük iyi oluş düzeyiyle tanımlanan bir öğrenci profili.",
+    "demographic_anchor": "Ağırlıklı demografik dayanak: erkek, ön lisans, günlük 4-6 saat.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.5846).",
+      "Sosyal kaygı ortalaması düşüktür (1.5849).",
+      "İyi oluş ortalaması düşüktür (1.5646).",
+      "Eğitim örnekleminde 52 kişiyle temsil edilmiştir."
+    ],
+    "tone": "Temkinli, sade ve veri temelli."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı düzeyi düşük ve iyi oluş düzeyi yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.73 ile görece düşüktür.",
+      "Sosyal kaygı ortalaması 2.04 ile düşüktür.",
+      "İyi oluş ortalaması 3.81 ile yüksektir.",
+      "Profil, eğitim örnekleminde 353 kişiyi kapsamaktadır."
+    ],
+    "tone": "Dengeli, daha kontrollü dijital kullanım eğilimi gösteren ve psikolojik olarak görece daha iyi durumda bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük görünen bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.31 düzeyindedir.",
+      "Sosyal kaygı ortalaması 3.26 ile görece yüksektir.",
+      "İyi oluş ortalaması 2.95 ile daha düşük görünmektedir.",
+      "Eğitim örnekleminde bu profile atanan kişi sayısı 132'dir."
+    ],
+    "tone": "Yoğun dijital kullanımın eşlik ettiği, sosyal açıdan daha kaygılı ve iyi oluş göstergeleri daha kırılgan bir profil."
+  }
+]

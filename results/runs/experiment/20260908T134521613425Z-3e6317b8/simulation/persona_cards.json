@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Higher distress profile",
+    "summary": "Respondents in this profile report comparatively higher loneliness along with elevated depressive and anxiety symptoms.",
+    "demographic_anchor": "Female, graduate education or above, and more than 5 hours",
+    "behavior_markers": [
+      "Higher mean loneliness on the UCLA-8 measure",
+      "Higher mean depressive symptoms on the PHQ-9",
+      "Higher mean anxiety symptoms on the GAD-7"
+    ],
+    "tone": "Psychologically distressed and socially disconnected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "More commonly represented by men with graduate-level education or higher and 1-3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness score on average (mean 0.75)",
+      "Low PHQ-9 depressive symptom level on average (mean 0.35)",
+      "Very low GAD-7 anxiety symptom level on average (mean 0.02)",
+      "Training-split profile size: 116 respondents"
+    ],
+    "tone": "Stable, low-distress, and relatively socially connected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured scales.",
+    "demographic_anchor": "More commonly represented by men with graduate-level education or higher who report 1-3 hours in the referenced time category.",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness scores on average",
+      "Lower PHQ-9 depressive symptom scores on average",
+      "Lower GAD-7 anxiety symptom scores on average",
+      "Overall pattern suggests relatively low emotional distress in this sample"
+    ],
+    "tone": "Stable, composed, and generally emotionally well-adjusted"
+  }
+]

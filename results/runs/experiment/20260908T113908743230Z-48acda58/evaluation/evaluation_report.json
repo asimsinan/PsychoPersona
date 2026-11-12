@@ -1,0 +1,73 @@
+{
+  "scale_mean_deltas": {
+    "ucla_loneliness_mean": 0.1484375,
+    "phq9_mean": 0.09027777777777757,
+    "gad7_mean": 0.12142857142857144
+  },
+  "scale_std_deltas": {
+    "ucla_loneliness_mean": 0.2737066072296962,
+    "phq9_mean": 0.3425203368466885,
+    "gad7_mean": 0.3429561849200412
+  },
+  "correlation_rmse": 0.23223107427929193,
+  "regression_deltas": {
+    "gad7_on_phq9": 0.61215793112428,
+    "ucla_on_phq9": 0.13624943150572533
+  },
+  "standardized_regression_deltas": {
+    "gad7_on_phq9": 0.25300653782742155,
+    "ucla_on_phq9": 0.21255422697983029
+  },
+  "profile_recovery_accuracy": 0.775,
+  "within_profile_scale_rmse": 0.2537727389929145,
+  "item_mean_deltas": {
+    "ucla_item_01": 0.6375,
+    "ucla_item_02": 0.09999999999999998,
+    "ucla_item_03": 0.6375000000000002,
+    "ucla_item_04": 0.4375,
+    "ucla_item_05": 0.275,
+    "ucla_item_06": 0.30000000000000004,
+    "ucla_item_07": 0.3125,
+    "ucla_item_08": 0.13750000000000018,
+    "phq9_item_01": 0.0,
+    "phq9_item_02": 0.1875,
+    "phq9_item_03": 0.13749999999999996,
+    "phq9_item_04": 0.2749999999999999,
+    "phq9_item_05": 0.16249999999999998,
+    "phq9_item_06": 0.13749999999999996,
+    "phq9_item_07": 0.03750000000000009,
+    "phq9_item_08": 0.47500000000000003,
+    "phq9_item_09": 0.575,
+    "gad7_item_01": 0.36250000000000004,
+    "gad7_item_02": 0.11250000000000004,
+    "gad7_item_03": 0.5125,
+    "gad7_item_04": 0.04999999999999982,
+    "gad7_item_05": 0.23749999999999993,
+    "gad7_item_06": 0.28749999999999987,
+    "gad7_item_07": 0.012499999999999956
+  },
+  "nonlinear_deltas": {
+    "gad7_on_phq9_linear": 0.6563813708398432,
+    "gad7_on_phq9_quadratic": 0.02690191001329001,
+    "ucla_on_phq9_linear": 1.8108627865050968,
+    "ucla_on_phq9_quadratic": 0.8021398007517978
+  },
+  "response_pattern_diversity": {
+    "human_unique_ratio": 0.9875,
+    "simulated_unique_ratio": 0.6,
+    "absolute_delta": 0.38750000000000007
+  },
+  "subgroup_rmse": {
+    "gender": 0.13702951991514775,
+    "education": 0.3364788243342349,
+    "usage_band": 0.19739356677862188,
+    "profile_id": 0.2537727389929145
+  },
+  "individual_level_metrics": {
+    "aligned_respondent_count": 80.0,
+    "respondent_scale_rmse_mean": 0.4816280984149971,
+    "respondent_item_mae_mean": 0.7239583333333333,
+    "respondent_item_exact_match_mean": 0.3916666666666667,
+    "respondent_item_all_match_ratio": 0.0
+  }
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High loneliness with elevated depression and anxiety",
+    "summary": "Respondents in this profile report comparatively high loneliness, along with elevated depressive and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Female, graduate education or above, and more than 5 hours",
+    "behavior_markers": [
+      "Higher mean loneliness score on UCLA-8",
+      "Higher mean depressive symptom score on PHQ-9",
+      "Higher mean anxiety symptom score on GAD-7",
+      "Profile is anchored by respondents who are female",
+      "Profile is anchored by respondents with graduate-level education or above",
+      "Profile is anchored by respondents reporting more than 5 hours"
+    ],
+    "tone": "Vulnerable, distressed, and socially disconnected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, low loneliness group",
+    "summary": "Respondents in this profile report comparatively low loneliness, very low anxiety symptoms, and low depressive symptoms overall.",
+    "demographic_anchor": "Male, graduate education or above, 1-3 hours",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness score on average",
+      "Low PHQ-9 depressive symptom level on average",
+      "Very low GAD-7 anxiety symptom level on average",
+      "Represents a relatively low-distress subgroup in the sample"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness as well as low depressive and anxiety symptoms.",
+    "demographic_anchor": "More likely to be male, have graduate-level education or above, and report 1–3 hours in the referenced time category.",
+    "behavior_markers": [
+      "Low mean loneliness score on UCLA-8 (1.21)",
+      "Low mean depressive symptom score on PHQ-9 (0.78)",
+      "Low mean anxiety symptom score on GAD-7 (0.79)",
+      "Overall pattern suggests relatively low emotional distress across measures"
+    ],
+    "tone": "Stable, low-distress, and socially connected"
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "scale_mean_deltas": {
+    "ucla_loneliness_mean": 0.2578125,
+    "phq9_mean": 0.34305555555555545,
+    "gad7_mean": 0.3232142857142858
+  },
+  "scale_std_deltas": {
+    "ucla_loneliness_mean": 0.4842134628353895,
+    "phq9_mean": 0.7129270392371941,
+    "gad7_mean": 0.8647097062032412
+  },
+  "correlation_rmse": NaN,
+  "regression_deltas": {
+    "gad7_on_phq9": NaN,
+    "ucla_on_phq9": NaN
+  },
+  "standardized_regression_deltas": {
+    "gad7_on_phq9": NaN,
+    "ucla_on_phq9": NaN
+  },
+  "profile_recovery_accuracy": NaN,
+  "within_profile_scale_rmse": 0.3101730021797389,
+  "item_mean_deltas": {
+    "ucla_item_01": 0.8625,
+    "ucla_item_02": 0.7875000000000001,
+    "ucla_item_03": 0.02499999999999991,
+    "ucla_item_04": 0.6124999999999998,
+    "ucla_item_05": 0.17500000000000004,
+    "ucla_item_06": 0.625,
+    "ucla_item_07": 0.3999999999999999,
+    "ucla_item_08": 0.2250000000000001,
+    "phq9_item_01": 0.125,
+    "phq9_item_02": 0.1875,
+    "phq9_item_03": 0.1625000000000001,
+    "phq9_item_04": 0.2875000000000001,
+    "phq9_item_05": 1.0125,
+    "phq9_item_06": 0.125,
+    "phq9_item_07": 0.0,
+    "phq9_item_08": 0.775,
+    "phq9_item_09": 0.6625,
+    "gad7_item_01": 0.012499999999999956,
+    "gad7_item_02": 0.25,
+    "gad7_item_03": 0.25,
+    "gad7_item_04": 0.1625000000000001,
+    "gad7_item_05": 0.95,
+    "gad7_item_06": 0.17500000000000004,
+    "gad7_item_07": 0.48750000000000004
+  },
+  "nonlinear_deltas": {
+    "gad7_on_phq9_linear": NaN,
+    "gad7_on_phq9_quadratic": NaN,
+    "ucla_on_phq9_linear": NaN,
+    "ucla_on_phq9_quadratic": NaN
+  },
+  "response_pattern_diversity": {
+    "human_unique_ratio": 0.9875,
+    "simulated_unique_ratio": 0.0875,
+    "absolute_delta": 0.9
+  },
+  "subgroup_rmse": {
+    "gender": 0.33823286428283056,
+    "education": 0.8076074221982027,
+    "usage_band": 0.39691201325411546,
+    "profile_id": 0.3101730021797389
+  },
+  "individual_level_metrics": {
+    "aligned_respondent_count": 80.0,
+    "respondent_scale_rmse_mean": 0.7022702368748608,
+    "respondent_item_mae_mean": 0.8328125,
+    "respondent_item_exact_match_mean": 0.3770833333333333,
+    "respondent_item_all_match_ratio": 0.0
+  }
+}

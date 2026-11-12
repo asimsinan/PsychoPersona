@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması daha yüksek ve iyi oluş düzeyi daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.69 ile görece yüksektir.",
+      "Sosyal kaygı ortalaması 2.80 düzeyindedir ve profil açıklamasına göre daha yüksektir.",
+      "İyi oluş ortalaması 3.19 ile görece daha düşüktür.",
+      "Profil, eğitim örnekleminde 121 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Risk göstergeleri daha belirgin, dijital kullanımı yoğun ve psikososyal açıdan daha kırılgan bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı düzeyi düşük ve iyi oluş düzeyi daha yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil, örneklemde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (2.59).",
+      "Sosyal kaygı ortalaması düşüktür (2.25).",
+      "İyi oluş ortalaması görece yüksektir (3.77).",
+      "Eğitim örnekleminde 366 kişi ile temsil edilmiştir."
+    ],
+    "tone": "Daha dengeli, düşük riskli ve iyi oluş açısından avantajlı bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım, sosyal kaygı ve iyi oluş ortalamaları örneklem içinde düşük düzeyde seyreden bir profildir. Bu grup 50 kişiden oluşur ve sayısal göstergeler düşük dijital bağımlılık (1.592), düşük sosyal kaygı (1.607) ve düşük iyi oluşa (1.557) işaret eder.",
+    "demographic_anchor": "Erkek, ön lisans, günlük 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.592).",
+      "Sosyal kaygı ortalaması düşüktür (1.607).",
+      "İyi oluş ortalaması düşüktür (1.557).",
+      "Eğitim örnekleminde 50 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Sakin, düşük yoğunluklu ve görece sınırlı dijital etkileşim örüntüsü sergileyen; buna karşın iyi oluş düzeyi de düşük görünen bir profil."
+  }
+]

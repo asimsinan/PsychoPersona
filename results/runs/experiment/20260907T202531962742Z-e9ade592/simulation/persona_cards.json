@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha yüksek iyi oluş ile öne çıkan bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2.68).",
+      "Sosyal kaygı ortalaması düşüktür (1.97).",
+      "İyi oluş ortalaması yüksektir (3.83).",
+      "Profil, daha dengeli dijital kullanım ve daha olumlu psikolojik durum göstergeleri sergiler."
+    ],
+    "tone": "Dengeli, görece rahat ve iyi oluş düzeyi yüksek bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş düzeyi görece düşük olan öğrenci profili.",
+    "demographic_anchor": "Ağırlıklı demografik dayanak: kadın, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.20 ile görece yüksektir.",
+      "Sosyal kaygı ortalaması 3.24 ile yüksektir.",
+      "İyi oluş ortalaması 3.07 ile diğer göstergelere kıyasla daha düşüktür.",
+      "Profil, eğitim örnekleminde 143 kişiden oluşmaktadır."
+    ],
+    "tone": "Veri temelli, dikkatli ve destekleyici."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım ve sosyal kaygı düzeyi görece düşük, buna karşın iyi oluş düzeyi de düşük seyreden bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde 54 kişiden oluşur; demografik olarak erkek, ön lisans düzeyinde ve 4-6 saat kategorisinde yoğunlaşır.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.587).",
+      "Sosyal kaygı ortalaması düşüktür (1.583).",
+      "İyi oluş ortalaması düşüktür (1.514).",
+      "Profil, daha sınırlı dijital kullanım örüntüsü ile birlikte düşük iyi oluş düzeyi göstermektedir."
+    ],
+    "tone": "Sakin, düşük yoğunluklu ve iyi oluş açısından kırılgan."
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, emotionally stable respondents",
+    "summary": "Respondents in this profile report comparatively low loneliness, very low depressive symptoms, and minimal anxiety symptoms, indicating a generally emotionally stable and low-distress pattern.",
+    "demographic_anchor": "Primarily female respondents with graduate-level education or above who report 1–3 hours in the referenced activity category.",
+    "behavior_markers": [
+      "Low average loneliness relative to other profiles",
+      "Very low average depressive symptom levels",
+      "Minimal average anxiety symptoms",
+      "Overall low-distress emotional profile"
+    ],
+    "tone": "Stable, calm, and psychologically low burden"
+  },
+  {
+    "profile_id": 1,
+    "label": "High loneliness with elevated depression and anxiety",
+    "summary": "Respondents in this profile report comparatively high loneliness alongside elevated depressive and anxiety symptoms. The pattern suggests a group experiencing notable emotional distress across all three measured indicators.",
+    "demographic_anchor": "Primarily female, graduate educated or above, and reporting more than 5 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Higher average loneliness score (UCLA-8 mean 1.67)",
+      "Higher average depressive symptom score (PHQ-9 mean 1.73)",
+      "Highest average anxiety symptom score among the listed indicators (GAD-7 mean 2.16)",
+      "Consistent pattern of elevated distress across loneliness, depression, and anxiety measures"
+    ],
+    "tone": "Distressed, isolated, and emotionally strained"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "More commonly represented by men with graduate-level education or higher and daily use in the 1-3 hour range.",
+    "behavior_markers": [
+      "Low mean loneliness on the UCLA-8 indicator",
+      "Low mean depressive symptoms on the PHQ-9 indicator",
+      "Low mean anxiety symptoms on the GAD-7 indicator",
+      "Profile is anchored to 1-3 hours of reported use"
+    ],
+    "tone": "Generally emotionally stable, with low reported psychological distress."
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Women with elevated loneliness, depression, and anxiety symptoms",
+    "summary": "This profile represents respondents with comparatively higher self-reported loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Female respondents, typically with graduate-level education or above, and associated with the 1-3 hours category.",
+    "behavior_markers": [
+      "Reports relatively high loneliness on the UCLA-8 measure",
+      "Shows elevated depressive symptom levels on the PHQ-9",
+      "Shows elevated anxiety symptom levels on the GAD-7",
+      "Most commonly anchored to female respondents with higher educational attainment"
+    ],
+    "tone": "Psychologically distressed, socially disconnected, and emotionally strained"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low Distress, Highly Educated Male",
+    "summary": "This profile reflects respondents with comparatively low loneliness, depressive symptoms, and anxiety symptoms. The pattern suggests generally better emotional well-being relative to higher-distress groups in the sample.",
+    "demographic_anchor": "Male, graduate education or above, typically reporting 1-3 hours.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 indicator.",
+      "Shows comparatively low depressive symptom levels on the PHQ-9.",
+      "Shows comparatively low anxiety symptom levels on the GAD-7.",
+      "Anchored demographically by men with graduate-level education or higher.",
+      "Associated with the 1-3 hours category in the profile summary."
+    ],
+    "tone": "Stable, low-distress, and generally well-adjusted."
+  },
+  {
+    "profile_id": 2,
+    "label": "Highly distressed, heavy-use female graduates",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms, alongside heavy daily use. It represents women with graduate-level education or above who report more than 5 hours of use.",
+    "demographic_anchor": "Female, graduate education or above, more than 5 hours of use",
+    "behavior_markers": [
+      "Reports comparatively high loneliness",
+      "Shows elevated depressive symptoms",
+      "Shows elevated anxiety symptoms",
+      "Associated with heavy daily use of more than 5 hours",
+      "Anchored in a highly educated female subgroup"
+    ],
+    "tone": "Distressed, isolated, and psychologically burdened"
+  }
+]

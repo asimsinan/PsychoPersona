@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Highly distressed, high-screen-time women with advanced education",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms. The demographic pattern centers on women with graduate-level or higher education who report more than 5 hours of screen time.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of screen time",
+    "behavior_markers": [
+      "Reports comparatively elevated loneliness",
+      "Shows comparatively elevated depressive symptoms",
+      "Shows comparatively elevated anxiety symptoms",
+      "Associated with high daily screen time (more than 5 hours)"
+    ],
+    "tone": "Distressed, isolated, and anxious"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Predominantly male, educated to graduate level or above, with typical reported use in the 1-3 hour range.",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness mean (0.766)",
+      "Lower PHQ-9 depression mean (0.327)",
+      "Very low GAD-7 anxiety mean (0.086)",
+      "Represents 150 respondents in the training split"
+    ],
+    "tone": "Relatively emotionally stable and low-distress"
+  },
+  {
+    "profile_id": 2,
+    "label": "Higher loneliness with comparatively lower depression and anxiety",
+    "summary": "Respondents in this profile report relatively elevated loneliness while showing lower average depressive and anxiety symptoms. The pattern suggests a group that feels more socially disconnected than emotionally distressed on standard depression and anxiety measures.",
+    "demographic_anchor": "Most characteristically represented by a female respondent with graduate-level education or above and 1-3 hours in the referenced duration category.",
+    "behavior_markers": [
+      "Reports higher average loneliness (UCLA-8 mean 1.30).",
+      "Shows lower average depressive symptoms (PHQ-9 mean 0.86).",
+      "Shows lower average anxiety symptoms (GAD-7 mean 0.91).",
+      "Profile is defined by social disconnection more than by broad internalizing symptom severity."
+    ],
+    "tone": "Socially disconnected but comparatively emotionally stable"
+  }
+]

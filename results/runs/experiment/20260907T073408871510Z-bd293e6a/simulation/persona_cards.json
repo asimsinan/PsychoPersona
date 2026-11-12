@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi daha yüksek, sosyal kaygı ortalaması daha yüksek ve iyi oluş ortalaması daha düşük görülen öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildirimiyle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 3.69",
+      "Sosyal kaygı ortalaması: 2.80",
+      "İyi oluş ortalaması: 3.19",
+      "Eğitim örneklemindeki kişi sayısı: 121"
+    ],
+    "tone": "Yoğun dijital etkileşim gösteren, sosyal kaygı düzeyi görece yüksek ve iyi oluş düzeyi görece düşük bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım ve daha düşük sosyal kaygı ile birlikte daha yüksek iyi oluş düzeyi gösteren öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildirimiyle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2.59).",
+      "Sosyal kaygı ortalaması düşüktür (2.25).",
+      "İyi oluş ortalaması yüksektir (3.77).",
+      "Eğitim örneklemindeki büyüklüğü 366 kişidir."
+    ],
+    "tone": "Dengeli, görece kontrollü dijital kullanım sergileyen ve psikolojik açıdan daha iyi durumda görünen bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı düzeyi düşük ve iyi oluş puanı da düşük görünen bir öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saatlik kullanım örüntüsü",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.592).",
+      "Sosyal kaygı ortalaması düşüktür (1.607).",
+      "İyi oluş ortalaması düşüktür (1.557).",
+      "Eğitim örnekleminde 50 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Sakin, düşük yoğunluklu dijital kullanım sergileyen ancak iyi oluş açısından destek ihtimali barındıran bir profil."
+  }
+]

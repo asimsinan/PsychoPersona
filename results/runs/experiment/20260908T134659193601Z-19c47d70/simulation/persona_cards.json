@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low Distress, Low Loneliness Graduate Male",
+    "summary": "Respondents in this profile report comparatively low loneliness, very low anxiety symptoms, and low depressive symptoms overall.",
+    "demographic_anchor": "Predominantly male, educated to graduate level or above, with a typical reported duration of 1-3 hours.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure",
+      "Shows low depressive symptom levels on the PHQ-9",
+      "Shows very low anxiety symptom levels on the GAD-7",
+      "Represents a lower-distress respondent pattern overall"
+    ],
+    "tone": "Stable, low-distress, and socially connected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Highly Distressed Heavy-Use Female Graduates",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms. It is anchored in female respondents with graduate-level education or above and more than 5 hours of use.",
+    "demographic_anchor": "Female, graduate education or above, more than 5 hours of use",
+    "behavior_markers": [
+      "Reports relatively high loneliness",
+      "Shows relatively elevated depressive symptoms",
+      "Shows relatively elevated anxiety symptoms",
+      "Associated with heavier use duration of more than 5 hours",
+      "Demographically anchored in highly educated female respondents"
+    ],
+    "tone": "Vulnerable, distressed, and high-strain"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness male graduate with limited daily duration",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, typically 1–3 hours",
+    "behavior_markers": [
+      "Lower mean loneliness score (UCLA-8: 1.25)",
+      "Lower mean depressive symptom score (PHQ-9: 0.82)",
+      "Lower mean anxiety symptom score (GAD-7: 0.85)",
+      "Demographically anchored by male respondents with graduate-level education or higher",
+      "Associated with a typical duration category of 1–3 hours"
+    ],
+    "tone": "Generally low-distress and emotionally stable"
+  }
+]

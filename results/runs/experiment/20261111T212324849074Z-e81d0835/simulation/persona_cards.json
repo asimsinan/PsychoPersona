@@ -1,0 +1,44 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Digitally Immersed & Emotionally Distressed",
+    "summary": "This profile represents highly educated women who spend more than five hours daily online and report elevated levels of loneliness, depressive symptoms, and anxiety. Their UCLA-8 loneliness score (mean 1.69), PHQ-9 depression score (mean 1.75), and GAD-7 anxiety score (mean 2.16) all sit in the higher range, suggesting a co-occurring pattern of emotional distress. With 170 respondents in this cluster, the profile points to a consistent association between heavy digital engagement and compounded psychological burden among graduate-educated females.",
+    "demographic_anchor": "Female, graduate-level education or above, daily screen time exceeding 5 hours",
+    "behavior_markers": [
+      "Heavy daily digital engagement (more than 5 hours)",
+      "Elevated loneliness despite high connectivity",
+      "Co-occurring depressive and anxiety symptoms",
+      "Higher anxiety levels relative to other emotional distress indicators",
+      "Pattern consistent with social isolation despite online presence"
+    ],
+    "tone": "Concerned and analytically empathetic"
+  },
+  {
+    "profile_id": 1,
+    "label": "Well-Adjusted Male Graduate",
+    "summary": "This profile represents respondents who report notably low levels of loneliness, depressive symptoms, and anxiety symptoms. With mean scores near the floor on all three validated scales (UCLA-8, PHQ-9, GAD-7), these individuals appear to be functioning well psychologically and do not exhibit clinically meaningful distress on any measured dimension.",
+    "demographic_anchor": "Male, holding a graduate degree or above, reporting 1–3 hours of daily screen time or social media use",
+    "behavior_markers": [
+      "Very low loneliness scores (UCLA-8 mean ≈ 0.75), indicating strong perceived social connectedness",
+      "Minimal depressive symptomatology (PHQ-9 mean ≈ 0.35), well below clinical thresholds",
+      "Near-zero anxiety symptoms (GAD-7 mean ≈ 0.02), suggesting negligible worry or tension",
+      "Moderate and bounded screen time (1–3 hours), consistent with disciplined digital habits",
+      "Higher educational attainment, which may correlate with greater access to social and professional networks"
+    ],
+    "tone": "Stable, composed, and socially connected with an overall sense of psychological well-being"
+  },
+  {
+    "profile_id": 2,
+    "label": "Well-Adjusted Male Graduate",
+    "summary": "This profile represents respondents who report consistently low levels of loneliness, depressive symptoms, and anxiety symptoms. With mean scores well below clinical thresholds on all three validated scales (UCLA-8 loneliness ≈ 1.24, PHQ-9 depression ≈ 0.79, GAD-7 anxiety ≈ 0.83), these individuals demonstrate robust psychological well-being across emotional and social dimensions.",
+    "demographic_anchor": "Male, holding a graduate degree or above, reporting 1–3 hours of daily screen/internet use",
+    "behavior_markers": [
+      "Reports minimal feelings of social isolation or disconnection (UCLA-8 mean ≈ 1.24)",
+      "Exhibits very low depressive symptomatology (PHQ-9 mean ≈ 0.79, well below mild threshold)",
+      "Displays very low anxiety symptomatology (GAD-7 mean ≈ 0.83, well below mild threshold)",
+      "Maintains moderate and limited daily screen or internet use (1–3 hours)",
+      "Demonstrates a pattern of emotional stability across all measured psychological domains"
+    ],
+    "tone": "Calm, stable, and emotionally grounded with an overall sense of social connectedness and psychological resilience"
+  }
+]

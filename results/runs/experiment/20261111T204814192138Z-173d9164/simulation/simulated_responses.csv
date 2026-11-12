@@ -1,0 +1,80 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0565,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,378,1322,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0453,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,369,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0085,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,953,372,1325,1,0,1,1,1,2,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1.375,0.6666666666666666,0.8571428571428571
+R0724,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,376,1332,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0310,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,376,1320,1,0,1,1,1,2,1,2,1,2,1,1,1,1,0,1,2,0,0,1,2,2,1,1,1,1,1.375,0.7777777777777778,1.2857142857142858
+R0451,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,941,370,1311,1,0,1,1,1,2,1,2,0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0399,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,406,1362,1,0,1,1,1,1,1,2,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.375,0.8888888888888888,1.0
+R0625,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,381,1327,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0352,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,387,1343,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0050,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,367,1323,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0632,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,371,1315,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0468,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,384,1328,1,0,1,1,1,2,1,1,1,1,1,2,1,1,1,2,1,1,0,1,2,2,1,1,1,1,1.125,1.1111111111111112,1.2857142857142858
+R0465,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,369,1313,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0498,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,374,1330,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0219,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,374,1318,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0019,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,366,1310,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0634,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,402,1358,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0146,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,372,1316,1,0,1,1,1,2,1,2,1,1,1,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.25,1.4444444444444444,1.7142857142857142
+R0433,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,375,1331,1,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,2,1,0,2,2,2,2,1,2,1,1.375,1.2222222222222223,1.7142857142857142
+R0440,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,943,379,1322,1,0,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.125,0.8888888888888888,1.0
+R0079,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,387,1331,1,0,1,1,1,2,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1.125,0.6666666666666666,1.0
+R0262,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,381,1327,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0002,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,383,1327,1,0,1,1,1,2,1,2,0,0,1,2,1,2,1,2,2,1,0,2,2,2,1,1,2,1,1.0,1.3333333333333333,1.5714285714285714
+R0552,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,951,377,1328,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0660,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,957,377,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0455,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,949,381,1330,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0759,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,950,378,1328,1,0,1,1,1,2,1,2,2,2,1,1,2,2,1,1,2,1,0,2,2,2,2,1,2,1,1.5,1.2222222222222223,1.7142857142857142
+R0602,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0354,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,373,1317,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.0,0.8888888888888888,1.0
+R0606,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,370,1314,1,0,1,1,1,2,1,2,1,1,1,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.25,1.4444444444444444,1.7142857142857142
+R0258,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,387,1343,1,0,1,1,1,2,1,2,2,2,1,1,2,2,1,1,2,1,0,2,2,2,2,1,2,1,1.5,1.2222222222222223,1.7142857142857142
+R0754,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0123,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,387,1331,1,0,1,1,1,2,1,2,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0165,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,378,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0562,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,942,375,1317,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0230,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,378,1322,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0298,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,390,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0633,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,371,1327,1,0,1,1,1,2,1,2,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.5,0.6666666666666666,0.8571428571428571
+R0316,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,377,1321,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0567,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,368,1312,1,0,1,1,1,2,1,2,0,1,1,2,1,2,1,2,2,1,0,2,2,2,1,1,2,1,1.125,1.3333333333333333,1.5714285714285714
+R0284,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,376,1320,1,0,1,1,1,2,1,1,1,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.25,0.6666666666666666,0.7142857142857143
+R0091,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,379,1335,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0401,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,376,1332,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0193,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,399,1345,1,0,1,1,1,2,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0536,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,381,1325,1,0,2,1,2,2,1,2,0,1,2,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.375,1.5555555555555556,1.7142857142857142
+R0408,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,1,2,1,2,0,1,1,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.125,1.4444444444444444,1.7142857142857142
+R0231,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,942,381,1323,1,0,1,1,1,2,1,1,1,1,1,2,1,2,1,2,1,1,0,2,2,2,1,1,2,1,1.125,1.2222222222222223,1.5714285714285714
+R0093,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,372,1316,1,0,1,1,1,2,1,2,0,1,1,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.125,1.4444444444444444,1.7142857142857142
+R0710,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,398,1354,1,0,1,1,1,1,1,2,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.375,0.6666666666666666,0.8571428571428571
+R0397,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,376,1332,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0733,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,953,366,1319,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0621,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,375,1319,1,0,1,1,1,2,1,1,1,2,1,2,1,2,1,2,1,1,0,2,2,2,1,1,1,1,1.25,1.2222222222222223,1.4285714285714286
+R0531,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,367,1322,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0788,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,373,1317,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0263,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,375,1330,1,0,1,0,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0046,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,386,1341,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0779,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,366,1322,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0593,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,368,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0714,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,386,1341,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0027,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,376,1322,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0227,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,957,387,1344,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0168,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,383,1327,1,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,0.875,0.6666666666666666,0.7142857142857143
+R0783,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,377,1321,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.125,0.6666666666666666,0.8571428571428571
+R0574,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,377,1321,1,0,2,1,2,2,1,2,0,1,1,2,1,2,1,2,2,1,0,2,2,2,1,1,2,1,1.375,1.3333333333333333,1.5714285714285714
+R0080,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,383,1327,1,0,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,0.75,0.6666666666666666,1.0
+R0011,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,369,1313,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0358,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0598,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,372,1316,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0205,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,943,376,1319,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0570,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,378,1333,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0623,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,2,1,2,0,1,1,2,1,2,1,2,1,1,0,2,2,2,1,1,2,1,1.125,1.2222222222222223,1.5714285714285714
+R0640,1,Elevated Psychological Distress,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,382,1326,1,0,1,1,1,2,1,2,1,1,1,2,1,2,1,2,2,1,0,2,2,2,2,1,2,1,1.25,1.3333333333333333,1.7142857142857142
+R0459,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,372,1316,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0532,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,382,1326,1,0,1,1,1,2,1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.0,0.6666666666666666,0.8571428571428571
+R0250,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,381,1336,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0550,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,950,374,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0378,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,377,1323,1,0,1,1,1,2,1,2,1,1,1,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.25,1.4444444444444444,1.7142857142857142
+R0051,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,373,1317,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1.125,0.6666666666666666,1.0
+R0083,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,949,374,1323,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0

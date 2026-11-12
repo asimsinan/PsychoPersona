@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High distress, heavy-use female graduates",
+    "summary": "Respondents in this profile report comparatively elevated loneliness, depressive symptoms, and anxiety symptoms. The pattern suggests a group experiencing broad emotional distress alongside intensive daily use.",
+    "demographic_anchor": "Female respondents with graduate-level education or above who report more than 5 hours of daily use.",
+    "behavior_markers": [
+      "Higher mean loneliness (UCLA-8: 1.69)",
+      "Higher mean depressive symptoms (PHQ-9: 1.75)",
+      "Higher mean anxiety symptoms (GAD-7: 2.16)",
+      "Daily use reported at more than 5 hours",
+      "Profile is anchored by female respondents with graduate education or above"
+    ],
+    "tone": "Vulnerable, strained, and emotionally burdened"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "More commonly male, with graduate-level education or above, and reporting 1-3 hours.",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness score on average",
+      "Lower PHQ-9 depression score on average",
+      "Very low GAD-7 anxiety score on average",
+      "Profile is anchored by men with higher educational attainment",
+      "Associated with the 1-3 hour category"
+    ],
+    "tone": "Generally emotionally stable and low-distress."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2: Low distress and low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and low anxiety symptoms.",
+    "demographic_anchor": "More commonly anchored by male respondents with graduate-level education or above and a reported duration of 1-3 hours.",
+    "behavior_markers": [
+      "Low mean loneliness score (UCLA-8: 1.24)",
+      "Low mean depression score (PHQ-9: 0.79)",
+      "Low mean anxiety score (GAD-7: 0.83)",
+      "Overall pattern suggests relatively low emotional distress across measured indicators"
+    ],
+    "tone": "Generally stable, low-distress, and socially less isolated."
+  }
+]

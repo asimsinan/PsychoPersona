@@ -1,0 +1,26 @@
+[
+  {
+    "model_id": "deepseek/deepseek-v4.1-flash-1017",
+    "preset_name": "persona_card",
+    "prompt_tokens": 349,
+    "completion_tokens": 233,
+    "total_tokens": 582,
+    "response_id": "gen-1794435525-EtTUMu7CodSi65Idjs5P"
+  },
+  {
+    "model_id": "deepseek/deepseek-v4.1-flash-1017",
+    "preset_name": "persona_card",
+    "prompt_tokens": 348,
+    "completion_tokens": 172,
+    "total_tokens": 520,
+    "response_id": "gen-1794435527-3NXsMybuGIn9xqAIwquQ"
+  },
+  {
+    "model_id": "deepseek/deepseek-v4.1-flash-1017",
+    "preset_name": "persona_card",
+    "prompt_tokens": 345,
+    "completion_tokens": 199,
+    "total_tokens": 544,
+    "response_id": "gen-1794435529-xhTnV96YqhI30w08329C"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha yüksek iyi oluş düzeyi ile öne çıkan öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.68 (görece düşük).",
+      "Sosyal kaygı ortalaması 1.97 (görece düşük).",
+      "İyi oluş ortalaması 3.83 (görece yüksek)."
+    ],
+    "tone": "Dengeli ve olumlu; düşük dijital kullanım ve sosyal kaygı ile yüksek iyi oluşu vurgulayan bir üslup."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha yüksek dijital kullanım, daha yüksek sosyal kaygı ve daha düşük iyi oluş eğilimleri gösteren öğrenci profili.",
+    "demographic_anchor": "Kadın, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.20",
+      "Sosyal kaygı ortalaması 3.24",
+      "İyi oluş ortalaması 3.07"
+    ],
+    "tone": "Veri temelli, betimleyici ve yargısız"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Düşük dijital kullanım, düşük sosyal kaygı ve düşük iyi oluş düzeyi ile öne çıkan erkek ön lisans öğrencisi.",
+    "demographic_anchor": "Erkek, Ön lisans, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık (ortalama 1.59)",
+      "Düşük sosyal kaygı (ortalama 1.58)",
+      "Düşük iyi oluş (ortalama 1.51)"
+    ],
+    "tone": "Sakin, ölçülü ve mesafeli; düşük kaygı ve düşük iyi oluş ile uyumlu, düşük enerjili bir ifade tarzı."
+  }
+]

@@ -1,0 +1,21 @@
+\begin{table}[pos=!htbp]
+\small\centering\setlength{\tabcolsep}{2.5pt}
+\caption{Turkish final-test respondent-level approximation for SADP under oracle and cold-start profile assignment. Demographic-only prompting, which receives no profile, reaches an item MAE of 1.143 averaged over the three hosted families on this split.}
+\label{tab:respondent-level}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lllcccc@{}}
+\toprule
+Model & Method & Assignment & Scale RMSE & Item MAE & Item EMR & Full vector EMR \\
+\midrule
+GPT-5.4 & SADP & Oracle & 0.629 & 0.817 & 0.373 & 0.000 \\
+GPT-5.4 & SADP & Cold-start & 0.862 & 0.980 & 0.322 & 0.000 \\
+Claude Opus 4.6 & SADP & Oracle & 0.597 & 0.786 & 0.380 & 0.000 \\
+Claude Opus 4.6 & SADP & Cold-start & 0.820 & 0.949 & 0.323 & 0.000 \\
+Gemini 3.1 Pro & SADP & Oracle & 0.596 & 0.786 & 0.374 & 0.000 \\
+Gemini 3.1 Pro & SADP & Cold-start & 0.828 & 0.936 & 0.333 & 0.000 \\
+Qwen3.8 27B & SADP & Oracle & 0.643 & 0.790 & 0.389 & 0.000 \\
+Qwen3.8 27B & SADP & Cold-start & 0.880 & 0.959 & 0.329 & 0.000 \\
+DeepSeek V4.1 Flash & SADP & Oracle & 0.624 & 0.815 & 0.371 & 0.000 \\
+DeepSeek V4.1 Flash & SADP & Cold-start & 0.874 & 0.971 & 0.327 & 0.000 \\
+\bottomrule
+\end{tabular*}
+\end{table}

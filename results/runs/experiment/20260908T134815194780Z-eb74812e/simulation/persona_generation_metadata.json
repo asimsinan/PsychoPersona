@@ -1,0 +1,26 @@
+[
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "persona_card",
+    "prompt_tokens": 300,
+    "completion_tokens": 144,
+    "total_tokens": 444,
+    "response_id": "gen-1788875296-e3GihTyQqJexl75aj7SU"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "persona_card",
+    "prompt_tokens": 301,
+    "completion_tokens": 137,
+    "total_tokens": 438,
+    "response_id": "gen-1788875302-w0xbVfO1kawvBGlRuu0N"
+  },
+  {
+    "model_id": "openai/gpt-5.4",
+    "preset_name": "persona_card",
+    "prompt_tokens": 301,
+    "completion_tokens": 132,
+    "total_tokens": 433,
+    "response_id": "gen-1788875304-u5mqSFppBGQbWjYqaUpy"
+  }
+]

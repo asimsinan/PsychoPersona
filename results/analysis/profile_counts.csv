@@ -1,0 +1,5 @@
+dataset,split,profile_count_P,pra_chance_level,train_profile_sizes,train_n,majority_profile_id,majority_profile_share_train,n,majority_profile_pra,largest_class_pra_oracle,stored_vs_pra_label_agreement,run
+anket_tr,validation,3,0.333333,121/366/50,537,1,0.681564,67,0.626866,0.626866,0.880597,20260907T074129231220Z-d5aa036f
+anket_tr,final_test,3,0.333333,121/366/50,537,1,0.681564,68,0.602941,0.602941,0.926471,20260907T074129231220Z-d5aa036f
+bangladesh_sns,validation,3,0.333333,165/150/317,632,2,0.501582,79,0.43038,0.43038,0.860759,20260908T113102121289Z-80bd6559
+bangladesh_sns,final_test,3,0.333333,165/150/317,632,2,0.501582,80,0.4375,0.4375,0.825,20260908T113102121289Z-80bd6559

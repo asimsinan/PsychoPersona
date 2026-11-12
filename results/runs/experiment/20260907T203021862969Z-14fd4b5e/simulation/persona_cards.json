@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı düzeyi görece düşük ve iyi oluş puanı da görece düşük bir öğrenci profili. Eğitim örnekleminde 52 kişiden oluşur.",
+    "demographic_anchor": "Bu profil en belirgin olarak erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım örüntüsüyle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 1.58 ile düşüktür.",
+      "Sosyal kaygı ortalaması 1.58 ile düşüktür.",
+      "İyi oluş ortalaması 1.56 ile düşüktür.",
+      "Profil, örneklem içinde daha sınırlı dijital kullanım örüntüsüne işaret eder."
+    ],
+    "tone": "Sakin, düşük yoğunluklu ve görece kırılgan bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım ve daha düşük sosyal kaygı ile birlikte daha yüksek iyi oluş düzeyi gösteren öğrenci profili.",
+    "demographic_anchor": "Demografik olarak en belirgin dayanak: erkek, ön lisans ve günlük 4-6 saat kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2.73).",
+      "Sosyal kaygı ortalaması düşüktür (2.04).",
+      "İyi oluş ortalaması yüksektir (3.81).",
+      "Eğitim örnekleminde 353 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Dengeli, daha düşük riskli ve görece iyi uyum gösteren bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük görünen bir öğrenci profili.",
+    "demographic_anchor": "Demografik olarak kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım örüntüsüyle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.31 düzeyindedir.",
+      "Sosyal kaygı ortalaması 3.26 düzeyindedir.",
+      "İyi oluş ortalaması 2.95 düzeyindedir.",
+      "Eğitim örnekleminde 132 kişi bu profile atanmıştır."
+    ],
+    "tone": "Veri odaklı, dikkatli ve destek ihtimali taşıyan bir profil."
+  }
+]

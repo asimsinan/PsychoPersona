@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Düşük dijital kullanım, düşük sosyal kaygı ve yüksek iyi oluş düzeyine sahip öğrenci grubu.",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık (Ortalama: 2.68)",
+      "Düşük sosyal kaygı (Ortalama: 1.97)",
+      "Yüksek iyi oluş (Ortalama: 3.83)"
+    ],
+    "tone": "Dengeli ve pozitif"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Bu profil, yüksek dijital kullanım ve sosyal kaygı düzeylerine sahip, ancak düşük iyi oluş skorları gösteren öğrencileri temsil eder. Veriler, bu grubun dijital bağımlılık ve sosyal kaygı ortalamalarının 3.20 ve 3.24 civarında seyrederken, iyi oluş ortalamasının 3.07'de kaldığını ortaya koymaktadır.",
+    "demographic_anchor": "Kadın, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Yüksek dijital kullanım",
+      "Yüksek sosyal kaygı",
+      "Düşük iyi oluş"
+    ],
+    "tone": "Veri odaklı ve nötr"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Düşük dijital kullanım, düşük sosyal kaygı ve düşük iyi oluş düzeyine sahip öğrenci grubu.",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık (Ortalama: 1.59)",
+      "Düşük sosyal kaygı (Ortalama: 1.58)",
+      "Düşük iyi oluş (Ortalama: 1.51)"
+    ],
+    "tone": "Nötr ve veri odaklı"
+  }
+]

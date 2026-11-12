@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0170,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,378,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0360,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,374,1330,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0008,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,378,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0628,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,368,1312,1,0,1,1,1,2,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.375,0.6666666666666666,0.8571428571428571
+R0373,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,2,2,1,2,0,1,1,2,1,1,1,2,2,1,0,2,2,2,1,1,2,1,1.25,1.2222222222222223,1.5714285714285714
+R0396,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,386,1342,1,0,1,1,1,1,1,2,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1.375,0.6666666666666666,1.0
+R0504,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,373,1319,1,0,1,1,1,2,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.375,0.6666666666666666,0.8571428571428571
+R0133,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,377,1333,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0063,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,389,1333,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0021,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,375,1331,1,0,1,0,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.125,0.6666666666666666,0.8571428571428571
+R0321,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,379,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0151,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,373,1319,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0579,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,369,1313,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0419,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,384,1328,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0622,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,373,1317,1,0,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.125,0.8888888888888888,1.0
+R0171,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,954,391,1345,1,0,1,1,1,1,1,2,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.375,0.8888888888888888,1.0
+R0283,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,1,2,1,2,0,0,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.0,0.6666666666666666,0.7142857142857143
+R0662,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,379,1325,1,0,1,1,1,2,1,1,2,2,1,1,2,2,1,1,2,1,0,2,2,2,1,1,2,1,1.375,1.2222222222222223,1.5714285714285714
+R0441,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,368,1312,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0412,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,1,2,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.375,0.6666666666666666,0.8571428571428571
+R0187,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,376,1320,1,0,1,1,1,2,1,1,1,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.25,0.6666666666666666,0.8571428571428571
+R0728,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,959,369,1328,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0760,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,382,1328,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0.75,0.8888888888888888,1.0
+R0520,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,942,383,1325,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0414,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,942,374,1316,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.0,0.8888888888888888,1.0
+R0282,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,386,1342,1,0,1,1,1,2,1,2,2,2,1,1,2,2,1,1,2,1,0,2,2,2,2,1,2,1,1.5,1.2222222222222223,1.7142857142857142
+R0674,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,374,1318,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0251,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,373,1328,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0602,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,1,2,1,2,1,2,1,2,1,2,1,2,2,1,0,2,2,2,1,1,2,1,1.375,1.3333333333333333,1.5714285714285714
+R0256,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,367,1323,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0516,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,388,1344,1,0,1,1,1,1,1,2,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.375,0.8888888888888888,1.0
+R0294,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,383,1338,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0065,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,376,1322,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0.75,0.8888888888888888,1.0
+R0715,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,376,1332,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0518,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,957,372,1329,1,0,1,1,1,2,1,2,1,2,1,1,1,2,1,1,1,1,0,1,1,1,1,1,1,1,1.375,1.0,1.0
+R0061,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,370,1314,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0510,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,368,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0488,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,378,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0461,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,369,1313,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0730,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,953,377,1330,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0634,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,377,1333,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0569,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,375,1319,1,0,1,1,1,2,1,2,1,1,1,2,1,1,1,2,1,1,0,2,2,2,1,1,1,1,1.25,1.1111111111111112,1.4285714285714286
+R0299,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,390,1346,1,0,1,1,1,1,1,2,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.375,0.8888888888888888,1.0
+R0334,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,957,376,1333,1,0,1,1,1,2,1,2,1,1,1,1,1,2,1,1,2,1,0,1,2,2,1,1,1,1,1.25,1.1111111111111112,1.2857142857142858
+R0083,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,949,368,1317,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0024,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,943,375,1318,1,0,1,1,1,2,1,2,1,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.375,0.6666666666666666,0.7142857142857143
+R0312,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,377,1332,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0524,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,950,388,1338,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0708,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,378,1334,1,0,1,1,1,2,1,2,0,0,1,1,2,2,1,1,2,1,0,1,2,2,1,1,1,1,1.0,1.2222222222222223,1.2857142857142858
+R0240,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,368,1312,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0245,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,2,1,2,1,2,1,2,1,1,1,2,1,1,0,2,2,2,1,1,1,1,1.375,1.1111111111111112,1.4285714285714286
+R0434,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,388,1344,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0727,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,379,1334,1,0,1,0,1,1,1,2,2,2,1,1,1,2,1,1,2,1,0,1,2,2,1,1,2,1,1.25,1.1111111111111112,1.4285714285714286
+R0491,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,943,380,1323,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0535,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,368,1312,1,0,1,1,1,2,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.375,0.6666666666666666,0.8571428571428571
+R0701,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,1,2,1,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,0.875,0.6666666666666666,0.7142857142857143
+R0619,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,942,374,1316,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0289,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,371,1315,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0479,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,367,1311,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0678,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,953,378,1331,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0088,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,376,1320,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0459,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0452,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,378,1322,1,0,1,1,1,2,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0156,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,2,1,2,0,1,1,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.125,1.4444444444444444,1.7142857142857142
+R0570,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,374,1329,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0386,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,374,1320,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0327,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,371,1327,1,0,1,1,1,2,1,2,0,0,1,1,1,2,1,1,2,1,0,1,2,2,1,1,2,1,1.0,1.1111111111111112,1.4285714285714286
+R0451,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,941,373,1314,1,0,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,0,1,2,2,1,1,1,1,1.125,1.0,1.2857142857142858
+R0651,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,378,1322,1,0,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.125,0.8888888888888888,1.0
+R0026,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,375,1330,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0481,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,376,1320,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0494,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,957,373,1330,1,0,1,1,1,1,1,2,2,2,1,1,2,2,1,1,2,1,0,2,2,2,2,1,2,1,1.375,1.2222222222222223,1.7142857142857142
+R0498,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,378,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0758,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,2,1,2,1,1,1,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.25,1.4444444444444444,1.7142857142857142
+R0017,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,943,380,1323,1,0,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.125,0.8888888888888888,1.0
+R0223,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,957,377,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0450,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,949,379,1328,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0306,1,Highly Isolated and Distressed Graduate,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,368,1312,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0239,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,941,370,1311,1,0,1,1,1,2,1,2,1,1,1,1,1,2,1,1,1,1,0,1,1,1,1,1,1,1,1.25,1.0,1.0
+R0290,2,Profil 2,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,382,1326,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0

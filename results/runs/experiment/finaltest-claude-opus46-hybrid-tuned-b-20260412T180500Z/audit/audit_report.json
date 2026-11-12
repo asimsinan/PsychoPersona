@@ -1,0 +1,61 @@
+{
+  "dataset_n":672,
+  "paper_n":669,
+  "sample_mismatch":3,
+  "reliability":{
+    "digital_addiction":0.8931439622,
+    "social_anxiety":0.938144196,
+    "wellbeing":0.9383894511
+  },
+  "descriptives":{
+    "digital_addiction":{
+      "n":672,
+      "mean":2.7358630952,
+      "std":0.849217839,
+      "skewness":0.2364720638,
+      "kurtosis":-0.2185813092
+    },
+    "social_anxiety":{
+      "n":672,
+      "mean":2.277364418,
+      "std":0.894280524,
+      "skewness":0.6115490451,
+      "kurtosis":0.0943062307
+    },
+    "wellbeing":{
+      "n":672,
+      "mean":3.4145567602,
+      "std":0.9461018928,
+      "skewness":-0.868620487,
+      "kurtosis":0.3495954646
+    }
+  },
+  "correlations":{
+    "digital_vs_social":0.3571209102,
+    "digital_vs_wellbeing":0.1653502153,
+    "social_vs_wellbeing":-0.0548418703
+  },
+  "regressions":{
+    "social_anxiety_on_digital":{
+      "intercept":1.2484854133,
+      "beta":0.3760710857,
+      "r_squared":0.1275353445,
+      "p_value":1.208198384e-21
+    },
+    "wellbeing_on_digital":{
+      "intercept":2.9105713913,
+      "beta":0.1842143965,
+      "r_squared":0.0273406937,
+      "p_value":0.0000164681
+    }
+  },
+  "anomalies":[
+    "Dataset contains 672 usable rows while the paper reports 669 (difference: 3).",
+    "The raw workbook includes a '1-2 saat' media-use category that is absent from the paper's reported frequency table.",
+    "Usage category '4-6 saat' appears 354 times in the workbook versus 352 times in the paper.",
+    "Gender count for 'Kadın' is 337 in the workbook versus 335 in the paper.",
+    "Gender count for 'Erkek' is 335 in the workbook versus 334 in the paper.",
+    "Program count for 'Ön lisans' is 411 in the workbook versus 409 in the paper.",
+    "Program count for 'Lisans' is 261 in the workbook versus 260 in the paper."
+  ]
+}

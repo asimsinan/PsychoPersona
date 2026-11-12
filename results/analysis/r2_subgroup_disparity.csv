@@ -1,0 +1,639 @@
+dataset,source,model,arm,variable,levels,n,spread,null_mean,null_p95,beyond_null,highest,lowest,baseline_spread,excess_over_baseline
+anket_tr,paper_split,Claude Opus 4.6,BBP,gender,2,135,0.014106,0.03747,0.091579,False,Kadın,Erkek,0.00191,0.012196
+anket_tr,paper_split,Claude Opus 4.6,BBP,age_band,4,135,0.094246,0.106608,0.188622,False,21-22,16-18,0.127778,-0.033532
+anket_tr,paper_split,Claude Opus 4.6,BBP,program,2,135,0.016396,0.040005,0.098293,False,Ön lisans,Lisans,0.032252,-0.015856
+anket_tr,paper_split,Claude Opus 4.6,BBP,gpa_band,4,135,0.0447,0.098915,0.176911,False,2.01-2.50,3.01-4.00,0.059409,-0.014708
+anket_tr,paper_split,Claude Opus 4.6,BBP,residence,3,135,0.12487,0.089664,0.181124,False,Other,Devlet yurdu,0.148534,-0.023664
+anket_tr,paper_split,Claude Opus 4.6,BPP,gender,2,135,0.041893,0.039297,0.097373,False,Kadın,Erkek,0.00191,0.039984
+anket_tr,paper_split,Claude Opus 4.6,BPP,age_band,4,135,0.074683,0.106678,0.19204,False,21-22,16-18,0.127778,-0.053095
+anket_tr,paper_split,Claude Opus 4.6,BPP,program,2,135,0.031132,0.039632,0.097112,False,Ön lisans,Lisans,0.032252,-0.00112
+anket_tr,paper_split,Claude Opus 4.6,BPP,gpa_band,4,135,0.068411,0.09978,0.177676,False,2.51-3.00,3.01-4.00,0.059409,0.009002
+anket_tr,paper_split,Claude Opus 4.6,BPP,residence,3,135,0.109385,0.091939,0.181613,False,Other,Devlet yurdu,0.148534,-0.039149
+anket_tr,paper_split,Claude Opus 4.6,DOP,gender,2,135,0.020661,0.052666,0.128524,False,Kadın,Erkek,0.00191,0.018752
+anket_tr,paper_split,Claude Opus 4.6,DOP,age_band,4,135,0.276389,0.150999,0.270781,True,23+,16-18,0.127778,0.148611
+anket_tr,paper_split,Claude Opus 4.6,DOP,program,2,135,0.075564,0.053319,0.132961,False,Ön lisans,Lisans,0.032252,0.043312
+anket_tr,paper_split,Claude Opus 4.6,DOP,gpa_band,4,135,0.404839,0.141851,0.253676,True,0-2.00,3.01-4.00,0.059409,0.34543
+anket_tr,paper_split,Claude Opus 4.6,DOP,residence,3,135,0.170757,0.127539,0.2544,False,Other,Devlet yurdu,0.148534,0.022222
+anket_tr,paper_split,Claude Opus 4.6,FPNP,gender,2,135,0.046576,0.040232,0.097629,False,Kadın,Erkek,0.00191,0.044666
+anket_tr,paper_split,Claude Opus 4.6,FPNP,age_band,4,135,0.085833,0.10985,0.194464,False,21-22,16-18,0.127778,-0.041944
+anket_tr,paper_split,Claude Opus 4.6,FPNP,program,2,135,0.023795,0.039924,0.097184,False,Ön lisans,Lisans,0.032252,-0.008457
+anket_tr,paper_split,Claude Opus 4.6,FPNP,gpa_band,4,135,0.052306,0.104305,0.184367,False,2.51-3.00,3.01-4.00,0.059409,-0.007103
+anket_tr,paper_split,Claude Opus 4.6,FPNP,residence,3,135,0.123381,0.091188,0.179182,False,Other,Devlet yurdu,0.148534,-0.025154
+anket_tr,paper_split,Claude Opus 4.6,HC,gender,2,135,0.01197,0.04591,0.115494,False,Erkek,Kadın,0.00191,0.01006
+anket_tr,paper_split,Claude Opus 4.6,HC,age_band,4,135,0.138095,0.134692,0.237125,False,21-22,23+,0.127778,0.010317
+anket_tr,paper_split,Claude Opus 4.6,HC,program,2,135,0.00451,0.049256,0.1192,False,Ön lisans,Lisans,0.032252,-0.027742
+anket_tr,paper_split,Claude Opus 4.6,HC,gpa_band,4,135,0.126971,0.125827,0.221929,False,0-2.00,3.01-4.00,0.059409,0.067563
+anket_tr,paper_split,Claude Opus 4.6,HC,residence,3,135,0.085983,0.115896,0.233359,False,Other,Aileyle birlikte,0.148534,-0.062551
+anket_tr,paper_split,Claude Opus 4.6,SADP,gender,2,135,0.055773,0.039116,0.093306,False,Kadın,Erkek,0.00191,0.053863
+anket_tr,paper_split,Claude Opus 4.6,SADP,age_band,4,135,0.080516,0.109509,0.194275,False,21-22,16-18,0.127778,-0.047262
+anket_tr,paper_split,Claude Opus 4.6,SADP,program,2,135,0.02551,0.039988,0.097521,False,Ön lisans,Lisans,0.032252,-0.006742
+anket_tr,paper_split,Claude Opus 4.6,SADP,gpa_band,4,135,0.042724,0.10217,0.17929,False,2.51-3.00,3.01-4.00,0.059409,-0.016685
+anket_tr,paper_split,Claude Opus 4.6,SADP,residence,3,135,0.096052,0.090619,0.17788,False,Other,Devlet yurdu,0.148534,-0.052482
+anket_tr,paper_split,Claude Opus 4.6,SCP,gender,2,135,0.040489,0.038859,0.094813,False,Kadın,Erkek,0.00191,0.038579
+anket_tr,paper_split,Claude Opus 4.6,SCP,age_band,4,135,0.075008,0.109832,0.198101,False,21-22,19-20,0.127778,-0.05277
+anket_tr,paper_split,Claude Opus 4.6,SCP,program,2,135,0.033125,0.039545,0.099853,False,Ön lisans,Lisans,0.032252,0.000873
+anket_tr,paper_split,Claude Opus 4.6,SCP,gpa_band,4,135,0.067384,0.102518,0.180844,False,2.51-3.00,3.01-4.00,0.059409,0.007975
+anket_tr,paper_split,Claude Opus 4.6,SCP,residence,3,135,0.123499,0.093521,0.185936,False,Other,Devlet yurdu,0.148534,-0.025035
+anket_tr,paper_split,Claude Opus 4.6,TPSAP,gender,2,135,0.039896,0.037399,0.09028,False,Kadın,Erkek,0.00191,0.037987
+anket_tr,paper_split,Claude Opus 4.6,TPSAP,age_band,4,135,0.076587,0.105624,0.191065,False,21-22,16-18,0.127778,-0.05119
+anket_tr,paper_split,Claude Opus 4.6,TPSAP,program,2,135,0.009561,0.039514,0.097848,False,Ön lisans,Lisans,0.032252,-0.022691
+anket_tr,paper_split,Claude Opus 4.6,TPSAP,gpa_band,4,135,0.047097,0.100022,0.17684,False,2.01-2.50,3.01-4.00,0.059409,-0.012312
+anket_tr,paper_split,Claude Opus 4.6,TPSAP,residence,3,135,0.120047,0.091215,0.185865,False,Other,Devlet yurdu,0.148534,-0.028487
+anket_tr,paper_split,DeepSeek V4.1 Flash,BPP,gender,2,135,0.021474,0.039156,0.093101,False,Kadın,Erkek,0.00191,0.019564
+anket_tr,paper_split,DeepSeek V4.1 Flash,BPP,age_band,4,135,0.092897,0.110285,0.196405,False,21-22,16-18,0.127778,-0.034881
+anket_tr,paper_split,DeepSeek V4.1 Flash,BPP,program,2,135,0.003089,0.040582,0.101097,False,Ön lisans,Lisans,0.032252,-0.029163
+anket_tr,paper_split,DeepSeek V4.1 Flash,BPP,gpa_band,4,135,0.102867,0.103285,0.183829,False,2.51-3.00,3.01-4.00,0.059409,0.043459
+anket_tr,paper_split,DeepSeek V4.1 Flash,BPP,residence,3,135,0.091206,0.091959,0.185068,False,Other,Devlet yurdu,0.148534,-0.057329
+anket_tr,paper_split,DeepSeek V4.1 Flash,DOP,gender,2,135,0.042888,0.054812,0.133953,False,Erkek,Kadın,0.00191,0.040979
+anket_tr,paper_split,DeepSeek V4.1 Flash,DOP,age_band,4,135,0.188889,0.156164,0.278503,False,23+,16-18,0.127778,0.061111
+anket_tr,paper_split,DeepSeek V4.1 Flash,DOP,program,2,135,0.066636,0.056397,0.138577,False,Ön lisans,Lisans,0.032252,0.034384
+anket_tr,paper_split,DeepSeek V4.1 Flash,DOP,gpa_band,4,135,0.519579,0.145185,0.251616,True,0-2.00,3.01-4.00,0.059409,0.46017
+anket_tr,paper_split,DeepSeek V4.1 Flash,DOP,residence,3,135,0.197825,0.131506,0.261124,False,Other,Devlet yurdu,0.148534,0.049291
+anket_tr,paper_split,DeepSeek V4.1 Flash,HC,gender,2,135,0.028256,0.047613,0.11715,False,Erkek,Kadın,0.00191,0.026346
+anket_tr,paper_split,DeepSeek V4.1 Flash,HC,age_band,4,135,0.184246,0.139067,0.249903,False,21-22,16-18,0.127778,0.056468
+anket_tr,paper_split,DeepSeek V4.1 Flash,HC,program,2,135,0.085318,0.050751,0.121828,False,Lisans,Ön lisans,0.032252,0.053066
+anket_tr,paper_split,DeepSeek V4.1 Flash,HC,gpa_band,4,135,0.096085,0.129976,0.228176,False,2.01-2.50,2.51-3.00,0.059409,0.036676
+anket_tr,paper_split,DeepSeek V4.1 Flash,HC,residence,3,135,0.092766,0.118801,0.238901,False,Other,Devlet yurdu,0.148534,-0.055768
+anket_tr,paper_split,DeepSeek V4.1 Flash,SADP,gender,2,135,0.046627,0.040084,0.10155,False,Kadın,Erkek,0.00191,0.044718
+anket_tr,paper_split,DeepSeek V4.1 Flash,SADP,age_band,4,135,0.091587,0.111205,0.198148,False,21-22,16-18,0.127778,-0.03619
+anket_tr,paper_split,DeepSeek V4.1 Flash,SADP,program,2,135,0.009832,0.040293,0.096517,False,Ön lisans,Lisans,0.032252,-0.02242
+anket_tr,paper_split,DeepSeek V4.1 Flash,SADP,gpa_band,4,135,0.069916,0.104961,0.185622,False,2.51-3.00,3.01-4.00,0.059409,0.010508
+anket_tr,paper_split,DeepSeek V4.1 Flash,SADP,residence,3,135,0.080189,0.095576,0.191608,False,Other,Devlet yurdu,0.148534,-0.068345
+anket_tr,paper_split,GPT-5.4,BBP,gender,2,135,0.036962,0.040022,0.096428,False,Kadın,Erkek,0.00191,0.035053
+anket_tr,paper_split,GPT-5.4,BBP,age_band,4,135,0.075635,0.111622,0.199859,False,21-22,16-18,0.127778,-0.052143
+anket_tr,paper_split,GPT-5.4,BBP,program,2,135,0.032414,0.040533,0.101043,False,Ön lisans,Lisans,0.032252,0.000162
+anket_tr,paper_split,GPT-5.4,BBP,gpa_band,4,135,0.082593,0.105051,0.183031,False,2.51-3.00,0-2.00,0.059409,0.023184
+anket_tr,paper_split,GPT-5.4,BBP,residence,3,135,0.062837,0.095093,0.193692,False,Other,Devlet yurdu,0.148534,-0.085697
+anket_tr,paper_split,GPT-5.4,BPP,gender,2,135,0.060001,0.039591,0.095093,False,Kadın,Erkek,0.00191,0.058092
+anket_tr,paper_split,GPT-5.4,BPP,age_band,4,135,0.084484,0.11355,0.202315,False,21-22,16-18,0.127778,-0.043294
+anket_tr,paper_split,GPT-5.4,BPP,program,2,135,0.036693,0.040472,0.097807,False,Ön lisans,Lisans,0.032252,0.004441
+anket_tr,paper_split,GPT-5.4,BPP,gpa_band,4,135,0.0827,0.104822,0.183736,False,2.51-3.00,3.01-4.00,0.059409,0.023292
+anket_tr,paper_split,GPT-5.4,BPP,residence,3,135,0.09253,0.095608,0.191631,False,Other,Devlet yurdu,0.148534,-0.056005
+anket_tr,paper_split,GPT-5.4,DOP,gender,2,135,0.003739,0.052487,0.125248,False,Kadın,Erkek,0.00191,0.001829
+anket_tr,paper_split,GPT-5.4,DOP,age_band,4,135,0.216667,0.149127,0.271811,False,23+,16-18,0.127778,0.088889
+anket_tr,paper_split,GPT-5.4,DOP,program,2,135,0.066041,0.05371,0.137272,False,Ön lisans,Lisans,0.032252,0.033789
+anket_tr,paper_split,GPT-5.4,DOP,gpa_band,4,135,0.369803,0.14026,0.249218,True,0-2.00,3.01-4.00,0.059409,0.310394
+anket_tr,paper_split,GPT-5.4,DOP,residence,3,135,0.222128,0.126531,0.256462,False,Other,Devlet yurdu,0.148534,0.073593
+anket_tr,paper_split,GPT-5.4,FPNP,gender,2,135,0.037987,0.03866,0.096387,False,Kadın,Erkek,0.00191,0.036077
+anket_tr,paper_split,GPT-5.4,FPNP,age_band,4,135,0.099841,0.111435,0.200023,False,21-22,16-18,0.127778,-0.027937
+anket_tr,paper_split,GPT-5.4,FPNP,program,2,135,0.0211,0.04097,0.096718,False,Ön lisans,Lisans,0.032252,-0.011152
+anket_tr,paper_split,GPT-5.4,FPNP,gpa_band,4,135,0.065663,0.106282,0.182502,False,2.51-3.00,3.01-4.00,0.059409,0.006254
+anket_tr,paper_split,GPT-5.4,FPNP,residence,3,135,0.078014,0.09233,0.186338,False,Other,Devlet yurdu,0.148534,-0.07052
+anket_tr,paper_split,GPT-5.4,HC,gender,2,135,0.000856,0.046885,0.114742,False,Kadın,Erkek,0.00191,-0.001054
+anket_tr,paper_split,GPT-5.4,HC,age_band,4,135,0.149484,0.130892,0.231165,False,21-22,16-18,0.127778,0.021706
+anket_tr,paper_split,GPT-5.4,HC,program,2,135,0.033225,0.048314,0.114603,False,Ön lisans,Lisans,0.032252,0.000973
+anket_tr,paper_split,GPT-5.4,HC,gpa_band,4,135,0.121281,0.123476,0.21719,False,0-2.00,3.01-4.00,0.059409,0.061873
+anket_tr,paper_split,GPT-5.4,HC,residence,3,135,0.070598,0.110841,0.218637,False,Other,Aileyle birlikte,0.148534,-0.077936
+anket_tr,paper_split,GPT-5.4,SADP,gender,2,135,0.040584,0.037593,0.094732,False,Kadın,Erkek,0.00191,0.038674
+anket_tr,paper_split,GPT-5.4,SADP,age_band,4,135,0.089206,0.106365,0.193218,False,21-22,16-18,0.127778,-0.038571
+anket_tr,paper_split,GPT-5.4,SADP,program,2,135,0.018513,0.037793,0.089411,False,Ön lisans,Lisans,0.032252,-0.01374
+anket_tr,paper_split,GPT-5.4,SADP,gpa_band,4,135,0.065926,0.100593,0.179048,False,2.51-3.00,0-2.00,0.059409,0.006517
+anket_tr,paper_split,GPT-5.4,SADP,residence,3,135,0.084752,0.09039,0.181987,False,Other,Devlet yurdu,0.148534,-0.063783
+anket_tr,paper_split,GPT-5.4,SCP,gender,2,135,0.045369,0.038343,0.092779,False,Kadın,Erkek,0.00191,0.043459
+anket_tr,paper_split,GPT-5.4,SCP,age_band,4,135,0.10004,0.109041,0.192754,False,21-22,16-18,0.127778,-0.027738
+anket_tr,paper_split,GPT-5.4,SCP,program,2,135,0.021826,0.040966,0.101205,False,Ön lisans,Lisans,0.032252,-0.010426
+anket_tr,paper_split,GPT-5.4,SCP,gpa_band,4,135,0.07037,0.103324,0.178249,False,2.51-3.00,3.01-4.00,0.059409,0.010962
+anket_tr,paper_split,GPT-5.4,SCP,residence,3,135,0.084941,0.090756,0.183499,False,Other,Devlet yurdu,0.148534,-0.063593
+anket_tr,paper_split,GPT-5.4,TPSAP,gender,2,135,0.000256,0.036864,0.089625,False,Kadın,Erkek,0.00191,-0.001653
+anket_tr,paper_split,GPT-5.4,TPSAP,age_band,4,135,0.083386,0.102283,0.18393,False,21-22,23+,0.127778,-0.044392
+anket_tr,paper_split,GPT-5.4,TPSAP,program,2,135,0.034368,0.038308,0.092881,False,Lisans,Ön lisans,0.032252,0.002116
+anket_tr,paper_split,GPT-5.4,TPSAP,gpa_band,4,135,0.034907,0.097043,0.174407,False,2.51-3.00,0-2.00,0.059409,-0.024501
+anket_tr,paper_split,GPT-5.4,TPSAP,residence,3,135,0.085863,0.089511,0.184547,False,Other,Devlet yurdu,0.148534,-0.062671
+anket_tr,paper_split,Gemini 3.1 Pro,BBP,gender,2,135,0.031212,0.039057,0.094464,False,Kadın,Erkek,0.00191,0.029302
+anket_tr,paper_split,Gemini 3.1 Pro,BBP,age_band,4,135,0.093563,0.110269,0.196521,False,21-22,19-20,0.127778,-0.034215
+anket_tr,paper_split,Gemini 3.1 Pro,BBP,program,2,135,0.023563,0.040014,0.096339,False,Ön lisans,Lisans,0.032252,-0.008689
+anket_tr,paper_split,Gemini 3.1 Pro,BBP,gpa_band,4,135,0.046189,0.102642,0.181218,False,2.51-3.00,3.01-4.00,0.059409,-0.01322
+anket_tr,paper_split,Gemini 3.1 Pro,BBP,residence,3,135,0.103144,0.093928,0.190403,False,Other,Devlet yurdu,0.148534,-0.04539
+anket_tr,paper_split,Gemini 3.1 Pro,BPP,gender,2,135,0.040116,0.038174,0.09125,False,Kadın,Erkek,0.00191,0.038206
+anket_tr,paper_split,Gemini 3.1 Pro,BPP,age_band,4,135,0.06754,0.107206,0.189612,False,21-22,16-18,0.127778,-0.060238
+anket_tr,paper_split,Gemini 3.1 Pro,BPP,program,2,135,0.038639,0.041291,0.098069,False,Ön lisans,Lisans,0.032252,0.006387
+anket_tr,paper_split,Gemini 3.1 Pro,BPP,gpa_band,4,135,0.04679,0.101536,0.176829,False,2.01-2.50,3.01-4.00,0.059409,-0.012619
+anket_tr,paper_split,Gemini 3.1 Pro,BPP,residence,3,135,0.11078,0.090477,0.185312,False,Other,Devlet yurdu,0.148534,-0.037754
+anket_tr,paper_split,Gemini 3.1 Pro,DOP,gender,2,135,0.055546,0.057223,0.13607,False,Erkek,Kadın,0.00191,0.053636
+anket_tr,paper_split,Gemini 3.1 Pro,DOP,age_band,4,135,0.187513,0.161521,0.294341,False,23+,21-22,0.127778,0.059735
+anket_tr,paper_split,Gemini 3.1 Pro,DOP,program,2,135,0.094517,0.059597,0.146331,False,Ön lisans,Lisans,0.032252,0.062264
+anket_tr,paper_split,Gemini 3.1 Pro,DOP,gpa_band,4,135,0.561514,0.150692,0.269951,True,0-2.00,3.01-4.00,0.059409,0.502106
+anket_tr,paper_split,Gemini 3.1 Pro,DOP,residence,3,135,0.119243,0.134842,0.269675,False,Other,Devlet yurdu,0.148534,-0.029291
+anket_tr,paper_split,Gemini 3.1 Pro,FPNP,gender,2,135,0.042413,0.037024,0.091798,False,Kadın,Erkek,0.00191,0.040503
+anket_tr,paper_split,Gemini 3.1 Pro,FPNP,age_band,4,135,0.074401,0.107354,0.190743,False,21-22,19-20,0.127778,-0.053377
+anket_tr,paper_split,Gemini 3.1 Pro,FPNP,program,2,135,0.015809,0.037465,0.091599,False,Ön lisans,Lisans,0.032252,-0.016443
+anket_tr,paper_split,Gemini 3.1 Pro,FPNP,gpa_band,4,135,0.057235,0.098756,0.173036,False,2.01-2.50,3.01-4.00,0.059409,-0.002174
+anket_tr,paper_split,Gemini 3.1 Pro,FPNP,residence,3,135,0.104846,0.089338,0.175477,False,Other,Devlet yurdu,0.148534,-0.043688
+anket_tr,paper_split,Gemini 3.1 Pro,HC,gender,2,135,0.018913,0.048957,0.120369,False,Erkek,Kadın,0.00191,0.017003
+anket_tr,paper_split,Gemini 3.1 Pro,HC,age_band,4,135,0.120159,0.137324,0.243111,False,21-22,23+,0.127778,-0.007619
+anket_tr,paper_split,Gemini 3.1 Pro,HC,program,2,135,0.066111,0.049941,0.122413,False,Ön lisans,Lisans,0.032252,0.033859
+anket_tr,paper_split,Gemini 3.1 Pro,HC,gpa_band,4,135,0.131765,0.125764,0.22089,False,0-2.00,3.01-4.00,0.059409,0.072357
+anket_tr,paper_split,Gemini 3.1 Pro,HC,residence,3,135,0.097949,0.113952,0.229477,False,Other,Aileyle birlikte,0.148534,-0.050586
+anket_tr,paper_split,Gemini 3.1 Pro,SADP,gender,2,135,0.04501,0.038352,0.09345,False,Kadın,Erkek,0.00191,0.043101
+anket_tr,paper_split,Gemini 3.1 Pro,SADP,age_band,4,135,0.070992,0.109985,0.193519,False,21-22,16-18,0.127778,-0.056786
+anket_tr,paper_split,Gemini 3.1 Pro,SADP,program,2,135,0.006966,0.03917,0.092462,False,Ön lisans,Lisans,0.032252,-0.025286
+anket_tr,paper_split,Gemini 3.1 Pro,SADP,gpa_band,4,135,0.048704,0.102817,0.182583,False,2.51-3.00,0-2.00,0.059409,-0.010705
+anket_tr,paper_split,Gemini 3.1 Pro,SADP,residence,3,135,0.111584,0.093351,0.183902,False,Other,Devlet yurdu,0.148534,-0.03695
+anket_tr,paper_split,Gemini 3.1 Pro,SCP,gender,2,135,0.018474,0.037153,0.09215,False,Kadın,Erkek,0.00191,0.016564
+anket_tr,paper_split,Gemini 3.1 Pro,SCP,age_band,4,135,0.076032,0.105811,0.192621,False,21-22,16-18,0.127778,-0.051746
+anket_tr,paper_split,Gemini 3.1 Pro,SCP,program,2,135,0.025873,0.039347,0.097814,False,Ön lisans,Lisans,0.032252,-0.006379
+anket_tr,paper_split,Gemini 3.1 Pro,SCP,gpa_band,4,135,0.073548,0.098509,0.174825,False,2.51-3.00,3.01-4.00,0.059409,0.01414
+anket_tr,paper_split,Gemini 3.1 Pro,SCP,residence,3,135,0.096714,0.090433,0.187692,False,Other,Devlet yurdu,0.148534,-0.05182
+anket_tr,paper_split,Gemini 3.1 Pro,TPSAP,gender,2,135,0.027956,0.037678,0.09455,False,Kadın,Erkek,0.00191,0.026046
+anket_tr,paper_split,Gemini 3.1 Pro,TPSAP,age_band,4,135,0.066429,0.10615,0.19078,False,21-22,16-18,0.127778,-0.061349
+anket_tr,paper_split,Gemini 3.1 Pro,TPSAP,program,2,135,0.017115,0.039521,0.096355,False,Ön lisans,Lisans,0.032252,-0.015137
+anket_tr,paper_split,Gemini 3.1 Pro,TPSAP,gpa_band,4,135,0.053094,0.09953,0.175487,False,2.51-3.00,3.01-4.00,0.059409,-0.006314
+anket_tr,paper_split,Gemini 3.1 Pro,TPSAP,residence,3,135,0.141229,0.089842,0.182171,False,Other,Devlet yurdu,0.148534,-0.007305
+anket_tr,paper_split,Qwen3.8 27B,BPP,gender,2,135,0.031899,0.042259,0.102429,False,Kadın,Erkek,0.00191,0.02999
+anket_tr,paper_split,Qwen3.8 27B,BPP,age_band,4,135,0.106548,0.120334,0.215766,False,21-22,16-18,0.127778,-0.02123
+anket_tr,paper_split,Qwen3.8 27B,BPP,program,2,135,0.012705,0.043362,0.105499,False,Ön lisans,Lisans,0.032252,-0.019547
+anket_tr,paper_split,Qwen3.8 27B,BPP,gpa_band,4,135,0.106619,0.110803,0.192847,False,2.51-3.00,3.01-4.00,0.059409,0.04721
+anket_tr,paper_split,Qwen3.8 27B,BPP,residence,3,135,0.104326,0.102567,0.205162,False,Other,Devlet yurdu,0.148534,-0.044208
+anket_tr,paper_split,Qwen3.8 27B,DOP,gender,2,135,0.103248,0.05489,0.129917,False,Erkek,Kadın,0.00191,0.101339
+anket_tr,paper_split,Qwen3.8 27B,DOP,age_band,4,135,0.192593,0.154555,0.2748,False,23+,16-18,0.127778,0.064815
+anket_tr,paper_split,Qwen3.8 27B,DOP,program,2,135,0.073471,0.055124,0.138114,False,Ön lisans,Lisans,0.032252,0.041219
+anket_tr,paper_split,Qwen3.8 27B,DOP,gpa_band,4,135,0.327912,0.140871,0.240435,True,0-2.00,3.01-4.00,0.059409,0.268504
+anket_tr,paper_split,Qwen3.8 27B,DOP,residence,3,135,0.217754,0.129705,0.267746,False,Other,Devlet yurdu,0.148534,0.06922
+anket_tr,paper_split,Qwen3.8 27B,HC,gender,2,135,0.049671,0.047495,0.117281,False,Erkek,Kadın,0.00191,0.047761
+anket_tr,paper_split,Qwen3.8 27B,HC,age_band,4,135,0.206905,0.132683,0.232317,False,21-22,16-18,0.127778,0.079127
+anket_tr,paper_split,Qwen3.8 27B,HC,program,2,135,0.040616,0.04945,0.123036,False,Lisans,Ön lisans,0.032252,0.008364
+anket_tr,paper_split,Qwen3.8 27B,HC,gpa_band,4,135,0.073228,0.126733,0.221552,False,2.01-2.50,2.51-3.00,0.059409,0.013819
+anket_tr,paper_split,Qwen3.8 27B,HC,residence,3,135,0.067376,0.113653,0.230105,False,Other,Devlet yurdu,0.148534,-0.081158
+anket_tr,paper_split,Qwen3.8 27B,SADP,gender,2,135,0.069264,0.043027,0.106797,False,Kadın,Erkek,0.00191,0.067354
+anket_tr,paper_split,Qwen3.8 27B,SADP,age_band,4,135,0.077831,0.12512,0.223611,False,21-22,23+,0.127778,-0.049947
+anket_tr,paper_split,Qwen3.8 27B,SADP,program,2,135,0.033264,0.043776,0.107534,False,Ön lisans,Lisans,0.032252,0.001012
+anket_tr,paper_split,Qwen3.8 27B,SADP,gpa_band,4,135,0.077037,0.11376,0.204211,False,2.51-3.00,0-2.00,0.059409,0.017628
+anket_tr,paper_split,Qwen3.8 27B,SADP,residence,3,135,0.092104,0.102778,0.208227,False,Other,Devlet yurdu,0.148534,-0.05643
+anket_tr,paper_split,profile-center baseline,profile-center baseline,gender,2,135,0.00191,0.042705,0.101668,False,Kadın,Erkek,0.00191,0.0
+anket_tr,paper_split,profile-center baseline,profile-center baseline,age_band,4,135,0.127778,0.123663,0.21921,False,21-22,16-18,0.127778,0.0
+anket_tr,paper_split,profile-center baseline,profile-center baseline,program,2,135,0.032252,0.045984,0.113584,False,Ön lisans,Lisans,0.032252,0.0
+anket_tr,paper_split,profile-center baseline,profile-center baseline,gpa_band,4,135,0.059409,0.113103,0.198651,False,0-2.00,3.01-4.00,0.059409,0.0
+anket_tr,paper_split,profile-center baseline,profile-center baseline,residence,3,135,0.148534,0.103626,0.207359,False,Other,Devlet yurdu,0.148534,0.0
+anket_tr,repeated_splits,Claude Opus 4.6,BPP,gender,2,439,0.003688,0.02036,0.049873,False,Erkek,Kadın,0.013415,-0.009727
+anket_tr,repeated_splits,Claude Opus 4.6,BPP,age_band,4,439,0.065634,0.059485,0.107342,False,16-18,23+,0.07266,-0.007026
+anket_tr,repeated_splits,Claude Opus 4.6,BPP,program,2,439,0.045806,0.020954,0.051517,False,Lisans,Ön lisans,0.053276,-0.00747
+anket_tr,repeated_splits,Claude Opus 4.6,BPP,gpa_band,4,439,0.025702,0.053038,0.093875,False,0-2.00,3.01-4.00,0.026776,-0.001075
+anket_tr,repeated_splits,Claude Opus 4.6,BPP,residence,4,432,0.079485,0.09199,0.175879,False,Aileyle birlikte,Özel yurt,0.091768,-0.012283
+anket_tr,repeated_splits,Claude Opus 4.6,DOP,gender,2,439,0.005706,0.026723,0.06505,False,Erkek,Kadın,0.013415,-0.007709
+anket_tr,repeated_splits,Claude Opus 4.6,DOP,age_band,4,439,0.073286,0.077238,0.141853,False,19-20,16-18,0.07266,0.000626
+anket_tr,repeated_splits,Claude Opus 4.6,DOP,program,2,439,0.022246,0.027564,0.070566,False,Ön lisans,Lisans,0.053276,-0.03103
+anket_tr,repeated_splits,Claude Opus 4.6,DOP,gpa_band,4,439,0.334725,0.070113,0.123349,True,0-2.00,3.01-4.00,0.026776,0.307949
+anket_tr,repeated_splits,Claude Opus 4.6,DOP,residence,4,432,0.098089,0.123161,0.236489,False,Özel yurt,Devlet yurdu,0.091768,0.006322
+anket_tr,repeated_splits,Claude Opus 4.6,HC,gender,2,439,0.025824,0.024819,0.062087,False,Kadın,Erkek,0.013415,0.012409
+anket_tr,repeated_splits,Claude Opus 4.6,HC,age_band,4,439,0.098098,0.072999,0.131273,False,16-18,23+,0.07266,0.025438
+anket_tr,repeated_splits,Claude Opus 4.6,HC,program,2,439,0.051512,0.024592,0.059911,False,Lisans,Ön lisans,0.053276,-0.001765
+anket_tr,repeated_splits,Claude Opus 4.6,HC,gpa_band,4,439,0.112217,0.063522,0.1128,False,0-2.00,2.01-2.50,0.026776,0.085441
+anket_tr,repeated_splits,Claude Opus 4.6,HC,residence,4,432,0.146468,0.11423,0.22203,False,Aileyle birlikte,Öğrenci evi,0.091768,0.0547
+anket_tr,repeated_splits,Claude Opus 4.6,SADP,gender,2,439,0.00542,0.020697,0.050583,False,Kadın,Erkek,0.013415,-0.007995
+anket_tr,repeated_splits,Claude Opus 4.6,SADP,age_band,4,439,0.06482,0.059906,0.110374,False,16-18,23+,0.07266,-0.00784
+anket_tr,repeated_splits,Claude Opus 4.6,SADP,program,2,439,0.052839,0.021049,0.0515,True,Lisans,Ön lisans,0.053276,-0.000438
+anket_tr,repeated_splits,Claude Opus 4.6,SADP,gpa_band,4,439,0.022083,0.053805,0.093655,False,2.51-3.00,3.01-4.00,0.026776,-0.004693
+anket_tr,repeated_splits,Claude Opus 4.6,SADP,residence,4,432,0.078645,0.094129,0.181187,False,Aileyle birlikte,Özel yurt,0.091768,-0.013123
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,BPP,gender,2,439,0.000806,0.021265,0.051744,False,Erkek,Kadın,0.013415,-0.012609
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,BPP,age_band,4,439,0.047481,0.060908,0.110174,False,16-18,23+,0.07266,-0.025179
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,BPP,program,2,439,0.048667,0.021215,0.051158,False,Lisans,Ön lisans,0.053276,-0.00461
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,BPP,gpa_band,4,439,0.040155,0.055442,0.098537,False,2.01-2.50,3.01-4.00,0.026776,0.013379
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,BPP,residence,4,432,0.081634,0.09818,0.191841,False,Aileyle birlikte,Öğrenci evi,0.091768,-0.010134
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,DOP,gender,2,439,0.056628,0.02833,0.070241,False,Erkek,Kadın,0.013415,0.043213
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,DOP,age_band,4,439,0.06409,0.083685,0.152245,False,19-20,16-18,0.07266,-0.008569
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,DOP,program,2,439,0.038421,0.029368,0.073116,False,Ön lisans,Lisans,0.053276,-0.014855
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,DOP,gpa_band,4,439,0.380138,0.074061,0.13336,True,0-2.00,3.01-4.00,0.026776,0.353362
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,DOP,residence,4,432,0.207089,0.132931,0.251892,False,Özel yurt,Devlet yurdu,0.091768,0.115321
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,HC,gender,2,439,0.022006,0.023685,0.056802,False,Kadın,Erkek,0.013415,0.008591
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,HC,age_band,4,439,0.115556,0.071079,0.130445,False,16-18,23+,0.07266,0.042896
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,HC,program,2,439,0.045258,0.024634,0.060446,False,Lisans,Ön lisans,0.053276,-0.008018
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,HC,gpa_band,4,439,0.089376,0.06237,0.110773,False,0-2.00,2.01-2.50,0.026776,0.0626
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,HC,residence,4,432,0.125403,0.112314,0.212604,False,Aileyle birlikte,Öğrenci evi,0.091768,0.033635
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,SADP,gender,2,439,0.004079,0.021535,0.05402,False,Kadın,Erkek,0.013415,-0.009336
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,SADP,age_band,4,439,0.07775,0.063279,0.115621,False,16-18,23+,0.07266,0.00509
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,SADP,program,2,439,0.054642,0.021968,0.05534,False,Lisans,Ön lisans,0.053276,0.001365
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,SADP,gpa_band,4,439,0.02396,0.056454,0.099257,False,2.51-3.00,3.01-4.00,0.026776,-0.002816
+anket_tr,repeated_splits,DeepSeek V4.1 Flash,SADP,residence,4,432,0.088983,0.099731,0.191878,False,Aileyle birlikte,Özel yurt,0.091768,-0.002784
+anket_tr,repeated_splits,GPT-5.4,BBP,gender,2,439,0.010019,0.020505,0.049872,False,Kadın,Erkek,0.013415,-0.003396
+anket_tr,repeated_splits,GPT-5.4,BBP,age_band,4,439,0.086673,0.059854,0.109958,False,16-18,23+,0.07266,0.014013
+anket_tr,repeated_splits,GPT-5.4,BBP,program,2,439,0.051009,0.021094,0.051761,False,Lisans,Ön lisans,0.053276,-0.002267
+anket_tr,repeated_splits,GPT-5.4,BBP,gpa_band,4,439,0.043734,0.053963,0.09724,False,0-2.00,3.01-4.00,0.026776,0.016958
+anket_tr,repeated_splits,GPT-5.4,BBP,residence,4,432,0.09882,0.092597,0.179406,False,Aileyle birlikte,Özel yurt,0.091768,0.007053
+anket_tr,repeated_splits,GPT-5.4,BPP,gender,2,439,0.009146,0.020934,0.052808,False,Kadın,Erkek,0.013415,-0.004269
+anket_tr,repeated_splits,GPT-5.4,BPP,age_band,4,439,0.101133,0.062027,0.111469,False,16-18,23+,0.07266,0.028473
+anket_tr,repeated_splits,GPT-5.4,BPP,program,2,439,0.05621,0.021808,0.05399,True,Lisans,Ön lisans,0.053276,0.002934
+anket_tr,repeated_splits,GPT-5.4,BPP,gpa_band,4,439,0.037687,0.053627,0.0944,False,0-2.00,3.01-4.00,0.026776,0.010911
+anket_tr,repeated_splits,GPT-5.4,BPP,residence,4,432,0.087362,0.097344,0.183613,False,Aileyle birlikte,Özel yurt,0.091768,-0.004406
+anket_tr,repeated_splits,GPT-5.4,DOP,gender,2,439,0.037752,0.026809,0.065078,False,Erkek,Kadın,0.013415,0.024337
+anket_tr,repeated_splits,GPT-5.4,DOP,age_band,4,439,0.075089,0.078612,0.143586,False,19-20,23+,0.07266,0.002429
+anket_tr,repeated_splits,GPT-5.4,DOP,program,2,439,0.028709,0.028339,0.067973,False,Ön lisans,Lisans,0.053276,-0.024567
+anket_tr,repeated_splits,GPT-5.4,DOP,gpa_band,4,439,0.311656,0.071144,0.125406,True,0-2.00,3.01-4.00,0.026776,0.28488
+anket_tr,repeated_splits,GPT-5.4,DOP,residence,4,432,0.154342,0.124674,0.245596,False,Özel yurt,Devlet yurdu,0.091768,0.062574
+anket_tr,repeated_splits,GPT-5.4,FPNP,gender,2,439,8.6e-05,0.021123,0.051359,False,Erkek,Kadın,0.013415,-0.013329
+anket_tr,repeated_splits,GPT-5.4,FPNP,age_band,4,439,0.091597,0.061687,0.112766,False,16-18,23+,0.07266,0.018937
+anket_tr,repeated_splits,GPT-5.4,FPNP,program,2,439,0.059023,0.021745,0.053187,True,Lisans,Ön lisans,0.053276,0.005746
+anket_tr,repeated_splits,GPT-5.4,FPNP,gpa_band,4,439,0.043172,0.055489,0.097724,False,0-2.00,3.01-4.00,0.026776,0.016396
+anket_tr,repeated_splits,GPT-5.4,FPNP,residence,4,432,0.107753,0.098631,0.19145,False,Aileyle birlikte,Özel yurt,0.091768,0.015985
+anket_tr,repeated_splits,GPT-5.4,HC,gender,2,439,0.04311,0.026359,0.063632,False,Kadın,Erkek,0.013415,0.029695
+anket_tr,repeated_splits,GPT-5.4,HC,age_band,4,439,0.055014,0.077056,0.142363,False,16-18,23+,0.07266,-0.017645
+anket_tr,repeated_splits,GPT-5.4,HC,program,2,439,0.081062,0.026278,0.065953,True,Lisans,Ön lisans,0.053276,0.027786
+anket_tr,repeated_splits,GPT-5.4,HC,gpa_band,4,439,0.106323,0.069805,0.123323,False,3.01-4.00,2.01-2.50,0.026776,0.079547
+anket_tr,repeated_splits,GPT-5.4,HC,residence,4,432,0.034672,0.123457,0.241592,False,Devlet yurdu,Özel yurt,0.091768,-0.057096
+anket_tr,repeated_splits,GPT-5.4,SADP,gender,2,439,0.009169,0.020915,0.051025,False,Kadın,Erkek,0.013415,-0.004246
+anket_tr,repeated_splits,GPT-5.4,SADP,age_band,4,439,0.092374,0.06079,0.10811,False,16-18,23+,0.07266,0.019714
+anket_tr,repeated_splits,GPT-5.4,SADP,program,2,439,0.05868,0.020519,0.04896,True,Lisans,Ön lisans,0.053276,0.005404
+anket_tr,repeated_splits,GPT-5.4,SADP,gpa_band,4,439,0.016764,0.054545,0.09709,False,2.51-3.00,3.01-4.00,0.026776,-0.010012
+anket_tr,repeated_splits,GPT-5.4,SADP,residence,4,432,0.098563,0.092487,0.175416,False,Aileyle birlikte,Özel yurt,0.091768,0.006796
+anket_tr,repeated_splits,GPT-5.4,SCP,gender,2,439,0.014192,0.020774,0.050329,False,Kadın,Erkek,0.013415,0.000777
+anket_tr,repeated_splits,GPT-5.4,SCP,age_band,4,439,0.084499,0.061738,0.113997,False,16-18,23+,0.07266,0.011839
+anket_tr,repeated_splits,GPT-5.4,SCP,program,2,439,0.059326,0.020919,0.050803,True,Lisans,Ön lisans,0.053276,0.00605
+anket_tr,repeated_splits,GPT-5.4,SCP,gpa_band,4,439,0.034198,0.053902,0.094623,False,2.51-3.00,3.01-4.00,0.026776,0.007421
+anket_tr,repeated_splits,GPT-5.4,SCP,residence,4,432,0.089462,0.096085,0.185425,False,Aileyle birlikte,Özel yurt,0.091768,-0.002306
+anket_tr,repeated_splits,GPT-5.4,TPSAP,gender,2,439,0.00944,0.020909,0.051991,False,Kadın,Erkek,0.013415,-0.003975
+anket_tr,repeated_splits,GPT-5.4,TPSAP,age_band,4,439,0.047186,0.061072,0.110977,False,16-18,23+,0.07266,-0.025473
+anket_tr,repeated_splits,GPT-5.4,TPSAP,program,2,439,0.065143,0.021482,0.05121,True,Lisans,Ön lisans,0.053276,0.011867
+anket_tr,repeated_splits,GPT-5.4,TPSAP,gpa_band,4,439,0.011732,0.053884,0.097174,False,2.51-3.00,3.01-4.00,0.026776,-0.015045
+anket_tr,repeated_splits,GPT-5.4,TPSAP,residence,4,432,0.076149,0.096432,0.184692,False,Aileyle birlikte,Öğrenci evi,0.091768,-0.015619
+anket_tr,repeated_splits,Gemini 3.1 Pro,BPP,gender,2,439,0.011618,0.020377,0.049267,False,Kadın,Erkek,0.013415,-0.001797
+anket_tr,repeated_splits,Gemini 3.1 Pro,BPP,age_band,4,439,0.052527,0.060483,0.109193,False,16-18,23+,0.07266,-0.020133
+anket_tr,repeated_splits,Gemini 3.1 Pro,BPP,program,2,439,0.039979,0.021813,0.053959,False,Lisans,Ön lisans,0.053276,-0.013297
+anket_tr,repeated_splits,Gemini 3.1 Pro,BPP,gpa_band,4,439,0.03767,0.053651,0.094398,False,2.51-3.00,3.01-4.00,0.026776,0.010894
+anket_tr,repeated_splits,Gemini 3.1 Pro,BPP,residence,4,432,0.092157,0.093833,0.180108,False,Aileyle birlikte,Özel yurt,0.091768,0.000389
+anket_tr,repeated_splits,Gemini 3.1 Pro,DOP,gender,2,439,0.061534,0.030433,0.07347,False,Erkek,Kadın,0.013415,0.048119
+anket_tr,repeated_splits,Gemini 3.1 Pro,DOP,age_band,4,439,0.091875,0.086681,0.154131,False,19-20,23+,0.07266,0.019215
+anket_tr,repeated_splits,Gemini 3.1 Pro,DOP,program,2,439,0.065513,0.030411,0.072867,False,Ön lisans,Lisans,0.053276,0.012237
+anket_tr,repeated_splits,Gemini 3.1 Pro,DOP,gpa_band,4,439,0.434107,0.07758,0.139086,True,0-2.00,3.01-4.00,0.026776,0.407331
+anket_tr,repeated_splits,Gemini 3.1 Pro,DOP,residence,4,432,0.108938,0.137271,0.260221,False,Özel yurt,Devlet yurdu,0.091768,0.01717
+anket_tr,repeated_splits,Gemini 3.1 Pro,HC,gender,2,439,0.012511,0.024693,0.059923,False,Kadın,Erkek,0.013415,-0.000904
+anket_tr,repeated_splits,Gemini 3.1 Pro,HC,age_band,4,439,0.125355,0.071731,0.129174,False,16-18,23+,0.07266,0.052695
+anket_tr,repeated_splits,Gemini 3.1 Pro,HC,program,2,439,0.044952,0.02551,0.062561,False,Lisans,Ön lisans,0.053276,-0.008325
+anket_tr,repeated_splits,Gemini 3.1 Pro,HC,gpa_band,4,439,0.10204,0.064476,0.109916,False,0-2.00,2.01-2.50,0.026776,0.075264
+anket_tr,repeated_splits,Gemini 3.1 Pro,HC,residence,4,432,0.126316,0.112223,0.211844,False,Aileyle birlikte,Öğrenci evi,0.091768,0.034549
+anket_tr,repeated_splits,Gemini 3.1 Pro,SADP,gender,2,439,0.007207,0.019707,0.047967,False,Kadın,Erkek,0.013415,-0.006208
+anket_tr,repeated_splits,Gemini 3.1 Pro,SADP,age_band,4,439,0.069075,0.060078,0.108637,False,16-18,23+,0.07266,-0.003585
+anket_tr,repeated_splits,Gemini 3.1 Pro,SADP,program,2,439,0.059579,0.021021,0.050651,True,Lisans,Ön lisans,0.053276,0.006303
+anket_tr,repeated_splits,Gemini 3.1 Pro,SADP,gpa_band,4,439,0.028965,0.053234,0.092098,False,2.51-3.00,3.01-4.00,0.026776,0.002188
+anket_tr,repeated_splits,Gemini 3.1 Pro,SADP,residence,4,432,0.058524,0.095301,0.185315,False,Aileyle birlikte,Özel yurt,0.091768,-0.033244
+anket_tr,repeated_splits,Qwen3.8 27B,BPP,gender,2,439,0.008838,0.023333,0.058291,False,Kadın,Erkek,0.013415,-0.004577
+anket_tr,repeated_splits,Qwen3.8 27B,BPP,age_band,4,439,0.068267,0.068756,0.125853,False,16-18,23+,0.07266,-0.004393
+anket_tr,repeated_splits,Qwen3.8 27B,BPP,program,2,439,0.066998,0.023917,0.058413,True,Lisans,Ön lisans,0.053276,0.013721
+anket_tr,repeated_splits,Qwen3.8 27B,BPP,gpa_band,4,439,0.044049,0.061393,0.110399,False,0-2.00,3.01-4.00,0.026776,0.017273
+anket_tr,repeated_splits,Qwen3.8 27B,BPP,residence,4,432,0.125203,0.106487,0.202856,False,Aileyle birlikte,Özel yurt,0.091768,0.033435
+anket_tr,repeated_splits,Qwen3.8 27B,DOP,gender,2,439,0.101095,0.028138,0.067827,True,Erkek,Kadın,0.013415,0.08768
+anket_tr,repeated_splits,Qwen3.8 27B,DOP,age_band,4,439,0.088374,0.081436,0.14896,False,19-20,16-18,0.07266,0.015714
+anket_tr,repeated_splits,Qwen3.8 27B,DOP,program,2,439,0.0211,0.029105,0.071084,False,Ön lisans,Lisans,0.053276,-0.032176
+anket_tr,repeated_splits,Qwen3.8 27B,DOP,gpa_band,4,439,0.257869,0.072471,0.127398,True,0-2.00,3.01-4.00,0.026776,0.231092
+anket_tr,repeated_splits,Qwen3.8 27B,DOP,residence,4,432,0.177813,0.130089,0.249832,False,Özel yurt,Devlet yurdu,0.091768,0.086045
+anket_tr,repeated_splits,Qwen3.8 27B,HC,gender,2,439,0.009083,0.024729,0.05959,False,Kadın,Erkek,0.013415,-0.004332
+anket_tr,repeated_splits,Qwen3.8 27B,HC,age_band,4,439,0.111021,0.073143,0.131876,False,16-18,23+,0.07266,0.038362
+anket_tr,repeated_splits,Qwen3.8 27B,HC,program,2,439,0.036775,0.025271,0.06388,False,Lisans,Ön lisans,0.053276,-0.016501
+anket_tr,repeated_splits,Qwen3.8 27B,HC,gpa_band,4,439,0.099704,0.063598,0.114129,False,0-2.00,2.01-2.50,0.026776,0.072927
+anket_tr,repeated_splits,Qwen3.8 27B,HC,residence,4,432,0.116583,0.112918,0.220684,False,Aileyle birlikte,Öğrenci evi,0.091768,0.024815
+anket_tr,repeated_splits,Qwen3.8 27B,SADP,gender,2,439,0.001829,0.022152,0.05476,False,Kadın,Erkek,0.013415,-0.011586
+anket_tr,repeated_splits,Qwen3.8 27B,SADP,age_band,4,439,0.092763,0.066588,0.119931,False,16-18,23+,0.07266,0.020103
+anket_tr,repeated_splits,Qwen3.8 27B,SADP,program,2,439,0.062638,0.022705,0.055582,True,Lisans,Ön lisans,0.053276,0.009362
+anket_tr,repeated_splits,Qwen3.8 27B,SADP,gpa_band,4,439,0.018997,0.059848,0.106033,False,2.51-3.00,3.01-4.00,0.026776,-0.007779
+anket_tr,repeated_splits,Qwen3.8 27B,SADP,residence,4,432,0.086358,0.103166,0.197326,False,Aileyle birlikte,Özel yurt,0.091768,-0.00541
+anket_tr,repeated_splits,profile-center baseline,profile-center baseline,gender,2,439,0.013415,0.022452,0.053198,False,Erkek,Kadın,0.013415,0.0
+anket_tr,repeated_splits,profile-center baseline,profile-center baseline,age_band,4,439,0.07266,0.067316,0.123358,False,16-18,23+,0.07266,0.0
+anket_tr,repeated_splits,profile-center baseline,profile-center baseline,program,2,439,0.053276,0.022781,0.057831,False,Lisans,Ön lisans,0.053276,0.0
+anket_tr,repeated_splits,profile-center baseline,profile-center baseline,gpa_band,4,439,0.026776,0.059458,0.105189,False,0-2.00,2.51-3.00,0.026776,0.0
+anket_tr,repeated_splits,profile-center baseline,profile-center baseline,residence,4,432,0.091768,0.105093,0.197729,False,Aileyle birlikte,Özel yurt,0.091768,0.0
+bangladesh_sns,paper_split,Claude Opus 4.6,BBP,gender,2,159,0.119025,0.027758,0.069522,True,Female,Male,0.153239,-0.034214
+bangladesh_sns,paper_split,Claude Opus 4.6,BBP,age_band,3,159,0.09837,0.060995,0.118667,False,23+,16-18,0.164318,-0.065948
+bangladesh_sns,paper_split,Claude Opus 4.6,BBP,education,2,147,0.045066,0.029639,0.072291,False,Graduate or above,Secondary,0.087746,-0.04268
+bangladesh_sns,paper_split,Claude Opus 4.6,BBP,profession,4,159,0.105093,0.083264,0.149708,False,Student / unemployed,Private job,0.143056,-0.037963
+bangladesh_sns,paper_split,Claude Opus 4.6,BBP,monthly_income,3,159,0.122477,0.059016,0.117348,True,No income,Other,0.181994,-0.059517
+bangladesh_sns,paper_split,Claude Opus 4.6,BBP,residence,2,159,0.098328,0.027297,0.067489,True,Urban Area,Rural Area,0.147071,-0.048743
+bangladesh_sns,paper_split,Claude Opus 4.6,BPP,gender,2,159,0.113778,0.027564,0.069489,True,Female,Male,0.153239,-0.039461
+bangladesh_sns,paper_split,Claude Opus 4.6,BPP,age_band,3,159,0.106119,0.064318,0.128024,False,Other,16-18,0.164318,-0.058199
+bangladesh_sns,paper_split,Claude Opus 4.6,BPP,education,2,147,0.038465,0.031164,0.073594,False,Graduate or above,Secondary,0.087746,-0.049281
+bangladesh_sns,paper_split,Claude Opus 4.6,BPP,profession,4,159,0.109259,0.084834,0.153474,False,Student / unemployed,Private job,0.143056,-0.033796
+bangladesh_sns,paper_split,Claude Opus 4.6,BPP,monthly_income,3,159,0.126321,0.061736,0.121036,True,No income,Other,0.181994,-0.055673
+bangladesh_sns,paper_split,Claude Opus 4.6,BPP,residence,2,159,0.095559,0.028081,0.067925,True,Urban Area,Rural Area,0.147071,-0.051512
+bangladesh_sns,paper_split,Claude Opus 4.6,DOP,gender,2,159,0.107313,0.038342,0.092579,True,Female,Male,0.153239,-0.045926
+bangladesh_sns,paper_split,Claude Opus 4.6,DOP,age_band,3,159,0.168075,0.085877,0.170038,False,Other,16-18,0.164318,0.003757
+bangladesh_sns,paper_split,Claude Opus 4.6,DOP,education,2,147,0.135206,0.042987,0.102247,True,Graduate or above,Secondary,0.087746,0.04746
+bangladesh_sns,paper_split,Claude Opus 4.6,DOP,profession,4,159,0.150926,0.116849,0.212535,False,Student / unemployed,Other,0.143056,0.00787
+bangladesh_sns,paper_split,Claude Opus 4.6,DOP,monthly_income,3,159,0.109838,0.084606,0.168638,False,No income,Other,0.181994,-0.072156
+bangladesh_sns,paper_split,Claude Opus 4.6,DOP,residence,2,159,0.200582,0.037457,0.09293,True,Urban Area,Rural Area,0.147071,0.053511
+bangladesh_sns,paper_split,Claude Opus 4.6,FPNP,gender,2,159,0.131512,0.028751,0.069369,True,Female,Male,0.153239,-0.021728
+bangladesh_sns,paper_split,Claude Opus 4.6,FPNP,age_band,3,159,0.128492,0.065819,0.131155,False,23+,16-18,0.164318,-0.035826
+bangladesh_sns,paper_split,Claude Opus 4.6,FPNP,education,2,147,0.072616,0.032735,0.080322,False,Graduate or above,Secondary,0.087746,-0.01513
+bangladesh_sns,paper_split,Claude Opus 4.6,FPNP,profession,4,159,0.118202,0.088547,0.158927,False,Student / unemployed,Business,0.143056,-0.024854
+bangladesh_sns,paper_split,Claude Opus 4.6,FPNP,monthly_income,3,159,0.151316,0.063361,0.131579,True,No income,Other,0.181994,-0.030678
+bangladesh_sns,paper_split,Claude Opus 4.6,FPNP,residence,2,159,0.108213,0.029196,0.07153,True,Urban Area,Rural Area,0.147071,-0.038858
+bangladesh_sns,paper_split,Claude Opus 4.6,HC,gender,2,159,0.123039,0.039727,0.093548,True,Female,Male,0.153239,-0.0302
+bangladesh_sns,paper_split,Claude Opus 4.6,HC,age_band,3,159,0.107992,0.090585,0.181489,False,23+,16-18,0.164318,-0.056326
+bangladesh_sns,paper_split,Claude Opus 4.6,HC,education,2,147,0.066222,0.043346,0.109727,False,Graduate or above,Secondary,0.087746,-0.021524
+bangladesh_sns,paper_split,Claude Opus 4.6,HC,profession,4,159,0.154386,0.118556,0.214294,False,Student / unemployed,Business,0.143056,0.01133
+bangladesh_sns,paper_split,Claude Opus 4.6,HC,monthly_income,3,159,0.225641,0.086382,0.179968,True,No income,Other,0.181994,0.043647
+bangladesh_sns,paper_split,Claude Opus 4.6,HC,residence,2,159,0.079227,0.038681,0.095178,False,Urban Area,Rural Area,0.147071,-0.067844
+bangladesh_sns,paper_split,Claude Opus 4.6,SADP,gender,2,159,0.139871,0.028205,0.068705,True,Female,Male,0.153239,-0.013368
+bangladesh_sns,paper_split,Claude Opus 4.6,SADP,age_band,3,159,0.146945,0.064407,0.129496,True,23+,16-18,0.164318,-0.017373
+bangladesh_sns,paper_split,Claude Opus 4.6,SADP,education,2,147,0.067486,0.031242,0.078849,False,Graduate or above,Secondary,0.087746,-0.020259
+bangladesh_sns,paper_split,Claude Opus 4.6,SADP,profession,4,159,0.116423,0.087571,0.159114,False,Student / unemployed,Business,0.143056,-0.026633
+bangladesh_sns,paper_split,Claude Opus 4.6,SADP,monthly_income,3,159,0.172963,0.06223,0.124451,True,No income,Other,0.181994,-0.009031
+bangladesh_sns,paper_split,Claude Opus 4.6,SADP,residence,2,159,0.119215,0.027687,0.06715,True,Urban Area,Rural Area,0.147071,-0.027856
+bangladesh_sns,paper_split,Claude Opus 4.6,SCP,gender,2,159,0.110287,0.027488,0.067104,True,Female,Male,0.153239,-0.042952
+bangladesh_sns,paper_split,Claude Opus 4.6,SCP,age_band,3,159,0.09788,0.064605,0.128334,False,23+,16-18,0.164318,-0.066438
+bangladesh_sns,paper_split,Claude Opus 4.6,SCP,education,2,147,0.047631,0.030249,0.072355,False,Graduate or above,Secondary,0.087746,-0.040115
+bangladesh_sns,paper_split,Claude Opus 4.6,SCP,profession,4,159,0.106725,0.085327,0.15419,False,Student / unemployed,Business,0.143056,-0.03633
+bangladesh_sns,paper_split,Claude Opus 4.6,SCP,monthly_income,3,159,0.119034,0.061038,0.124599,False,No income,Other,0.181994,-0.06296
+bangladesh_sns,paper_split,Claude Opus 4.6,SCP,residence,2,159,0.101652,0.02879,0.06975,True,Urban Area,Rural Area,0.147071,-0.045419
+bangladesh_sns,paper_split,Claude Opus 4.6,TPSAP,gender,2,159,0.132512,0.028967,0.07037,True,Female,Male,0.153239,-0.020727
+bangladesh_sns,paper_split,Claude Opus 4.6,TPSAP,age_band,3,159,0.131959,0.064677,0.129218,True,23+,16-18,0.164318,-0.032359
+bangladesh_sns,paper_split,Claude Opus 4.6,TPSAP,education,2,147,0.06207,0.031114,0.075038,False,Graduate or above,Secondary,0.087746,-0.025676
+bangladesh_sns,paper_split,Claude Opus 4.6,TPSAP,profession,4,159,0.121759,0.08944,0.160417,False,Student / unemployed,Private job,0.143056,-0.021296
+bangladesh_sns,paper_split,Claude Opus 4.6,TPSAP,monthly_income,3,159,0.16662,0.062498,0.129857,True,No income,Other,0.181994,-0.015374
+bangladesh_sns,paper_split,Claude Opus 4.6,TPSAP,residence,2,159,0.110634,0.028587,0.072401,True,Urban Area,Rural Area,0.147071,-0.036437
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,BPP,gender,2,159,0.135513,0.028007,0.066713,True,Female,Male,0.153239,-0.017727
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,BPP,age_band,3,159,0.110617,0.064773,0.128274,False,23+,16-18,0.164318,-0.053701
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,BPP,education,2,147,0.088652,0.031791,0.078105,True,Graduate or above,Secondary,0.087746,0.000906
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,BPP,profession,4,159,0.128411,0.086878,0.155954,False,Student / unemployed,Business,0.143056,-0.014644
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,BPP,monthly_income,3,159,0.136437,0.062203,0.123867,True,No income,Other,0.181994,-0.045557
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,BPP,residence,2,159,0.118961,0.028243,0.068995,True,Urban Area,Rural Area,0.147071,-0.02811
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,DOP,gender,2,159,0.125755,0.036973,0.090205,True,Female,Male,0.153239,-0.027484
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,DOP,age_band,3,159,0.157434,0.083225,0.165886,False,23+,16-18,0.164318,-0.006884
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,DOP,education,2,147,0.131699,0.041153,0.100073,True,Graduate or above,Secondary,0.087746,0.043954
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,DOP,profession,4,159,0.108102,0.115758,0.204514,False,Student / unemployed,Other,0.143056,-0.034954
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,DOP,monthly_income,3,159,0.098708,0.082513,0.164811,False,No income,Other,0.181994,-0.083286
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,DOP,residence,2,159,0.19069,0.037589,0.091146,True,Urban Area,Rural Area,0.147071,0.04362
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,HC,gender,2,159,0.074974,0.036979,0.089335,False,Female,Male,0.153239,-0.078266
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,HC,age_band,3,159,0.120302,0.085492,0.168849,False,23+,16-18,0.164318,-0.044016
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,HC,education,2,147,0.037039,0.040641,0.098762,False,Graduate or above,Secondary,0.087746,-0.050707
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,HC,profession,4,159,0.11875,0.116171,0.209942,False,Other,Private job,0.143056,-0.024306
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,HC,monthly_income,3,159,0.116135,0.083489,0.167695,False,"10,000-40,000 Tk",Other,0.181994,-0.065859
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,HC,residence,2,159,0.08241,0.037425,0.089854,False,Urban Area,Rural Area,0.147071,-0.06466
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,SADP,gender,2,159,0.153816,0.029359,0.071661,True,Female,Male,0.153239,0.000576
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,SADP,age_band,3,159,0.138428,0.067117,0.133683,True,23+,16-18,0.164318,-0.025889
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,SADP,education,2,147,0.079683,0.0324,0.079683,True,Graduate or above,Secondary,0.087746,-0.008062
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,SADP,profession,4,159,0.120712,0.090853,0.164451,False,Student / unemployed,Business,0.143056,-0.022344
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,SADP,monthly_income,3,159,0.149783,0.065263,0.132342,True,No income,Other,0.181994,-0.032211
+bangladesh_sns,paper_split,DeepSeek V4.1 Flash,SADP,residence,2,159,0.111437,0.029329,0.072091,True,Urban Area,Rural Area,0.147071,-0.035634
+bangladesh_sns,paper_split,GPT-5.4,BBP,gender,2,159,0.131333,0.030176,0.07302,True,Female,Male,0.153239,-0.021906
+bangladesh_sns,paper_split,GPT-5.4,BBP,age_band,3,159,0.122613,0.068503,0.137234,False,23+,16-18,0.164318,-0.041704
+bangladesh_sns,paper_split,GPT-5.4,BBP,education,2,147,0.098149,0.034457,0.081017,True,Graduate or above,Secondary,0.087746,0.010403
+bangladesh_sns,paper_split,GPT-5.4,BBP,profession,4,159,0.141959,0.092633,0.170855,False,Student / unemployed,Business,0.143056,-0.001096
+bangladesh_sns,paper_split,GPT-5.4,BBP,monthly_income,3,159,0.150821,0.066141,0.132428,True,No income,Other,0.181994,-0.031173
+bangladesh_sns,paper_split,GPT-5.4,BBP,residence,2,159,0.117182,0.030208,0.073582,True,Urban Area,Rural Area,0.147071,-0.029889
+bangladesh_sns,paper_split,GPT-5.4,BPP,gender,2,159,0.158711,0.032017,0.075113,True,Female,Male,0.153239,0.005472
+bangladesh_sns,paper_split,GPT-5.4,BPP,age_band,3,159,0.147145,0.070689,0.144022,True,Other,16-18,0.164318,-0.017172
+bangladesh_sns,paper_split,GPT-5.4,BPP,education,2,147,0.103207,0.036036,0.086634,True,Graduate or above,Secondary,0.087746,0.015461
+bangladesh_sns,paper_split,GPT-5.4,BPP,profession,4,159,0.164864,0.09738,0.175365,False,Student / unemployed,Business,0.143056,0.021808
+bangladesh_sns,paper_split,GPT-5.4,BPP,monthly_income,3,159,0.156975,0.0688,0.140199,True,No income,Other,0.181994,-0.025019
+bangladesh_sns,paper_split,GPT-5.4,BPP,residence,2,159,0.122004,0.032796,0.082658,True,Urban Area,Rural Area,0.147071,-0.025067
+bangladesh_sns,paper_split,GPT-5.4,DOP,gender,2,159,0.111301,0.039097,0.095502,True,Female,Male,0.153239,-0.041938
+bangladesh_sns,paper_split,GPT-5.4,DOP,age_band,3,159,0.177595,0.088926,0.177726,False,23+,16-18,0.164318,0.013278
+bangladesh_sns,paper_split,GPT-5.4,DOP,education,2,147,0.139771,0.045274,0.110714,True,Graduate or above,Secondary,0.087746,0.052025
+bangladesh_sns,paper_split,GPT-5.4,DOP,profession,4,159,0.141435,0.122766,0.219298,False,Student / unemployed,Other,0.143056,-0.00162
+bangladesh_sns,paper_split,GPT-5.4,DOP,monthly_income,3,159,0.111913,0.088576,0.177275,False,No income,Other,0.181994,-0.070081
+bangladesh_sns,paper_split,GPT-5.4,DOP,residence,2,159,0.198642,0.039998,0.09764,True,Urban Area,Rural Area,0.147071,0.051572
+bangladesh_sns,paper_split,GPT-5.4,FPNP,gender,2,159,0.156247,0.031068,0.076199,True,Female,Male,0.153239,0.003007
+bangladesh_sns,paper_split,GPT-5.4,FPNP,age_band,3,159,0.129547,0.068819,0.139274,False,23+,16-18,0.164318,-0.03477
+bangladesh_sns,paper_split,GPT-5.4,FPNP,education,2,147,0.104247,0.035016,0.086912,True,Graduate or above,Secondary,0.087746,0.016502
+bangladesh_sns,paper_split,GPT-5.4,FPNP,profession,4,159,0.147271,0.092699,0.169454,False,Student / unemployed,Business,0.143056,0.004215
+bangladesh_sns,paper_split,GPT-5.4,FPNP,monthly_income,3,159,0.171996,0.068534,0.137652,True,No income,Other,0.181994,-0.009998
+bangladesh_sns,paper_split,GPT-5.4,FPNP,residence,2,159,0.094215,0.031302,0.078056,True,Urban Area,Rural Area,0.147071,-0.052856
+bangladesh_sns,paper_split,GPT-5.4,HC,gender,2,159,0.097655,0.039404,0.093008,True,Female,Male,0.153239,-0.055584
+bangladesh_sns,paper_split,GPT-5.4,HC,age_band,3,159,0.133178,0.090085,0.178147,False,23+,16-18,0.164318,-0.03114
+bangladesh_sns,paper_split,GPT-5.4,HC,education,2,147,0.117789,0.045026,0.110283,True,Graduate or above,Secondary,0.087746,0.030044
+bangladesh_sns,paper_split,GPT-5.4,HC,profession,4,159,0.104337,0.119556,0.21875,False,Student / unemployed,Business,0.143056,-0.038718
+bangladesh_sns,paper_split,GPT-5.4,HC,monthly_income,3,159,0.125,0.087748,0.175786,False,No income,Other,0.181994,-0.056994
+bangladesh_sns,paper_split,GPT-5.4,HC,residence,2,159,0.087259,0.039548,0.093519,False,Urban Area,Rural Area,0.147071,-0.059811
+bangladesh_sns,paper_split,GPT-5.4,SADP,gender,2,159,0.104491,0.027554,0.064467,True,Female,Male,0.153239,-0.048748
+bangladesh_sns,paper_split,GPT-5.4,SADP,age_band,3,159,0.141154,0.063329,0.124563,True,23+,16-18,0.164318,-0.023164
+bangladesh_sns,paper_split,GPT-5.4,SADP,education,2,147,0.08102,0.030612,0.073226,True,Graduate or above,Secondary,0.087746,-0.006726
+bangladesh_sns,paper_split,GPT-5.4,SADP,profession,4,159,0.088426,0.084586,0.154865,False,Student / unemployed,Private job,0.143056,-0.05463
+bangladesh_sns,paper_split,GPT-5.4,SADP,monthly_income,3,159,0.110262,0.060492,0.121942,False,No income,Other,0.181994,-0.071732
+bangladesh_sns,paper_split,GPT-5.4,SADP,residence,2,159,0.119482,0.027413,0.066312,True,Urban Area,Rural Area,0.147071,-0.027588
+bangladesh_sns,paper_split,GPT-5.4,SCP,gender,2,159,0.139474,0.028454,0.073329,True,Female,Male,0.153239,-0.013765
+bangladesh_sns,paper_split,GPT-5.4,SCP,age_band,3,159,0.128191,0.065369,0.129039,False,23+,16-18,0.164318,-0.036127
+bangladesh_sns,paper_split,GPT-5.4,SCP,education,2,147,0.075298,0.031485,0.078948,False,Graduate or above,Secondary,0.087746,-0.012448
+bangladesh_sns,paper_split,GPT-5.4,SCP,profession,4,159,0.122295,0.088048,0.157575,False,Student / unemployed,Business,0.143056,-0.02076
+bangladesh_sns,paper_split,GPT-5.4,SCP,monthly_income,3,159,0.163295,0.063228,0.13177,True,No income,Other,0.181994,-0.018699
+bangladesh_sns,paper_split,GPT-5.4,SCP,residence,2,159,0.115041,0.028051,0.072137,True,Urban Area,Rural Area,0.147071,-0.032029
+bangladesh_sns,paper_split,GPT-5.4,TPSAP,gender,2,159,0.113606,0.02838,0.069661,True,Female,Male,0.153239,-0.039633
+bangladesh_sns,paper_split,GPT-5.4,TPSAP,age_band,3,159,0.140553,0.064457,0.128079,True,Other,16-18,0.164318,-0.023765
+bangladesh_sns,paper_split,GPT-5.4,TPSAP,education,2,147,0.079791,0.03099,0.074455,True,Graduate or above,Secondary,0.087746,-0.007955
+bangladesh_sns,paper_split,GPT-5.4,TPSAP,profession,4,159,0.12037,0.086844,0.155868,False,Student / unemployed,Business,0.143056,-0.022685
+bangladesh_sns,paper_split,GPT-5.4,TPSAP,monthly_income,3,159,0.131933,0.064141,0.127716,True,No income,Other,0.181994,-0.050061
+bangladesh_sns,paper_split,GPT-5.4,TPSAP,residence,2,159,0.128418,0.028646,0.069375,True,Urban Area,Rural Area,0.147071,-0.018653
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BBP,gender,2,159,0.125497,0.032647,0.079889,True,Female,Male,0.153239,-0.027742
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BBP,age_band,3,159,0.122236,0.0744,0.147024,False,23+,16-18,0.164318,-0.042081
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BBP,education,2,147,0.097593,0.037133,0.090929,True,Graduate or above,Secondary,0.087746,0.009847
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BBP,profession,4,159,0.201243,0.100874,0.178947,True,Student / unemployed,Business,0.143056,0.058187
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BBP,monthly_income,3,159,0.145468,0.069847,0.143883,True,No income,Other,0.181994,-0.036526
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BBP,residence,2,159,0.069302,0.032661,0.078511,False,Urban Area,Rural Area,0.147071,-0.077769
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BPP,gender,2,159,0.107638,0.031354,0.075019,True,Female,Male,0.153239,-0.045601
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BPP,age_band,3,159,0.096284,0.073374,0.14446,False,23+,16-18,0.164318,-0.068033
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BPP,education,2,147,0.076284,0.036451,0.088149,False,Graduate or above,Secondary,0.087746,-0.011461
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BPP,profession,4,159,0.213743,0.096966,0.173145,True,Student / unemployed,Business,0.143056,0.070687
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BPP,monthly_income,3,159,0.128207,0.069256,0.140331,False,No income,Other,0.181994,-0.053787
+bangladesh_sns,paper_split,Gemini 3.1 Pro,BPP,residence,2,159,0.062132,0.031868,0.075964,False,Urban Area,Rural Area,0.147071,-0.084938
+bangladesh_sns,paper_split,Gemini 3.1 Pro,DOP,gender,2,159,0.083393,0.040605,0.099927,False,Female,Male,0.153239,-0.069846
+bangladesh_sns,paper_split,Gemini 3.1 Pro,DOP,age_band,3,159,0.192972,0.09354,0.189399,True,Other,16-18,0.164318,0.028655
+bangladesh_sns,paper_split,Gemini 3.1 Pro,DOP,education,2,147,0.072527,0.045648,0.110822,False,Graduate or above,Secondary,0.087746,-0.015219
+bangladesh_sns,paper_split,Gemini 3.1 Pro,DOP,profession,4,159,0.23588,0.124951,0.227279,True,Student / unemployed,Other,0.143056,0.092824
+bangladesh_sns,paper_split,Gemini 3.1 Pro,DOP,monthly_income,3,159,0.145586,0.090144,0.184822,False,No income,Other,0.181994,-0.036408
+bangladesh_sns,paper_split,Gemini 3.1 Pro,DOP,residence,2,159,0.146783,0.040836,0.099926,True,Urban Area,Rural Area,0.147071,-0.000288
+bangladesh_sns,paper_split,Gemini 3.1 Pro,FPNP,gender,2,159,0.118886,0.032162,0.077822,True,Female,Male,0.153239,-0.034353
+bangladesh_sns,paper_split,Gemini 3.1 Pro,FPNP,age_band,3,159,0.121671,0.074545,0.14653,False,23+,16-18,0.164318,-0.042646
+bangladesh_sns,paper_split,Gemini 3.1 Pro,FPNP,education,2,147,0.056411,0.035788,0.087288,False,Graduate or above,Secondary,0.087746,-0.031335
+bangladesh_sns,paper_split,Gemini 3.1 Pro,FPNP,profession,4,159,0.165668,0.10182,0.185238,False,Student / unemployed,Business,0.143056,0.022612
+bangladesh_sns,paper_split,Gemini 3.1 Pro,FPNP,monthly_income,3,159,0.113328,0.072248,0.146326,False,No income,Other,0.181994,-0.068666
+bangladesh_sns,paper_split,Gemini 3.1 Pro,FPNP,residence,2,159,0.080491,0.032956,0.083273,False,Urban Area,Rural Area,0.147071,-0.06658
+bangladesh_sns,paper_split,Gemini 3.1 Pro,HC,gender,2,159,0.123589,0.03914,0.098328,True,Female,Male,0.153239,-0.02965
+bangladesh_sns,paper_split,Gemini 3.1 Pro,HC,age_band,3,159,0.115026,0.090525,0.179949,False,23+,16-18,0.164318,-0.049292
+bangladesh_sns,paper_split,Gemini 3.1 Pro,HC,education,2,147,0.069083,0.044961,0.11153,False,Graduate or above,Secondary,0.087746,-0.018663
+bangladesh_sns,paper_split,Gemini 3.1 Pro,HC,profession,4,159,0.092227,0.121814,0.220701,False,Student / unemployed,Business,0.143056,-0.050828
+bangladesh_sns,paper_split,Gemini 3.1 Pro,HC,monthly_income,3,159,0.172491,0.08768,0.176045,False,No income,Other,0.181994,-0.009503
+bangladesh_sns,paper_split,Gemini 3.1 Pro,HC,residence,2,159,0.057564,0.039374,0.097693,False,Urban Area,Rural Area,0.147071,-0.089506
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SADP,gender,2,159,0.122397,0.029343,0.070787,True,Female,Male,0.153239,-0.030843
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SADP,age_band,3,159,0.109386,0.066625,0.133641,False,23+,16-18,0.164318,-0.054932
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SADP,education,2,147,0.056877,0.033675,0.081549,False,Graduate or above,Secondary,0.087746,-0.030869
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SADP,profession,4,159,0.127778,0.089943,0.164704,False,Student / unemployed,Business,0.143056,-0.015278
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SADP,monthly_income,3,159,0.149076,0.06467,0.128596,True,No income,Other,0.181994,-0.032918
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SADP,residence,2,159,0.09077,0.028471,0.069841,True,Urban Area,Rural Area,0.147071,-0.0563
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SCP,gender,2,159,0.138414,0.032461,0.078378,True,Female,Male,0.153239,-0.014825
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SCP,age_band,3,159,0.083522,0.073977,0.144172,False,23+,16-18,0.164318,-0.080796
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SCP,education,2,147,0.04764,0.036583,0.088167,False,Graduate or above,Secondary,0.087746,-0.040106
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SCP,profession,4,159,0.202583,0.098743,0.173866,True,Student / unemployed,Business,0.143056,0.059527
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SCP,monthly_income,3,159,0.151009,0.072267,0.145542,True,No income,Other,0.181994,-0.030985
+bangladesh_sns,paper_split,Gemini 3.1 Pro,SCP,residence,2,159,0.053933,0.031989,0.080548,False,Urban Area,Rural Area,0.147071,-0.093138
+bangladesh_sns,paper_split,Gemini 3.1 Pro,TPSAP,gender,2,159,0.115713,0.029887,0.071476,True,Female,Male,0.153239,-0.037526
+bangladesh_sns,paper_split,Gemini 3.1 Pro,TPSAP,age_band,3,159,0.120742,0.064438,0.127304,False,23+,16-18,0.164318,-0.043576
+bangladesh_sns,paper_split,Gemini 3.1 Pro,TPSAP,education,2,147,0.072787,0.032342,0.07806,False,Graduate or above,Secondary,0.087746,-0.014959
+bangladesh_sns,paper_split,Gemini 3.1 Pro,TPSAP,profession,4,159,0.119469,0.089333,0.161489,False,Student / unemployed,Business,0.143056,-0.023587
+bangladesh_sns,paper_split,Gemini 3.1 Pro,TPSAP,monthly_income,3,159,0.142544,0.063614,0.128657,True,No income,Other,0.181994,-0.03945
+bangladesh_sns,paper_split,Gemini 3.1 Pro,TPSAP,residence,2,159,0.103959,0.028295,0.06993,True,Urban Area,Rural Area,0.147071,-0.043111
+bangladesh_sns,paper_split,Qwen3.8 27B,BPP,gender,2,159,0.150318,0.03247,0.080803,True,Female,Male,0.153239,-0.002921
+bangladesh_sns,paper_split,Qwen3.8 27B,BPP,age_band,3,159,0.119171,0.073186,0.144522,False,23+,16-18,0.164318,-0.045146
+bangladesh_sns,paper_split,Qwen3.8 27B,BPP,education,2,147,0.069836,0.038236,0.093566,False,Graduate or above,Secondary,0.087746,-0.01791
+bangladesh_sns,paper_split,Qwen3.8 27B,BPP,profession,4,159,0.20346,0.101728,0.187515,True,Student / unemployed,Business,0.143056,0.060404
+bangladesh_sns,paper_split,Qwen3.8 27B,BPP,monthly_income,3,159,0.157517,0.072802,0.144207,True,No income,Other,0.181994,-0.024477
+bangladesh_sns,paper_split,Qwen3.8 27B,BPP,residence,2,159,0.090449,0.033049,0.080764,True,Urban Area,Rural Area,0.147071,-0.056621
+bangladesh_sns,paper_split,Qwen3.8 27B,DOP,gender,2,159,0.128743,0.037543,0.091388,True,Female,Male,0.153239,-0.024497
+bangladesh_sns,paper_split,Qwen3.8 27B,DOP,age_band,3,159,0.220744,0.087263,0.173851,True,23+,16-18,0.164318,0.056426
+bangladesh_sns,paper_split,Qwen3.8 27B,DOP,education,2,147,0.218333,0.043653,0.108681,True,Graduate or above,Secondary,0.087746,0.130587
+bangladesh_sns,paper_split,Qwen3.8 27B,DOP,profession,4,159,0.115509,0.119391,0.215069,False,Student / unemployed,Other,0.143056,-0.027546
+bangladesh_sns,paper_split,Qwen3.8 27B,DOP,monthly_income,3,159,0.142143,0.08306,0.164687,False,No income,Other,0.181994,-0.039851
+bangladesh_sns,paper_split,Qwen3.8 27B,DOP,residence,2,159,0.253324,0.03937,0.096536,True,Urban Area,Rural Area,0.147071,0.106253
+bangladesh_sns,paper_split,Qwen3.8 27B,HC,gender,2,159,0.06199,0.036105,0.08939,False,Female,Male,0.153239,-0.091249
+bangladesh_sns,paper_split,Qwen3.8 27B,HC,age_band,3,159,0.096988,0.081972,0.163022,False,23+,16-18,0.164318,-0.06733
+bangladesh_sns,paper_split,Qwen3.8 27B,HC,education,2,147,0.031604,0.041425,0.098843,False,Graduate or above,Secondary,0.087746,-0.056141
+bangladesh_sns,paper_split,Qwen3.8 27B,HC,profession,4,159,0.099537,0.112237,0.20167,False,Student / unemployed,Private job,0.143056,-0.043519
+bangladesh_sns,paper_split,Qwen3.8 27B,HC,monthly_income,3,159,0.104013,0.078841,0.161303,False,No income,Other,0.181994,-0.077981
+bangladesh_sns,paper_split,Qwen3.8 27B,HC,residence,2,159,0.046041,0.037002,0.089043,False,Urban Area,Rural Area,0.147071,-0.10103
+bangladesh_sns,paper_split,Qwen3.8 27B,SADP,gender,2,159,0.101683,0.03686,0.09317,True,Female,Male,0.153239,-0.051557
+bangladesh_sns,paper_split,Qwen3.8 27B,SADP,age_band,3,159,0.141986,0.081045,0.163162,False,23+,Other,0.164318,-0.022332
+bangladesh_sns,paper_split,Qwen3.8 27B,SADP,education,2,147,0.080069,0.041132,0.101162,False,Graduate or above,Secondary,0.087746,-0.007677
+bangladesh_sns,paper_split,Qwen3.8 27B,SADP,profession,4,159,0.165741,0.108626,0.196993,False,Student / unemployed,Business,0.143056,0.022685
+bangladesh_sns,paper_split,Qwen3.8 27B,SADP,monthly_income,3,159,0.159215,0.079945,0.162988,False,No income,Other,0.181994,-0.022779
+bangladesh_sns,paper_split,Qwen3.8 27B,SADP,residence,2,159,0.102113,0.036639,0.087226,True,Urban Area,Rural Area,0.147071,-0.044957
+bangladesh_sns,paper_split,profile-center baseline,profile-center baseline,gender,2,159,0.153239,0.0336,0.081619,True,Female,Male,0.153239,0.0
+bangladesh_sns,paper_split,profile-center baseline,profile-center baseline,age_band,3,159,0.164318,0.074307,0.152202,True,23+,16-18,0.164318,0.0
+bangladesh_sns,paper_split,profile-center baseline,profile-center baseline,education,2,147,0.087746,0.036769,0.087746,False,Graduate or above,Secondary,0.087746,0.0
+bangladesh_sns,paper_split,profile-center baseline,profile-center baseline,profession,4,159,0.143056,0.101696,0.184118,False,Student / unemployed,Private job,0.143056,0.0
+bangladesh_sns,paper_split,profile-center baseline,profile-center baseline,monthly_income,3,159,0.181994,0.072608,0.145269,True,No income,Other,0.181994,0.0
+bangladesh_sns,paper_split,profile-center baseline,profile-center baseline,residence,2,159,0.147071,0.033997,0.083688,True,Urban Area,Rural Area,0.147071,0.0
+bangladesh_sns,repeated_splits,Claude Opus 4.6,BPP,gender,2,523,0.062329,0.015862,0.038369,True,Female,Male,0.054257,0.008072
+bangladesh_sns,repeated_splits,Claude Opus 4.6,BPP,age_band,4,523,0.137753,0.053656,0.098639,True,21-22,16-18,0.16336,-0.025607
+bangladesh_sns,repeated_splits,Claude Opus 4.6,BPP,education,3,522,0.082792,0.04408,0.092381,False,Graduate or above,Primary,0.111398,-0.028607
+bangladesh_sns,repeated_splits,Claude Opus 4.6,BPP,profession,5,523,0.110146,0.076912,0.142535,False,Student / unemployed,Other,0.098695,0.01145
+bangladesh_sns,repeated_splits,Claude Opus 4.6,BPP,monthly_income,4,523,0.121364,0.058433,0.110022,True,No income,"Above 70,000 Tk",0.123581,-0.002218
+bangladesh_sns,repeated_splits,Claude Opus 4.6,BPP,residence,2,523,0.025886,0.015366,0.037147,False,Urban Area,Rural Area,0.028805,-0.002919
+bangladesh_sns,repeated_splits,Claude Opus 4.6,DOP,gender,2,523,0.045302,0.020192,0.049241,False,Female,Male,0.054257,-0.008955
+bangladesh_sns,repeated_splits,Claude Opus 4.6,DOP,age_band,4,523,0.116798,0.07182,0.135529,False,21-22,16-18,0.16336,-0.046562
+bangladesh_sns,repeated_splits,Claude Opus 4.6,DOP,education,3,522,0.122961,0.058402,0.12157,True,Graduate or above,Primary,0.111398,0.011563
+bangladesh_sns,repeated_splits,Claude Opus 4.6,DOP,profession,5,523,0.130199,0.105753,0.19483,False,Student / unemployed,Other,0.098695,0.031504
+bangladesh_sns,repeated_splits,Claude Opus 4.6,DOP,monthly_income,4,523,0.1642,0.08142,0.152046,True,No income,"Above 70,000 Tk",0.123581,0.040619
+bangladesh_sns,repeated_splits,Claude Opus 4.6,DOP,residence,2,523,0.090981,0.02127,0.05126,True,Urban Area,Rural Area,0.028805,0.062176
+bangladesh_sns,repeated_splits,Claude Opus 4.6,HC,gender,2,523,0.005612,0.019162,0.046443,False,Female,Male,0.054257,-0.048646
+bangladesh_sns,repeated_splits,Claude Opus 4.6,HC,age_band,4,523,0.058703,0.06863,0.128437,False,21-22,16-18,0.16336,-0.104657
+bangladesh_sns,repeated_splits,Claude Opus 4.6,HC,education,3,522,0.040799,0.054131,0.11205,False,Graduate or above,Primary,0.111398,-0.0706
+bangladesh_sns,repeated_splits,Claude Opus 4.6,HC,profession,5,523,0.098002,0.097474,0.178915,False,Business,Other,0.098695,-0.000693
+bangladesh_sns,repeated_splits,Claude Opus 4.6,HC,monthly_income,4,523,0.088104,0.074289,0.142227,False,No income,"Above 70,000 Tk",0.123581,-0.035477
+bangladesh_sns,repeated_splits,Claude Opus 4.6,HC,residence,2,523,0.009761,0.020879,0.051758,False,Rural Area,Urban Area,0.028805,-0.019044
+bangladesh_sns,repeated_splits,Claude Opus 4.6,SADP,gender,2,523,0.05653,0.015315,0.037348,True,Female,Male,0.054257,0.002272
+bangladesh_sns,repeated_splits,Claude Opus 4.6,SADP,age_band,4,523,0.145843,0.054894,0.103119,True,21-22,16-18,0.16336,-0.017517
+bangladesh_sns,repeated_splits,Claude Opus 4.6,SADP,education,3,522,0.124359,0.044207,0.094284,True,Secondary,Primary,0.111398,0.01296
+bangladesh_sns,repeated_splits,Claude Opus 4.6,SADP,profession,5,523,0.102053,0.081344,0.148903,False,Student / unemployed,Other,0.098695,0.003358
+bangladesh_sns,repeated_splits,Claude Opus 4.6,SADP,monthly_income,4,523,0.107179,0.059212,0.113534,False,No income,"Above 70,000 Tk",0.123581,-0.016402
+bangladesh_sns,repeated_splits,Claude Opus 4.6,SADP,residence,2,523,0.025864,0.016468,0.041249,False,Urban Area,Rural Area,0.028805,-0.002941
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,BPP,gender,2,523,0.052826,0.014917,0.036687,True,Female,Male,0.054257,-0.001431
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,BPP,age_band,4,523,0.13022,0.052305,0.094197,True,21-22,16-18,0.16336,-0.033139
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,BPP,education,3,522,0.069615,0.041183,0.088456,False,Graduate or above,Primary,0.111398,-0.041783
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,BPP,profession,5,523,0.0793,0.074645,0.139104,False,Student / unemployed,Other,0.098695,-0.019396
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,BPP,monthly_income,4,523,0.076042,0.057532,0.110587,False,No income,"Above 70,000 Tk",0.123581,-0.04754
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,BPP,residence,2,523,0.017861,0.015639,0.038022,False,Urban Area,Rural Area,0.028805,-0.010944
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,DOP,gender,2,523,0.049677,0.020159,0.048135,True,Female,Male,0.054257,-0.00458
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,DOP,age_band,4,523,0.122881,0.073454,0.134528,False,21-22,16-18,0.16336,-0.040478
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,DOP,education,3,522,0.120527,0.055667,0.114638,True,Graduate or above,Primary,0.111398,0.009129
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,DOP,profession,5,523,0.139819,0.10151,0.18538,False,Student / unemployed,Other,0.098695,0.041124
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,DOP,monthly_income,4,523,0.159557,0.077432,0.145496,True,"40,000-70,000 Tk","Above 70,000 Tk",0.123581,0.035976
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,DOP,residence,2,523,0.080656,0.021089,0.051948,True,Urban Area,Rural Area,0.028805,0.051851
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,HC,gender,2,523,0.01763,0.019412,0.046851,False,Female,Male,0.054257,-0.036627
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,HC,age_band,4,523,0.051976,0.067561,0.124014,False,21-22,16-18,0.16336,-0.111384
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,HC,education,3,522,0.057444,0.052795,0.111202,False,Secondary,Primary,0.111398,-0.053954
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,HC,profession,5,523,0.087631,0.098234,0.183624,False,Student / unemployed,Other,0.098695,-0.011065
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,HC,monthly_income,4,523,0.088102,0.073777,0.142002,False,No income,"Above 70,000 Tk",0.123581,-0.035479
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,HC,residence,2,523,0.010356,0.019864,0.047879,False,Urban Area,Rural Area,0.028805,-0.018449
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,SADP,gender,2,523,0.049366,0.016401,0.039048,True,Female,Male,0.054257,-0.004891
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,SADP,age_band,4,523,0.141348,0.057037,0.104721,True,21-22,16-18,0.16336,-0.022011
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,SADP,education,3,522,0.081382,0.044211,0.09408,False,Secondary,Primary,0.111398,-0.030016
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,SADP,profession,5,523,0.103451,0.080818,0.151619,False,Student / unemployed,Other,0.098695,0.004755
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,SADP,monthly_income,4,523,0.09604,0.061738,0.117231,False,No income,"Above 70,000 Tk",0.123581,-0.027541
+bangladesh_sns,repeated_splits,DeepSeek V4.1 Flash,SADP,residence,2,523,0.008018,0.016767,0.041675,False,Urban Area,Rural Area,0.028805,-0.020787
+bangladesh_sns,repeated_splits,GPT-5.4,BBP,gender,2,523,0.052592,0.014682,0.03615,True,Female,Male,0.054257,-0.001665
+bangladesh_sns,repeated_splits,GPT-5.4,BBP,age_band,4,523,0.129182,0.05257,0.098892,True,21-22,16-18,0.16336,-0.034177
+bangladesh_sns,repeated_splits,GPT-5.4,BBP,education,3,522,0.063481,0.042289,0.090101,False,Graduate or above,Primary,0.111398,-0.047917
+bangladesh_sns,repeated_splits,GPT-5.4,BBP,profession,5,523,0.067456,0.074139,0.135858,False,Student / unemployed,Other,0.098695,-0.031239
+bangladesh_sns,repeated_splits,GPT-5.4,BBP,monthly_income,4,523,0.063249,0.05767,0.111962,False,No income,"Above 70,000 Tk",0.123581,-0.060333
+bangladesh_sns,repeated_splits,GPT-5.4,BBP,residence,2,523,0.015034,0.015464,0.037511,False,Urban Area,Rural Area,0.028805,-0.013771
+bangladesh_sns,repeated_splits,GPT-5.4,BPP,gender,2,523,0.056393,0.014221,0.035166,True,Female,Male,0.054257,0.002136
+bangladesh_sns,repeated_splits,GPT-5.4,BPP,age_band,4,523,0.115349,0.050112,0.093631,True,21-22,16-18,0.16336,-0.04801
+bangladesh_sns,repeated_splits,GPT-5.4,BPP,education,3,522,0.06216,0.039349,0.082561,False,Secondary,Primary,0.111398,-0.049239
+bangladesh_sns,repeated_splits,GPT-5.4,BPP,profession,5,523,0.080318,0.07133,0.133527,False,Student / unemployed,Private job,0.098695,-0.018377
+bangladesh_sns,repeated_splits,GPT-5.4,BPP,monthly_income,4,523,0.098019,0.055274,0.106822,False,No income,"Above 70,000 Tk",0.123581,-0.025562
+bangladesh_sns,repeated_splits,GPT-5.4,BPP,residence,2,523,0.01028,0.01486,0.035962,False,Urban Area,Rural Area,0.028805,-0.018525
+bangladesh_sns,repeated_splits,GPT-5.4,DOP,gender,2,523,0.066464,0.022027,0.056211,True,Female,Male,0.054257,0.012207
+bangladesh_sns,repeated_splits,GPT-5.4,DOP,age_band,4,523,0.147519,0.077215,0.140821,True,21-22,16-18,0.16336,-0.01584
+bangladesh_sns,repeated_splits,GPT-5.4,DOP,education,3,522,0.142816,0.061546,0.12918,True,Graduate or above,Primary,0.111398,0.031418
+bangladesh_sns,repeated_splits,GPT-5.4,DOP,profession,5,523,0.163834,0.107439,0.20271,False,Student / unemployed,Other,0.098695,0.065139
+bangladesh_sns,repeated_splits,GPT-5.4,DOP,monthly_income,4,523,0.147652,0.08364,0.160563,False,"40,000-70,000 Tk","Above 70,000 Tk",0.123581,0.024071
+bangladesh_sns,repeated_splits,GPT-5.4,DOP,residence,2,523,0.090687,0.022472,0.055456,True,Urban Area,Rural Area,0.028805,0.061882
+bangladesh_sns,repeated_splits,GPT-5.4,FPNP,gender,2,523,0.066199,0.01424,0.034162,True,Female,Male,0.054257,0.011942
+bangladesh_sns,repeated_splits,GPT-5.4,FPNP,age_band,4,523,0.127596,0.050775,0.094576,True,21-22,16-18,0.16336,-0.035764
+bangladesh_sns,repeated_splits,GPT-5.4,FPNP,education,3,522,0.066396,0.040507,0.084012,False,Graduate or above,Primary,0.111398,-0.045002
+bangladesh_sns,repeated_splits,GPT-5.4,FPNP,profession,5,523,0.075252,0.072081,0.135074,False,Student / unemployed,Private job,0.098695,-0.023443
+bangladesh_sns,repeated_splits,GPT-5.4,FPNP,monthly_income,4,523,0.106612,0.05383,0.102253,True,No income,"Above 70,000 Tk",0.123581,-0.016969
+bangladesh_sns,repeated_splits,GPT-5.4,FPNP,residence,2,523,0.012684,0.014763,0.036727,False,Urban Area,Rural Area,0.028805,-0.016121
+bangladesh_sns,repeated_splits,GPT-5.4,HC,gender,2,523,0.03113,0.019801,0.050554,False,Female,Male,0.054257,-0.023127
+bangladesh_sns,repeated_splits,GPT-5.4,HC,age_band,4,523,0.047788,0.069366,0.128107,False,23+,16-18,0.16336,-0.115572
+bangladesh_sns,repeated_splits,GPT-5.4,HC,education,3,522,0.034979,0.055545,0.120795,False,Graduate or above,Primary,0.111398,-0.07642
+bangladesh_sns,repeated_splits,GPT-5.4,HC,profession,5,523,0.080303,0.097999,0.182666,False,Business,Government job,0.098695,-0.018392
+bangladesh_sns,repeated_splits,GPT-5.4,HC,monthly_income,4,523,0.076799,0.073923,0.139543,False,No income,"Above 70,000 Tk",0.123581,-0.046782
+bangladesh_sns,repeated_splits,GPT-5.4,HC,residence,2,523,0.027102,0.020148,0.047397,False,Urban Area,Rural Area,0.028805,-0.001702
+bangladesh_sns,repeated_splits,GPT-5.4,SADP,gender,2,523,0.048876,0.01522,0.037406,True,Female,Male,0.054257,-0.005381
+bangladesh_sns,repeated_splits,GPT-5.4,SADP,age_band,4,523,0.158926,0.053429,0.100083,True,21-22,16-18,0.16336,-0.004434
+bangladesh_sns,repeated_splits,GPT-5.4,SADP,education,3,522,0.12045,0.041378,0.086857,True,Graduate or above,Primary,0.111398,0.009052
+bangladesh_sns,repeated_splits,GPT-5.4,SADP,profession,5,523,0.102074,0.076177,0.140271,False,Student / unemployed,Other,0.098695,0.003379
+bangladesh_sns,repeated_splits,GPT-5.4,SADP,monthly_income,4,523,0.086842,0.057999,0.106655,False,No income,"Above 70,000 Tk",0.123581,-0.036739
+bangladesh_sns,repeated_splits,GPT-5.4,SADP,residence,2,523,0.030509,0.015514,0.038346,False,Urban Area,Rural Area,0.028805,0.001704
+bangladesh_sns,repeated_splits,GPT-5.4,SCP,gender,2,523,0.059809,0.014477,0.035691,True,Female,Male,0.054257,0.005552
+bangladesh_sns,repeated_splits,GPT-5.4,SCP,age_band,4,523,0.127992,0.050531,0.091317,True,21-22,16-18,0.16336,-0.035367
+bangladesh_sns,repeated_splits,GPT-5.4,SCP,education,3,522,0.064412,0.040296,0.083888,False,Secondary,Primary,0.111398,-0.046986
+bangladesh_sns,repeated_splits,GPT-5.4,SCP,profession,5,523,0.090733,0.072055,0.135433,False,Student / unemployed,Other,0.098695,-0.007963
+bangladesh_sns,repeated_splits,GPT-5.4,SCP,monthly_income,4,523,0.089691,0.053538,0.100551,False,No income,"Above 70,000 Tk",0.123581,-0.03389
+bangladesh_sns,repeated_splits,GPT-5.4,SCP,residence,2,523,0.012423,0.014722,0.035696,False,Urban Area,Rural Area,0.028805,-0.016382
+bangladesh_sns,repeated_splits,GPT-5.4,TPSAP,gender,2,523,0.048555,0.015635,0.03804,True,Female,Male,0.054257,-0.005702
+bangladesh_sns,repeated_splits,GPT-5.4,TPSAP,age_band,4,523,0.167725,0.054276,0.102351,True,21-22,16-18,0.16336,0.004365
+bangladesh_sns,repeated_splits,GPT-5.4,TPSAP,education,3,522,0.11327,0.043433,0.091258,True,Secondary,Primary,0.111398,0.001872
+bangladesh_sns,repeated_splits,GPT-5.4,TPSAP,profession,5,523,0.109151,0.077734,0.143534,False,Student / unemployed,Other,0.098695,0.010455
+bangladesh_sns,repeated_splits,GPT-5.4,TPSAP,monthly_income,4,523,0.116845,0.058174,0.109372,True,No income,"Above 70,000 Tk",0.123581,-0.006736
+bangladesh_sns,repeated_splits,GPT-5.4,TPSAP,residence,2,523,0.020024,0.016039,0.039547,False,Urban Area,Rural Area,0.028805,-0.008781
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,BPP,gender,2,523,0.06608,0.01563,0.038282,True,Female,Male,0.054257,0.011823
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,BPP,age_band,4,523,0.124984,0.056267,0.105102,True,21-22,16-18,0.16336,-0.038375
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,BPP,education,3,522,0.065305,0.045024,0.095187,False,Secondary,Primary,0.111398,-0.046093
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,BPP,profession,5,523,0.086461,0.081422,0.15155,False,Government job,Private job,0.098695,-0.012234
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,BPP,monthly_income,4,523,0.066211,0.060798,0.11656,False,No income,"Above 70,000 Tk",0.123581,-0.05737
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,BPP,residence,2,523,0.022369,0.016692,0.040376,False,Rural Area,Urban Area,0.028805,-0.006436
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,DOP,gender,2,523,0.036794,0.02212,0.055049,False,Female,Male,0.054257,-0.017463
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,DOP,age_band,4,523,0.139177,0.079337,0.142419,False,21-22,16-18,0.16336,-0.024183
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,DOP,education,3,522,0.133655,0.062006,0.132081,True,Graduate or above,Primary,0.111398,0.022257
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,DOP,profession,5,523,0.160701,0.110594,0.200872,False,Student / unemployed,Other,0.098695,0.062006
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,DOP,monthly_income,4,523,0.175376,0.085028,0.159822,True,No income,"Above 70,000 Tk",0.123581,0.051794
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,DOP,residence,2,523,0.075893,0.02215,0.055056,True,Urban Area,Rural Area,0.028805,0.047088
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,HC,gender,2,523,0.020689,0.019994,0.048118,False,Female,Male,0.054257,-0.033568
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,HC,age_band,4,523,0.039658,0.070456,0.128824,False,21-22,16-18,0.16336,-0.123702
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,HC,education,3,522,0.029607,0.055147,0.116229,False,Secondary,Primary,0.111398,-0.081791
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,HC,profession,5,523,0.114457,0.099056,0.18271,False,Business,Government job,0.098695,0.015762
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,HC,monthly_income,4,523,0.101209,0.074922,0.143378,False,No income,"Above 70,000 Tk",0.123581,-0.022372
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,HC,residence,2,523,0.011862,0.020519,0.050627,False,Rural Area,Urban Area,0.028805,-0.016943
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,SADP,gender,2,523,0.05508,0.015632,0.038314,True,Female,Male,0.054257,0.000823
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,SADP,age_band,4,523,0.134369,0.055255,0.101258,True,21-22,16-18,0.16336,-0.02899
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,SADP,education,3,522,0.095903,0.043201,0.090915,True,Secondary,Primary,0.111398,-0.015495
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,SADP,profession,5,523,0.107983,0.078819,0.148573,False,Student / unemployed,Other,0.098695,0.009287
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,SADP,monthly_income,4,523,0.102664,0.059368,0.115575,False,No income,"Above 70,000 Tk",0.123581,-0.020917
+bangladesh_sns,repeated_splits,Gemini 3.1 Pro,SADP,residence,2,523,0.003346,0.01536,0.037415,False,Urban Area,Rural Area,0.028805,-0.025459
+bangladesh_sns,repeated_splits,Qwen3.8 27B,BPP,gender,2,523,0.078818,0.019348,0.047285,True,Female,Male,0.054257,0.024561
+bangladesh_sns,repeated_splits,Qwen3.8 27B,BPP,age_band,4,523,0.083555,0.070158,0.127802,False,21-22,23+,0.16336,-0.079804
+bangladesh_sns,repeated_splits,Qwen3.8 27B,BPP,education,3,522,0.045958,0.054441,0.118106,False,Secondary,Graduate or above,0.111398,-0.06544
+bangladesh_sns,repeated_splits,Qwen3.8 27B,BPP,profession,5,523,0.116957,0.098475,0.184682,False,Government job,Private job,0.098695,0.018261
+bangladesh_sns,repeated_splits,Qwen3.8 27B,BPP,monthly_income,4,523,0.061067,0.073266,0.137701,False,No income,"Above 70,000 Tk",0.123581,-0.062514
+bangladesh_sns,repeated_splits,Qwen3.8 27B,BPP,residence,2,523,0.045351,0.020173,0.049508,False,Rural Area,Urban Area,0.028805,0.016546
+bangladesh_sns,repeated_splits,Qwen3.8 27B,DOP,gender,2,523,0.074925,0.021603,0.054497,True,Female,Male,0.054257,0.020668
+bangladesh_sns,repeated_splits,Qwen3.8 27B,DOP,age_band,4,523,0.187756,0.077115,0.140216,True,21-22,16-18,0.16336,0.024397
+bangladesh_sns,repeated_splits,Qwen3.8 27B,DOP,education,3,522,0.168866,0.060355,0.128496,True,Graduate or above,Primary,0.111398,0.057468
+bangladesh_sns,repeated_splits,Qwen3.8 27B,DOP,profession,5,523,0.129254,0.108259,0.206915,False,Student / unemployed,Other,0.098695,0.030559
+bangladesh_sns,repeated_splits,Qwen3.8 27B,DOP,monthly_income,4,523,0.135036,0.082661,0.158867,False,No income,"Above 70,000 Tk",0.123581,0.011455
+bangladesh_sns,repeated_splits,Qwen3.8 27B,DOP,residence,2,523,0.123146,0.022268,0.055512,True,Urban Area,Rural Area,0.028805,0.094341
+bangladesh_sns,repeated_splits,Qwen3.8 27B,HC,gender,2,523,0.005205,0.019374,0.047432,False,Female,Male,0.054257,-0.049052
+bangladesh_sns,repeated_splits,Qwen3.8 27B,HC,age_band,4,523,0.037994,0.069944,0.12702,False,21-22,16-18,0.16336,-0.125366
+bangladesh_sns,repeated_splits,Qwen3.8 27B,HC,education,3,522,0.036454,0.054675,0.112468,False,Secondary,Primary,0.111398,-0.074945
+bangladesh_sns,repeated_splits,Qwen3.8 27B,HC,profession,5,523,0.09154,0.10016,0.19147,False,Business,Government job,0.098695,-0.007155
+bangladesh_sns,repeated_splits,Qwen3.8 27B,HC,monthly_income,4,523,0.08611,0.075729,0.143703,False,No income,"Above 70,000 Tk",0.123581,-0.037471
+bangladesh_sns,repeated_splits,Qwen3.8 27B,HC,residence,2,523,0.00167,0.020281,0.049465,False,Rural Area,Urban Area,0.028805,-0.027135
+bangladesh_sns,repeated_splits,Qwen3.8 27B,SADP,gender,2,523,0.069064,0.024691,0.059346,True,Female,Male,0.054257,0.014807
+bangladesh_sns,repeated_splits,Qwen3.8 27B,SADP,age_band,4,523,0.135072,0.08668,0.159308,False,21-22,23+,0.16336,-0.028287
+bangladesh_sns,repeated_splits,Qwen3.8 27B,SADP,education,3,522,0.044239,0.068287,0.145716,False,Primary,Graduate or above,0.111398,-0.067159
+bangladesh_sns,repeated_splits,Qwen3.8 27B,SADP,profession,5,523,0.15221,0.123372,0.23099,False,Government job,Private job,0.098695,0.053515
+bangladesh_sns,repeated_splits,Qwen3.8 27B,SADP,monthly_income,4,523,0.017149,0.09314,0.175,False,No income,"Above 70,000 Tk",0.123581,-0.106432
+bangladesh_sns,repeated_splits,Qwen3.8 27B,SADP,residence,2,523,0.070934,0.025453,0.061309,True,Rural Area,Urban Area,0.028805,0.042129
+bangladesh_sns,repeated_splits,profile-center baseline,profile-center baseline,gender,2,523,0.054257,0.017068,0.042278,True,Female,Male,0.054257,0.0
+bangladesh_sns,repeated_splits,profile-center baseline,profile-center baseline,age_band,4,523,0.16336,0.060002,0.11141,True,21-22,16-18,0.16336,0.0
+bangladesh_sns,repeated_splits,profile-center baseline,profile-center baseline,education,3,522,0.111398,0.048352,0.100555,True,Secondary,Primary,0.111398,0.0
+bangladesh_sns,repeated_splits,profile-center baseline,profile-center baseline,profession,5,523,0.098695,0.087055,0.16297,False,Student / unemployed,Other,0.098695,0.0
+bangladesh_sns,repeated_splits,profile-center baseline,profile-center baseline,monthly_income,4,523,0.123581,0.066793,0.125145,False,No income,"Above 70,000 Tk",0.123581,0.0
+bangladesh_sns,repeated_splits,profile-center baseline,profile-center baseline,residence,2,523,0.028805,0.017347,0.041684,False,Urban Area,Rural Area,0.028805,0.0

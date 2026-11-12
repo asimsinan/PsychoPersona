@@ -1,0 +1,73 @@
+{
+  "scale_mean_deltas": {
+    "ucla_loneliness_mean": 0.13749999999999996,
+    "phq9_mean": 0.040277777777777635,
+    "gad7_mean": 0.1053571428571426
+  },
+  "scale_std_deltas": {
+    "ucla_loneliness_mean": 0.33745795719981475,
+    "phq9_mean": 0.20480206815823088,
+    "gad7_mean": 0.2388345991724572
+  },
+  "correlation_rmse": 0.4166232337417546,
+  "regression_deltas": {
+    "gad7_on_phq9": 0.3210200045187772,
+    "ucla_on_phq9": 0.12195306792404903
+  },
+  "standardized_regression_deltas": {
+    "gad7_on_phq9": 0.27798147228937664,
+    "ucla_on_phq9": 0.44329079191951204
+  },
+  "profile_recovery_accuracy": 0.7375,
+  "within_profile_scale_rmse": 0.2166723516738452,
+  "item_mean_deltas": {
+    "ucla_item_01": 0.025000000000000133,
+    "ucla_item_02": 0.13750000000000018,
+    "ucla_item_03": 0.03749999999999987,
+    "ucla_item_04": 0.11249999999999982,
+    "ucla_item_05": 0.17500000000000004,
+    "ucla_item_06": 0.09999999999999987,
+    "ucla_item_07": 0.4624999999999999,
+    "ucla_item_08": 0.44999999999999996,
+    "phq9_item_01": 0.125,
+    "phq9_item_02": 0.03749999999999987,
+    "phq9_item_03": 0.23750000000000004,
+    "phq9_item_04": 0.125,
+    "phq9_item_05": 0.6125,
+    "phq9_item_06": 0.23750000000000004,
+    "phq9_item_07": 0.11250000000000004,
+    "phq9_item_08": 0.45000000000000007,
+    "phq9_item_09": 0.17500000000000002,
+    "gad7_item_01": 0.4125000000000001,
+    "gad7_item_02": 0.10000000000000009,
+    "gad7_item_03": 0.07499999999999996,
+    "gad7_item_04": 0.44999999999999996,
+    "gad7_item_05": 0.46249999999999997,
+    "gad7_item_06": 0.25,
+    "gad7_item_07": 0.08750000000000002
+  },
+  "nonlinear_deltas": {
+    "gad7_on_phq9_linear": 0.3283804472858208,
+    "gad7_on_phq9_quadratic": 0.0010461985471227342,
+    "ucla_on_phq9_linear": 0.31063057344104417,
+    "ucla_on_phq9_quadratic": 0.07461597636802214
+  },
+  "response_pattern_diversity": {
+    "human_unique_ratio": 1.0,
+    "simulated_unique_ratio": 0.4875,
+    "absolute_delta": 0.5125
+  },
+  "subgroup_rmse": {
+    "gender": 0.11384904544659635,
+    "education": 0.13650363895103507,
+    "usage_band": 0.17640587930933915,
+    "profile_id": 0.2166723516738452
+  },
+  "individual_level_metrics": {
+    "aligned_respondent_count": 80.0,
+    "respondent_scale_rmse_mean": 0.47407044781065233,
+    "respondent_item_mae_mean": 0.7083333333333333,
+    "respondent_item_exact_match_mean": 0.3963541666666667,
+    "respondent_item_all_match_ratio": 0.0
+  }
+}

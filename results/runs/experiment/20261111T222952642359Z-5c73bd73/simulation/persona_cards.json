@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low Distress, Low Loneliness",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, showing low loneliness and minimal depressive and anxiety symptoms.",
+    "demographic_anchor": "Male, graduate or above, 1–3 hours (daily activity)",
+    "behavior_markers": [
+      "Low loneliness (UCLA-8 mean 0.78)",
+      "Low depressive symptoms (PHQ-9 mean 0.25)",
+      "Minimal anxiety symptoms (GAD-7 mean 0.04)",
+      "Moderate daily activity of 1–3 hours"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Distress Profile",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily screen or device use, showing elevated loneliness, depressive symptoms, and anxiety symptoms relative to the broader sample.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily use.",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 (mean 1.69).",
+      "Reports higher depressive symptoms on the PHQ-9 (mean 1.68).",
+      "Reports higher anxiety symptoms on the GAD-7 (mean 2.15).",
+      "Spends more than 5 hours per day on the measured activity."
+    ],
+    "tone": "Cautious, clinically neutral, and evidence-grounded; describes elevated symptom levels without diagnostic claims."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Female Graduate Profile",
+    "summary": "A female respondent with graduate-level education and 1–3 hours of daily activity, showing low loneliness and low depressive and anxiety symptoms on average.",
+    "demographic_anchor": "Female; graduate degree or above; 1–3 hours of daily activity.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.22)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.82)",
+      "Reports low anxiety symptoms (GAD-7 mean 0.83)",
+      "Engages in 1–3 hours of daily activity"
+    ],
+    "tone": "Calm, stable, and low-distress; measured and composed in self-report."
+  }
+]

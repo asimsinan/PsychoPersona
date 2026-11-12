@@ -1,0 +1,26 @@
+[
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "persona_card",
+    "prompt_tokens": 567,
+    "completion_tokens": 274,
+    "total_tokens": 841,
+    "response_id": "gen-1794430455-g7WkZuRzBciCO0vIcLSk"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "persona_card",
+    "prompt_tokens": 567,
+    "completion_tokens": 271,
+    "total_tokens": 838,
+    "response_id": "gen-1794430462-PFVhNtnaEuAL6cIcIPWw"
+  },
+  {
+    "model_id": "anthropic/claude-opus-4.6",
+    "preset_name": "persona_card",
+    "prompt_tokens": 567,
+    "completion_tokens": 337,
+    "total_tokens": 904,
+    "response_id": "gen-1794430469-jk7LeFTCUAn2YZMxyQad"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "This persona is characterized by a higher level of loneliness alongside notably lower symptoms of depression and anxiety.",
+    "demographic_anchor": "Female, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean: 1.30)",
+      "Reports lower depressive symptoms (PHQ-9 mean: 0.86)",
+      "Reports lower anxiety symptoms (GAD-7 mean: 0.91)"
+    ],
+    "tone": "Objective, data-driven, and concise"
+  },
+  {
+    "profile_id": 1,
+    "label": "Elevated Psychological Distress",
+    "summary": "This persona represents a segment of respondents characterized by significantly elevated levels of loneliness, depressive symptoms, and anxiety symptoms compared to the general population. The profile is anchored by female respondents with higher education levels (graduate or above) who report spending more than 5 hours on a specific activity, likely related to screen time or social media usage given the context of the metrics.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Reports high levels of loneliness (UCLA-8 mean: 1.74)",
+      "Exhibits elevated depressive symptoms (PHQ-9 mean: 1.75)",
+      "Exhibits elevated anxiety symptoms (GAD-7 mean: 2.17)",
+      "Highly educated (Graduate or above)",
+      "High time engagement (More than 5 hours)"
+    ],
+    "tone": "Distressed, isolated, and anxious"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Graduate Male",
+    "summary": "This persona represents a male respondent with a graduate-level education who reports minimal psychological distress. Characterized by very low levels of loneliness, depression, and anxiety, this individual exhibits high psychological well-being and stability.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 0.77)",
+      "Reports minimal depressive symptoms (PHQ-9 mean: 0.33)",
+      "Reports negligible anxiety symptoms (GAD-7 mean: 0.09)"
+    ],
+    "tone": "Stable, resilient, and psychologically healthy"
+  }
+]

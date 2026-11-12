@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanımın görece yüksek, sosyal kaygının yüksek ve iyi oluş düzeyinin daha düşük seyrettiği bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.21 ile görece yüksektir.",
+      "Sosyal kaygı ortalaması 3.19 ile yüksektir.",
+      "İyi oluş ortalaması 3.04 ile görece daha düşüktür.",
+      "Profil, eğitim örnekleminde 144 kişiyle gözlenmiştir."
+    ],
+    "tone": "Veri temelli, dikkatli ve destekleyici"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım ve daha düşük sosyal kaygı ile birlikte daha yüksek iyi oluş düzeyi gösteren profil.",
+    "demographic_anchor": "Erkek, ön lisans düzeyi, günlük 4-6 saatlik kullanım örüntüsü.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece düşüktür (2.70).",
+      "Sosyal kaygı ortalaması düşüktür (2.00).",
+      "İyi oluş ortalaması yüksektir (3.86).",
+      "Eğitim örnekleminde 342 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Dengeli, daha az sorunlu dijital kullanım örüntüsü ve görece güçlü psikolojik iyi oluş ile tanımlanan bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi düşük, sosyal kaygı düzeyi düşük ve iyi oluş düzeyi de düşük olan bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde 51 kişiden oluşur; baskın demografik dayanak erkek, ön lisans öğrencisi ve günlük 4-6 saat kullanım örüntüsüdür.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.64).",
+      "Sosyal kaygı ortalaması düşüktür (1.59).",
+      "İyi oluş ortalaması düşüktür (1.57).",
+      "Profil, düşük dijital kullanım ile birlikte düşük sosyal kaygı ve düşük iyi oluş örüntüsü sergiler."
+    ],
+    "tone": "Temkinli, veri temelli ve düşük yoğunluklu risk göstergelerine odaklanan bir profil tonu."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı düzeyi daha düşük ve iyi oluş düzeyi daha yüksek görülen öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günde 4-6 saat medya kullanan öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.79'dur.",
+      "Sosyal kaygı ortalaması 2.30'dur.",
+      "İyi oluş ortalaması 3.49'dur.",
+      "Günlük medya kullanım süresinin orta noktası 5.0 saattir.",
+      "Eğitim örnekleminde bu profile ait 271 kişi bulunmaktadır."
+    ],
+    "tone": "Dijital açıdan aktif, sosyal kaygısı görece düşük ve iyi oluş göstergeleri daha güçlü bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve görece daha düşük iyi oluş düzeyiyle karakterize edilen bir öğrenci profili. Bu profilde dijital bağımlılık ortalaması 2.47, sosyal kaygı ortalaması 2.23 ve iyi oluş ortalaması 3.41'dir. Günlük medya kullanım süresinin orta noktası 1.5 saat olup düşük kullanım düzeyine işaret eder.",
+    "demographic_anchor": "Ağırlıklı demografik dayanak: erkek, ön lisans öğrencisi ve günlük 0-3 saat medya kullanımı.",
+    "behavior_markers": [
+      "Dijital bağımlılık düzeyi düşüktür (ortalama: 2.47).",
+      "Sosyal kaygı düzeyi düşüktür (ortalama: 2.23).",
+      "İyi oluş düzeyi görece daha düşüktür (ortalama: 3.41).",
+      "Günlük medya kullanımı düşük düzeydedir (orta nokta: 1.5 saat).",
+      "Eğitim örnekleminde 168 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Temkinli, düşük yoğunluklu dijital kullanım sergileyen ve sosyal açıdan daha az kaygılı; ancak iyi oluş açısından ek destek ihtimali taşıyan bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi daha yüksek, sosyal kaygı ortalaması görece yüksek ve iyi oluş ortalaması daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Ağırlıklı olarak kadın, ön lisans düzeyinde ve günde 7-9 saat medya kullanan öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.04 düzeyindedir.",
+      "Sosyal kaygı ortalaması 2.57'dir.",
+      "İyi oluş ortalaması 3.28'dir.",
+      "Günlük medya kullanım süresi orta noktası 8 saattir.",
+      "Eğitim örnekleminde 70 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Yoğun dijital etkileşim gösteren, sosyal açıdan daha kaygılı ve iyi oluş açısından daha kırılgan bir profil."
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması daha yüksek ve iyi oluş ortalaması daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Ağırlıklı olarak erkek, ön lisans düzeyinde ve günlük medya kullanımı 10 saat ve üzeri olan öğrenciler.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.24",
+      "Sosyal kaygı ortalaması 2.34",
+      "İyi oluş ortalaması 3.39",
+      "Günlük medya kullanım süresi orta noktası 10.0 saat",
+      "Eğitim örnekleminde 28 kişi ile temsil edilmektedir"
+    ],
+    "tone": "Veri temelli, risk göstergeleri öne çıkan ve dikkat gerektiren bir profil"
+  }
+]

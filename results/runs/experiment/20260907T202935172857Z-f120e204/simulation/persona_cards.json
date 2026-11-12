@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı düzeyi daha düşük ve iyi oluş düzeyi daha yüksek görülen öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.73'tür.",
+      "Sosyal kaygı ortalaması 2.05'tir.",
+      "İyi oluş ortalaması 3.85'tir.",
+      "Eğitim örnekleminde bu profile ait 348 kişi bulunmaktadır."
+    ],
+    "tone": "Dijital araçları sık kullanan, sosyal açıdan daha az kaygı yaşayan ve genel iyi oluşu daha yüksek bir öğrenci profili."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı ortalaması düşük ve iyi oluş düzeyi de düşük görünen bir öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saat kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.56).",
+      "Sosyal kaygı ortalaması düşüktür (1.58).",
+      "İyi oluş ortalaması düşüktür (1.57).",
+      "Eğitim örnekleminde 54 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Daha sınırlı dijital kullanım ve düşük sosyal kaygıyla birlikte düşük iyi oluş göstergeleri taşıyan dengeli fakat kırılgan bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Demografik olarak en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım grubunda temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.19",
+      "Sosyal kaygı ortalaması 3.11",
+      "İyi oluş ortalaması 2.99",
+      "Eğitim örnekleminde 135 kişi ile temsil edilmektedir"
+    ],
+    "tone": "Veri temelli, dikkatli ve destekleyici"
+  }
+]

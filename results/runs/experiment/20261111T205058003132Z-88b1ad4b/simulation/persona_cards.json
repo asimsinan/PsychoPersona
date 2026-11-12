@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı düzeyi görece düşük ve iyi oluş düzeyi görece yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.73'tür.",
+      "Sosyal kaygı ortalaması 2.05'tir.",
+      "İyi oluş ortalaması 3.85'tir.",
+      "Örneklemde bu profile ait 348 kişi bulunmaktadır."
+    ],
+    "tone": "Veri temelli, dengeli ve işlevsel; dijital kullanımı yüksek olsa da sosyal açıdan daha rahat ve iyi oluşu güçlü bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım eğilimi, sosyal kaygı ve iyi oluş düzeyi görece düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.56).",
+      "Sosyal kaygı ortalaması düşüktür (1.58).",
+      "İyi oluş ortalaması düşüktür (1.57).",
+      "Profil, eğitim örnekleminde 54 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Dengeli, düşük yoğunluklu dijital kullanım ve düşük sosyal kaygı gösteren; ancak iyi oluş düzeyi de düşük seyreden bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük seyreden öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren katılımcılarla temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.19'dur.",
+      "Sosyal kaygı ortalaması 3.11'dir.",
+      "İyi oluş ortalaması 2.99'dur.",
+      "Eğitim örnekleminde bu profile atanan kişi sayısı 135'tir."
+    ],
+    "tone": "Dijital etkileşimi yoğun, sosyal açıdan daha kaygılı ve iyi oluş düzeyi görece kırılgan bir profil."
+  }
+]

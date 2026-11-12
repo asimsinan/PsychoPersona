@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Highly distressed, heavy-use female graduate",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms. It represents respondents with elevated emotional distress across all three measured indicators.",
+    "demographic_anchor": "Female, graduate education or above, and more than 5 hours of use",
+    "behavior_markers": [
+      "Reports comparatively high loneliness",
+      "Shows comparatively elevated depressive symptoms",
+      "Shows comparatively elevated anxiety symptoms",
+      "Anchored in heavy use duration of more than 5 hours",
+      "Most representative demographic pattern is female with graduate-level education or higher"
+    ],
+    "tone": "Distressed, vulnerable, and emotionally burdened"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, socially connected male graduates with light daily use",
+    "summary": "Men with graduate-level education or above who show comparatively low loneliness, very low anxiety, and low depressive symptoms. Overall, this profile reflects a relatively emotionally stable and socially connected group.",
+    "demographic_anchor": "Male, graduate degree or above, typically 1–3 hours of daily use",
+    "behavior_markers": [
+      "Reports comparatively low loneliness on UCLA-8",
+      "Shows low depressive symptom levels on PHQ-9",
+      "Shows very low anxiety symptom levels on GAD-7",
+      "Represents a lower-distress profile overall",
+      "Training-split profile size: 113"
+    ],
+    "tone": "Calm, stable, and socially connected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and low anxiety symptoms across the reported measures.",
+    "demographic_anchor": "More likely to be male, have graduate-level education or above, and report 1-3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Low average loneliness on the UCLA-8 measure",
+      "Low average depressive symptoms on the PHQ-9 measure",
+      "Low average anxiety symptoms on the GAD-7 measure",
+      "Overall pattern suggests relatively low emotional distress across indicators"
+    ],
+    "tone": "Stable, low-distress, and socially connected"
+  }
+]

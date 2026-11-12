@@ -1,0 +1,474 @@
+run,block,dataset,model,arm,split,seed,assignment,calls,retried_calls,prompt_tokens,completion_tokens,cost_usd,first_call_utc,last_call_utc,minutes,hosts,service_tiers
+20261111T202928085709Z-29b82095,"main grid, oracle",anket_tr,DeepSeek V4.1 Flash,DOP,final_test,42,oracle,146,0,233537,61934,0.030144,2026-11-11T20:29:31,2026-11-11T20:33:02,3.52,DeepInfra,default
+20261111T203416634361Z-73b58ef8,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,101,oracle,72,0,159773,22348,0.734652,2026-11-11T20:34:23,2026-11-11T20:36:08,1.75,OpenAI,default
+20261111T203416634910Z-a271e3ad,"main grid, oracle",anket_tr,Qwen3.8 27B,BPP,validation,42,oracle,145,0,219205,67930,0.158662,2026-11-11T20:34:23,2026-11-11T20:41:11,6.8,DeepInfra,default
+20261111T203416635329Z-e5090804,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,101,oracle,72,0,106590,34998,0.316578,2026-11-11T20:34:23,2026-11-11T20:36:09,1.75,Google AI Studio,flex
+20261111T203416635458Z-449da1bb,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,101,oracle,72,0,98845,35190,0.309985,2026-11-11T20:34:24,2026-11-11T20:36:11,1.78,Google AI Studio,flex
+20261111T203416636126Z-9be92f8f,"main grid, oracle",anket_tr,Qwen3.8 27B,SADP,validation,42,oracle,145,0,233111,66403,0.146242,2026-11-11T20:34:22,2026-11-11T20:41:41,7.31,DeepInfra,default
+20261111T203416636233Z-ceca67f2,"main grid, oracle",anket_tr,Qwen3.8 27B,HC,validation,42,oracle,145,0,104643,19542,0.052338,2026-11-11T20:34:23,2026-11-11T20:36:37,2.24,DeepInfra,default
+20261111T203416636258Z-1d130b18,repeated splits,anket_tr,GPT-5.4,SCP,final_test,101,oracle,208,0,427198,66954,1.568305,2026-11-11T20:34:23,2026-11-11T20:39:04,4.69,OpenAI,default
+20261111T203416637355Z-735cea8d,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,101,oracle,72,0,82630,35026,0.292786,2026-11-11T20:34:24,2026-11-11T20:36:04,1.66,Google AI Studio,flex
+20261111T203416639400Z-fd3031dd,"main grid, oracle",anket_tr,Qwen3.8 27B,DOP,validation,42,oracle,145,0,181289,66036,0.151011,2026-11-11T20:34:23,2026-11-11T20:40:57,6.57,DeepInfra,default
+20261111T203608254952Z-6d3dab32,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,101,oracle,184,0,116935,111117,0.783637,2026-11-11T20:36:14,2026-11-11T20:41:05,4.85,Google AI Studio,flex
+20261111T203613022010Z-123083ee,repeated splits,anket_tr,GPT-5.4,BBP,final_test,101,oracle,72,0,145307,22716,0.704008,2026-11-11T20:36:18,2026-11-11T20:38:02,1.73,OpenAI,default
+20261111T203613831282Z-3350be9e,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,101,oracle,88,0,96989,37445,0.321659,2026-11-11T20:36:19,2026-11-11T20:38:03,1.72,Google AI Studio,flex
+20261111T203616400743Z-5b730bd0,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,101,oracle,87,0,81296,36759,0.30185,2026-11-11T20:36:22,2026-11-11T20:38:05,1.71,Google AI Studio,flex
+20261111T203641500612Z-b6a124c0,"main grid, oracle",anket_tr,Qwen3.8 27B,HC,final_test,42,oracle,146,0,98939,18752,0.050001,2026-11-11T20:36:44,2026-11-11T20:38:56,2.21,DeepInfra,default
+20261111T203810790443Z-5d81b2f7,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,102,oracle,72,0,82632,35794,0.297396,2026-11-11T20:38:19,2026-11-11T20:39:57,1.63,Google AI Studio,flex
+20261111T203810790535Z-4b4d46bb,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,101,oracle,83,0,147152,21264,0.68684,2026-11-11T20:38:15,2026-11-11T20:39:48,1.55,OpenAI,default
+20261111T203812307373Z-7d6c5a61,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,101,oracle,163,0,66540,72083,0.499038,2026-11-11T20:38:19,2026-11-11T20:41:47,3.47,Google AI Studio,flex
+20261111T203828971765Z-b0ebcd35,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,101,oracle,72,0,278883,32280,2.201415,2026-11-11T20:38:40,2026-11-11T20:41:29,2.82,Claude Platform on AWS,default
+20261111T203828971832Z-bf4a955d,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,101,oracle,72,0,229211,28919,1.86903,2026-11-11T20:38:40,2026-11-11T20:41:12,2.53,Claude Platform on AWS,default
+20261111T203828971896Z-083acec9,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,101,oracle,72,0,278851,33775,2.23863,2026-11-11T20:38:41,2026-11-11T20:41:40,2.99,Claude Platform on AWS,default
+20261111T203900491081Z-7d1f2e77,"main grid, oracle",bangladesh_sns,Qwen3.8 27B,HC,validation,42,oracle,157,0,77214,17320,0.044057,2026-11-11T20:39:07,2026-11-11T20:41:15,2.14,DeepInfra,default
+20261111T203908476291Z-cab73736,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,101,oracle,140,0,209292,32292,1.00761,2026-11-11T20:39:13,2026-11-11T20:41:49,2.61,OpenAI,default
+20261111T203952569099Z-d3d461a2,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,101,oracle,83,0,133726,21407,0.65542,2026-11-11T20:39:56,2026-11-11T20:41:30,1.56,OpenAI,default
+20261111T204001008013Z-c2ac3b2f,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,102,oracle,173,0,113259,102441,0.727905,2026-11-11T20:40:06,2026-11-11T20:44:48,4.71,Google AI Studio,flex
+20261111T204102255508Z-b392854c,"main grid, oracle",anket_tr,Qwen3.8 27B,DOP,final_test,42,oracle,146,0,182526,65980,0.151091,2026-11-11T20:41:05,2026-11-11T20:48:06,7.01,DeepInfra,default
+20261111T204110055907Z-3e2f73bc,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,101,oracle,83,0,96362,33214,0.295646,2026-11-11T20:41:15,2026-11-11T20:42:49,1.57,Google AI Studio,flex
+20261111T204114935080Z-9d1375bf,"main grid, oracle",anket_tr,Qwen3.8 27B,BPP,final_test,42,oracle,146,0,223136,68594,0.157321,2026-11-11T20:41:22,2026-11-11T20:49:16,7.91,DeepInfra,default
+20261111T204116557983Z-0c1baf0c,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,101,oracle,72,0,118369,14385,0.95147,2026-11-11T20:41:26,2026-11-11T20:43:20,1.91,Claude Platform on AWS,default
+20261111T204119246295Z-a348dc05,"main grid, oracle",bangladesh_sns,Qwen3.8 27B,HC,final_test,42,oracle,158,0,74648,17076,0.043215,2026-11-11T20:41:23,2026-11-11T20:43:28,2.09,DeepInfra,default
+20261111T204133739905Z-da473ce2,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,101,oracle,83,0,224618,27185,1.802715,2026-11-11T20:41:40,2026-11-11T20:44:03,2.37,Claude Platform on AWS,default
+20261111T204134621525Z-4e0561db,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,102,oracle,72,0,158778,22615,0.73617,2026-11-11T20:41:40,2026-11-11T20:43:16,1.6,OpenAI,default
+20261111T204144845751Z-53195297,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,101,oracle,83,0,194738,24808,1.59389,2026-11-11T20:41:51,2026-11-11T20:43:54,2.05,Claude Platform on AWS,default
+20261111T204144933681Z-37db274a,"main grid, oracle",anket_tr,Qwen3.8 27B,SADP,final_test,42,oracle,146,0,234300,67341,0.148179,2026-11-11T20:41:50,2026-11-11T20:49:12,7.37,DeepInfra,default
+20261111T204151199128Z-55049b4b,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,102,oracle,72,0,107615,34841,0.316661,2026-11-11T20:41:56,2026-11-11T20:43:39,1.72,Google AI Studio,flex
+20261111T204153452110Z-a38411f2,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,101,oracle,243,0,394171,63813,1.942622,2026-11-11T20:41:57,2026-11-11T20:46:14,4.28,OpenAI,default
+20261111T204254643105Z-1edcadf6,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,102,oracle,72,0,99841,35458,0.312589,2026-11-11T20:43:01,2026-11-11T20:44:44,1.72,Google AI Studio,flex
+20261111T204321321194Z-c8800c6f,repeated splits,anket_tr,GPT-5.4,BBP,final_test,102,oracle,72,0,144006,23048,0.705735,2026-11-11T20:43:26,2026-11-11T20:45:09,1.73,OpenAI,default
+20261111T204325035073Z-26f0eda7,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,101,oracle,83,0,228478,26785,1.812015,2026-11-11T20:43:32,2026-11-11T20:45:39,2.12,Claude Platform on AWS,default
+20261111T204332093474Z-2424f5a6,"main grid, oracle",anket_tr,DeepSeek V4.1 Flash,HC,validation,42,oracle,145,0,123249,21362,0.011265,2026-11-11T20:43:34,2026-11-11T20:46:53,3.31,DeepInfra,default
+20261111T204343803162Z-2651fa7a,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,102,oracle,85,0,93755,35926,0.309311,2026-11-11T20:43:49,2026-11-11T20:45:36,1.78,Google AI Studio,flex
+20261111T204358344770Z-68cb9da7,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,101,oracle,83,0,91873,10029,0.71009,2026-11-11T20:44:05,2026-11-11T20:45:35,1.5,Claude Platform on AWS,default
+20261111T204406901238Z-5dee933f,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,102,oracle,72,0,229213,28577,1.86049,2026-11-11T20:44:17,2026-11-11T20:46:45,2.48,Claude Platform on AWS,default
+20261111T204447979510Z-38007596,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,102,oracle,87,0,81368,36505,0.300398,2026-11-11T20:44:53,2026-11-11T20:46:39,1.77,Google AI Studio,flex
+20261111T204452610735Z-e62b89db,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,102,oracle,83,0,96395,33438,0.297023,2026-11-11T20:44:59,2026-11-11T20:46:35,1.61,Google AI Studio,flex
+20261111T204513710942Z-4bdf87d7,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,102,oracle,83,4,145673,21397,0.685137,2026-11-11T20:45:18,2026-11-11T20:47:30,2.2,OpenAI,default
+20261111T204539698290Z-b8de4758,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,102,oracle,72,0,278937,32462,2.206235,2026-11-11T20:45:49,2026-11-11T20:48:35,2.76,Claude Platform on AWS,default
+20261111T204540563183Z-b37b2ea8,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,103,oracle,71,0,82381,34764,0.290965,2026-11-11T20:45:47,2026-11-11T20:47:24,1.61,Google AI Studio,flex
+20261111T204543478259Z-7cb632d2,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,102,oracle,72,0,273538,33311,2.200465,2026-11-11T20:45:53,2026-11-11T20:48:46,2.9,Claude Platform on AWS,default
+20261111T204618841629Z-df46d059,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,101,oracle,163,0,198643,30510,0.954258,2026-11-11T20:46:23,2026-11-11T20:48:48,2.41,OpenAI,default
+20261111T204640676468Z-429b9e73,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,103,oracle,71,0,98836,34283,0.304534,2026-11-11T20:46:46,2026-11-11T20:48:22,1.6,Google AI Studio,flex
+20261111T204644066965Z-d7b1f57a,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,102,oracle,164,0,64847,72926,0.502403,2026-11-11T20:46:49,2026-11-11T20:50:26,3.62,Google AI Studio,flex
+20261111T204650068485Z-78880223,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,102,oracle,72,0,119175,14346,0.954525,2026-11-11T20:47:00,2026-11-11T20:48:52,1.86,Claude Platform on AWS,default
+20261111T204657702770Z-88308149,"main grid, oracle",bangladesh_sns,DeepSeek V4.1 Flash,DOP,validation,42,oracle,157,0,132210,52013,0.02197,2026-11-11T20:47:02,2026-11-11T20:53:24,6.37,DeepInfra,default
+20261111T204729909619Z-9e5532df,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,103,oracle,180,0,114953,108133,0.763751,2026-11-11T20:47:36,2026-11-11T20:52:10,4.56,Google AI Studio,flex
+20261111T204736033147Z-38fab05c,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,102,oracle,83,0,134788,21553,0.660265,2026-11-11T20:47:40,2026-11-11T20:49:13,1.55,OpenAI,default
+20261111T204814192138Z-173d9164,"main grid, oracle",bangladesh_sns,Qwen3.8 27B,DOP,validation,42,oracle,157,0,146808,58643,0.131977,2026-11-11T20:48:20,2026-11-11T20:54:50,6.49,DeepInfra,default
+20261111T204827324921Z-a2847516,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,103,oracle,88,0,82377,38457,0.313119,2026-11-11T20:48:32,2026-11-11T20:50:16,1.72,Google AI Studio,flex
+20261111T204838756834Z-122a5ffd,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,102,oracle,83,0,226863,26951,1.80809,2026-11-11T20:48:45,2026-11-11T20:51:04,2.33,Claude Platform on AWS,default
+20261111T204850882150Z-fdf86e1c,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,102,oracle,83,0,194769,24605,1.58897,2026-11-11T20:48:57,2026-11-11T20:50:56,1.98,Claude Platform on AWS,default
+20261111T204851873126Z-0c64d0e8,repeated splits,anket_tr,GPT-5.4,SCP,final_test,102,oracle,208,0,422995,67105,1.560062,2026-11-11T20:48:56,2026-11-11T20:53:31,4.58,OpenAI,default
+20261111T204856247317Z-62403466,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,102,oracle,83,0,228207,26177,1.79546,2026-11-11T20:49:04,2026-11-11T20:51:08,2.07,Claude Platform on AWS,default
+20261111T204915739222Z-50fa1948,"main grid, oracle",bangladesh_sns,Qwen3.8 27B,SADP,validation,42,oracle,157,0,195550,58248,0.138548,2026-11-11T20:49:22,2026-11-11T20:55:48,6.43,DeepInfra,default
+20261111T204917157275Z-2717e4e0,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,103,oracle,71,0,159365,22155,0.730738,2026-11-11T20:49:21,2026-11-11T20:50:54,1.54,OpenAI,default
+20261111T204920433506Z-dbbe895a,"main grid, oracle",bangladesh_sns,Qwen3.8 27B,BPP,validation,42,oracle,157,0,182451,60548,0.140895,2026-11-11T20:49:25,2026-11-11T20:56:01,6.61,DeepInfra,default
+20261111T205019860014Z-f3a03d16,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,103,oracle,163,0,64287,73045,0.502557,2026-11-11T20:50:25,2026-11-11T20:53:57,3.53,Google AI Studio,flex
+20261111T205030685323Z-2d03a90e,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,103,oracle,71,0,106289,34344,0.312353,2026-11-11T20:50:39,2026-11-11T20:52:07,1.47,Google AI Studio,flex
+20261111T205058003132Z-88b1ad4b,repeated splits,anket_tr,GPT-5.4,BBP,final_test,103,oracle,71,0,144800,22907,0.705605,2026-11-11T20:51:03,2026-11-11T20:52:42,1.66,OpenAI,default
+20261111T205100667774Z-e8ff8bd8,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,102,oracle,83,0,93897,9886,0.716635,2026-11-11T20:51:07,2026-11-11T20:52:38,1.51,Claude Platform on AWS,default
+20261111T205108520641Z-15f0d822,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,103,oracle,71,0,228518,28319,1.850565,2026-11-11T20:51:18,2026-11-11T20:53:42,2.4,Claude Platform on AWS,default
+20261111T205111994176Z-240d8788,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,103,oracle,71,0,274857,33323,2.20736,2026-11-11T20:51:22,2026-11-11T20:54:09,2.79,Claude Platform on AWS,default
+20261111T205211277816Z-e478b1c5,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,103,oracle,83,0,93386,34423,0.299924,2026-11-11T20:52:17,2026-11-11T20:53:57,1.68,Google AI Studio,flex
+20261111T205213910679Z-abfe452a,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,103,oracle,83,0,96776,33173,0.295814,2026-11-11T20:52:19,2026-11-11T20:53:54,1.59,Google AI Studio,flex
+20261111T205241794779Z-3184bac3,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,103,oracle,71,0,280726,32288,2.21083,2026-11-11T20:52:52,2026-11-11T20:55:32,2.67,Claude Platform on AWS,default
+20261111T205246214988Z-6eb16403,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,103,oracle,83,0,146370,21334,0.685935,2026-11-11T20:52:51,2026-11-11T20:54:19,1.48,OpenAI,default
+20261111T205327697886Z-7c1f59ee,"main grid, oracle",bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,42,oracle,158,0,132995,52239,0.020507,2026-11-11T20:53:30,2026-11-11T21:00:11,6.68,DeepInfra,default
+20261111T205335044783Z-12e2ab1e,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,102,oracle,140,0,212158,32539,1.01848,2026-11-11T20:53:39,2026-11-11T20:56:19,2.66,OpenAI,default
+20261111T205346238750Z-926b9024,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,103,oracle,71,0,117799,14004,0.939095,2026-11-11T20:53:55,2026-11-11T20:55:39,1.74,Claude Platform on AWS,default
+20261111T205358987821Z-ac3fd406,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,104,oracle,71,0,98961,34078,0.303429,2026-11-11T20:54:04,2026-11-11T20:55:35,1.51,Google AI Studio,flex
+20261111T205401553838Z-3987b629,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,104,oracle,71,0,105982,33832,0.308974,2026-11-11T20:54:08,2026-11-11T20:55:38,1.49,Google AI Studio,flex
+20261111T205401905697Z-fb1e92a4,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,104,oracle,71,0,82410,34382,0.288702,2026-11-11T20:54:08,2026-11-11T20:55:40,1.53,Google AI Studio,flex
+20261111T205414026005Z-60a8bcdf,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,103,oracle,83,0,194794,24767,1.593145,2026-11-11T20:54:22,2026-11-11T20:56:25,2.06,Claude Platform on AWS,default
+20261111T205423753160Z-2d3381cd,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,103,oracle,83,0,134734,21693,0.66223,2026-11-11T20:54:28,2026-11-11T20:55:59,1.53,OpenAI,default
+20261111T205455035524Z-b2c13955,"main grid, oracle",bangladesh_sns,Qwen3.8 27B,DOP,final_test,42,oracle,158,0,147659,58925,0.132633,2026-11-11T20:55:00,2026-11-11T21:01:05,6.1,DeepInfra,default
+20261111T205538725977Z-d731835e,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,103,oracle,83,0,224569,27679,1.81482,2026-11-11T20:55:49,2026-11-11T20:58:09,2.33,Claude Platform on AWS,default
+20261111T205541739082Z-63847189,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,104,oracle,86,0,80440,36392,0.298792,2026-11-11T20:55:48,2026-11-11T20:57:28,1.66,Google AI Studio,flex
+20261111T205544783637Z-d481d0e9,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,104,oracle,83,0,93611,34798,0.302399,2026-11-11T20:55:50,2026-11-11T20:57:29,1.65,Google AI Studio,flex
+20261111T205546458827Z-557417b5,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,103,oracle,83,0,227247,26766,1.805385,2026-11-11T20:55:56,2026-11-11T20:58:00,2.07,Claude Platform on AWS,default
+20261111T205547140997Z-0d62e061,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,104,oracle,185,0,117937,115410,0.810397,2026-11-11T20:55:54,2026-11-11T21:00:51,4.95,Google AI Studio,flex
+20261111T205553123457Z-db79bcf6,"main grid, oracle",bangladesh_sns,Qwen3.8 27B,SADP,final_test,42,oracle,158,4,195883,58870,0.139764,2026-11-11T20:55:59,2026-11-11T21:02:55,6.92,DeepInfra,default
+20261111T205606438983Z-672b50d7,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,104,oracle,71,0,161160,22124,0.730728,2026-11-11T20:56:11,2026-11-11T20:57:46,1.59,OpenAI,default
+20261111T205607504923Z-3504ede0,"main grid, oracle",bangladesh_sns,Qwen3.8 27B,BPP,final_test,42,oracle,158,0,184810,60755,0.141637,2026-11-11T20:56:12,2026-11-11T21:02:12,5.99,DeepInfra,default
+20261111T205626155669Z-36b5b428,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,102,oracle,243,0,399414,63615,1.95276,2026-11-11T20:56:31,2026-11-11T21:01:01,4.5,OpenAI,default
+20261111T205631820094Z-bebada03,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,103,oracle,83,0,91316,10238,0.71253,2026-11-11T20:56:40,2026-11-11T20:58:11,1.51,Claude Platform on AWS,default
+20261111T205732279946Z-26cbef22,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,104,oracle,163,0,68458,71947,0.50014,2026-11-11T20:57:38,2026-11-11T21:01:17,3.64,Google AI Studio,flex
+20261111T205733364480Z-d5f071fa,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,105,oracle,71,0,82428,34712,0.2907,2026-11-11T20:57:41,2026-11-11T20:59:17,1.6,Google AI Studio,flex
+20261111T205750098860Z-2d73d5c5,repeated splits,anket_tr,GPT-5.4,BBP,final_test,104,oracle,71,0,144578,22716,0.698153,2026-11-11T20:57:55,2026-11-11T20:59:35,1.67,OpenAI,default
+20261111T205804011623Z-d046c543,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,104,oracle,71,0,275271,33484,2.213455,2026-11-11T20:58:13,2026-11-11T21:01:04,2.84,Claude Platform on AWS,default
+20261111T205813532585Z-4914de0a,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,104,oracle,71,0,228572,28484,1.85496,2026-11-11T20:58:22,2026-11-11T21:00:48,2.42,Claude Platform on AWS,default
+20261111T205815305099Z-4803f4ab,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,104,oracle,71,0,278625,31646,2.184275,2026-11-11T20:58:24,2026-11-11T21:00:59,2.58,Claude Platform on AWS,default
+20261111T205921109973Z-bfd06e0a,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,105,oracle,185,0,122708,113912,0.80618,2026-11-11T20:59:26,2026-11-11T21:04:29,5.05,Google AI Studio,flex
+20261111T205939068924Z-c20a5ec5,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,104,oracle,83,0,147672,21503,0.691725,2026-11-11T20:59:43,2026-11-11T21:01:20,1.6,OpenAI,default
+20261111T210014986947Z-64a54d84,"main grid, cold-start",anket_tr,Qwen3.8 27B,BPP,validation,42,coldstart,145,0,217845,67920,0.159498,2026-11-11T21:00:21,2026-11-11T21:06:10,5.81,DeepInfra,default
+20261111T210051795579Z-ce602c4a,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,104,oracle,71,0,119013,14173,0.94939,2026-11-11T21:01:00,2026-11-11T21:02:45,1.75,Claude Platform on AWS,default
+20261111T210054742694Z-f731ee43,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,104,oracle,83,0,96826,33300,0.296626,2026-11-11T21:01:00,2026-11-11T21:02:36,1.6,Google AI Studio,flex
+20261111T210103490158Z-931e2843,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,104,oracle,83,0,224340,27166,1.80085,2026-11-11T21:01:10,2026-11-11T21:03:34,2.39,Claude Platform on AWS,default
+20261111T210105414038Z-2ec1505a,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,102,oracle,163,0,198036,30507,0.952695,2026-11-11T21:01:09,2026-11-11T21:03:35,2.44,OpenAI,default
+20261111T210108119054Z-6965aaf2,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,104,oracle,83,0,194776,24705,1.591505,2026-11-11T21:01:16,2026-11-11T21:03:19,2.04,Claude Platform on AWS,default
+20261111T210109325864Z-ee9295e3,"main grid, oracle",anket_tr,DeepSeek V4.1 Flash,DOP,validation,42,oracle,145,0,231941,62014,0.029646,2026-11-11T21:01:11,2026-11-11T21:04:01,2.83,DeepInfra,default
+20261111T210121200177Z-41cae698,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,105,oracle,71,0,107980,33707,0.310222,2026-11-11T21:01:27,2026-11-11T21:03:01,1.56,Google AI Studio,flex
+20261111T210124011911Z-d57632cb,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,104,oracle,83,0,134296,21544,0.6589,2026-11-11T21:01:31,2026-11-11T21:03:05,1.57,OpenAI,default
+20261111T210215468881Z-e3ead0bc,"main grid, oracle",anket_tr,DeepSeek V4.1 Flash,BPP,validation,42,oracle,145,0,282397,61350,0.030417,2026-11-11T21:02:18,2026-11-11T21:04:28,2.17,DeepInfra,default
+20261111T210240051425Z-294cc046,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,105,oracle,71,1,98680,34296,0.304456,2026-11-11T21:02:47,2026-11-11T21:05:22,2.58,Google AI Studio,flex
+20261111T210249556478Z-a5a3923f,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,104,oracle,83,0,226951,27584,1.824355,2026-11-11T21:02:56,2026-11-11T21:05:01,2.08,Claude Platform on AWS,default
+20261111T210258509214Z-8f3f582f,"main grid, oracle",anket_tr,DeepSeek V4.1 Flash,SADP,validation,42,oracle,145,0,288198,57789,0.029902,2026-11-11T21:03:01,2026-11-11T21:04:53,1.87,DeepInfra,default
+20261111T210304914354Z-8e5af29b,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,105,oracle,85,0,93752,35404,0.306176,2026-11-11T21:03:10,2026-11-11T21:04:56,1.77,Google AI Studio,flex
+20261111T210309678458Z-a1865fbe,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,105,oracle,71,0,160299,22168,0.733267,2026-11-11T21:03:14,2026-11-11T21:04:48,1.58,OpenAI,default
+20261111T210322868937Z-2f6e945a,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,104,oracle,83,0,92539,10224,0.718295,2026-11-11T21:03:30,2026-11-11T21:05:04,1.57,Claude Platform on AWS,default
+20261111T210338238408Z-b2a00edb,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,105,oracle,71,0,228602,28527,1.856185,2026-11-11T21:03:49,2026-11-11T21:06:08,2.32,Claude Platform on AWS,default
+20261111T210339643155Z-39c0479c,repeated splits,anket_tr,GPT-5.4,SCP,final_test,103,oracle,207,0,424834,66974,1.558663,2026-11-11T21:03:44,2026-11-11T21:07:59,4.25,OpenAI,default
+20261111T210404911218Z-2f6fd69a,"main grid, oracle",anket_tr,DeepSeek V4.1 Flash,BPP,final_test,42,oracle,146,0,284130,61515,0.030927,2026-11-11T21:04:20,2026-11-11T21:06:35,2.26,DeepInfra,default
+20261111T210431624906Z-8448867d,"main grid, oracle",anket_tr,DeepSeek V4.1 Flash,SADP,final_test,42,oracle,146,0,291425,58706,0.030427,2026-11-11T21:04:35,2026-11-11T21:07:00,2.41,DeepInfra,default
+20261111T210433620689Z-da6b3769,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,105,oracle,83,0,96809,33249,0.296303,2026-11-11T21:04:38,2026-11-11T21:06:15,1.61,Google AI Studio,flex
+20261111T210452582591Z-52f4bf77,repeated splits,anket_tr,GPT-5.4,BBP,final_test,105,oracle,71,0,144774,22780,0.703635,2026-11-11T21:04:56,2026-11-11T21:06:30,1.57,OpenAI,default
+20261111T210456647990Z-282f6265,"main grid, oracle",anket_tr,DeepSeek V4.1 Flash,HC,final_test,42,oracle,146,0,125680,21585,0.011508,2026-11-11T21:05:00,2026-11-11T21:06:30,1.49,DeepInfra,default
+20261111T210500489228Z-dbbd3910,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,106,oracle,72,0,82704,35725,0.297054,2026-11-11T21:05:07,2026-11-11T21:06:49,1.69,Google AI Studio,flex
+20261111T210505649580Z-d382bc99,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,105,oracle,71,0,278966,33847,2.241005,2026-11-11T21:05:17,2026-11-11T21:08:14,2.96,Claude Platform on AWS,default
+20261111T210508476532Z-64228bf3,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,105,oracle,71,0,279378,31775,2.191265,2026-11-11T21:05:20,2026-11-11T21:07:54,2.56,Claude Platform on AWS,default
+20261111T210526437225Z-3367104d,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,105,oracle,89,0,83270,39635,0.320968,2026-11-11T21:05:31,2026-11-11T21:07:25,1.9,Google AI Studio,flex
+20261111T210612074576Z-ba33800a,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,105,oracle,71,4,116546,14312,0.94053,2026-11-11T21:06:23,2026-11-11T21:08:07,1.74,Claude Platform on AWS,default
+20261111T210613439746Z-2bebf2fe,"main grid, cold-start",anket_tr,Qwen3.8 27B,SADP,final_test,42,coldstart,146,0,232810,67456,0.148348,2026-11-11T21:06:19,2026-11-11T21:12:49,6.5,DeepInfra,default
+20261111T210619087773Z-71fa4556,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,106,oracle,72,0,100706,35122,0.311438,2026-11-11T21:06:25,2026-11-11T21:08:09,1.73,Google AI Studio,flex
+20261111T210633990874Z-f16252aa,"main grid, oracle",bangladesh_sns,DeepSeek V4.1 Flash,HC,validation,42,oracle,157,0,70124,15092,0.007975,2026-11-11T21:06:36,2026-11-11T21:07:42,1.09,DeepInfra,default
+20261111T210634199147Z-093bc70d,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,105,oracle,83,0,147518,21271,0.68786,2026-11-11T21:06:38,2026-11-11T21:08:14,1.59,OpenAI,default
+20261111T210639296737Z-9b198f49,"main grid, oracle",bangladesh_sns,DeepSeek V4.1 Flash,BPP,validation,42,oracle,157,0,173363,52500,0.023615,2026-11-11T21:06:42,2026-11-11T21:08:58,2.25,DeepInfra,default
+20261111T210653064653Z-88bf67d3,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,106,oracle,183,0,120801,111251,0.788307,2026-11-11T21:06:59,2026-11-11T21:11:56,4.94,Google AI Studio,flex
+20261111T210703402316Z-65f2ce5f,"main grid, oracle",bangladesh_sns,DeepSeek V4.1 Flash,SADP,validation,42,oracle,157,0,174611,51331,0.02388,2026-11-11T21:07:06,2026-11-11T21:09:00,1.91,DeepInfra,default
+20261111T210729616552Z-fb1d1185,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,105,oracle,163,0,65028,72416,0.499524,2026-11-11T21:07:36,2026-11-11T21:11:22,3.76,Google AI Studio,flex
+20261111T210745688427Z-54e1312f,"main grid, oracle",bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,42,oracle,158,0,75013,16239,0.007903,2026-11-11T21:07:48,2026-11-11T21:09:01,1.2,DeepInfra,default
+20261111T210757742994Z-2158d761,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,105,oracle,83,0,228196,27330,1.82423,2026-11-11T21:08:05,2026-11-11T21:10:28,2.39,Claude Platform on AWS,default
+20261111T210803239630Z-f8709505,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,103,oracle,139,0,209764,32486,1.0117,2026-11-11T21:08:08,2026-11-11T21:10:40,2.53,OpenAI,default
+20261111T210811644247Z-572039da,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,105,oracle,83,0,227032,26336,1.79356,2026-11-11T21:08:19,2026-11-11T21:10:25,2.11,Claude Platform on AWS,default
+20261111T210813672929Z-434347aa,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,106,oracle,85,0,79501,35579,0.292975,2026-11-11T21:08:19,2026-11-11T21:10:02,1.72,Google AI Studio,flex
+20261111T210818002942Z-2aecb233,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,105,oracle,83,0,135437,21474,0.660703,2026-11-11T21:08:22,2026-11-11T21:09:52,1.49,OpenAI,default
+20261111T210818739767Z-49afcd6f,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,105,oracle,83,0,194758,24783,1.593365,2026-11-11T21:08:26,2026-11-11T21:10:29,2.05,Claude Platform on AWS,default
+20261111T210901395396Z-ec8c52e8,"main grid, oracle",bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,42,oracle,158,0,170362,52866,0.023794,2026-11-11T21:09:04,2026-11-11T21:10:55,1.86,DeepInfra,default
+20261111T210904336194Z-8897b715,"main grid, oracle",bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,42,oracle,158,0,174934,51133,0.023343,2026-11-11T21:09:09,2026-11-11T21:10:51,1.7,DeepInfra,default
+20261111T210904610188Z-b97d311f,"main grid, cold-start",anket_tr,Qwen3.8 27B,BPP,final_test,42,coldstart,146,0,219727,68378,0.161168,2026-11-11T21:09:10,2026-11-11T21:15:34,6.4,DeepInfra,default
+20261111T210955820164Z-087a05e4,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,106,oracle,72,0,159540,22262,0.73278,2026-11-11T21:09:59,2026-11-11T21:11:43,1.73,OpenAI,default
+20261111T211006581781Z-8809eabc,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,106,oracle,162,0,64133,70899,0.489527,2026-11-11T21:10:12,2026-11-11T21:13:42,3.51,Google AI Studio,flex
+20261111T211029913347Z-64b7088d,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,106,oracle,72,1,278685,33771,2.2377,2026-11-11T21:10:30,2026-11-11T21:13:44,3.23,Claude Platform on AWS,default
+20261111T211032924105Z-4cec1413,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,106,oracle,72,0,229291,28933,1.86978,2026-11-11T21:10:42,2026-11-11T21:13:13,2.51,Claude Platform on AWS,default
+20261111T211033286089Z-cc4674a5,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,105,oracle,83,0,91238,10149,0.709915,2026-11-11T21:10:40,2026-11-11T21:12:12,1.54,Claude Platform on AWS,default
+20261111T211043910355Z-d0196090,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,103,oracle,243,0,398847,63915,1.955843,2026-11-11T21:10:47,2026-11-11T21:15:15,4.46,OpenAI,default
+20261111T211055156322Z-557a14df,"main grid, cold-start",anket_tr,Qwen3.8 27B,HC,validation,42,coldstart,145,0,98679,19179,0.050762,2026-11-11T21:11:03,2026-11-11T21:13:21,2.3,DeepInfra,default
+20261111T211059535431Z-e9721b7d,"main grid, cold-start",anket_tr,Qwen3.8 27B,SADP,validation,42,coldstart,145,0,233001,66023,0.14569,2026-11-11T21:11:06,2026-11-11T21:17:45,6.65,DeepInfra,default
+20261111T211127069418Z-7ab86132,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,106,oracle,72,0,108316,34147,0.313198,2026-11-11T21:11:33,2026-11-11T21:13:08,1.6,Google AI Studio,flex
+20261111T211149289004Z-268db200,repeated splits,anket_tr,GPT-5.4,BBP,final_test,106,oracle,72,0,146561,22980,0.711103,2026-11-11T21:11:53,2026-11-11T21:13:38,1.75,OpenAI,default
+20261111T211201202857Z-a4c016da,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,106,oracle,83,0,96680,33191,0.295826,2026-11-11T21:12:06,2026-11-11T21:13:43,1.61,Google AI Studio,flex
+20261111T211217488272Z-8fcb6f08,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,106,oracle,72,0,280795,32239,2.20995,2026-11-11T21:12:28,2026-11-11T21:15:13,2.75,Claude Platform on AWS,default
+20261111T211255809349Z-a3ae6c66,"main grid, cold-start",bangladesh_sns,Qwen3.8 27B,HC,validation,42,coldstart,157,0,76738,17612,0.044533,2026-11-11T21:13:04,2026-11-11T21:15:23,2.32,DeepInfra,default
+20261111T211317677130Z-0e6a197a,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,106,oracle,84,0,92765,35108,0.303413,2026-11-11T21:13:26,2026-11-11T21:15:03,1.62,Google AI Studio,flex
+20261111T211323577512Z-77aee07a,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,106,oracle,72,0,120692,14748,0.97216,2026-11-11T21:13:35,2026-11-11T21:15:31,1.94,Claude Platform on AWS,default
+20261111T211330459064Z-1237a03a,"main grid, cold-start",bangladesh_sns,Qwen3.8 27B,BPP,validation,42,coldstart,157,0,186540,60095,0.140659,2026-11-11T21:13:44,2026-11-11T21:19:20,5.61,DeepInfra,default
+20261111T211352166114Z-780ac4d1,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,106,oracle,83,0,146563,21437,0.687963,2026-11-11T21:13:56,2026-11-11T21:15:29,1.55,OpenAI,default
+20261111T211353368172Z-b1ea03b2,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,107,oracle,72,0,106318,34635,0.314128,2026-11-11T21:14:00,2026-11-11T21:15:34,1.57,Google AI Studio,flex
+20261111T211353575240Z-8a7ba772,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,107,oracle,72,0,99259,34864,0.308443,2026-11-11T21:14:01,2026-11-11T21:15:36,1.58,Google AI Studio,flex
+20261111T211353945909Z-ae8c558f,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,106,oracle,83,0,194791,24757,1.59288,2026-11-11T21:14:01,2026-11-11T21:16:06,2.07,Claude Platform on AWS,default
+20261111T211507214573Z-cb2fba30,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,107,oracle,72,1,82657,35534,0.295861,2026-11-11T21:17:08,2026-11-11T21:18:56,1.81,Google AI Studio,flex
+20261111T211517449787Z-3409b894,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,106,oracle,83,0,224399,27275,1.80387,2026-11-11T21:15:25,2026-11-11T21:17:44,2.32,Claude Platform on AWS,default
+20261111T211519547020Z-054640d8,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,103,oracle,163,0,200005,30614,0.959222,2026-11-11T21:15:24,2026-11-11T21:17:50,2.44,OpenAI,default
+20261111T211527107107Z-7bb54ef3,"main grid, cold-start",anket_tr,DeepSeek V4.1 Flash,BPP,validation,42,coldstart,145,0,279697,61539,0.030208,2026-11-11T21:15:32,2026-11-11T21:18:20,2.81,DeepInfra,default
+20261111T211533584475Z-1107f474,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,106,oracle,83,0,134246,21572,0.659195,2026-11-11T21:15:38,2026-11-11T21:17:06,1.46,OpenAI,default
+20261111T211535869840Z-13583525,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,106,oracle,83,0,227559,26581,1.80232,2026-11-11T21:15:42,2026-11-11T21:17:46,2.07,Claude Platform on AWS,default
+20261111T211538148167Z-9c8bdbed,"main grid, cold-start",bangladesh_sns,Qwen3.8 27B,SADP,validation,42,coldstart,157,0,194394,58545,0.138931,2026-11-11T21:15:44,2026-11-11T21:21:08,5.4,DeepInfra,default
+20261111T211538381055Z-9013c8ae,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,107,oracle,85,0,93663,35575,0.307113,2026-11-11T21:15:43,2026-11-11T21:17:25,1.7,Google AI Studio,flex
+20261111T211540325588Z-cf9f7fac,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,107,oracle,86,0,80369,36250,0.297869,2026-11-11T21:15:45,2026-11-11T21:17:25,1.66,Google AI Studio,flex
+20261111T211609949528Z-d0f86037,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,106,oracle,83,0,94065,10178,0.724775,2026-11-11T21:16:17,2026-11-11T21:17:49,1.54,Claude Platform on AWS,default
+20261111T211709664134Z-3b5ce1a7,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,107,oracle,72,0,160405,22542,0.735111,2026-11-11T21:17:13,2026-11-11T21:18:56,1.7,OpenAI,default
+20261111T211729409763Z-c4ddbd57,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,107,oracle,163,0,64103,72563,0.499481,2026-11-11T21:17:34,2026-11-11T21:21:10,3.59,Google AI Studio,flex
+20261111T211729532609Z-0ac29d73,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,108,oracle,72,0,82644,35453,0.295362,2026-11-11T21:17:35,2026-11-11T21:19:16,1.67,Google AI Studio,flex
+20261111T211748077871Z-d7d0e8b5,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,107,oracle,72,0,229219,28873,1.86792,2026-11-11T21:17:57,2026-11-11T21:20:28,2.53,Claude Platform on AWS,default
+20261111T211749384629Z-6cafe510,"main grid, cold-start",anket_tr,Qwen3.8 27B,HC,final_test,42,coldstart,146,0,104663,18667,0.0507,2026-11-11T21:17:55,2026-11-11T21:20:05,2.17,DeepInfra,default
+20261111T211750632759Z-ff417382,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,107,oracle,72,0,280427,34442,2.263185,2026-11-11T21:18:00,2026-11-11T21:21:07,3.12,Claude Platform on AWS,default
+20261111T211753974188Z-eb326138,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,107,oracle,72,0,282906,32801,2.234555,2026-11-11T21:18:02,2026-11-11T21:20:52,2.83,Claude Platform on AWS,default
+20261111T211754577947Z-80263232,repeated splits,anket_tr,GPT-5.4,SCP,final_test,104,oracle,207,0,422964,67125,1.624797,2026-11-11T21:17:58,2026-11-11T21:22:42,4.73,OpenAI,default
+20261111T211824038448Z-f59fdbb5,"main grid, cold-start",anket_tr,DeepSeek V4.1 Flash,SADP,final_test,42,coldstart,146,0,292798,58358,0.030605,2026-11-11T21:18:28,2026-11-11T21:21:32,3.07,DeepInfra,default
+20261111T211859755237Z-6ebe8018,repeated splits,anket_tr,GPT-5.4,BBP,final_test,107,oracle,72,0,145219,23242,0.707645,2026-11-11T21:19:04,2026-11-11T21:20:51,1.78,OpenAI,default
+20261111T211900544320Z-fba90ba2,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,107,oracle,189,1,123648,116227,0.82101,2026-11-11T21:19:06,2026-11-11T21:24:49,5.73,Google AI Studio,flex
+20261111T211919603968Z-cbe9cd8e,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,108,oracle,181,1,118632,109976,0.778488,2026-11-11T21:19:26,2026-11-11T21:24:44,5.31,Google AI Studio,flex
+20261111T211923841285Z-88147e0b,"main grid, cold-start",bangladesh_sns,Qwen3.8 27B,SADP,final_test,42,coldstart,158,0,195864,59025,0.140051,2026-11-11T21:19:30,2026-11-11T21:24:46,5.28,DeepInfra,default
+20261111T212008259065Z-d40a3bfc,"main grid, cold-start",bangladesh_sns,Qwen3.8 27B,BPP,final_test,42,coldstart,158,0,186254,60092,0.140611,2026-11-11T21:20:13,2026-11-11T21:25:38,5.41,DeepInfra,default
+20261111T212032326194Z-0b70ab4f,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,107,oracle,72,0,123415,14728,0.985275,2026-11-11T21:20:41,2026-11-11T21:22:39,1.97,Claude Platform on AWS,default
+20261111T212054846429Z-4bd3677e,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,107,oracle,83,0,148600,21442,0.69313,2026-11-11T21:20:59,2026-11-11T21:22:36,1.61,OpenAI,default
+20261111T212055990322Z-7db08fbb,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,107,oracle,83,0,224582,28015,1.823285,2026-11-11T21:21:04,2026-11-11T21:23:25,2.35,Claude Platform on AWS,default
+20261111T212111471312Z-31bd4330,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,107,oracle,83,0,194734,24756,1.59257,2026-11-11T21:21:20,2026-11-11T21:23:21,2.01,Claude Platform on AWS,default
+20261111T212112070719Z-b6173fe0,"main grid, cold-start",bangladesh_sns,Qwen3.8 27B,HC,final_test,42,coldstart,158,0,70779,17249,0.042959,2026-11-11T21:21:17,2026-11-11T21:23:12,1.91,DeepInfra,default
+20261111T212113943308Z-6cff5bfe,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,108,oracle,72,0,105831,34590,0.313371,2026-11-11T21:21:20,2026-11-11T21:23:00,1.65,Google AI Studio,flex
+20261111T212135613659Z-23d5bdb2,"main grid, cold-start",bangladesh_sns,DeepSeek V4.1 Flash,HC,validation,42,coldstart,157,0,71226,14846,0.0075,2026-11-11T21:21:39,2026-11-11T21:22:46,1.12,DeepInfra,default
+20261111T212240052678Z-827ce3ad,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,107,oracle,83,0,134534,21699,0.66182,2026-11-11T21:22:44,2026-11-11T21:24:13,1.48,OpenAI,default
+20261111T212243313487Z-c2e23a29,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,107,oracle,83,0,229373,26873,1.81869,2026-11-11T21:22:51,2026-11-11T21:24:58,2.11,Claude Platform on AWS,default
+20261111T212246181878Z-054dfe58,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,104,oracle,139,0,210062,32007,1.00526,2026-11-11T21:22:51,2026-11-11T21:25:24,2.56,OpenAI,default
+20261111T212250149954Z-9deae88d,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,101,oracle,72,0,87550,31874,0.072896,2026-11-11T21:22:54,2026-11-11T21:25:49,2.92,DeepInfra,default
+20261111T212303811521Z-77d43898,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,108,oracle,83,0,92272,34785,0.300982,2026-11-11T21:23:09,2026-11-11T21:24:48,1.65,Google AI Studio,flex
+20261111T212315650993Z-140b21ea,"main grid, cold-start",anket_tr,DeepSeek V4.1 Flash,BPP,final_test,42,coldstart,146,0,281540,60645,0.029797,2026-11-11T21:23:20,2026-11-11T21:26:26,3.11,DeepInfra,default
+20261111T212324849074Z-e81d0835,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,107,oracle,83,0,93233,10151,0.71994,2026-11-11T21:23:32,2026-11-11T21:25:03,1.51,Claude Platform on AWS,default
+20261111T212329320667Z-d652f9cf,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,108,oracle,72,0,229227,28687,1.86331,2026-11-11T21:23:39,2026-11-11T21:26:11,2.53,Claude Platform on AWS,default
+20261111T212416712903Z-ecf1486c,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,108,oracle,72,0,159711,22631,0.73471,2026-11-11T21:24:21,2026-11-11T21:25:58,1.61,OpenAI,default
+20261111T212448538535Z-4b86c26d,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,108,oracle,83,0,98040,33323,0.297978,2026-11-11T21:24:54,2026-11-11T21:26:29,1.59,Google AI Studio,flex
+20261111T212450202748Z-05471865,"main grid, cold-start",anket_tr,DeepSeek V4.1 Flash,HC,validation,42,coldstart,145,0,124121,21487,0.011412,2026-11-11T21:24:56,2026-11-11T21:26:14,1.3,DeepInfra,default
+20261111T212452757655Z-7fbd89c3,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,109,oracle,71,0,82358,34736,0.290774,2026-11-11T21:24:58,2026-11-11T21:26:33,1.58,Google AI Studio,flex
+20261111T212453547209Z-674f6f7b,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,107,oracle,83,0,96501,33543,0.297759,2026-11-11T21:25:00,2026-11-11T21:26:34,1.58,Google AI Studio,flex
+20261111T212501958249Z-189a7b8e,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,108,oracle,72,0,283995,34411,2.28025,2026-11-11T21:25:11,2026-11-11T21:28:18,3.12,Claude Platform on AWS,default
+20261111T212506809514Z-44c58259,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,108,oracle,72,0,279396,32935,2.220355,2026-11-11T21:25:16,2026-11-11T21:28:07,2.86,Claude Platform on AWS,default
+20261111T212528711481Z-46ec3c0e,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,104,oracle,243,0,399749,63817,1.956627,2026-11-11T21:25:33,2026-11-11T21:29:48,4.25,OpenAI,default
+20261111T212541810713Z-f606cc44,"main grid, cold-start",anket_tr,DeepSeek V4.1 Flash,SADP,validation,42,coldstart,145,0,289723,57692,0.03006,2026-11-11T21:25:47,2026-11-11T21:28:56,3.15,DeepInfra,default
+20261111T212553719964Z-ae26efb1,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,101,oracle,83,0,76531,30675,0.068995,2026-11-11T21:25:57,2026-11-11T21:28:57,3.0,DeepInfra,default
+20261111T212602056548Z-05c20e2e,repeated splits,anket_tr,GPT-5.4,BBP,final_test,108,oracle,72,0,144390,23383,0.707688,2026-11-11T21:26:06,2026-11-11T21:27:46,1.67,OpenAI,default
+20261111T212615737364Z-398f000d,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,108,oracle,72,0,120599,14485,0.96512,2026-11-11T21:26:25,2026-11-11T21:28:19,1.9,Claude Platform on AWS,default
+20261111T212618188591Z-271d4711,"main grid, cold-start",bangladesh_sns,DeepSeek V4.1 Flash,BPP,validation,42,coldstart,157,0,165474,52663,0.023133,2026-11-11T21:26:21,2026-11-11T21:29:54,3.54,DeepInfra,default
+20261111T212630417903Z-5af0124b,"main grid, cold-start",bangladesh_sns,DeepSeek V4.1 Flash,SADP,validation,42,coldstart,157,0,173020,51837,0.02363,2026-11-11T21:26:34,2026-11-11T21:29:31,2.94,DeepInfra,default
+20261111T212633726248Z-564c1762,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,109,oracle,71,0,97961,33924,0.301505,2026-11-11T21:26:39,2026-11-11T21:28:14,1.59,Google AI Studio,flex
+20261111T212637311820Z-c4edd6a6,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,109,oracle,183,0,117541,112305,0.791371,2026-11-11T21:26:43,2026-11-11T21:31:42,4.99,Google AI Studio,flex
+20261111T212638562003Z-9bbf4ce7,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,108,oracle,72,0,100366,35471,0.313192,2026-11-11T21:26:44,2026-11-11T21:28:28,1.73,Google AI Studio,flex
+20261111T212750345721Z-d69344b0,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,108,oracle,83,0,147438,21305,0.68817,2026-11-11T21:27:55,2026-11-11T21:29:29,1.58,OpenAI,default
+20261111T212811673673Z-0c806cc5,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,108,oracle,83,0,223675,27115,1.79625,2026-11-11T21:28:18,2026-11-11T21:30:39,2.35,Claude Platform on AWS,default
+20261111T212817976592Z-729e93c7,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,109,oracle,86,0,80409,36327,0.298371,2026-11-11T21:28:23,2026-11-11T21:30:09,1.76,Google AI Studio,flex
+20261111T212822144674Z-8d2070fc,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,108,oracle,83,0,194806,24664,1.59063,2026-11-11T21:28:29,2026-11-11T21:30:30,2.01,Claude Platform on AWS,default
+20261111T212823611906Z-b1ee6cd9,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,108,oracle,83,0,228789,27210,1.824195,2026-11-11T21:28:30,2026-11-11T21:30:37,2.12,Claude Platform on AWS,default
+20261111T212831870057Z-794cf80c,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,108,oracle,87,0,81435,38083,0.309816,2026-11-11T21:28:37,2026-11-11T21:30:25,1.8,Google AI Studio,flex
+20261111T212859719897Z-cf39f6ed,"main grid, cold-start",anket_tr,DeepSeek V4.1 Flash,HC,final_test,42,coldstart,146,0,123110,21877,0.011269,2026-11-11T21:29:07,2026-11-11T21:30:37,1.49,DeepInfra,default
+20261111T212901117476Z-e374d3a0,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,101,oracle,72,0,111932,29962,0.017588,2026-11-11T21:29:07,2026-11-11T21:30:40,1.54,DeepInfra,default
+20261111T212933631094Z-f601687d,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,108,oracle,83,0,134132,21429,0.656765,2026-11-11T21:29:38,2026-11-11T21:31:10,1.53,OpenAI,default
+20261111T212934632332Z-ae63c7f5,"main grid, cold-start",bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,42,coldstart,158,0,70995,14924,0.007549,2026-11-11T21:29:38,2026-11-11T21:30:49,1.19,DeepInfra,default
+20261111T212952368050Z-3c21610a,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,104,oracle,163,0,199528,30743,0.959965,2026-11-11T21:29:57,2026-11-11T21:32:29,2.53,OpenAI,default
+20261111T212957407806Z-0f9f1c2c,"main grid, cold-start",bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,42,coldstart,158,0,178100,51208,0.023116,2026-11-11T21:30:01,2026-11-11T21:32:19,2.29,DeepInfra,default
+20261111T213013205194Z-4a2acbfd,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,109,oracle,163,0,65184,71612,0.494856,2026-11-11T21:30:20,2026-11-11T21:34:07,3.79,Google AI Studio,flex
+20261111T213029505525Z-aef806de,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,108,oracle,163,0,64396,72090,0.496936,2026-11-11T21:30:34,2026-11-11T21:34:28,3.89,Google AI Studio,flex
+20261111T213033703501Z-1d533da1,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,108,oracle,83,0,91711,10082,0.710605,2026-11-11T21:30:40,2026-11-11T21:32:10,1.5,Claude Platform on AWS,default
+20261111T213040875926Z-7e88ab18,"main grid, cold-start",bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,42,coldstart,158,0,174070,53119,0.023185,2026-11-11T21:30:45,2026-11-11T21:35:58,5.22,DeepInfra,default
+20261111T213041188203Z-1071ac8d,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,109,oracle,72,0,278334,33819,2.237145,2026-11-11T21:30:50,2026-11-11T21:33:44,2.9,Claude Platform on AWS,default
+20261111T213043158132Z-0a8892fd,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,109,oracle,71,0,228498,28137,1.845915,2026-11-11T21:30:52,2026-11-11T21:33:11,2.32,Claude Platform on AWS,default
+20261111T213044227944Z-bb34db55,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,101,oracle,83,0,68923,27240,0.01104,2026-11-11T21:30:46,2026-11-11T21:32:02,1.26,DeepInfra,default
+20261111T213053018492Z-d9c63ccf,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,101,oracle,72,0,47760,9345,0.024686,2026-11-11T21:30:56,2026-11-11T21:31:53,0.96,DeepInfra,default
+20261111T213113700171Z-e06c0d85,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,109,oracle,71,0,157912,22320,0.72958,2026-11-11T21:31:18,2026-11-11T21:33:05,1.79,OpenAI,default
+20261111T213146135096Z-ab708c85,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,109,oracle,83,0,97680,33318,0.297588,2026-11-11T21:31:52,2026-11-11T21:33:35,1.72,Google AI Studio,flex
+20261111T213157292513Z-5fbc5071,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,101,oracle,83,0,39041,9180,0.023069,2026-11-11T21:32:02,2026-11-11T21:33:01,0.98,DeepInfra,default
+20261111T213205938971Z-6900478e,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,102,oracle,72,0,87553,31870,0.072889,2026-11-11T21:32:09,2026-11-11T21:35:02,2.88,DeepInfra,default
+20261111T213214035159Z-110b4d7d,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,109,oracle,71,0,277001,32157,2.18893,2026-11-11T21:32:23,2026-11-11T21:34:58,2.6,Claude Platform on AWS,default
+20261111T213222261461Z-31e25b9f,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,101,oracle,72,0,112524,32545,0.0779,2026-11-11T21:32:27,2026-11-11T21:35:08,2.69,DeepInfra,default
+20261111T213232977860Z-c8f4720d,repeated splits,anket_tr,GPT-5.4,SCP,final_test,105,oracle,207,0,426238,66578,1.592521,2026-11-11T21:32:37,2026-11-11T21:37:12,4.57,OpenAI,default
+20261111T213304559378Z-f0ac5d1e,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,101,oracle,72,0,62282,11096,0.007589,2026-11-11T21:33:07,2026-11-11T21:34:19,1.21,DeepInfra,default
+20261111T213308978896Z-8b1ffb28,repeated splits,anket_tr,GPT-5.4,BBP,final_test,109,oracle,71,0,144048,22771,0.701685,2026-11-11T21:33:14,2026-11-11T21:34:48,1.57,OpenAI,default
+20261111T213315457618Z-a8caf44e,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,109,oracle,71,0,116183,13797,0.92584,2026-11-11T21:33:25,2026-11-11T21:35:07,1.69,Claude Platform on AWS,default
+20261111T213339323003Z-2d1dc7e5,repeated splits,anket_tr,Gemini 3.1 Pro,BPP,final_test,110,oracle,71,0,98129,34423,0.304667,2026-11-11T21:33:46,2026-11-11T21:35:26,1.68,Google AI Studio,flex
+20261111T213347893797Z-2054a95b,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,109,oracle,83,0,194777,24787,1.59356,2026-11-11T21:33:55,2026-11-11T21:36:00,2.09,Claude Platform on AWS,default
+20261111T213411316729Z-6a79adb4,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,110,oracle,71,0,105691,34070,0.310111,2026-11-11T21:34:17,2026-11-11T21:35:55,1.64,Google AI Studio,flex
+20261111T213423305921Z-3620d410,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,101,oracle,83,0,38793,8654,0.004959,2026-11-11T21:34:26,2026-11-11T21:35:46,1.34,DeepInfra,default
+20261111T213432198099Z-22f12ccb,repeated splits,anket_tr,Gemini 3.1 Pro,SADP,final_test,109,oracle,71,0,108301,34301,0.314107,2026-11-11T21:34:39,2026-11-11T21:36:17,1.64,Google AI Studio,flex
+20261111T213452102111Z-fb826cd5,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,109,oracle,83,0,146492,21364,0.68669,2026-11-11T21:34:56,2026-11-11T21:36:34,1.62,OpenAI,default
+20261111T213502685456Z-71da6a62,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,109,oracle,83,0,224761,27054,1.800155,2026-11-11T21:35:10,2026-11-11T21:37:41,2.51,Claude Platform on AWS,default
+20261111T213506132281Z-9bdbfa20,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,102,oracle,83,0,76596,30688,0.069029,2026-11-11T21:35:10,2026-11-11T21:38:11,3.0,DeepInfra,default
+20261111T213511107302Z-e15b7632,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,109,oracle,83,0,227037,27870,1.831935,2026-11-11T21:35:18,2026-11-11T21:37:35,2.29,Claude Platform on AWS,default
+20261111T213512448335Z-738f8a62,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,101,oracle,83,0,100996,30378,0.072108,2026-11-11T21:35:16,2026-11-11T21:38:10,2.9,DeepInfra,default
+20261111T213530183147Z-f52fd3c6,repeated splits,bangladesh_sns,Gemini 3.1 Pro,DOP,final_test,110,oracle,86,0,80321,35938,0.295949,2026-11-11T21:35:36,2026-11-11T21:37:26,1.84,Google AI Studio,flex
+20261111T213549971713Z-44382c73,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,102,oracle,72,0,49380,9503,0.025225,2026-11-11T21:35:55,2026-11-11T21:37:06,1.18,DeepInfra,default
+20261111T213559484311Z-ff891aae,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,110,oracle,85,0,93834,35575,0.307284,2026-11-11T21:36:05,2026-11-11T21:37:59,1.9,Google AI Studio,flex
+20261111T213601747366Z-fda64b9c,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,101,oracle,72,0,105535,33109,0.07791,2026-11-11T21:36:06,2026-11-11T21:39:23,3.29,DeepInfra,default
+20261111T213604519264Z-51559e6c,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,109,oracle,83,0,90560,9963,0.701875,2026-11-11T21:36:12,2026-11-11T21:37:53,1.69,Claude Platform on AWS,default
+20261111T213621339278Z-b50e2644,repeated splits,bangladesh_sns,Gemini 3.1 Pro,BPP,final_test,109,oracle,83,1,93354,34580,0.300834,2026-11-11T21:36:22,2026-11-11T21:38:13,1.85,Google AI Studio,flex
+20261111T213637869125Z-09cec0b7,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,109,oracle,83,0,133899,21847,0.662452,2026-11-11T21:36:42,2026-11-11T21:38:13,1.52,OpenAI,default
+20261111T213710272136Z-eb21160b,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,102,oracle,83,0,39346,9264,0.023272,2026-11-11T21:37:15,2026-11-11T21:38:28,1.2,DeepInfra,default
+20261111T213716110432Z-88a5126d,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,105,oracle,139,0,211359,31909,1.007032,2026-11-11T21:37:20,2026-11-11T21:39:50,2.49,OpenAI,default
+20261111T213730581084Z-6c864f52,repeated splits,bangladesh_sns,Gemini 3.1 Pro,HC,final_test,110,oracle,162,1,64012,70346,0.486088,2026-11-11T21:37:36,2026-11-11T21:41:57,4.35,Google AI Studio,flex
+20261111T213739518611Z-e3538764,repeated splits,anket_tr,Claude Opus 4.6,BPP,final_test,110,oracle,71,0,273308,32396,2.17644,2026-11-11T21:37:48,2026-11-11T21:40:40,2.87,Claude Platform on AWS,default
+20261111T213744676028Z-b2a91319,repeated splits,anket_tr,Claude Opus 4.6,DOP,final_test,110,oracle,71,0,228519,28168,1.846795,2026-11-11T21:37:55,2026-11-11T21:40:20,2.41,Claude Platform on AWS,default
+20261111T213757120982Z-8f51c42e,repeated splits,anket_tr,Claude Opus 4.6,SADP,final_test,110,oracle,71,0,280976,32662,2.22143,2026-11-11T21:38:07,2026-11-11T21:40:55,2.8,Claude Platform on AWS,default
+20261111T213814798300Z-71198bf2,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,101,oracle,72,0,141147,28702,0.020652,2026-11-11T21:38:19,2026-11-11T21:39:44,1.41,DeepInfra,default
+20261111T213815048315Z-9e9345c1,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,102,oracle,72,0,111939,30260,0.016776,2026-11-11T21:38:19,2026-11-11T21:39:45,1.44,DeepInfra,default
+20261111T213817330930Z-94496cb5,repeated splits,anket_tr,GPT-5.4,FPNP,final_test,110,oracle,71,0,157702,22162,0.726685,2026-11-11T21:38:21,2026-11-11T21:39:56,1.58,OpenAI,default
+20261111T213817510622Z-9609fd9d,repeated splits,anket_tr,Gemini 3.1 Pro,DOP,final_test,110,oracle,71,0,82386,34853,0.291504,2026-11-11T21:38:25,2026-11-11T21:40:03,1.65,Google AI Studio,flex
+20261111T213831829419Z-cf78ffce,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,102,oracle,72,0,62755,10993,0.00752,2026-11-11T21:38:35,2026-11-11T21:39:23,0.8,DeepInfra,default
+20261111T213926892001Z-9e5e614a,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,102,oracle,83,0,36501,8243,0.005283,2026-11-11T21:39:29,2026-11-11T21:40:10,0.68,DeepInfra,default
+20261111T213927671239Z-0725c57f,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,101,oracle,83,0,96246,30827,0.072238,2026-11-11T21:39:33,2026-11-11T21:42:19,2.77,DeepInfra,default
+20261111T213947765299Z-52fe6196,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,101,oracle,83,0,90628,26757,0.015653,2026-11-11T21:39:52,2026-11-11T21:40:50,0.98,DeepInfra,default
+20261111T213949429968Z-281ac128,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,102,oracle,83,0,68955,27262,0.010757,2026-11-11T21:39:54,2026-11-11T21:41:14,1.33,DeepInfra,default
+20261111T213954226416Z-34d723ae,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,105,oracle,243,0,397266,63854,1.950975,2026-11-11T21:39:58,2026-11-11T21:44:20,4.36,OpenAI,default
+20261111T214000071874Z-43e3744b,repeated splits,anket_tr,GPT-5.4,BBP,final_test,110,oracle,71,0,142785,22564,0.695422,2026-11-11T21:40:04,2026-11-11T21:41:45,1.68,OpenAI,default
+20261111T214007672197Z-4848200d,repeated splits,anket_tr,Gemini 3.1 Pro,HC,final_test,110,oracle,176,0,109987,103938,0.733615,2026-11-11T21:40:14,2026-11-11T21:45:13,4.98,Google AI Studio,flex
+20261111T214014074180Z-a2e62467,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,103,oracle,71,0,50280,9379,0.025128,2026-11-11T21:40:19,2026-11-11T21:41:27,1.13,DeepInfra,default
+20261111T214023654279Z-9cc47f32,repeated splits,anket_tr,Claude Opus 4.6,HC,final_test,110,oracle,71,0,117432,13857,0.933585,2026-11-11T21:40:33,2026-11-11T21:42:23,1.83,Claude Platform on AWS,default
+20261111T214044315674Z-f39c9504,repeated splits,bangladesh_sns,Claude Opus 4.6,DOP,final_test,110,oracle,83,0,194721,24720,1.591605,2026-11-11T21:40:51,2026-11-11T21:43:03,2.2,Claude Platform on AWS,default
+20261111T214054127958Z-356259ed,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,102,oracle,72,0,113330,32611,0.078145,2026-11-11T21:40:58,2026-11-11T21:44:09,3.18,DeepInfra,default
+20261111T214059409144Z-18c4543d,repeated splits,bangladesh_sns,Claude Opus 4.6,BPP,final_test,110,oracle,83,0,225349,27505,1.81437,2026-11-11T21:41:07,2026-11-11T21:43:37,2.51,Claude Platform on AWS,default
+20261111T214117580367Z-5316586a,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,103,oracle,71,0,87278,31477,0.072111,2026-11-11T21:41:21,2026-11-11T21:44:28,3.12,DeepInfra,default
+20261111T214131032155Z-6cc681b5,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,103,oracle,83,0,38474,9229,0.023075,2026-11-11T21:41:35,2026-11-11T21:42:35,1.01,DeepInfra,default
+20261111T214148920392Z-28148495,repeated splits,bangladesh_sns,GPT-5.4,FPNP,final_test,110,oracle,83,0,146075,21365,0.685663,2026-11-11T21:41:53,2026-11-11T21:43:27,1.57,OpenAI,default
+20261111T214223002549Z-b78850ea,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,101,oracle,72,0,135758,29625,0.020347,2026-11-11T21:42:26,2026-11-11T21:43:38,1.2,DeepInfra,default
+20261111T214227535494Z-38ed3158,repeated splits,bangladesh_sns,Claude Opus 4.6,SADP,final_test,110,oracle,83,0,227026,25889,1.782355,2026-11-11T21:42:35,2026-11-11T21:44:51,2.27,Claude Platform on AWS,default
+20261111T214239072633Z-3ed6e6d1,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,103,oracle,71,0,59875,10580,0.007323,2026-11-11T21:42:41,2026-11-11T21:43:21,0.67,DeepInfra,default
+20261111T214307578220Z-1ee90c32,repeated splits,bangladesh_sns,Claude Opus 4.6,HC,final_test,110,oracle,83,0,92651,10078,0.715205,2026-11-11T21:43:15,2026-11-11T21:44:56,1.67,Claude Platform on AWS,default
+20261111T214325326873Z-7d0fdca9,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,103,oracle,83,0,37343,8423,0.00526,2026-11-11T21:43:28,2026-11-11T21:44:01,0.55,DeepInfra,default
+20261111T214331467114Z-d65658b0,repeated splits,bangladesh_sns,GPT-5.4,BBP,final_test,110,oracle,83,0,134550,21558,0.659745,2026-11-11T21:43:35,2026-11-11T21:45:14,1.64,OpenAI,default
+20261111T214341616758Z-6ec076dd,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,101,oracle,83,0,89873,27491,0.015332,2026-11-11T21:43:46,2026-11-11T21:44:48,1.03,DeepInfra,default
+20261111T214404910721Z-f072a611,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,104,oracle,71,0,50298,9514,0.025383,2026-11-11T21:44:08,2026-11-11T21:45:25,1.27,DeepInfra,default
+20261111T214413282808Z-5cec5253,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,102,oracle,83,0,102210,30390,0.072313,2026-11-11T21:44:19,2026-11-11T21:48:08,3.82,DeepInfra,default
+20261111T214423984634Z-981bf348,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,105,oracle,163,0,200610,30620,0.960825,2026-11-11T21:44:28,2026-11-11T21:46:52,2.4,OpenAI,default
+20261111T214432521929Z-43b4344d,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,103,oracle,83,0,76634,30616,0.0689,2026-11-11T21:44:38,2026-11-11T21:48:18,3.67,DeepInfra,default
+20261111T214452027144Z-a44351d3,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,102,oracle,72,0,107652,33161,0.078325,2026-11-11T21:44:58,2026-11-11T21:49:15,4.29,DeepInfra,default
+20261111T214517257296Z-b4e275a7,repeated splits,bangladesh_sns,Gemini 3.1 Pro,SADP,final_test,110,oracle,83,0,96795,33313,0.296673,2026-11-11T21:45:23,2026-11-11T21:47:09,1.77,Google AI Studio,flex
+20261111T214528922283Z-b4faf62f,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,104,oracle,83,0,40805,9285,0.02353,2026-11-11T21:45:36,2026-11-11T21:46:59,1.38,DeepInfra,default
+20261111T214655733498Z-9fd448e1,repeated splits,anket_tr,GPT-5.4,SCP,final_test,106,oracle,208,0,424062,66915,1.55988,2026-11-11T21:46:59,2026-11-11T21:51:57,4.97,OpenAI,default
+20261111T214703578858Z-f9fe8b21,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,104,oracle,71,0,59550,10512,0.007259,2026-11-11T21:47:07,2026-11-11T21:47:41,0.58,DeepInfra,default
+20261111T214745199884Z-c76f8b59,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,104,oracle,83,0,37014,8429,0.00568,2026-11-11T21:47:48,2026-11-11T21:48:30,0.69,DeepInfra,default
+20261111T214812515789Z-f26eb833,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,102,oracle,72,0,140312,28546,0.020464,2026-11-11T21:48:15,2026-11-11T21:49:20,1.09,DeepInfra,default
+20261111T214822036838Z-cd153777,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,103,oracle,71,3,111613,30042,0.016047,2026-11-11T21:48:24,2026-11-11T21:51:02,2.64,DeepInfra,default
+20261111T214833595633Z-e5044d78,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,105,oracle,71,0,48763,9350,0.024846,2026-11-11T21:48:40,2026-11-11T21:50:02,1.37,DeepInfra,default
+20261111T214919236851Z-2b782f25,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,102,oracle,83,0,98768,31427,0.073741,2026-11-11T21:49:24,2026-11-11T21:52:59,3.58,DeepInfra,default
+20261111T214924806243Z-e577fc91,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,102,oracle,83,0,91219,26830,0.015513,2026-11-11T21:49:27,2026-11-11T21:50:30,1.05,DeepInfra,default
+20261111T215006083311Z-fd61dd7f,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,105,oracle,83,0,38897,9178,0.023043,2026-11-11T21:50:10,2026-11-11T21:51:27,1.27,DeepInfra,default
+20261111T215034466167Z-e2eb783a,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,103,oracle,71,0,114013,32729,0.078469,2026-11-11T21:50:38,2026-11-11T21:54:37,3.98,DeepInfra,default
+20261111T215106441013Z-6304a5ac,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,103,oracle,83,0,68973,27180,0.01037,2026-11-11T21:51:10,2026-11-11T21:52:18,1.14,DeepInfra,default
+20261111T215130828688Z-2340da97,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,105,oracle,71,0,62033,10552,0.007356,2026-11-11T21:51:33,2026-11-11T21:52:11,0.65,DeepInfra,default
+20261111T215201462300Z-d52c24ec,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,106,oracle,140,0,211906,32435,1.01629,2026-11-11T21:52:07,2026-11-11T21:54:58,2.85,OpenAI,default
+20261111T215215495018Z-1fad0483,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,105,oracle,83,0,37246,8503,0.005542,2026-11-11T21:52:18,2026-11-11T21:52:54,0.6,DeepInfra,default
+20261111T215222467607Z-b36990f3,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,104,oracle,71,0,87315,31631,0.072405,2026-11-11T21:52:27,2026-11-11T21:56:26,4.0,DeepInfra,default
+20261111T215258021132Z-b059d728,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,106,oracle,72,0,48072,9600,0.025211,2026-11-11T21:53:04,2026-11-11T21:54:28,1.4,DeepInfra,default
+20261111T215303171652Z-92046a7a,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,102,oracle,72,0,136497,29880,0.020446,2026-11-11T21:53:06,2026-11-11T21:54:34,1.48,DeepInfra,default
+20261111T215431541848Z-f55a155e,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,106,oracle,83,0,39272,9241,0.023218,2026-11-11T21:54:36,2026-11-11T21:55:54,1.31,DeepInfra,default
+20261111T215438200061Z-71a32450,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,102,oracle,83,0,87957,27586,0.015538,2026-11-11T21:54:40,2026-11-11T21:55:40,1.0,DeepInfra,default
+20261111T215440938160Z-ea6c1f07,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,103,oracle,83,0,102757,30445,0.072498,2026-11-11T21:54:48,2026-11-11T21:58:26,3.62,DeepInfra,default
+20261111T215501970977Z-1bde0a4a,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,106,oracle,243,0,400816,63972,1.96162,2026-11-11T21:55:06,2026-11-11T21:59:59,4.87,OpenAI,default
+20261111T215544193632Z-757ba224,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,103,oracle,71,0,106640,32630,0.077177,2026-11-11T21:55:50,2026-11-11T21:59:23,3.55,DeepInfra,default
+20261111T215558329361Z-b110c34f,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,106,oracle,72,0,62082,11106,0.007597,2026-11-11T21:56:01,2026-11-11T21:57:28,1.44,DeepInfra,default
+20261111T215630509150Z-751c4deb,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,104,oracle,83,0,76610,30603,0.068872,2026-11-11T21:56:35,2026-11-11T21:59:54,3.31,DeepInfra,default
+20261111T215731449111Z-0ff5660c,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,106,oracle,83,0,37325,8412,0.005364,2026-11-11T21:57:34,2026-11-11T21:58:09,0.58,DeepInfra,default
+20261111T215812376137Z-17266784,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,107,oracle,72,0,48302,9613,0.02527,2026-11-11T21:58:16,2026-11-11T21:59:29,1.22,DeepInfra,default
+20261111T215829372593Z-a1702d57,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,103,oracle,71,0,139912,28332,0.020411,2026-11-11T21:58:32,2026-11-11T22:00:01,1.48,DeepInfra,default
+20261111T215926629936Z-e1ca1d25,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,103,oracle,83,0,96914,31126,0.072898,2026-11-11T21:59:32,2026-11-11T22:03:31,3.99,DeepInfra,default
+20261111T215932803439Z-27ae7dd8,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,107,oracle,83,0,37893,9188,0.022911,2026-11-11T21:59:37,2026-11-11T22:00:54,1.28,DeepInfra,default
+20261111T215957416961Z-fc7717ad,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,104,oracle,71,0,111644,29760,0.015237,2026-11-11T22:00:02,2026-11-11T22:01:26,1.4,DeepInfra,default
+20261111T220002495779Z-8148cc11,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,106,oracle,163,0,197845,30783,0.956358,2026-11-11T22:00:06,2026-11-11T22:02:43,2.62,OpenAI,default
+20261111T220005205011Z-ece15861,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,103,oracle,83,0,91789,26935,0.015235,2026-11-11T22:00:10,2026-11-11T22:01:08,0.97,DeepInfra,default
+20261111T220057332325Z-9a412253,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,107,oracle,72,0,60008,10914,0.007435,2026-11-11T22:01:01,2026-11-11T22:01:47,0.77,DeepInfra,default
+20261111T220112161798Z-ac057309,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,104,oracle,71,0,112890,32829,0.078311,2026-11-11T22:01:15,2026-11-11T22:05:35,4.33,DeepInfra,default
+20261111T220129509860Z-45bec8db,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,104,oracle,83,0,68955,27104,0.0102,2026-11-11T22:01:45,2026-11-11T22:03:18,1.55,DeepInfra,default
+20261111T220150865787Z-a867fb4c,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,107,oracle,83,0,37438,8392,0.005211,2026-11-11T22:01:55,2026-11-11T22:02:27,0.54,DeepInfra,default
+20261111T220231032435Z-4b7dad0a,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,108,oracle,72,0,53390,9734,0.02626,2026-11-11T22:02:34,2026-11-11T22:05:01,2.45,DeepInfra,default
+20261111T220246946725Z-d8441c9d,repeated splits,anket_tr,GPT-5.4,SCP,final_test,107,oracle,208,0,425348,67539,1.596647,2026-11-11T22:02:54,2026-11-11T22:07:47,4.88,OpenAI,default
+20261111T220321564011Z-a2803854,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,105,oracle,71,0,87327,31564,0.072282,2026-11-11T22:03:25,2026-11-11T22:07:16,3.84,DeepInfra,default
+20261111T220334902622Z-05b53a90,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,103,oracle,71,0,135824,29452,0.020364,2026-11-11T22:03:38,2026-11-11T22:05:19,1.68,DeepInfra,default
+20261111T220504612284Z-91527631,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,108,oracle,83,0,41168,9388,0.023778,2026-11-11T22:05:09,2026-11-11T22:06:33,1.4,DeepInfra,default
+20261111T220522455059Z-c103516c,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,103,oracle,83,0,88772,27380,0.015338,2026-11-11T22:05:25,2026-11-11T22:06:53,1.48,DeepInfra,default
+20261111T220538601803Z-65e6ba05,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,104,oracle,83,0,101527,30551,0.072512,2026-11-11T22:05:46,2026-11-11T22:09:09,3.39,DeepInfra,default
+20261111T220636536382Z-84c86d56,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,108,oracle,72,0,59645,10878,0.007389,2026-11-11T22:06:39,2026-11-11T22:07:19,0.66,DeepInfra,default
+20261111T220656967052Z-dc02481b,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,104,oracle,71,0,106510,32761,0.077403,2026-11-11T22:07:01,2026-11-11T22:10:53,3.88,DeepInfra,default
+20261111T220719764034Z-c6f8bd5b,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,105,oracle,83,0,76577,30610,0.06888,2026-11-11T22:07:24,2026-11-11T22:10:44,3.33,DeepInfra,default
+20261111T220722671559Z-6875d7cf,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,108,oracle,83,0,37874,8337,0.005262,2026-11-11T22:07:26,2026-11-11T22:08:23,0.95,DeepInfra,default
+20261111T220750580899Z-4e05d26d,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,107,oracle,140,0,210356,33669,1.030925,2026-11-11T22:07:55,2026-11-11T22:10:47,2.88,OpenAI,default
+20261111T220827143000Z-28ff005d,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,109,oracle,71,0,49328,9342,0.024915,2026-11-11T22:08:31,2026-11-11T22:09:53,1.35,DeepInfra,default
+20261111T220913083848Z-e0b33bc8,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,104,oracle,71,0,141778,28310,0.020076,2026-11-11T22:09:16,2026-11-11T22:10:23,1.12,DeepInfra,default
+20261111T220956515290Z-9797dc06,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,109,oracle,83,0,38706,9275,0.023197,2026-11-11T22:10:04,2026-11-11T22:11:13,1.15,DeepInfra,default
+20261111T221026430514Z-b60ed147,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,104,oracle,83,0,90595,26903,0.016009,2026-11-11T22:10:29,2026-11-11T22:11:35,1.09,DeepInfra,default
+20261111T221047829828Z-d425cef7,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,105,oracle,71,0,111665,30096,0.015192,2026-11-11T22:10:50,2026-11-11T22:12:11,1.35,DeepInfra,default
+20261111T221051274436Z-5ac110ed,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,107,oracle,243,0,402023,63941,1.964173,2026-11-11T22:10:56,2026-11-11T22:15:52,4.93,OpenAI,default
+20261111T221057335430Z-87a25e9f,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,104,oracle,83,0,96910,31212,0.073059,2026-11-11T22:11:03,2026-11-11T22:14:22,3.31,DeepInfra,default
+20261111T221116515843Z-2961ad10,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,109,oracle,71,0,62705,10768,0.007255,2026-11-11T22:11:18,2026-11-11T22:11:59,0.68,DeepInfra,default
+20261111T221138413018Z-4172496d,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,105,oracle,71,0,112067,32270,0.077316,2026-11-11T22:11:42,2026-11-11T22:15:05,3.39,DeepInfra,default
+20261111T221203080758Z-afe84456,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,109,oracle,83,0,37580,8302,0.005029,2026-11-11T22:12:05,2026-11-11T22:12:57,0.86,DeepInfra,default
+20261111T221214758753Z-59d92b37,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,105,oracle,83,0,68950,27275,0.011272,2026-11-11T22:12:17,2026-11-11T22:13:28,1.18,DeepInfra,default
+20261111T221300578464Z-95e8935a,repeated splits,anket_tr,Qwen3.8 27B,HC,final_test,110,oracle,71,0,53034,9584,0.025925,2026-11-11T22:13:08,2026-11-11T22:14:15,1.11,DeepInfra,default
+20261111T221331407782Z-f5f60dd0,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,106,oracle,72,0,87635,32100,0.073333,2026-11-11T22:13:36,2026-11-11T22:16:56,3.33,DeepInfra,default
+20261111T221418812953Z-1d2539df,repeated splits,bangladesh_sns,Qwen3.8 27B,HC,final_test,110,oracle,83,0,39766,9171,0.023161,2026-11-11T22:14:25,2026-11-11T22:15:40,1.24,DeepInfra,default
+20261111T221425697060Z-b588fa97,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,104,oracle,71,0,134638,29579,0.020102,2026-11-11T22:14:28,2026-11-11T22:15:35,1.12,DeepInfra,default
+20261111T221509258374Z-f46499d0,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,105,oracle,83,0,100546,30466,0.072206,2026-11-11T22:15:14,2026-11-11T22:18:41,3.45,DeepInfra,default
+20261111T221538755156Z-dff250c7,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,104,oracle,83,0,89506,27510,0.015728,2026-11-11T22:15:42,2026-11-11T22:17:30,1.8,DeepInfra,default
+20261111T221543472455Z-f862816f,repeated splits,anket_tr,DeepSeek V4.1 Flash,HC,final_test,110,oracle,71,0,61613,10667,0.007471,2026-11-11T22:15:46,2026-11-11T22:16:25,0.65,DeepInfra,default
+20261111T221555405083Z-7427c9ed,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,107,oracle,163,0,197918,30796,0.956735,2026-11-11T22:15:59,2026-11-11T22:18:39,2.67,OpenAI,default
+20261111T221628456522Z-eac78681,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,HC,final_test,110,oracle,83,0,35798,8425,0.005584,2026-11-11T22:16:33,2026-11-11T22:17:42,1.14,DeepInfra,default
+20261111T221659749143Z-87d59dbe,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,106,oracle,83,0,76638,30699,0.069056,2026-11-11T22:17:07,2026-11-11T22:20:36,3.48,DeepInfra,default
+20261111T221734159095Z-1677a3be,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,105,oracle,71,0,105203,32862,0.077397,2026-11-11T22:17:38,2026-11-11T22:21:11,3.55,DeepInfra,default
+20261111T221843007428Z-ff3f6945,repeated splits,anket_tr,GPT-5.4,SCP,final_test,108,oracle,208,0,428949,67775,1.593061,2026-11-11T22:18:48,2026-11-11T22:23:20,4.53,OpenAI,default
+20261111T221844502755Z-b99b496e,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,105,oracle,71,0,139017,28222,0.02029,2026-11-11T22:18:47,2026-11-11T22:20:31,1.74,DeepInfra,default
+20261111T222035156700Z-3602e8eb,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,105,oracle,83,0,91622,26873,0.015785,2026-11-11T22:20:38,2026-11-11T22:21:37,1.0,DeepInfra,default
+20261111T222039897100Z-e153757d,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,106,oracle,72,0,111994,29910,0.013977,2026-11-11T22:20:42,2026-11-11T22:22:04,1.37,DeepInfra,default
+20261111T222114753602Z-3ff19537,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,105,oracle,83,0,96060,31055,0.072637,2026-11-11T22:21:19,2026-11-11T22:24:39,3.34,DeepInfra,default
+20261111T222141388969Z-435dd5bd,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,106,oracle,72,0,112108,32512,0.077776,2026-11-11T22:21:45,2026-11-11T22:25:07,3.37,DeepInfra,default
+20261111T222207874898Z-b122c903,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,106,oracle,83,0,68977,27170,0.010586,2026-11-11T22:22:10,2026-11-11T22:23:35,1.42,DeepInfra,default
+20261111T222323913382Z-5984f06b,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,108,oracle,140,0,211159,33510,1.030547,2026-11-11T22:23:28,2026-11-11T22:25:59,2.52,OpenAI,default
+20261111T222339396770Z-d3140111,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,107,oracle,72,0,87581,32007,0.07315,2026-11-11T22:23:45,2026-11-11T22:27:12,3.45,DeepInfra,default
+20261111T222442977077Z-e40af6c8,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,105,oracle,71,0,134513,29702,0.020284,2026-11-11T22:24:45,2026-11-11T22:26:24,1.64,DeepInfra,default
+20261111T222511300939Z-da115ff3,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,106,oracle,83,0,102194,30141,0.071843,2026-11-11T22:25:16,2026-11-11T22:28:40,3.4,DeepInfra,default
+20261111T222603200411Z-b4230eb2,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,108,oracle,243,0,399322,63641,1.95292,2026-11-11T22:26:07,2026-11-11T22:30:17,4.16,OpenAI,default
+20261111T222627459193Z-3ef45323,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,105,oracle,83,0,88671,27431,0.015562,2026-11-11T22:26:32,2026-11-11T22:27:48,1.27,DeepInfra,default
+20261111T222715593110Z-164753fd,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,107,oracle,83,0,76552,30721,0.069085,2026-11-11T22:27:25,2026-11-11T22:30:53,3.47,DeepInfra,default
+20261111T222752415302Z-292558ae,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,106,oracle,72,0,109506,33230,0.078732,2026-11-11T22:27:57,2026-11-11T22:31:53,3.94,DeepInfra,default
+20261111T222844095864Z-936384e3,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,106,oracle,72,0,141794,28417,0.02045,2026-11-11T22:28:46,2026-11-11T22:29:49,1.04,DeepInfra,default
+20261111T222952642359Z-5c73bd73,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,106,oracle,83,0,91599,26835,0.015649,2026-11-11T22:29:55,2026-11-11T22:30:50,0.92,DeepInfra,default
+20261111T223020632303Z-2de588ea,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,108,oracle,163,0,199589,30528,0.956893,2026-11-11T22:30:25,2026-11-11T22:32:58,2.55,OpenAI,default
+20261111T223054219973Z-3644f349,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,107,oracle,72,0,112799,32663,0.077987,2026-11-11T22:30:58,2026-11-11T22:34:56,3.97,DeepInfra,default
+20261111T223057120682Z-85583840,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,107,oracle,72,0,111952,30211,0.014354,2026-11-11T22:30:59,2026-11-11T22:32:20,1.35,DeepInfra,default
+20261111T223156855865Z-67eec393,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,106,oracle,83,0,97762,31235,0.07323,2026-11-11T22:32:02,2026-11-11T22:36:19,4.28,DeepInfra,default
+20261111T223223788090Z-3cd7a27d,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,107,oracle,83,0,68932,27112,0.009981,2026-11-11T22:32:42,2026-11-11T22:34:19,1.62,DeepInfra,default
+20261111T223301385672Z-b4529256,repeated splits,anket_tr,GPT-5.4,SCP,final_test,109,oracle,207,0,421709,66677,1.538332,2026-11-11T22:33:06,2026-11-11T22:37:25,4.32,OpenAI,default
+20261111T223422747206Z-4d65c072,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,108,oracle,72,0,87562,31787,0.072735,2026-11-11T22:34:27,2026-11-11T22:38:33,4.1,DeepInfra,default
+20261111T223459733309Z-8ff4510a,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,107,oracle,83,0,102265,30465,0.072462,2026-11-11T22:35:06,2026-11-11T22:39:16,4.16,DeepInfra,default
+20261111T223622608310Z-d8caa687,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,106,oracle,72,0,136367,29862,0.02044,2026-11-11T22:36:25,2026-11-11T22:37:39,1.24,DeepInfra,default
+20261111T223728595777Z-3be423c8,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,109,oracle,139,0,210957,31699,1.002878,2026-11-11T22:37:32,2026-11-11T22:40:00,2.46,OpenAI,default
+20261111T223742960691Z-9727cca8,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,106,oracle,83,0,89045,27466,0.015585,2026-11-11T22:37:45,2026-11-11T22:38:50,1.08,DeepInfra,default
+20261111T223836906699Z-ef7a9eee,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,108,oracle,83,0,76647,30699,0.069058,2026-11-11T22:38:42,2026-11-11T22:43:00,4.3,DeepInfra,default
+20261111T223853738633Z-a3e84dc3,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,107,oracle,72,0,109710,33133,0.078404,2026-11-11T22:38:58,2026-11-11T22:43:39,4.68,DeepInfra,default
+20261111T223919404515Z-afe7f783,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,107,oracle,72,0,140742,28144,0.020169,2026-11-11T22:39:21,2026-11-11T22:40:33,1.2,DeepInfra,default
+20261111T224003443169Z-89826c28,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,109,oracle,243,0,401215,63784,1.959798,2026-11-11T22:40:07,2026-11-11T22:44:24,4.29,OpenAI,default
+20261111T224037009001Z-2d6175a9,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,107,oracle,83,12,91632,26741,0.015309,2026-11-11T22:40:40,2026-11-11T22:42:29,1.81,DeepInfra,default
+20261111T224232520975Z-3883c3b2,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,108,oracle,72,0,113609,32873,0.078502,2026-11-11T22:42:41,2026-11-11T22:46:48,4.13,DeepInfra,default
+20261111T224303841082Z-d7477150,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,108,oracle,72,0,111952,30289,0.013792,2026-11-11T22:43:06,2026-11-11T22:44:26,1.32,DeepInfra,default
+20261111T224342981021Z-ab9f5632,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,107,oracle,83,0,96576,31313,0.073198,2026-11-11T22:43:50,2026-11-11T22:47:26,3.61,DeepInfra,default
+20261111T224428704648Z-8e1be1a8,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,109,oracle,163,0,198353,30587,0.954688,2026-11-11T22:44:33,2026-11-11T22:47:06,2.55,OpenAI,default
+20261111T224429956685Z-d19f361e,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,108,oracle,83,0,68984,27276,0.00945,2026-11-11T22:44:33,2026-11-11T22:46:10,1.62,DeepInfra,default
+20261111T224613597677Z-0e82f586,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,109,oracle,71,0,87258,31551,0.072247,2026-11-11T22:46:19,2026-11-11T22:49:53,3.56,DeepInfra,default
+20261111T224652432110Z-69d88659,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,108,oracle,83,0,101827,30499,0.07246,2026-11-11T22:46:56,2026-11-11T22:51:09,4.21,DeepInfra,default
+20261111T224710174945Z-f0cb546b,repeated splits,anket_tr,GPT-5.4,SCP,final_test,110,oracle,207,0,425116,66496,1.548166,2026-11-11T22:47:14,2026-11-11T22:51:39,4.42,OpenAI,default
+20261111T224730235527Z-8c1b26f2,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,107,oracle,72,0,137466,29961,0.020346,2026-11-11T22:47:33,2026-11-11T22:48:50,1.29,DeepInfra,default
+20261111T224854422819Z-08f24a1a,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,107,oracle,83,0,88906,27523,0.015344,2026-11-11T22:48:57,2026-11-11T22:50:16,1.32,DeepInfra,default
+20261111T224957048549Z-d75b363e,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,109,oracle,83,0,76580,30649,0.068954,2026-11-11T22:50:00,2026-11-11T22:53:06,3.08,DeepInfra,default
+20261111T225019972323Z-95931934,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,108,oracle,72,0,106024,32996,0.077771,2026-11-11T22:50:24,2026-11-11T22:53:43,3.33,DeepInfra,default
+20261111T225112660600Z-1555b832,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,108,oracle,72,0,142183,28355,0.020287,2026-11-11T22:51:15,2026-11-11T22:52:20,1.08,DeepInfra,default
+20261111T225143371357Z-98ad8208,repeated splits,anket_tr,GPT-5.4,TPSAP,final_test,110,oracle,139,0,210696,31969,1.006275,2026-11-11T22:51:48,2026-11-11T22:54:13,2.41,OpenAI,default
+20261111T225223817064Z-83bbab3c,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,108,oracle,83,0,91166,26883,0.015694,2026-11-11T22:52:26,2026-11-11T22:53:30,1.07,DeepInfra,default
+20261111T225309498044Z-7b214a9e,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,109,oracle,71,0,111592,29969,0.012957,2026-11-11T22:53:12,2026-11-11T22:54:21,1.15,DeepInfra,default
+20261111T225334318790Z-561505f8,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,109,oracle,71,0,112233,32329,0.077452,2026-11-11T22:53:40,2026-11-11T22:57:21,3.68,DeepInfra,default
+20261111T225347311270Z-812389e3,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,108,oracle,83,1,96975,31263,0.073164,2026-11-11T22:53:53,2026-11-11T22:57:26,3.56,DeepInfra,default
+20261111T225416683912Z-6d2eee46,repeated splits,bangladesh_sns,GPT-5.4,SCP,final_test,110,oracle,243,0,396531,63483,1.943572,2026-11-11T22:54:20,2026-11-11T22:58:07,3.78,OpenAI,default
+20261111T225425247768Z-647ccff6,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,109,oracle,83,0,68950,27304,0.009674,2026-11-11T22:54:29,2026-11-11T22:55:57,1.46,DeepInfra,default
+20261111T225600618855Z-657187c1,repeated splits,anket_tr,Qwen3.8 27B,DOP,final_test,110,oracle,71,0,87289,31553,0.072255,2026-11-11T22:56:07,2026-11-11T22:59:20,3.22,DeepInfra,default
+20261111T225724869090Z-6eee7e24,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,109,oracle,83,0,103480,30506,0.072721,2026-11-11T22:57:31,2026-11-11T23:00:39,3.14,DeepInfra,default
+20261111T225730297569Z-6f64473c,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,108,oracle,72,0,136109,30019,0.020315,2026-11-11T22:57:32,2026-11-11T22:58:39,1.11,DeepInfra,default
+20261111T225810736392Z-0ff6e99f,repeated splits,bangladesh_sns,GPT-5.4,TPSAP,final_test,110,oracle,163,0,198959,30752,0.958677,2026-11-11T22:58:14,2026-11-11T23:00:37,2.37,OpenAI,default
+20261111T225842854786Z-9f1001c2,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,108,oracle,83,0,89452,27672,0.015636,2026-11-11T22:58:45,2026-11-11T23:01:30,2.75,DeepInfra,default
+20261111T225924178259Z-b0b683c9,repeated splits,bangladesh_sns,Qwen3.8 27B,DOP,final_test,110,oracle,83,0,76531,30589,0.068834,2026-11-11T22:59:29,2026-11-11T23:02:28,2.99,DeepInfra,default
+20261111T230043160662Z-9624bd29,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,109,oracle,71,0,141744,28314,0.020317,2026-11-11T23:00:46,2026-11-11T23:02:11,1.41,DeepInfra,default
+20261111T230133959320Z-c976c3a0,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,109,oracle,71,0,105366,32954,0.077594,2026-11-11T23:01:40,2026-11-11T23:04:58,3.29,DeepInfra,default
+20261111T230214509589Z-a005ae18,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,109,oracle,83,0,91582,26853,0.015008,2026-11-11T23:02:17,2026-11-11T23:03:29,1.2,DeepInfra,default
+20261111T230231935807Z-c10236a6,repeated splits,anket_tr,DeepSeek V4.1 Flash,DOP,final_test,110,oracle,71,0,111618,29918,0.013237,2026-11-11T23:02:34,2026-11-11T23:03:52,1.29,DeepInfra,default
+20261111T230332916493Z-27bba7fd,repeated splits,anket_tr,Qwen3.8 27B,SADP,final_test,110,oracle,71,0,111923,32340,0.077426,2026-11-11T23:03:37,2026-11-11T23:06:56,3.31,DeepInfra,default
+20261111T230355358663Z-8a2cb8e5,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,DOP,final_test,110,oracle,83,0,68917,27207,0.010153,2026-11-11T23:03:58,2026-11-11T23:05:11,1.21,DeepInfra,default
+20261111T230501695287Z-41961a42,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,109,oracle,83,0,96183,31019,0.072588,2026-11-11T23:05:06,2026-11-11T23:08:09,3.04,DeepInfra,default
+20261111T230659299021Z-32370e3a,repeated splits,bangladesh_sns,Qwen3.8 27B,SADP,final_test,110,oracle,83,0,102413,30419,0.072398,2026-11-11T23:07:04,2026-11-11T23:09:57,2.88,DeepInfra,default
+20261111T230812432568Z-f618c9e5,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,109,oracle,71,0,137667,29974,0.020406,2026-11-11T23:08:15,2026-11-11T23:10:14,1.99,DeepInfra,default
+20261111T231000525796Z-19039c5d,repeated splits,anket_tr,DeepSeek V4.1 Flash,SADP,final_test,110,oracle,71,0,140156,28076,0.020323,2026-11-11T23:10:03,2026-11-11T23:11:39,1.59,DeepInfra,default
+20261111T231017662539Z-9947a034,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,109,oracle,83,0,88347,27616,0.015171,2026-11-11T23:10:20,2026-11-11T23:11:34,1.23,DeepInfra,default
+20261111T231137623230Z-399c76aa,repeated splits,anket_tr,Qwen3.8 27B,BPP,final_test,110,oracle,71,0,107464,32861,0.077734,2026-11-11T23:11:42,2026-11-11T23:15:19,3.61,DeepInfra,default
+20261111T231142654041Z-bd447a52,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,SADP,final_test,110,oracle,83,0,91846,26858,0.015814,2026-11-11T23:11:45,2026-11-11T23:12:49,1.06,DeepInfra,default
+20261111T231523338911Z-3ffc85e8,repeated splits,bangladesh_sns,Qwen3.8 27B,BPP,final_test,110,oracle,83,0,96372,31139,0.072841,2026-11-11T23:15:29,2026-11-11T23:19:06,3.63,DeepInfra,default
+20261111T231910301576Z-74e1558a,repeated splits,anket_tr,DeepSeek V4.1 Flash,BPP,final_test,110,oracle,71,3,137998,30115,0.020394,2026-11-11T23:19:16,2026-11-11T23:21:16,2.0,DeepInfra,default
+20261111T232119637719Z-ee923ddd,repeated splits,bangladesh_sns,DeepSeek V4.1 Flash,BPP,final_test,110,oracle,83,0,89451,27459,0.015671,2026-11-11T23:21:27,2026-11-11T23:22:46,1.32,DeepInfra,default
+20261112T071039425769Z-f629e399,"diagnostic, reasoning enabled",bangladesh_sns,Qwen3.8 27B,SADP,final_test,42,oracle,92,0,117960,374836,0.720511,2026-11-12T07:11:33,2026-11-12T07:49:53,38.33,DeepInfra,default
+20261112T082113689126Z-73ec8271,"alternative profiles, k-means",anket_tr,GPT-5.4,BPP,validation,42,oracle,147,0,297127,46456,1.157417,2026-11-12T08:21:15,2026-11-12T08:24:08,2.87,OpenAI,None; default
+20261112T082113689298Z-48658414,"alternative profiles, soft membership",anket_tr,GPT-5.4,BPP,validation,42,coldstart,146,0,375689,46976,1.361622,2026-11-12T08:21:20,2026-11-12T08:24:10,2.84,Azure; OpenAI,None; default
+20261112T082411691853Z-a950d5fd,"alternative profiles, k-means",anket_tr,GPT-5.4,SADP,validation,42,oracle,145,0,306428,43018,1.125068,2026-11-12T08:24:15,2026-11-12T08:27:04,2.81,OpenAI,default
+20261112T082414317974Z-3b981df5,"alternative profiles, soft membership",anket_tr,GPT-5.4,SADP,validation,42,coldstart,145,0,380474,43117,1.323764,2026-11-12T08:24:20,2026-11-12T08:27:06,2.77,OpenAI,default
+20261112T082707954557Z-1b21c7fe,"alternative profiles, k-means",anket_tr,GPT-5.4,BPP,final_test,42,oracle,146,0,298172,46754,1.156436,2026-11-12T08:27:11,2026-11-12T08:30:14,3.05,OpenAI,default
+20261112T082710010560Z-e463ff19,"alternative profiles, soft membership",anket_tr,GPT-5.4,BPP,final_test,42,coldstart,146,0,369038,47643,1.383224,2026-11-12T08:27:15,2026-11-12T08:30:04,2.82,OpenAI,default
+20261112T083008262869Z-f764ae74,"alternative profiles, soft membership",anket_tr,GPT-5.4,SADP,final_test,42,coldstart,146,0,381572,43133,1.367069,2026-11-12T08:30:13,2026-11-12T08:32:43,2.49,OpenAI,default
+20261112T083018280441Z-862e5169,"alternative profiles, k-means",anket_tr,GPT-5.4,SADP,final_test,42,oracle,146,0,307027,42821,1.131674,2026-11-12T08:30:23,2026-11-12T08:33:04,2.68,OpenAI,default
+20261112T083246944374Z-5b4d8a88,"alternative profiles, soft membership",bangladesh_sns,GPT-5.4,BPP,validation,42,coldstart,157,0,321422,41117,1.109846,2026-11-12T08:32:53,2026-11-12T08:35:26,2.56,OpenAI,default
+20261112T083307767911Z-4f76e8b1,"alternative profiles, k-means",bangladesh_sns,GPT-5.4,BPP,validation,42,oracle,157,0,257295,41455,1.265063,2026-11-12T08:33:11,2026-11-12T08:35:51,2.66,OpenAI,default
+20261112T083530655369Z-d127edb3,"alternative profiles, soft membership",bangladesh_sns,GPT-5.4,SADP,validation,42,coldstart,157,0,319882,38798,1.042987,2026-11-12T08:35:36,2026-11-12T08:37:56,2.33,OpenAI,default
+20261112T083554828764Z-a4885d2d,"alternative profiles, k-means",bangladesh_sns,GPT-5.4,SADP,validation,42,oracle,157,0,259908,38546,1.22796,2026-11-12T08:35:59,2026-11-12T08:38:10,2.18,OpenAI,default
+20261112T083800286595Z-cb3f953a,"alternative profiles, soft membership",bangladesh_sns,GPT-5.4,BPP,final_test,42,coldstart,158,0,319866,41193,1.070808,2026-11-12T08:38:07,2026-11-12T08:40:43,2.6,OpenAI,default
+20261112T083813873759Z-39327211,"alternative profiles, k-means",bangladesh_sns,GPT-5.4,BPP,final_test,42,oracle,158,0,259994,41675,1.27511,2026-11-12T08:38:17,2026-11-12T08:40:55,2.63,OpenAI,default
+20261112T084047961638Z-2a1bf0a2,"alternative profiles, soft membership",bangladesh_sns,GPT-5.4,SADP,final_test,42,coldstart,158,0,320021,39021,1.078936,2026-11-12T08:40:54,2026-11-12T08:43:12,2.3,OpenAI,default
+20261112T084059362085Z-c3bb8bb6,"alternative profiles, k-means",bangladesh_sns,GPT-5.4,SADP,final_test,42,oracle,158,0,261100,38962,1.23718,2026-11-12T08:41:03,2026-11-12T08:43:22,2.32,OpenAI,default

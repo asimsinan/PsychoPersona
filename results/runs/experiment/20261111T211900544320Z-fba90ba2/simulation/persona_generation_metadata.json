@@ -1,0 +1,34 @@
+[
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "persona_card",
+    "prompt_tokens": 280,
+    "completion_tokens": 528,
+    "total_tokens": 808,
+    "response_id": "gen-1794431941-AdfoQ7LdY8pAvdb4eSer"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "persona_card",
+    "prompt_tokens": 279,
+    "completion_tokens": 774,
+    "total_tokens": 1053,
+    "response_id": "gen-1794431946-scZEJ9dLIM12BswN21yB"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "persona_card",
+    "prompt_tokens": 279,
+    "completion_tokens": 848,
+    "total_tokens": 1127,
+    "response_id": "gen-1794431953-aIzrDeSMPYgLVmfl38ZV"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "persona_card",
+    "prompt_tokens": 283,
+    "completion_tokens": 554,
+    "total_tokens": 837,
+    "response_id": "gen-1794431961-Iy9KZqPiiDPMSScQZB25"
+  }
+]

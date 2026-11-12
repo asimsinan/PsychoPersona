@@ -1,0 +1,9 @@
+dataset,feature,eta_squared,f_stat,n_distinct_values
+anket_tr,digital_addiction_mean,0.0684,13.0,40
+anket_tr,social_anxiety_mean,0.0136,2.5,50
+anket_tr,wellbeing_mean,0.0061,1.1,41
+anket_tr,usage_hours_midpoint,1.0,inf,4
+bangladesh_sns,ucla_loneliness_mean,0.2394,65.9,25
+bangladesh_sns,phq9_mean,0.5369,242.7,28
+bangladesh_sns,gad7_mean,0.7143,523.3,22
+bangladesh_sns,usage_hours_midpoint,0.4936,204.1,4

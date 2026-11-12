@@ -1,0 +1,54 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "higher loneliness, higher depressive symptoms, higher anxiety symptoms, heavier daily social-media use",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "higher loneliness",
+      "higher depressive symptoms",
+      "higher anxiety symptoms",
+      "heavier daily social-media use"
+    ],
+    "tone": "anxious and isolated"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Individuals with lower loneliness, lower depressive symptoms, lower anxiety symptoms, and lighter daily social-media use.",
+    "demographic_anchor": "Male, Graduate or above",
+    "behavior_markers": [
+      "Low loneliness (UCLA-8 mean: 0.78)",
+      "Low depressive symptoms (PHQ-9 mean: 0.27)",
+      "Low anxiety symptoms (GAD-7 mean: 0.03)",
+      "Light daily social-media use (1-3 hours, midpoint: 2.80)"
+    ],
+    "tone": "Stable and well-adjusted"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "higher loneliness, lower depressive symptoms, lower anxiety symptoms, heavier daily social-media use",
+    "demographic_anchor": "Female, Graduate or above, 3-5 hours",
+    "behavior_markers": [
+      "higher loneliness",
+      "lower depressive symptoms",
+      "lower anxiety symptoms",
+      "heavier daily social-media use"
+    ],
+    "tone": "Lonely but emotionally stable"
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "lower loneliness, lower depressive symptoms, lower anxiety symptoms, lighter daily social-media use",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "lower loneliness",
+      "lower depressive symptoms",
+      "lower anxiety symptoms",
+      "lighter daily social-media use"
+    ],
+    "tone": "stable and well-adjusted"
+  }
+]

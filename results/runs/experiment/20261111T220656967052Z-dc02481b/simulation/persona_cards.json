@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Bu profil, yüksek dijital kullanım, belirgin sosyal kaygı ve düşük iyi oluş düzeyi ile karakterize edilmektedir. Veriler, dijital bağımlılık ve sosyal kaygı ortalamalarının iyi oluş ortalamasına kıyasla daha yüksek olduğunu göstermektedir.",
+    "demographic_anchor": "Kadın, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Yüksek dijital kullanım",
+      "Yüksek sosyal kaygı",
+      "Düşük iyi oluş"
+    ],
+    "tone": "Veri odaklı ve analitik"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Düşük dijital kullanım, düşük sosyal kaygı ve yüksek iyi oluş düzeyine sahip öğrenci grubu.",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık (Ortalama: 2.74)",
+      "Düşük sosyal kaygı (Ortalama: 1.94)",
+      "Yüksek iyi oluş (Ortalama: 3.88)"
+    ],
+    "tone": "Dengeli ve pozitif"
+  },
+  {
+    "profile_id": 2,
+    "label": "Düşük Dijital Kullanım ve Düşük Sosyal Kaygı Grubu",
+    "summary": "Bu profil, dijital bağımlılık, sosyal kaygı ve iyi oluş düzeylerinin genel ortalamanın altında seyrettiği bir grup olarak öne çıkmaktadır. Katılımcılar, dijital platformlarda daha az zaman geçirme eğiliminde olup sosyal etkileşimlerde belirgin bir kaygı belirtisi göstermemektedir. Ancak, bu düşük kaygı ve dijital kullanım düzeyine rağmen, genel iyi oluş hali de nispeten düşük seviyelerde ölçülmüştür. Grup, dijital dünyadan uzak duran ve sosyal ortamlarda rahat davranan, ancak genel yaşam memnuniyeti açısından ortalama altı bir tablo çizen öğrencileri temsil etmektedir.",
+    "demographic_anchor": "Erkek, Ön Lisans, Günde 4-6 Saat",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık skoru (Ortalama: 1.57)",
+      "Düşük sosyal kaygı skoru (Ortalama: 1.56)",
+      "Düşük iyi oluş skoru (Ortalama: 1.53)",
+      "Ön lisans düzeyinde eğitim görme",
+      "Erkek cinsiyeti"
+    ],
+    "tone": "Nötr, veri odaklı ve analitik"
+  }
+]

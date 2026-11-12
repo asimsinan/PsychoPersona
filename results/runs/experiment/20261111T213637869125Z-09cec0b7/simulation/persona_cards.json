@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Typically male, educated to graduate level or above, with 1–3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure",
+      "Shows low depressive symptom levels on the PHQ-9",
+      "Shows very low anxiety symptom levels on the GAD-7",
+      "Represents a larger subgroup in the training split (n=128)"
+    ],
+    "tone": "Stable, low-distress, and emotionally well-functioning"
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher distress and loneliness profile",
+    "summary": "Respondents in this profile report comparatively higher loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "More likely to be female, have graduate-level education or above, and report more than 5 hours.",
+    "behavior_markers": [
+      "Higher average loneliness on the UCLA-8 measure",
+      "Higher average depressive symptoms on the PHQ-9",
+      "Higher average anxiety symptoms on the GAD-7",
+      "Represents a training-split subgroup of 194 respondents"
+    ],
+    "tone": "Vulnerable, distressed, and socially disconnected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, socially connected male graduate",
+    "summary": "This profile reflects respondents with comparatively low loneliness, low depressive symptoms, and low anxiety symptoms. Overall, it suggests a psychologically lower-distress group with relatively strong social and emotional well-being.",
+    "demographic_anchor": "Typically male, educated to graduate level or above, and reporting 1-3 hours.",
+    "behavior_markers": [
+      "Reports low loneliness relative to other profiles",
+      "Shows low average depressive symptoms",
+      "Shows low average anxiety symptoms",
+      "Appears relatively socially connected and emotionally stable"
+    ],
+    "tone": "Calm, socially grounded, and emotionally steady"
+  }
+]

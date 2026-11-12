@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş düzeyi daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.162",
+      "Sosyal kaygı ortalaması 3.143",
+      "İyi oluş ortalaması 3.105",
+      "Eğitim örneklemindeki kişi sayısı 163"
+    ],
+    "tone": "Dijital etkileşimi yoğun, sosyal açıdan daha kaygılı ve iyi oluş göstergeleri görece düşük bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım, sosyal kaygı ve iyi oluş ortalamaları örneklem içinde düşük düzeyde görülen bir öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saatlik kullanım örüntüsü",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.57).",
+      "Sosyal kaygı ortalaması düşüktür (1.56).",
+      "İyi oluş ortalaması düşüktür (1.53).",
+      "Eğitim örnekleminde 54 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Daha sınırlı dijital kullanım ve düşük sosyal kaygı ile birlikte düşük iyi oluş düzeyi gösteren dengeli fakat kırılgan bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı düzeyi düşük ve iyi oluş düzeyi yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.74 ile görece düşüktür.",
+      "Sosyal kaygı ortalaması 1.94 ile düşüktür.",
+      "İyi oluş ortalaması 3.88 ile yüksektir.",
+      "Eğitim örnekleminde bu profile ait 320 kişi bulunmaktadır."
+    ],
+    "tone": "Dengeli, görece kontrollü dijital kullanım sergileyen ve psikolojik olarak daha iyi durumda görünen bir profil."
+  }
+]

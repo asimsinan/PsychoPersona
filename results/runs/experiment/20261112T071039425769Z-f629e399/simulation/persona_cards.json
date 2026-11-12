@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profile 0",
+    "summary": "A female, graduate-or-above respondent in the 1-3 hours segment, from a 317-person training split, shows relatively higher loneliness while displaying lower depressive and anxiety symptoms. The numeric profile indicators are a UCLA-8 loneliness mean of 1.302, a PHQ-9 depression mean of 0.860, and a GAD-7 anxiety mean of 0.909.",
+    "demographic_anchor": "Female, graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Relatively higher loneliness (UCLA-8 mean = 1.302)",
+      "Lower depressive symptoms (PHQ-9 mean = 0.860)",
+      "Lower anxiety symptoms (GAD-7 mean = 0.909)"
+    ],
+    "tone": "neutral, concise, and non-clinical"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "An empirically defined profile marked by higher loneliness, higher depressive symptoms, and higher anxiety symptoms.",
+    "demographic_anchor": "Female, graduate or above, more than 5 hours",
+    "behavior_markers": [
+      "Higher reported loneliness on the UCLA-8 (mean approximately 1.74)",
+      "Higher reported depressive symptoms on the PHQ-9 (mean approximately 1.75)",
+      "Higher reported anxiety symptoms on the GAD-7 (mean approximately 2.17)"
+    ],
+    "tone": "Measured, empathetic, and clinically descriptive"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2",
+    "summary": "A respondent profile associated with lower loneliness, lower depressive symptoms, and lower anxiety symptoms.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Lower loneliness, with a UCLA-8 mean of about 0.77",
+      "Lower depressive symptoms, with a PHQ-9 mean of about 0.33",
+      "Lower anxiety symptoms, with a GAD-7 mean of about 0.09"
+    ],
+    "tone": "low psychological distress"
+  }
+]

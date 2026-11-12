@@ -1,0 +1,55 @@
+{
+  "assignment": "coldstart",
+  "validation_n": 67,
+  "validation_oracle_agreement": 0.6716,
+  "validation_distinct_assigned": 2,
+  "final_test_n": 68,
+  "final_test_oracle_agreement": 0.5882,
+  "final_test_distinct_assigned": 2,
+  "coldstart_selected": "forest_plain",
+  "coldstart_cv_scores": {
+    "majority": 0.6816,
+    "logreg": 0.4972,
+    "forest_balanced": 0.6127,
+    "forest_plain": 0.689
+  },
+  "coldstart_cv_standard_errors": {
+    "majority": 0.0,
+    "logreg": 0.0212,
+    "forest_balanced": 0.0233,
+    "forest_plain": 0.0067
+  },
+  "coldstart_multi_select_expanded": [
+    "platforms"
+  ],
+  "coldstart_features": [
+    "gender",
+    "age_band",
+    "program",
+    "gpa_band",
+    "residence",
+    "usage_band",
+    "usage_hours_midpoint",
+    "platforms__1k kitap",
+    "platforms__Borsa uygulamaları",
+    "platforms__Discord",
+    "platforms__Facebook",
+    "platforms__Instagram",
+    "platforms__Linkedln",
+    "platforms__Netflix",
+    "platforms__Oyunlar",
+    "platforms__Reddit",
+    "platforms__Snapchat",
+    "platforms__Telegram",
+    "platforms__Telegram ve Netflix",
+    "platforms__TikTok",
+    "platforms__Twitter/X",
+    "platforms__Udemy",
+    "platforms__Vpn",
+    "platforms__WhatsApp",
+    "platforms__Youtube",
+    "platforms__count"
+  ],
+  "coldstart_train_accuracy": 0.7374,
+  "coldstart_n_train": 537
+}

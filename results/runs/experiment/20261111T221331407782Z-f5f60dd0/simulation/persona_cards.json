@@ -1,0 +1,52 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Bu profil, yüksek dijital kullanım düzeyi, düşük sosyal kaygı ve yüksek iyi oluş puanlarıyla karakterize edilir. Katılımcılar, günde 4-6 saat dijital içerik tüketimi ile düşük kaygı seviyesi ve yüksek yaşam memnuniyeti arasında bir denge kurmaktadır.",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Yüksek dijital bağımlılık (Ortalama: 3.65)",
+      "Düşük sosyal kaygı (Ortalama: 1.65)",
+      "Yüksek iyi oluş (Ortalama: 3.45)"
+    ],
+    "tone": "Dengeli ve pozitif"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Bu profil, yüksek dijital kullanım ve sosyal kaygı düzeyleriyle karakterize edilirken, iyi oluş düzeyi görece daha düşüktür. Katılımcılar, dijital bağımlılık ve sosyal kaygı boyutlarında ortalamanın üzerinde puanlar alırken, iyi oluş boyutunda ortalamanın altında kalmaktadır.",
+    "demographic_anchor": "Kadın, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 3.06",
+      "Sosyal kaygı ortalaması: 3.56",
+      "İyi oluş ortalaması: 3.25"
+    ],
+    "tone": "Veri odaklı ve nötr"
+  },
+  {
+    "profile_id": 2,
+    "label": "Düşük Dijital Kullanım ve Sosyal Kaygı Grubu",
+    "summary": "Bu profil, dijital bağımlılık, sosyal kaygı ve iyi oluş düzeylerinin genel ortalamanın altında seyrettiği bir grup olarak öne çıkmaktadır. Katılımcılar, dijital platformlarda daha az zaman geçirme eğilimindedir ve sosyal etkileşimlerde belirgin bir kaygı belirtisi göstermemektedir. Ancak, bu düşük kaygı ve dijital kullanım düzeyine rağmen, genel iyi oluş hali de nispeten düşük seviyelerde ölçülmüştür.",
+    "demographic_anchor": "Erkek, Ön Lisans, Günde 4-6 Saat",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık skoru (Ortalama: 1.56)",
+      "Düşük sosyal kaygı skoru (Ortalama: 1.58)",
+      "Düşük iyi oluş skoru (Ortalama: 1.59)",
+      "Ön lisans düzeyinde eğitim görme",
+      "Erkek cinsiyeti"
+    ],
+    "tone": "Nötr ve Analitik"
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "Düşük dijital kullanım, düşük sosyal kaygı ve yüksek iyi oluş düzeyine sahip öğrenci grubu.",
+    "demographic_anchor": "Erkek, Ön lisans, 4-6 saat",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık (Ortalama: 2.58)",
+      "Düşük sosyal kaygı (Ortalama: 2.09)",
+      "Yüksek iyi oluş (Ortalama: 3.82)"
+    ],
+    "tone": "Dengeli ve pozitif"
+  }
+]

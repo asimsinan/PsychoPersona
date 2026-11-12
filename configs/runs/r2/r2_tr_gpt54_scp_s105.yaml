@@ -1,0 +1,42 @@
+dataset_path: ../../../datasets/anket.xlsx
+lmstudio:
+  api_key_env: OPENROUTER_API_KEY
+  base_url: https://openrouter.ai/api/v1
+  headers:
+    HTTP-Referer: https://example.org
+    X-OpenRouter-Title: SaykoPersona
+  model_id: openai/gpt-5.4
+  persona:
+    max_tokens: 1100
+    name: persona_card
+    temperature: 0.2
+    top_p: 1.0
+  primary:
+    max_tokens: 600
+    name: primary
+    temperature: 0.15
+    top_p: 1.0
+  stability:
+    max_tokens: 600
+    name: stability
+    temperature: 0.15
+    top_p: 1.0
+output_root: ../../../results
+profiles:
+  cluster_max: 6
+  cluster_min: 2
+  feature_columns:
+  - digital_addiction_mean
+  - social_anxiety_mean
+  - wellbeing_mean
+simulation:
+  evaluation_split: final_test
+  max_holdout_rows: null
+  parallel_workers: 4
+  prompt_version: v3_tr_gpt_b
+  self_consistency_samples: 3
+  stability_runs: 0
+split:
+  final_test_size: 0.1
+  random_state: 105
+  validation_size: 0.1

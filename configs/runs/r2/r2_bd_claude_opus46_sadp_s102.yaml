@@ -1,0 +1,44 @@
+dataset: bangladesh_sns
+dataset_path: ../../../datasets/bangladesh_sns/mmc2.xlsx
+lmstudio:
+  api_key_env: OPENROUTER_API_KEY
+  base_url: https://openrouter.ai/api/v1
+  headers:
+    HTTP-Referer: https://example.org
+    X-OpenRouter-Title: SaykoPersona
+  model_id: anthropic/claude-opus-4.6
+  persona:
+    max_tokens: 1100
+    name: persona_card
+    temperature: 0.2
+    top_p: 1.0
+  primary:
+    max_tokens: 600
+    name: primary
+    temperature: 0.15
+    top_p: 1.0
+  stability:
+    max_tokens: 600
+    name: stability
+    temperature: 0.15
+    top_p: 1.0
+output_root: ../../../results
+paper_path: prior_study_extract.pdf
+profiles:
+  cluster_max: 6
+  cluster_min: 2
+  feature_columns:
+  - ucla_loneliness_mean
+  - phq9_mean
+  - gad7_mean
+simulation:
+  evaluation_split: final_test
+  max_holdout_rows: null
+  parallel_workers: 4
+  prompt_version: direct_stats_v1
+  response_mode: direct_json
+  stability_runs: 0
+split:
+  final_test_size: 0.1
+  random_state: 102
+  validation_size: 0.1

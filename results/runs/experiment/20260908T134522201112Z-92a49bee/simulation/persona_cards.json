@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, socially connected profile",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, reporting 1-3 hours.",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness score on average",
+      "Lower PHQ-9 depression score on average",
+      "Very low GAD-7 anxiety score on average",
+      "Profile size in training split: 114 respondents"
+    ],
+    "tone": "Stable, low-distress, and socially connected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Highly distressed, heavy-use women with advanced education",
+    "summary": "Respondents in this profile report comparatively high loneliness, depressive symptoms, and anxiety symptoms. The profile is anchored by women with graduate-level education who report more than 5 hours of use.",
+    "demographic_anchor": "Female, graduate degree or above, more than 5 hours of use",
+    "behavior_markers": [
+      "Higher average loneliness (UCLA-8 mean 1.72)",
+      "Higher average depressive symptoms (PHQ-9 mean 1.73)",
+      "Higher average anxiety symptoms (GAD-7 mean 2.15)",
+      "Represents a training-split subgroup of 180 respondents"
+    ],
+    "tone": "Vulnerable, psychologically burdened, and high-engagement"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, well-educated male with limited daily use",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms. The group is anchored by men with graduate-level education or higher and a typical reported duration of 1–3 hours.",
+    "demographic_anchor": "Male, graduate degree or above, 1–3 hours",
+    "behavior_markers": [
+      "Reports low loneliness on average (UCLA-8 mean 1.24)",
+      "Reports low depressive symptoms on average (PHQ-9 mean 0.79)",
+      "Reports low anxiety symptoms on average (GAD-7 mean 0.81)",
+      "Demographically centered on men with higher educational attainment",
+      "Associated with a reported duration category of 1–3 hours"
+    ],
+    "tone": "Stable, low-distress, and academically oriented"
+  }
+]

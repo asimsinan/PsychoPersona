@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı düzeyi görece düşük ve iyi oluş düzeyi görece yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.73'tür.",
+      "Sosyal kaygı ortalaması 2.05'tir.",
+      "İyi oluş ortalaması 3.85'tir.",
+      "Eğitim örnekleminde bu profile atanan kişi sayısı 348'dir."
+    ],
+    "tone": "Veri temelli, dengeli ve işlevsel."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı düzeyi görece düşük ve iyi oluş düzeyi de görece düşük bir öğrenci profili.",
+    "demographic_anchor": "Ağırlıklı olarak erkek, ön lisans düzeyinde ve günlük 4-6 saatlik kullanım örüntüsüyle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.56).",
+      "Sosyal kaygı ortalaması düşüktür (1.58).",
+      "İyi oluş ortalaması düşüktür (1.57).",
+      "Eğitim örnekleminde 54 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Sakin, düşük yoğunluklu ve genel olarak sınırlı dijital etkileşimle birlikte düşük sosyal kaygı ve düşük iyi oluş gösteren bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Daha yüksek dijital kullanımın eşlik ettiği, sosyal kaygı düzeyi görece yüksek ve iyi oluş düzeyi görece düşük bir öğrenci profili.",
+    "demographic_anchor": "Kadın, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.19 ile görece yüksektir.",
+      "Sosyal kaygı ortalaması 3.11 düzeyindedir.",
+      "İyi oluş ortalaması 2.99 ile görece daha düşüktür.",
+      "Eğitim örnekleminde bu profile dahil 135 kişi bulunmaktadır."
+    ],
+    "tone": "Veri temelli, dikkatli ve destek gereksinimi sinyali veren"
+  }
+]

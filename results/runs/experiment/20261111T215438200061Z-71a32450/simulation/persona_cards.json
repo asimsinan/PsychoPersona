@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, showing low loneliness and very low depressive and anxiety symptoms.",
+    "demographic_anchor": "Male; graduate or above; 1–3 hours.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 0.81)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.32)",
+      "Reports very low anxiety symptoms (GAD-7 mean 0.04)",
+      "Engages in 1–3 hours of activity"
+    ],
+    "tone": "Calm, stable, and low-distress."
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Distress Profile",
+    "summary": "This profile is characterized by higher levels of loneliness, depressive symptoms, and anxiety symptoms relative to the sample. It represents a group with elevated psychological distress across all three measured dimensions.",
+    "demographic_anchor": "Female, graduate or above education, more than 5 hours of daily screen or device use.",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean 1.72)",
+      "Reports higher depressive symptoms (PHQ-9 mean 1.76)",
+      "Reports higher anxiety symptoms (GAD-7 mean 2.18)",
+      "Spends more than 5 hours per day on screen or device use"
+    ],
+    "tone": "Cautious, clinical, and evidence-grounded; avoids overgeneralization and emphasizes elevated distress indicators."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "A male respondent with graduate-level education and 1–3 hours of daily activity, showing low levels of loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Male; graduate or above; 1–3 hours.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.25)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.82)",
+      "Reports low anxiety symptoms (GAD-7 mean 0.85)"
+    ],
+    "tone": "Calm, stable, and low-distress."
+  }
+]

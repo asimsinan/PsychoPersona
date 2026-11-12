@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi düşük, sosyal kaygı düzeyi düşük ve iyi oluş puanı düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil örneklemde ağırlıkla erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.58).",
+      "Sosyal kaygı ortalaması düşüktür (1.58).",
+      "İyi oluş ortalaması düşüktür (1.56).",
+      "Eğitim örnekleminde 52 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Düşük dijital kullanım ve düşük sosyal kaygı ile ayrışan, ancak iyi oluş düzeyi de düşük görünen temkinli bir profil."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı ortalaması düşük ve iyi oluş düzeyi görece yüksek olan bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle temsil edilmektedir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.73 ile görece düşüktür.",
+      "Sosyal kaygı ortalaması 2.04 ile düşüktür.",
+      "İyi oluş ortalaması 3.81 ile görece yüksektir.",
+      "Profil, eğitim örnekleminde 353 kişiyle temsil edilmektedir."
+    ],
+    "tone": "Dengeli, görece kontrollü ve iyi oluşu güçlü bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş ortalaması daha düşük görünen öğrenci profili.",
+    "demographic_anchor": "Örneklemde bu profil en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması: 3.31",
+      "Sosyal kaygı ortalaması: 3.26",
+      "İyi oluş ortalaması: 2.95",
+      "Eğitim örneklemindeki kişi sayısı: 132"
+    ],
+    "tone": "Veri odaklı, temkinli ve destekleyici"
+  }
+]

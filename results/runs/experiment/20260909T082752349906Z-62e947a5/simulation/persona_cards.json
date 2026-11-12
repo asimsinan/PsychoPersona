@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanım düzeyi görece yüksek, sosyal kaygı ortalaması yüksek ve iyi oluş düzeyi daha düşük bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat kullanım gösteren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.69 ile görece yüksektir.",
+      "Sosyal kaygı ortalaması 2.80 düzeyindedir ve profil özetinde yüksek olarak tanımlanmıştır.",
+      "İyi oluş ortalaması 3.19 ile diğer boyutlara kıyasla daha düşüktür.",
+      "Eğitim örnekleminde bu profile dahil 121 kişi bulunmaktadır."
+    ],
+    "tone": "Veri odaklı, dikkatli ve destekleyici"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı ortalaması düşük ve iyi oluş düzeyi yüksek görünen bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.59 ile görece düşüktür.",
+      "Sosyal kaygı ortalaması 2.25 ile düşüktür.",
+      "İyi oluş ortalaması 3.77 ile görece yüksektir.",
+      "Profil, eğitim örnekleminde 366 kişiyle temsil edilmiştir."
+    ],
+    "tone": "Dengeli, görece kontrollü dijital kullanım sergileyen ve psikolojik olarak daha iyi durumda görünen bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım, sosyal kaygı ve iyi oluş ortalamaları örneklem içinde düşük düzeydedir. Bu profil, görece sınırlı dijital bağımlılık eğilimi ve düşük sosyal kaygı ile birlikte düşük iyi oluş düzeyi göstermektedir.",
+    "demographic_anchor": "Erkek, ön lisans, günlük 4-6 saat",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.592).",
+      "Sosyal kaygı ortalaması düşüktür (1.607).",
+      "İyi oluş ortalaması düşüktür (1.557).",
+      "Eğitim örnekleminde 50 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Veri odaklı, sade ve temkinli"
+  }
+]

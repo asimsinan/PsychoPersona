@@ -1,0 +1,54 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Yüksek dijital kullanım oranına sahip, düşük sosyal kaygı seviyesi ve yüksek iyi oluş düzeyi sergileyen öğrenci grubu.",
+    "demographic_anchor": "Kadın, Ön lisans öğrencisi, Günlük ortalama 4-6 saat medya kullanımı",
+    "behavior_markers": [
+      "Yüksek dijital kullanım (Ortalama: 2.79)",
+      "Düşük sosyal kaygı (Ortalama: 2.30)",
+      "Yüksek iyi oluş düzeyi (Ortalama: 3.49)",
+      "Günlük ortalama 5 saat medya kullanımı"
+    ],
+    "tone": "Dijital odaklı, sosyal açıdan rahat ve psikolojik olarak dengeli"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Düşük dijital kullanım ve düşük sosyal kaygı düzeyine sahip olan ancak iyi oluş seviyesi de nispeten düşük seyreden öğrenci grubu.",
+    "demographic_anchor": "Erkek, Ön lisans öğrencisi, Günlük 0-3 saat medya kullanımı",
+    "behavior_markers": [
+      "Düşük dijital bağımlılık (Ort: 2.47)",
+      "Düşük sosyal kaygı (Ort: 2.23)",
+      "Düşük iyi oluş düzeyi (Ort: 3.41)",
+      "Kısıtlı günlük medya kullanımı (Orta nokta: 1.5 saat)"
+    ],
+    "tone": "Mesafeli ve düşük etkileşimli"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Yüksek dijital kullanım ve sosyal kaygı düzeylerine sahip, düşük iyi oluş seviyesi gösteren öğrenci profili.",
+    "demographic_anchor": "Kadın, Ön lisans öğrencisi, Günlük ortalama 8 saat medya kullanımı",
+    "behavior_markers": [
+      "Yüksek dijital bağımlılık (Ort: 3.04)",
+      "Yüksek sosyal kaygı (Ort: 2.57)",
+      "Düşük iyi oluş seviyesi (Ort: 3.28)",
+      "Yoğun medya kullanımı (Günlük 7-9 saat)"
+    ],
+    "tone": "Risk altındaki dijital kullanıcılar"
+  },
+  {
+    "profile_id": 3,
+    "label": "Profil 3",
+    "summary": "Yüksek dijital kullanım ve yüksek sosyal kaygı ile karakterize edilen, düşük iyi oluş seviyesine sahip öğrenci grubu.",
+    "demographic_anchor": "Erkek, Ön lisans öğrencisi, günlük 10 saat ve üzeri medya kullanımı",
+    "behavior_markers": [
+      "Yüksek dijital bağımlılık (Ort: 3.24)",
+      "Yüksek sosyal kaygı (Ort: 2.34)",
+      "Düşük iyi oluş seviyesi (Ort: 3.39)",
+      "Yoğun medya tüketimi (Günlük 10+ saat)"
+    ],
+    "tone": "Risk odaklı ve dijital bağımlılık eğilimli"
+  }
+]

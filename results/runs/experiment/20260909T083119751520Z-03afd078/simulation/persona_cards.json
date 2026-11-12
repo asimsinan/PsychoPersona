@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Dijital kullanımın görece yüksek, sosyal kaygının daha yüksek ve iyi oluşun daha düşük seyrettiği öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok erkek, ön lisans düzeyinde ve günlük 4-6 saat dijital kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması görece yüksektir (3.69).",
+      "Sosyal kaygı ortalaması yüksektir (2.80).",
+      "İyi oluş ortalaması görece düşüktür (3.19).",
+      "Profil, eğitim örnekleminde 121 kişi ile temsil edilmektedir."
+    ],
+    "tone": "Veri odaklı, temkinli ve risk işaretlerine duyarlı."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Dijital kullanım düzeyi görece düşük, sosyal kaygı düzeyi düşük ve iyi oluş düzeyi yüksek bir öğrenci profili.",
+    "demographic_anchor": "Bu profil eğitim örnekleminde en çok kadın, ön lisans düzeyinde ve günlük 4-6 saat kullanım bildiren öğrencilerle ilişkilidir.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.59 ile görece düşüktür.",
+      "Sosyal kaygı ortalaması 2.25 ile düşüktür.",
+      "İyi oluş ortalaması 3.77 ile yüksektir.",
+      "Eğitim örnekleminde bu profile ait 366 kişi bulunmaktadır."
+    ],
+    "tone": "Dengeli, daha kontrollü dijital kullanım sergileyen ve psikolojik olarak görece daha iyi durumda bir profil."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Dijital kullanım, sosyal kaygı ve iyi oluş ortalamaları örneklem içinde düşük düzeyde görünen bir profildir. Bu grup 50 kişilik eğitim örnekleminde yer alır.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saat kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması düşüktür (1.592).",
+      "Sosyal kaygı ortalaması düşüktür (1.607).",
+      "İyi oluş ortalaması düşüktür (1.557).",
+      "Profilin baskın demografik dayanağı erkek ve ön lisans düzeyidir.",
+      "Günlük kullanım süresi 4-6 saat ekseninde yoğunlaşır."
+    ],
+    "tone": "Daha sınırlı dijital kullanım örüntüsü gösteren, sosyal kaygı düzeyi görece düşük ancak iyi oluş göstergesi de düşük olan bir öğrenci profili."
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Distress Graduate Male",
+    "summary": "A male respondent with graduate-level education who reports very low loneliness, minimal depressive symptoms, and almost no anxiety symptoms, while spending 1–3 hours in the measured activity context.",
+    "demographic_anchor": "Male, graduate or above, 1–3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean 0.791)",
+      "Reports minimal depressive symptoms (PHQ-9 mean 0.28)",
+      "Reports almost no anxiety symptoms (GAD-7 mean 0.0366)",
+      "Spends 1–3 hours in the measured activity context"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Elevated Distress Profile",
+    "summary": "Respondents in this profile report higher loneliness, higher depressive symptoms, and higher anxiety symptoms than the sample average, with anxiety being the most pronounced indicator.",
+    "demographic_anchor": "Female, graduate-level education or above, more than 5 hours of daily screen or device use.",
+    "behavior_markers": [
+      "Reports higher-than-average loneliness (UCLA-8 mean 1.66)",
+      "Reports higher-than-average depressive symptoms (PHQ-9 mean 1.65)",
+      "Reports higher-than-average anxiety symptoms (GAD-7 mean 2.10)",
+      "Spends more than 5 hours per day on screen or device use"
+    ],
+    "tone": "Cautious, empathetic, and clinically neutral; avoid overgeneralization and frame findings as group-level tendencies."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low Distress, Moderate Digital Use",
+    "summary": "A female respondent with graduate-level education who reports low loneliness, minimal depressive symptoms, and minimal anxiety symptoms, while spending 1–3 hours in the measured activity.",
+    "demographic_anchor": "Female; graduate degree or above; 1–3 hours of the measured activity.",
+    "behavior_markers": [
+      "Low loneliness (UCLA-8 mean 1.21)",
+      "Low depressive symptoms (PHQ-9 mean 0.82)",
+      "Low anxiety symptoms (GAD-7 mean 0.79)",
+      "Moderate time allocation of 1–3 hours"
+    ],
+    "tone": "Calm, stable, and low-distress; measured and composed."
+  }
+]

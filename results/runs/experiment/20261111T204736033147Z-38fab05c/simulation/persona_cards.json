@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, 1-3 hours",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness mean relative to higher-distress profiles",
+      "Low PHQ-9 depression mean, indicating limited depressive symptom burden",
+      "Very low GAD-7 anxiety mean, suggesting minimal anxiety symptoms",
+      "Profile is anchored by men with graduate-level education or above",
+      "Associated time-use anchor is 1-3 hours"
+    ],
+    "tone": "Stable, low-distress, and relatively well-connected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Respondents in this profile report relatively high loneliness, depressive symptoms, and anxiety symptoms compared with other profiles.",
+    "demographic_anchor": "More commonly female, educated to graduate level or above, and reporting more than 5 hours in the referenced duration category.",
+    "behavior_markers": [
+      "Higher mean loneliness score (UCLA-8: 1.72)",
+      "Higher mean depressive symptom score (PHQ-9: 1.76)",
+      "Higher mean anxiety symptom score (GAD-7: 2.18)",
+      "Profile size in training split: 176 respondents"
+    ],
+    "tone": "Distressed, isolated, and psychologically burdened"
+  },
+  {
+    "profile_id": 2,
+    "label": "Lower distress profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured scales.",
+    "demographic_anchor": "More commonly male, with graduate-level education or above, and associated with the 1–3 hours category.",
+    "behavior_markers": [
+      "Low mean loneliness score on UCLA-8 (1.25)",
+      "Low mean depressive symptom score on PHQ-9 (0.82)",
+      "Low mean anxiety symptom score on GAD-7 (0.85)",
+      "Overall pattern indicates comparatively low emotional distress across indicators"
+    ],
+    "tone": "Stable, low-distress, and emotionally well-adjusted"
+  }
+]

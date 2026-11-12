@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Emotionally Strained Graduate Woman",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms. It represents respondents showing elevated emotional distress across all three measured indicators.",
+    "demographic_anchor": "Female respondent with graduate-level education or higher, typically reporting 1–3 hours.",
+    "behavior_markers": [
+      "Reports comparatively higher feelings of loneliness",
+      "Shows elevated depressive symptom levels",
+      "Shows elevated anxiety symptom levels",
+      "Displays a broadly higher emotional distress pattern across measures"
+    ],
+    "tone": "Vulnerable, burdened, and emotionally strained"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, relatively well-adjusted respondents",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms relative to other profiles in the dataset.",
+    "demographic_anchor": "Typically male, with graduate-level education or above, and a reported duration category of 1–3 hours.",
+    "behavior_markers": [
+      "Reports low loneliness on the UCLA-8 indicator.",
+      "Shows low depressive symptom levels on the PHQ-9 indicator.",
+      "Shows low anxiety symptom levels on the GAD-7 indicator.",
+      "Represents a relatively low-distress subgroup in the sample."
+    ],
+    "tone": "Stable, low-distress, and relatively well-adjusted."
+  },
+  {
+    "profile_id": 2,
+    "label": "Highly distressed, heavy-use female graduates",
+    "summary": "Respondents in this profile report elevated loneliness, depressive symptoms, and anxiety symptoms, alongside more than five hours of use.",
+    "demographic_anchor": "Female respondents with graduate-level education or above who report more than five hours of use.",
+    "behavior_markers": [
+      "Higher loneliness relative to other profiles",
+      "Higher depressive symptom levels",
+      "Higher anxiety symptom levels",
+      "Heavy use exceeding five hours"
+    ],
+    "tone": "Vulnerable, psychologically strained, and high-use"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, low loneliness group",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, and 1–3 hours.",
+    "behavior_markers": [
+      "Reports low loneliness on average.",
+      "Shows low depressive symptom levels.",
+      "Shows very low anxiety symptom levels.",
+      "Represents a relatively low-distress respondent pattern."
+    ],
+    "tone": "Stable, low-distress, and socially connected overall."
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Respondents in this profile report comparatively higher loneliness, depressive symptoms, and anxiety symptoms than other groups in the sample.",
+    "demographic_anchor": "Predominantly female, educated at graduate level or above, and reporting more than 5 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Higher mean loneliness score (UCLA-8: 1.69)",
+      "Higher mean depressive symptom score (PHQ-9: 1.68)",
+      "Higher mean anxiety symptom score (GAD-7: 2.15)",
+      "Represents 178 respondents in the training split"
+    ],
+    "tone": "Psychologically burdened and socially disconnected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "More likely to be female, have graduate-level education or above, and report 1–3 hours.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness score on average (mean 1.22).",
+      "Low PHQ-9 depressive symptom score on average (mean 0.82).",
+      "Low GAD-7 anxiety symptom score on average (mean 0.83).",
+      "Represents 339 respondents in the training split."
+    ],
+    "tone": "Stable, low-distress, and socially connected."
+  }
+]

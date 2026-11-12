@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Profil 0",
+    "summary": "Daha yüksek dijital kullanım, daha yüksek sosyal kaygı ve daha düşük iyi oluş eğilimleri gösteren öğrenci profili.",
+    "demographic_anchor": "Kadın, Ön lisans, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 3.16",
+      "Sosyal kaygı ortalaması 3.14",
+      "İyi oluş ortalaması 3.11"
+    ],
+    "tone": "Dikkatli, veri temelli ve yargısız"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha yüksek iyi oluş düzeyi ile öne çıkan öğrenci profili.",
+    "demographic_anchor": "Erkek, ön lisans öğrencisi, günlük 4-6 saat dijital kullanım.",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 2.74 (görece düşük).",
+      "Sosyal kaygı ortalaması 1.94 (görece düşük).",
+      "İyi oluş ortalaması 3.88 (görece yüksek)."
+    ],
+    "tone": "Dengeli ve olumlu; düşük dijital kullanım ve sosyal kaygı ile yüksek iyi oluşu vurgulayan veri temelli bir ton."
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "Daha düşük dijital kullanım, daha düşük sosyal kaygı ve daha düşük iyi oluş düzeyleriyle öne çıkan erkek ön lisans öğrencileri.",
+    "demographic_anchor": "Erkek, ön lisans, günlük 4-6 saat dijital kullanım",
+    "behavior_markers": [
+      "Dijital bağımlılık ortalaması 1.57",
+      "Sosyal kaygı ortalaması 1.56",
+      "İyi oluş ortalaması 1.53"
+    ],
+    "tone": "Sakin, ölçülü ve veri odaklı"
+  }
+]

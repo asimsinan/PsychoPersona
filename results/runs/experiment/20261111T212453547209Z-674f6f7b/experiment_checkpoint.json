@@ -1,0 +1,430 @@
+{
+  "run_dir": "/workspace/PsychoPersona/results/runs/experiment/20261111T212453547209Z-674f6f7b",
+  "created_at": "2026-11-11T21:24:53.547333+00:00",
+  "updated_at": "2026-11-11T21:26:35.064105+00:00",
+  "completed_steps": [
+    "data",
+    "audit",
+    "profiles",
+    "personas",
+    "simulation",
+    "evaluation",
+    "stability"
+  ],
+  "current_step": null,
+  "failed_step": null,
+  "model_id": "google/gemini-3.1-pro-preview",
+  "config": {
+    "dataset_path": "/workspace/PsychoPersona/datasets/bangladesh_sns/mmc2.xlsx",
+    "dataset": {
+      "dataset_id": "bangladesh_sns",
+      "locale": "en",
+      "file_format": "xlsx",
+      "sheet_name": "Raw Data",
+      "metadata_fields": [
+        {
+          "name": "timestamp",
+          "source_column": "Timestamp",
+          "label": "Timestamp",
+          "transform": "text",
+          "value_map": {},
+          "include_in_context": false
+        },
+        {
+          "name": "age_band",
+          "source_column": "21. Please write your age in years (number).",
+          "label": "Age band",
+          "transform": "age_band_default",
+          "value_map": {},
+          "include_in_context": true
+        },
+        {
+          "name": "gender",
+          "source_column": "22. Gender",
+          "label": "Gender",
+          "transform": "text",
+          "value_map": {},
+          "include_in_context": true
+        },
+        {
+          "name": "education",
+          "source_column": "25. Education",
+          "label": "Education",
+          "transform": "mapped_text",
+          "value_map": {
+            "Primary level": "Primary",
+            "Secondary Level": "Secondary",
+            "Higher secondary level": "Higher secondary",
+            "Graduate Level": "Graduate or above",
+            "Graduate or above": "Graduate or above",
+            "Masters or above": "Graduate or above"
+          },
+          "include_in_context": true
+        },
+        {
+          "name": "profession",
+          "source_column": "26. Profession",
+          "label": "Profession",
+          "transform": "mapped_text",
+          "value_map": {
+            "Student": "Student",
+            "Student ": "Student",
+            "Unemployed including students": "Student / unemployed",
+            "Bekar": "Student / unemployed",
+            "No": "Student / unemployed",
+            "Private job": "Private job",
+            "Private job and self taught makeup artist": "Private job",
+            "Govt. job": "Government job",
+            "Businessman": "Business",
+            "Business+student": "Business / student",
+            "Self-employed/Entrepreneur/Business": "Business",
+            "Doctor": "Healthcare",
+            "Doctor ": "Healthcare",
+            "doctor": "Healthcare",
+            "Intern doctor": "Healthcare",
+            "Dental surgeon ": "Healthcare",
+            "Dentist ": "Healthcare",
+            "Teacher ": "Teacher",
+            "Housewife": "Homemaker",
+            "Housewife ": "Homemaker",
+            "housewife": "Homemaker",
+            "Homemaker ": "Homemaker",
+            "Housemaker": "Homemaker",
+            "Hhousewife": "Homemaker",
+            "House  wife ": "Homemaker",
+            "Author": "Other",
+            "Daily labor/driver/housemaid": "Other",
+            "Home tutor ": "Other",
+            "TA": "Other",
+            "Used to work and now searching for job.": "Other",
+            "Recently unemployed, now housewife": "Homemaker",
+            "I don't wanna do any job": "Other"
+          },
+          "include_in_context": true
+        },
+        {
+          "name": "monthly_income",
+          "source_column": "27. Monthly income",
+          "label": "Monthly income",
+          "transform": "text",
+          "value_map": {},
+          "include_in_context": true
+        },
+        {
+          "name": "residence",
+          "source_column": "28. Area of residence",
+          "label": "Residence area",
+          "transform": "text",
+          "value_map": {},
+          "include_in_context": true
+        },
+        {
+          "name": "primary_platform",
+          "source_column": "2. Which social media account do you use usually?",
+          "label": "Primary social platform",
+          "transform": "mapped_text",
+          "value_map": {
+            "Facebook": "Facebook",
+            "Imo": "Imo",
+            "imo": "Imo",
+            "Instagram": "Instagram",
+            "Snapchat": "Snapchat",
+            "Tiktok": "TikTok",
+            "Tiktok ": "TikTok",
+            "Twitter": "Twitter",
+            "WeChat": "WeChat",
+            "WhatsApp": "WhatsApp"
+          },
+          "include_in_context": true
+        },
+        {
+          "name": "usage_band",
+          "source_column": "7. How much time do you spend daily in social media?",
+          "label": "Daily social-media use",
+          "transform": "text",
+          "value_map": {},
+          "include_in_context": true
+        },
+        {
+          "name": "usage_hours_midpoint",
+          "source_column": "7. How much time do you spend daily in social media?",
+          "label": "Daily social-media hours midpoint",
+          "transform": "mapped_number",
+          "value_map": {
+            "Less than 1 hour": 0.5,
+            "1-3 hours": 2.0,
+            "3-5 hours": 4.0,
+            "More than 5 hours": 6.0
+          },
+          "include_in_context": true
+        }
+      ],
+      "scales": [
+        {
+          "name": "ucla_loneliness",
+          "mean_column": "ucla_loneliness_mean",
+          "raw_columns": [
+            "1. In the past 30 days, do you feel lack of companionship?",
+            "2. In the past 30 days, there is no one I can turn to",
+            "3. In the past 30 days, I feel left out.",
+            "4. In the last 30 days, I feel isolated from others.",
+            "5. In the last 30 days, I am unhappy being so withdrawn.",
+            "6. In the last 30 days, people are around me but not with me.",
+            "7. In the last 30 days, I am an outgoing person.",
+            "8. In the last 30 days, I can find companionship when I want it."
+          ],
+          "item_columns": [
+            "ucla_item_01",
+            "ucla_item_02",
+            "ucla_item_03",
+            "ucla_item_04",
+            "ucla_item_05",
+            "ucla_item_06",
+            "ucla_item_07",
+            "ucla_item_08"
+          ],
+          "response_map": {
+            "Never": 0.0,
+            "Rarely": 1.0,
+            "Sometimes": 2.0,
+            "Often": 3.0
+          },
+          "item_response_maps": {},
+          "item_transforms": {},
+          "reverse_item_columns": [
+            "ucla_item_07",
+            "ucla_item_08"
+          ],
+          "label": "UCLA-8 loneliness mean",
+          "shift_key": "ucla"
+        },
+        {
+          "name": "phq9",
+          "mean_column": "phq9_mean",
+          "raw_columns": [
+            "1 In the last 30 days, little interest or pleasure in doing things.",
+            "2. In the last 30 days, feeling down, depressed or hopeless.",
+            "3. In the last 30 days, trouble falling or staying asleep, sleeping too much",
+            "4. In the last 30 days, Feeling tired or having little energy.",
+            "5. In the last 30 days, poor appetite or over-eating.",
+            "6. In the last 30 days, feeling bad about yourself-or that you are a failure or have let yourself or your family down.",
+            "7. In the last 30 days, trouble concentrating on things, such as reading the newspaper or watching television.",
+            "8. In the last 30 days, moving or speaking so slowly or the opposite-moving around a lot more than usual.",
+            "9. In the last 30 days, thoughts that you would be better off dead, or of hurting yourself."
+          ],
+          "item_columns": [
+            "phq9_item_01",
+            "phq9_item_02",
+            "phq9_item_03",
+            "phq9_item_04",
+            "phq9_item_05",
+            "phq9_item_06",
+            "phq9_item_07",
+            "phq9_item_08",
+            "phq9_item_09"
+          ],
+          "response_map": {
+            "Not at all": 0.0,
+            "Several days": 1.0,
+            "Half of days": 2.0,
+            "More than half of the days": 2.0,
+            "Half days": 2.0,
+            "Nearly everyday": 3.0,
+            "Nearly every day": 3.0
+          },
+          "item_response_maps": {},
+          "item_transforms": {},
+          "reverse_item_columns": [],
+          "label": "PHQ-9 depression mean",
+          "shift_key": "phq9"
+        },
+        {
+          "name": "gad7",
+          "mean_column": "gad7_mean",
+          "raw_columns": [
+            "1. In the last 30 days, I am feeling nervous, anxious, or on edge",
+            "2. In the last 30 days, I an not being able to stop or control worrying",
+            "3. In the last 30 days, I am worrying too much about different things.",
+            "4. In the last 30 days, I felt trouble in relaxing.",
+            "5. In the last 30 days, I am being so restless that it's hard to sit still",
+            "6. In the last 30 days, I becoming easily annoyed or irritable.",
+            "7. In the last 30 days, I am feeling afraid as if something awful might happen."
+          ],
+          "item_columns": [
+            "gad7_item_01",
+            "gad7_item_02",
+            "gad7_item_03",
+            "gad7_item_04",
+            "gad7_item_05",
+            "gad7_item_06",
+            "gad7_item_07"
+          ],
+          "response_map": {
+            "Not at all": 0.0,
+            "Several days": 1.0,
+            "Half of days": 2.0,
+            "More than half of the days": 2.0,
+            "Half days": 2.0,
+            "Nearly everyday": 3.0,
+            "Nearly every day": 3.0
+          },
+          "item_response_maps": {},
+          "item_transforms": {},
+          "reverse_item_columns": [],
+          "label": "GAD-7 anxiety mean",
+          "shift_key": "gad7"
+        }
+      ],
+      "feature_descriptors": {
+        "digital_addiction_mean": {
+          "label": "Dijital bağımlılık ortalaması",
+          "high_text": "daha yüksek dijital kullanım",
+          "low_text": "daha düşük dijital kullanım"
+        },
+        "social_anxiety_mean": {
+          "label": "Sosyal kaygı ortalaması",
+          "high_text": "daha yüksek sosyal kaygı",
+          "low_text": "daha düşük sosyal kaygı"
+        },
+        "wellbeing_mean": {
+          "label": "İyi oluş ortalaması",
+          "high_text": "daha yüksek iyi oluş",
+          "low_text": "daha düşük iyi oluş"
+        },
+        "usage_hours_midpoint": {
+          "label": "Daily social-media hours midpoint",
+          "high_text": "heavier daily social-media use",
+          "low_text": "lighter daily social-media use"
+        },
+        "ucla_loneliness_mean": {
+          "label": "UCLA-8 loneliness mean",
+          "high_text": "higher loneliness",
+          "low_text": "lower loneliness"
+        },
+        "phq9_mean": {
+          "label": "PHQ-9 depression mean",
+          "high_text": "higher depressive symptoms",
+          "low_text": "lower depressive symptoms"
+        },
+        "gad7_mean": {
+          "label": "GAD-7 anxiety mean",
+          "high_text": "higher anxiety symptoms",
+          "low_text": "lower anxiety symptoms"
+        }
+      },
+      "profile_anchor_columns": [
+        "gender",
+        "education",
+        "usage_band"
+      ],
+      "subgroup_columns": [
+        "gender",
+        "education",
+        "usage_band"
+      ],
+      "stratify_categorical_columns": [
+        "gender",
+        "education",
+        "usage_band"
+      ],
+      "stratify_score_columns": [
+        "phq9_mean",
+        "gad7_mean"
+      ],
+      "regression_pairs": [
+        {
+          "name": "gad7_on_phq9",
+          "x": "phq9_mean",
+          "y": "gad7_mean"
+        },
+        {
+          "name": "ucla_on_phq9",
+          "x": "phq9_mean",
+          "y": "ucla_loneliness_mean"
+        }
+      ],
+      "response_min": 0,
+      "response_max": 3,
+      "audit_reference": null
+    },
+    "paper_path": "/workspace/PsychoPersona/datasets/bangladesh_sns/mmc1.docx",
+    "output_root": "/workspace/PsychoPersona/results",
+    "split": {
+      "validation_size": 0.1,
+      "final_test_size": 0.1,
+      "random_state": 107
+    },
+    "profiles": {
+      "cluster_min": 2,
+      "cluster_max": 6,
+      "feature_columns": [
+        "ucla_loneliness_mean",
+        "phq9_mean",
+        "gad7_mean"
+      ],
+      "assignment": "oracle"
+    },
+    "lmstudio": {
+      "base_url": "https://openrouter.ai/api/v1",
+      "model_id": "google/gemini-3.1-pro-preview",
+      "api_key": null,
+      "api_key_env": "OPENROUTER_API_KEY",
+      "headers": {
+        "HTTP-Referer": "https://example.org",
+        "X-OpenRouter-Title": "SaykoPersona"
+      },
+      "service_tier": "flex",
+      "reasoning": null,
+      "provider": {
+        "allow_fallbacks": false,
+        "only": [
+          "google-ai-studio"
+        ]
+      },
+      "primary": {
+        "name": "primary",
+        "temperature": 0.15,
+        "max_tokens": 600,
+        "top_p": 1.0
+      },
+      "persona": {
+        "name": "persona_card",
+        "temperature": 0.2,
+        "max_tokens": 1100,
+        "top_p": 1.0
+      },
+      "stability": {
+        "name": "stability",
+        "temperature": 0.15,
+        "max_tokens": 600,
+        "top_p": 1.0
+      },
+      "ordinal": {
+        "name": "ordinal",
+        "temperature": 0.0,
+        "max_tokens": 1,
+        "top_p": 1.0
+      }
+    },
+    "simulation": {
+      "prompt_version": "direct_stats_v1",
+      "response_mode": "direct_json",
+      "item_scoring_mode": "argmax",
+      "trait_plan_samples": 1,
+      "max_holdout_rows": null,
+      "stability_runs": 0,
+      "parallel_workers": 4,
+      "self_consistency_samples": 1,
+      "evaluation_split": "final_test"
+    },
+    "calibration": {
+      "enabled": false,
+      "strategy": "direct",
+      "donor_pool_min": 20,
+      "profile_shrinkage": 0.25,
+      "signal_scale": 0.6,
+      "neighbor_count": 8,
+      "save_raw_outputs": true
+    }
+  }
+}

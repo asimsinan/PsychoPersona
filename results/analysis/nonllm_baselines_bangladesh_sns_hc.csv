@@ -1,0 +1,6 @@
+method,kind,replicates,CorrRMSE,WithinRMSE,PRA,RespScaleRMSE,RespItemMAE,ItemEMR,FullVectorEMR,SimUniqueRatio,CorrRMSE_sd,WithinRMSE_sd,PRA_sd,RespScaleRMSE_sd,RespItemMAE_sd,ItemEMR_sd,FullVectorEMR_sd,SimUniqueRatio_sd
+LLM (this run),llm,1,0.124667,0.303913,0.4875,0.700366,0.959375,0.345833,0.0,1.0,,,,,,,,
+profile_center,deterministic,1,0.367085,0.168062,0.5625,0.451661,0.621875,0.444271,0.0,0.05,,,,,,,,
+nn_metadata,deterministic,1,0.076172,0.603686,0.2875,0.880408,1.030208,0.342708,0.0,0.7625,,,,,,,,
+within_profile,stochastic,50,0.084896,0.145869,0.528,0.620175,0.84951,0.400615,0.003,0.937,0.039872,0.030986,0.038288,0.025131,0.018908,0.011742,0.005339,0.026334
+marginal,stochastic,50,0.597981,0.625968,0.25575,0.751948,1.095094,0.303708,0.0,1.0,0.057095,0.028233,0.039938,0.020204,0.018202,0.009683,0.0,0.0

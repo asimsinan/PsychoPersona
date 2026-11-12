@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0791,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1227,371,1598,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0571,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1249,376,1625,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0451,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1240,364,1604,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0530,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1217,363,1580,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0240,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,386,1629,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0085,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1265,388,1653,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0462,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,364,1607,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0552,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1250,364,1614,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0295,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1258,379,1637,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0050,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1255,376,1631,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0274,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,371,1614,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0549,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1240,364,1604,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0688,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,376,1644,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0446,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,385,1641,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0363,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1254,380,1634,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0144,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,382,1625,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0556,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,371,1627,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0003,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,387,1643,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0098,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1215,373,1588,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0383,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,363,1606,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0531,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1254,371,1625,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0420,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,369,1625,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0006,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,378,1621,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0100,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,387,1630,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0509,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1215,381,1596,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0748,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1254,373,1627,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0527,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1245,372,1617,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0026,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1254,373,1627,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0588,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,379,1635,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0002,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,384,1627,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0419,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,387,1630,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0554,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1212,367,1579,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0663,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1245,387,1632,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0194,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1258,375,1633,1,0,3,3,2,3,2,2,0,0,2,3,2,2,1,2,2,1,1,3,3,3,2,2,2,3,1.875,1.7777777777777777,2.5714285714285716
+R0647,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,378,1646,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0643,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1255,376,1631,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0498,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1227,365,1592,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0598,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,384,1627,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0511,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,370,1638,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0623,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,365,1608,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0228,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,364,1620,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0146,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,364,1607,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0604,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1241,364,1605,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0621,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,364,1607,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0725,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1245,392,1637,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0111,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,364,1607,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0754,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,385,1641,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0728,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1258,370,1628,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0081,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1254,382,1636,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0724,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1227,363,1590,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0333,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,382,1638,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0137,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,401,1657,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0759,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1249,369,1618,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0654,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1255,366,1621,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0439,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1255,365,1620,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0301,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1254,364,1618,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0483,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,378,1621,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0460,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,384,1627,1,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.1111111111111111,0.0
+R0135,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,387,1630,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0599,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,364,1607,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0521,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,364,1607,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0642,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1255,370,1625,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0736,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1262,375,1637,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0352,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,384,1652,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0716,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1254,373,1627,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0429,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1255,364,1619,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0763,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1255,374,1629,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0461,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,379,1622,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0160,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1268,375,1643,1,0,2,2,2,2,2,2,1,1,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.75,1.6666666666666667,2.0
+R0424,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1267,388,1655,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0313,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1240,377,1617,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0038,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1242,373,1615,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0398,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1258,364,1622,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0053,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1255,364,1619,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0701,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,386,1629,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0766,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1243,391,1634,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0226,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1266,383,1649,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0569,1,High Distress Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1256,377,1633,1,0,2,2,2,2,2,2,0,0,2,2,2,2,1,2,2,1,1,2,2,2,2,2,2,2,1.5,1.6666666666666667,2.0
+R0607,2,Resilient Graduate,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1248,364,1612,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0
+R0746,0,Low-Distress Graduate Male,primary,direct_stats_v1,qwen/qwen3.8-27b,primary,1227,369,1596,1,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.0,0.0

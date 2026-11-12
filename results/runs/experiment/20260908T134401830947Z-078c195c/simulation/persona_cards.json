@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High loneliness with elevated depression and anxiety",
+    "summary": "Respondents in this profile show comparatively high loneliness alongside elevated depressive and anxiety symptoms.",
+    "demographic_anchor": "Primarily female, educated to graduate level or above, and reporting more than 5 hours.",
+    "behavior_markers": [
+      "Higher UCLA-8 loneliness scores",
+      "Higher PHQ-9 depressive symptom scores",
+      "Higher GAD-7 anxiety symptom scores",
+      "Represents 184 respondents in the training split"
+    ],
+    "tone": "Psychologically vulnerable and emotionally strained"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low Distress, Low Loneliness Respondent",
+    "summary": "Respondents in this profile show comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "More commonly anchored by male respondents with graduate-level education or above and a reported 1-3 hour duration category.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure.",
+      "Shows low depressive symptom levels on the PHQ-9.",
+      "Shows very low anxiety symptom levels on the GAD-7.",
+      "Represents a lower-distress subgroup within the sample."
+    ],
+    "tone": "Stable, low-distress, and socially connected overall."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness graduate male",
+    "summary": "Reports comparatively low loneliness and low levels of depressive and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Most closely represented by a male respondent with graduate-level education or above and a reported duration category of 1-3 hours.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness mean (1.21)",
+      "Low PHQ-9 depression mean (0.78)",
+      "Low GAD-7 anxiety mean (0.79)",
+      "Training-split profile size: 335"
+    ],
+    "tone": "Stable, low-distress, and socially connected overall."
+  }
+]

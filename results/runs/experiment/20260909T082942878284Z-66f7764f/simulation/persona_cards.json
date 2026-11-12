@@ -1,0 +1,43 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High Distress and Loneliness",
+    "summary": "This profile is characterized by comparatively higher loneliness along with elevated depressive and anxiety symptoms. The pattern suggests respondents who report substantial emotional distress across social, mood, and anxiety-related indicators.",
+    "demographic_anchor": "Typically represented by a female respondent with graduate-level education or above and more than 5 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Reports comparatively high loneliness",
+      "Shows elevated depressive symptoms",
+      "Shows elevated anxiety symptoms",
+      "Displays co-occurring social and emotional distress"
+    ],
+    "tone": "Emotionally burdened, socially disconnected, and anxious"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Typically male, with graduate-level education or above, and reporting 1-3 hours.",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness score relative to other profiles",
+      "Low PHQ-9 depression score",
+      "Very low GAD-7 anxiety score",
+      "Profile is anchored by men with higher educational attainment"
+    ],
+    "tone": "Stable, low-distress, and socially connected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2",
+    "summary": "Respondents in this profile report comparatively higher loneliness while showing lower average depressive and anxiety symptoms.",
+    "demographic_anchor": "More commonly female, with graduate-level education or above, and a typical time-use anchor of 1-3 hours.",
+    "behavior_markers": [
+      "Higher mean loneliness (UCLA-8: 1.30)",
+      "Lower mean depressive symptoms (PHQ-9: 0.86)",
+      "Lower mean anxiety symptoms (GAD-7: 0.91)",
+      "Profile is anchored by female respondents",
+      "Education level is more often graduate or above",
+      "Typical anchor category includes 1-3 hours"
+    ],
+    "tone": "Socially disconnected but not strongly marked by depression or anxiety on average."
+  }
+]

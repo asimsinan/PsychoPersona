@@ -1,0 +1,9 @@
+dataset,setting,assignment_accuracy,method,CorrRMSE,WithinRMSE,PRA,RespScaleRMSE,RespItemMAE,ItemEMR,FullVectorEMR,SimUniqueRatio
+anket_tr,oracle,0.5882,profile_center,0.2962,0.4395,0.9265,0.6222,0.7348,0.3956,0.0,0.0441
+anket_tr,oracle,0.5882,within_profile (mean of 50),0.1273,0.3074,0.8332,0.8296,1.0144,0.3294,0.0026,0.9332
+anket_tr,coldstart,0.5882,profile_center,1.0828,0.4758,0.6029,0.8346,0.8887,0.3603,0.0,0.0294
+anket_tr,coldstart,0.5882,within_profile (mean of 50),0.4935,0.5881,0.5294,1.0256,1.1763,0.284,0.0,0.9232
+bangladesh_sns,oracle,0.5375,profile_center,0.4014,0.1554,0.825,0.4347,0.6104,0.4583,0.0,0.0375
+bangladesh_sns,oracle,0.5375,within_profile (mean of 50),0.0837,0.1441,0.7048,0.6038,0.853,0.4003,0.0025,0.9372
+bangladesh_sns,coldstart,0.5375,profile_center,,0.1532,,0.6667,0.7896,0.3573,0.0,0.0125
+bangladesh_sns,coldstart,0.5375,within_profile (mean of 50),0.3961,0.1589,,0.7861,1.0021,0.3206,0.0,0.8802

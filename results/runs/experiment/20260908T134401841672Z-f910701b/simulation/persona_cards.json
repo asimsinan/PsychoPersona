@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Lower distress, low loneliness profile",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "More commonly anchored by male respondents with graduate-level education or above and a 1-3 hour usage pattern.",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness score on average (mean 0.791)",
+      "Low PHQ-9 depressive symptom level on average (mean 0.28)",
+      "Very low GAD-7 anxiety symptom level on average (mean 0.037)",
+      "Profile represents 125 respondents in the training split"
+    ],
+    "tone": "Stable, low-distress, and generally well-adjusted"
+  },
+  {
+    "profile_id": 1,
+    "label": "High loneliness with elevated depression and anxiety",
+    "summary": "Respondents in this profile report comparatively higher loneliness alongside elevated depressive and anxiety symptoms.",
+    "demographic_anchor": "Primarily female, educated at graduate level or above, and associated with more than 5 hours.",
+    "behavior_markers": [
+      "Higher average loneliness on the UCLA-8 measure",
+      "Higher average depressive symptoms on the PHQ-9",
+      "Higher average anxiety symptoms on the GAD-7",
+      "Profile size in the training split: 198 respondents"
+    ],
+    "tone": "Vulnerable, distressed, and socially isolated"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low distress, low loneliness respondents",
+    "summary": "Respondents in this profile report comparatively low loneliness along with low depressive and anxiety symptoms.",
+    "demographic_anchor": "Most characteristically female, educated to graduate level or above, and reporting 1–3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Lower average loneliness (UCLA-8 mean 1.21)",
+      "Lower average depressive symptoms (PHQ-9 mean 0.82)",
+      "Lower average anxiety symptoms (GAD-7 mean 0.79)",
+      "Relatively low overall psychological distress across the three measured indicators"
+    ],
+    "tone": "Stable, low-distress, and socially connected overall."
+  }
+]

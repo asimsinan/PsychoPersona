@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "High loneliness with elevated anxiety and depressive symptoms",
+    "summary": "Respondents in this profile report comparatively higher loneliness alongside elevated anxiety and depressive symptoms.",
+    "demographic_anchor": "Female, graduate education or above, and more than 5 hours",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 measure",
+      "Shows elevated depressive symptoms on the PHQ-9",
+      "Shows elevated anxiety symptoms on the GAD-7",
+      "Anxiety appears to be the most pronounced of the three measured indicators"
+    ],
+    "tone": "Vulnerable, distressed, and socially disconnected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low Distress, Low Loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "More commonly represented by men with graduate-level education or higher who report 1–3 hours in the referenced time-use category.",
+    "behavior_markers": [
+      "Lower UCLA-8 loneliness scores",
+      "Lower PHQ-9 depression scores",
+      "Very low GAD-7 anxiety scores",
+      "Overall low psychological distress pattern"
+    ],
+    "tone": "Stable, low-distress, and socially connected"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profile 2",
+    "summary": "Respondents in this profile report comparatively higher loneliness alongside comparatively lower depressive and anxiety symptoms.",
+    "demographic_anchor": "More likely to be female, have graduate-level education or above, and report 1-3 hours.",
+    "behavior_markers": [
+      "Higher mean loneliness (UCLA-8: 1.30)",
+      "Lower mean depressive symptoms (PHQ-9: 0.86)",
+      "Lower mean anxiety symptoms (GAD-7: 0.91)",
+      "Training-split profile size: 317"
+    ],
+    "tone": "Socially disconnected but not broadly distressed; emotionally relatively stable despite elevated loneliness."
+  }
+]

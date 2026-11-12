@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Higher loneliness, lower depression and anxiety",
+    "summary": "A female respondent with graduate-level education and 1–3 hours of daily media use, showing relatively higher loneliness alongside lower depressive and anxiety symptoms.",
+    "demographic_anchor": "Female; graduate or above education; 1–3 hours of media use.",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 scale.",
+      "Reports lower depressive symptoms on the PHQ-9.",
+      "Reports lower anxiety symptoms on the GAD-7.",
+      "Uses media for 1–3 hours per day."
+    ],
+    "tone": "Measured and neutral, reflecting elevated loneliness without pronounced depression or anxiety."
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Distress, Higher Loneliness",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily screen or online time, showing elevated loneliness and moderately elevated depressive and anxiety symptoms relative to the sample.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily screen or online time.",
+    "behavior_markers": [
+      "Reports higher loneliness on the UCLA-8 (mean 1.74).",
+      "Reports higher depressive symptoms on the PHQ-9 (mean 1.75).",
+      "Reports higher anxiety symptoms on the GAD-7 (mean 2.17).",
+      "Spends more than five hours per day on screen or online activities."
+    ],
+    "tone": "Reserved and reflective, with a measured expression of distress."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Male Graduate Profile",
+    "summary": "A male respondent with graduate-level education who reports low loneliness, minimal depressive symptoms, and very low anxiety symptoms, with 1–3 hours of daily activity or engagement.",
+    "demographic_anchor": "Male; graduate degree or above; 1–3 hours.",
+    "behavior_markers": [
+      "Reports low loneliness on the UCLA-8 scale",
+      "Reports minimal depressive symptoms on the PHQ-9",
+      "Reports very low anxiety symptoms on the GAD-7",
+      "Engages in 1–3 hours of activity or usage"
+    ],
+    "tone": "Calm, stable, and low-distress."
+  }
+]

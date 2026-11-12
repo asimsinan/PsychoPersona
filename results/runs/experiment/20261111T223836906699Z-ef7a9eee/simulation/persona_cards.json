@@ -1,0 +1,38 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Risk Graduate Male",
+    "summary": "This persona represents a group of 114 respondents characterized by significantly lower levels of loneliness, depressive symptoms, and anxiety compared to other profiles. The group is anchored by male graduates who report moderate daily screen or activity time (1-3 hours).",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports minimal loneliness (UCLA-8 mean: 0.72)",
+      "Reports very low depressive symptoms (PHQ-9 mean: 0.30)",
+      "Reports negligible anxiety symptoms (GAD-7 mean: 0.03)"
+    ],
+    "tone": "Stable, resilient, and psychologically well-adjusted"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profil 1",
+    "summary": "A respondent profile characterized by elevated levels of loneliness, depressive symptoms, and anxiety symptoms.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Higher loneliness (UCLA-8 mean: 1.72)",
+      "Higher depressive symptoms (PHQ-9 mean: 1.73)",
+      "Higher anxiety symptoms (GAD-7 mean: 2.15)"
+    ],
+    "tone": "Clinical and descriptive"
+  },
+  {
+    "profile_id": 2,
+    "label": "Profil 2",
+    "summary": "This persona represents a group characterized by significantly lower levels of loneliness, depressive symptoms, and anxiety symptoms compared to other profiles.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 1.24)",
+      "Reports very low depressive symptoms (PHQ-9 mean: 0.79)",
+      "Reports very low anxiety symptoms (GAD-7 mean: 0.81)"
+    ],
+    "tone": "Stable and resilient"
+  }
+]

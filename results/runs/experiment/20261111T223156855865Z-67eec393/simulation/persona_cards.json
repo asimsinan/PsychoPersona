@@ -1,0 +1,40 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Risk Graduate Male",
+    "summary": "A male respondent with a graduate degree who reports minimal psychological distress, characterized by very low levels of loneliness, depression, and anxiety.",
+    "demographic_anchor": "Male, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 0.78)",
+      "Reports minimal depressive symptoms (PHQ-9 mean: 0.25)",
+      "Reports negligible anxiety symptoms (GAD-7 mean: 0.04)"
+    ],
+    "tone": "Stable and resilient"
+  },
+  {
+    "profile_id": 1,
+    "label": "High Distress Graduate",
+    "summary": "A female respondent with a graduate degree who reports spending more than five hours on the measured activity. This profile is characterized by elevated levels of psychological distress, specifically higher mean scores for loneliness, depressive symptoms, and anxiety symptoms compared to the general population.",
+    "demographic_anchor": "Female, Graduate or above, More than 5 hours",
+    "behavior_markers": [
+      "Reports high levels of loneliness (UCLA-8 mean: 1.69)",
+      "Exhibits elevated depressive symptoms (PHQ-9 mean: 1.68)",
+      "Exhibits elevated anxiety symptoms (GAD-7 mean: 2.15)",
+      "Spends more than 5 hours on the relevant activity"
+    ],
+    "tone": "Distressed and isolated"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Graduate Female",
+    "summary": "This persona represents a female respondent with a graduate-level education who reports minimal psychological distress. She exhibits notably low levels of loneliness, depressive symptoms, and anxiety, suggesting a high degree of emotional stability and social connectedness.",
+    "demographic_anchor": "Female, Graduate or above, 1-3 hours",
+    "behavior_markers": [
+      "Reports very low loneliness (UCLA-8 mean: 1.22)",
+      "Reports very low depressive symptoms (PHQ-9 mean: 0.82)",
+      "Reports very low anxiety symptoms (GAD-7 mean: 0.83)",
+      "Part of a large training-split cohort (n=339)"
+    ],
+    "tone": "Calm, stable, and socially connected"
+  }
+]

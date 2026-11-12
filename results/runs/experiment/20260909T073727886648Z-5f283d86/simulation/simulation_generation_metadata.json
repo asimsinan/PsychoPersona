@@ -1,0 +1,538 @@
+[
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4014,
+    "completion_tokens": 1174,
+    "total_tokens": 5188,
+    "response_id": "gen-1788939480-IVzEHDBxBVrOkfjcgFvD"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4099,
+    "completion_tokens": 1074,
+    "total_tokens": 5173,
+    "response_id": "gen-1788939480-mAyh0QjSsIZum7cElNXv"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3989,
+    "completion_tokens": 1039,
+    "total_tokens": 5028,
+    "response_id": "gen-1788939480-SxU8YzDbcJXn5wnSe9H2"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4008,
+    "completion_tokens": 1244,
+    "total_tokens": 5252,
+    "response_id": "gen-1788939482-9dXDUBYAba9evWDs4fi3"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3991,
+    "completion_tokens": 1024,
+    "total_tokens": 5015,
+    "response_id": "gen-1788939496-fTrJrO05GbMqnD23vAlE"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4001,
+    "completion_tokens": 1112,
+    "total_tokens": 5113,
+    "response_id": "gen-1788939498-cPSl2qwWlSvyfIGrVCgJ"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4009,
+    "completion_tokens": 1142,
+    "total_tokens": 5151,
+    "response_id": "gen-1788939498-nXfTu0f1cgq20otbC9Pc"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4010,
+    "completion_tokens": 971,
+    "total_tokens": 4981,
+    "response_id": "gen-1788939497-MTz9yzg5VhGOXB33R8RA"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4022,
+    "completion_tokens": 592,
+    "total_tokens": 4614,
+    "response_id": "gen-1788939503-r3TchrjmfSS1trf85G3g"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4015,
+    "completion_tokens": 1267,
+    "total_tokens": 5282,
+    "response_id": "gen-1788939515-O0fllvsQLf3KYlCYG8EL"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4003,
+    "completion_tokens": 966,
+    "total_tokens": 4969,
+    "response_id": "gen-1788939508-PizaE4yIvLnQ9Bm43KBd"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3996,
+    "completion_tokens": 1123,
+    "total_tokens": 5119,
+    "response_id": "gen-1788939514-RV9QBIiIKUThNqT3M81n"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3996,
+    "completion_tokens": 1103,
+    "total_tokens": 5099,
+    "response_id": "gen-1788939520-Kjia3OYqz4SKoeWaDhuG"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4025,
+    "completion_tokens": 1132,
+    "total_tokens": 5157,
+    "response_id": "gen-1788939524-RkevmKOlvQHvQkSQL5oL"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4017,
+    "completion_tokens": 1217,
+    "total_tokens": 5234,
+    "response_id": "gen-1788939531-qMHjiu2MP19FlcVOCe5c"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4002,
+    "completion_tokens": 1085,
+    "total_tokens": 5087,
+    "response_id": "gen-1788939532-vcrydfF8uldmvh5DKuRL"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4025,
+    "completion_tokens": 623,
+    "total_tokens": 4648,
+    "response_id": "gen-1788939533-RGTVKZajGBuyG3l5h6OF"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3992,
+    "completion_tokens": 1087,
+    "total_tokens": 5079,
+    "response_id": "gen-1788939539-qqMcw60bzF3cYlkIKoKk"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4004,
+    "completion_tokens": 1208,
+    "total_tokens": 5212,
+    "response_id": "gen-1788939549-xeNUGyyzZc32uTGUxfxq"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4000,
+    "completion_tokens": 1150,
+    "total_tokens": 5150,
+    "response_id": "gen-1788939549-CWbh05KhvdeXGlZa5vI9"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4005,
+    "completion_tokens": 1150,
+    "total_tokens": 5155,
+    "response_id": "gen-1788939550-YytEd8ygUB4PR4hi3PaX"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4003,
+    "completion_tokens": 1168,
+    "total_tokens": 5171,
+    "response_id": "gen-1788939556-1FmY78evAlIWi1vDPqE6"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3998,
+    "completion_tokens": 997,
+    "total_tokens": 4995,
+    "response_id": "gen-1788939565-naKKQ9hHa79oPIgFaKp3"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4017,
+    "completion_tokens": 1117,
+    "total_tokens": 5134,
+    "response_id": "gen-1788939566-pEHizIYwAiRYSmbLmFgs"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4028,
+    "completion_tokens": 1200,
+    "total_tokens": 5228,
+    "response_id": "gen-1788939567-74FGEyXr8bltl7pEva1A"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4009,
+    "completion_tokens": 1102,
+    "total_tokens": 5111,
+    "response_id": "gen-1788939573-nDYMrHlMkwQQVLbhGkqp"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3998,
+    "completion_tokens": 1045,
+    "total_tokens": 5043,
+    "response_id": "gen-1788939581-agOjXOyD5NpKrMijcON0"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4008,
+    "completion_tokens": 1107,
+    "total_tokens": 5115,
+    "response_id": "gen-1788939582-Arza4koeq9b7Fe5rOlcJ"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3989,
+    "completion_tokens": 1053,
+    "total_tokens": 5042,
+    "response_id": "gen-1788939584-giju0WNBxaqfoAswSjMD"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3986,
+    "completion_tokens": 1101,
+    "total_tokens": 5087,
+    "response_id": "gen-1788939591-90MQeedAmenFnfZU1ip7"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4008,
+    "completion_tokens": 1153,
+    "total_tokens": 5161,
+    "response_id": "gen-1788939599-OyEahGUkRzzNW5m88bx4"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4009,
+    "completion_tokens": 1174,
+    "total_tokens": 5183,
+    "response_id": "gen-1788939599-ZE17w0LgDilcJpHHzSu7"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3989,
+    "completion_tokens": 958,
+    "total_tokens": 4947,
+    "response_id": "gen-1788939595-ZQYQFEYqGgMcMWtTYF6d"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4010,
+    "completion_tokens": 1130,
+    "total_tokens": 5140,
+    "response_id": "gen-1788939608-mcllhMwx4Cb30kmdCb9a"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4025,
+    "completion_tokens": 1130,
+    "total_tokens": 5155,
+    "response_id": "gen-1788939611-SUqpUTA2w5LkD3ZWVvzn"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3990,
+    "completion_tokens": 1118,
+    "total_tokens": 5108,
+    "response_id": "gen-1788939616-HqNZBc483QmgUPd9iiCi"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3989,
+    "completion_tokens": 1068,
+    "total_tokens": 5057,
+    "response_id": "gen-1788939615-b6JGjE1EOdLnbhfpRRyR"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4014,
+    "completion_tokens": 1140,
+    "total_tokens": 5154,
+    "response_id": "gen-1788939625-86IK9OCFyCzypRvwtjDS"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3998,
+    "completion_tokens": 1088,
+    "total_tokens": 5086,
+    "response_id": "gen-1788939628-6rKYnUvutD7yH0kCuISq"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4008,
+    "completion_tokens": 1122,
+    "total_tokens": 5130,
+    "response_id": "gen-1788939632-21Y8pdpnAX7XrFUDowWz"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4003,
+    "completion_tokens": 1137,
+    "total_tokens": 5140,
+    "response_id": "gen-1788939632-grQgfb8ffdJVGdJNyj4C"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3998,
+    "completion_tokens": 1145,
+    "total_tokens": 5143,
+    "response_id": "gen-1788939642-Yb8QtwIpzoyB6S2w2P0B"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3999,
+    "completion_tokens": 1102,
+    "total_tokens": 5101,
+    "response_id": "gen-1788939644-KNW55wfZ0cfGbJpS6l4j"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4003,
+    "completion_tokens": 1006,
+    "total_tokens": 5009,
+    "response_id": "gen-1788939648-1eorUn2DfiPJjxGHBguI"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4103,
+    "completion_tokens": 887,
+    "total_tokens": 4990,
+    "response_id": "gen-1788939642-7vc5q3BBlbw1euqkxLcv"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4016,
+    "completion_tokens": 1159,
+    "total_tokens": 5175,
+    "response_id": "gen-1788939658-LH1Z1FcVkXVKAkj4h4Xs"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4022,
+    "completion_tokens": 1186,
+    "total_tokens": 5208,
+    "response_id": "gen-1788939659-fC2VQUVfXghselGlqs2y"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3988,
+    "completion_tokens": 1036,
+    "total_tokens": 5024,
+    "response_id": "gen-1788939660-NIL4HqRd9AtLAlWwsEyC"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4010,
+    "completion_tokens": 1154,
+    "total_tokens": 5164,
+    "response_id": "gen-1788939665-6RwDDT0d6tgcYO1q5hh3"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4010,
+    "completion_tokens": 598,
+    "total_tokens": 4608,
+    "response_id": "gen-1788939667-6XAXOdusOm2lnkAy1PLw"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4017,
+    "completion_tokens": 1135,
+    "total_tokens": 5152,
+    "response_id": "gen-1788939676-DskjcTb6dgdxuFXXwUxv"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4005,
+    "completion_tokens": 1079,
+    "total_tokens": 5084,
+    "response_id": "gen-1788939677-7H9nQSyFBKgHVreKcobQ"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4036,
+    "completion_tokens": 1262,
+    "total_tokens": 5298,
+    "response_id": "gen-1788939682-jRjpjM0yb9D5xQNJbCdv"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4007,
+    "completion_tokens": 1093,
+    "total_tokens": 5100,
+    "response_id": "gen-1788939683-WkX2gnNHjxYuZtFID8Rf"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4016,
+    "completion_tokens": 1250,
+    "total_tokens": 5266,
+    "response_id": "gen-1788939693-RHyBfCYdxOMrkPRO2DJp"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4013,
+    "completion_tokens": 1174,
+    "total_tokens": 5187,
+    "response_id": "gen-1788939694-tJmybFf1g04nXX6AJUrF"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3999,
+    "completion_tokens": 1035,
+    "total_tokens": 5034,
+    "response_id": "gen-1788939693-D7F4bsbmj0hIvfeBzFUp"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4013,
+    "completion_tokens": 1091,
+    "total_tokens": 5104,
+    "response_id": "gen-1788939700-tCWEL8PmRPUcZFXh7hLM"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 3993,
+    "completion_tokens": 1144,
+    "total_tokens": 5137,
+    "response_id": "gen-1788939708-P6kjc24dt1M3cJq8C2jX"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4009,
+    "completion_tokens": 1136,
+    "total_tokens": 5145,
+    "response_id": "gen-1788939710-h1Zdg1jeKOjUzcgqLShT"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4014,
+    "completion_tokens": 587,
+    "total_tokens": 4601,
+    "response_id": "gen-1788939701-Ud8olQCxFkMlo0nI67yF"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4010,
+    "completion_tokens": 1219,
+    "total_tokens": 5229,
+    "response_id": "gen-1788939717-QKa2o6cCAMu7E6Z4Z42C"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4023,
+    "completion_tokens": 1098,
+    "total_tokens": 5121,
+    "response_id": "gen-1788939718-PZdJLROxN3oBNl84G3KA"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4015,
+    "completion_tokens": 1158,
+    "total_tokens": 5173,
+    "response_id": "gen-1788939725-ZuEXvzyPM4X9FO2qaf8A"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4086,
+    "completion_tokens": 970,
+    "total_tokens": 5056,
+    "response_id": "gen-1788939720-XQj2JPehxGelaAz98BWp"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4003,
+    "completion_tokens": 1109,
+    "total_tokens": 5112,
+    "response_id": "gen-1788939734-kOPIcdkQK9ogAkRhy5Rr"
+  },
+  {
+    "model_id": "google/gemini-3.1-pro-preview",
+    "preset_name": "primary",
+    "prompt_tokens": 4007,
+    "completion_tokens": 1095,
+    "total_tokens": 5102,
+    "response_id": "gen-1788939735-98kBQbRyR92bxnm04pu5"
+  }
+]

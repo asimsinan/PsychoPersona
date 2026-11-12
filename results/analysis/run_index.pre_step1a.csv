@@ -1,0 +1,93 @@
+dataset,arm,model,split,run,P
+anket_tr,BBP,Claude Opus 4.6,final_test,20260907T125857217538Z-97ad53a3,3
+anket_tr,BBP,Claude Opus 4.6,validation,20260907T114850067600Z-dc096f93,3
+anket_tr,BBP,GPT-5.4,final_test,20260907T121527463029Z-71770997,3
+anket_tr,BBP,GPT-5.4,validation,20260907T114528437882Z-ca45e0da,3
+anket_tr,BBP,Gemini 3.1 Pro,final_test,20260907T123554935385Z-49da2da3,3
+anket_tr,BBP,Gemini 3.1 Pro,validation,20260907T114557321530Z-b39d30d1,3
+anket_tr,BPP,Claude Opus 4.6,final_test,20260907T074907396141Z-566b0082,3
+anket_tr,BPP,Claude Opus 4.6,validation,20260907T074235012798Z-01da7170,3
+anket_tr,BPP,GPT-5.4,final_test,20260907T073906048130Z-9fdbd941,3
+anket_tr,BPP,GPT-5.4,validation,20260907T073626934803Z-e77bed2b,3
+anket_tr,BPP,Gemini 3.1 Pro,final_test,20260907T074151298075Z-dc518113,3
+anket_tr,BPP,Gemini 3.1 Pro,validation,20260907T073832517736Z-97161d63,3
+anket_tr,DOP,Claude Opus 4.6,final_test,20260907T073711659968Z-475ec57e,3
+anket_tr,DOP,Claude Opus 4.6,validation,20260907T073144377174Z-4b251977,3
+anket_tr,DOP,GPT-5.4,final_test,20260907T073408871510Z-bd293e6a,3
+anket_tr,DOP,GPT-5.4,validation,20260907T073144377216Z-a6f0dc2e,3
+anket_tr,DOP,Gemini 3.1 Pro,final_test,20260907T073506535415Z-1bd7a33b,3
+anket_tr,DOP,Gemini 3.1 Pro,validation,20260907T073144377196Z-ab5851a1,3
+anket_tr,FPNP,Claude Opus 4.6,final_test,20260907T125225123054Z-692f68f2,3
+anket_tr,FPNP,Claude Opus 4.6,validation,20260907T114224868865Z-3e84eaba,3
+anket_tr,FPNP,GPT-5.4,final_test,20260907T121254984494Z-d3a7a182,3
+anket_tr,FPNP,GPT-5.4,validation,20260907T114224868865Z-862e3496,3
+anket_tr,FPNP,Gemini 3.1 Pro,final_test,20260907T123227815122Z-16986ca5,3
+anket_tr,FPNP,Gemini 3.1 Pro,validation,20260907T114224868869Z-c8099980,3
+anket_tr,HC,Claude Opus 4.6,final_test,20260907T083116151038Z-1dc3bd61,3
+anket_tr,HC,Claude Opus 4.6,validation,20260907T082703587333Z-4735e6ec,3
+anket_tr,HC,GPT-5.4,final_test,20260907T075255891263Z-8c057326,3
+anket_tr,HC,GPT-5.4,validation,20260907T075119191020Z-33ef9142,3
+anket_tr,HC,Gemini 3.1 Pro,final_test,20260907T081924246086Z-a30d0a3b,3
+anket_tr,HC,Gemini 3.1 Pro,validation,20260907T081145116273Z-0fb59af4,3
+anket_tr,SADP,Claude Opus 4.6,final_test,20260907T080135687320Z-01da1484,3
+anket_tr,SADP,Claude Opus 4.6,validation,20260907T075535350768Z-265fc690,3
+anket_tr,SADP,GPT-5.4,final_test,20260907T074129231220Z-d5aa036f,3
+anket_tr,SADP,GPT-5.4,validation,20260907T072836527865Z-c33c3c9e,3
+anket_tr,SADP,Gemini 3.1 Pro,final_test,20260907T074829588014Z-efd35ec5,3
+anket_tr,SADP,Gemini 3.1 Pro,validation,20260907T074511116100Z-45111a63,3
+anket_tr,SCP,Claude Opus 4.6,final_test,20260907T132105636545Z-4bc9453a,3
+anket_tr,SCP,Claude Opus 4.6,validation,20260907T115529395290Z-bb945aff,3
+anket_tr,SCP,GPT-5.4,final_test,20260907T121803328014Z-8c6ebe3e,3
+anket_tr,SCP,GPT-5.4,validation,20260907T114811629987Z-872b1086,3
+anket_tr,SCP,Gemini 3.1 Pro,final_test,20260907T123923537320Z-b390624c,3
+anket_tr,SCP,Gemini 3.1 Pro,validation,20260907T114916314736Z-f9d903ed,3
+anket_tr,TPSAP,Claude Opus 4.6,final_test,20260907T081712048548Z-931a5e34,3
+anket_tr,TPSAP,Claude Opus 4.6,validation,20260907T080734339041Z-ad88c1a0,3
+anket_tr,TPSAP,GPT-5.4,final_test,20260907T074720400697Z-8557a73d,3
+anket_tr,TPSAP,GPT-5.4,validation,20260907T074335562685Z-7d8bfbcc,3
+anket_tr,TPSAP,Gemini 3.1 Pro,final_test,20260907T080141874908Z-729da3ce,3
+anket_tr,TPSAP,Gemini 3.1 Pro,validation,20260907T075146663542Z-3da16c5e,3
+bangladesh_sns,BBP,Claude Opus 4.6,final_test,20260907T134847809927Z-a5f79d82,4
+bangladesh_sns,BBP,Claude Opus 4.6,validation,20260907T121857191976Z-6b57a0d5,4
+bangladesh_sns,BBP,GPT-5.4,final_test,20260907T122754156022Z-f02e3251,4
+bangladesh_sns,BBP,GPT-5.4,validation,20260907T115720271453Z-ffa682af,4
+bangladesh_sns,BBP,Gemini 3.1 Pro,final_test,20260907T125247324665Z-7fa0df6a,4
+bangladesh_sns,BBP,Gemini 3.1 Pro,validation,20260907T120230851636Z-72e40e4a,4
+bangladesh_sns,BPP,GPT-5.4,final_test,20260906T091508066591Z-612f19ee,4
+bangladesh_sns,BPP,GPT-5.4,validation,20260906T091219295229Z-491006bb,4
+bangladesh_sns,DOP,Claude Opus 4.6,final_test,20260705T135436884417Z-13142e10,4
+bangladesh_sns,DOP,Claude Opus 4.6,validation,20260705T134358597378Z-a7dc7da8,4
+bangladesh_sns,DOP,GPT-5.4,final_test,20260705T134203922203Z-1c81e466,4
+bangladesh_sns,DOP,GPT-5.4,validation,20260705T133808235386Z-06ce1df9,4
+bangladesh_sns,DOP,Gemini 3.1 Pro,final_test,20260705T135121343452Z-e3c2bb90,4
+bangladesh_sns,DOP,Gemini 3.1 Pro,validation,20260705T134226803304Z-df167230,4
+bangladesh_sns,FPNP,Claude Opus 4.6,final_test,20260907T133906099997Z-76aacd2e,4
+bangladesh_sns,FPNP,Claude Opus 4.6,validation,20260907T121335541574Z-131c5091,4
+bangladesh_sns,FPNP,GPT-5.4,final_test,20260907T122533358271Z-90b86c93,4
+bangladesh_sns,FPNP,GPT-5.4,validation,20260907T115456279030Z-4d396c81,4
+bangladesh_sns,FPNP,Gemini 3.1 Pro,final_test,20260907T124921852254Z-ae887183,4
+bangladesh_sns,FPNP,Gemini 3.1 Pro,validation,20260907T115844827567Z-fd55e263,4
+bangladesh_sns,HC,Claude Opus 4.6,final_test,20260413T094829697375Z-609d50b6,4
+bangladesh_sns,HC,Claude Opus 4.6,validation,20260413T094447333148Z-926675ff,4
+bangladesh_sns,HC,GPT-5.4,final_test,20260413T093157886393Z-5de10863,4
+bangladesh_sns,HC,GPT-5.4,validation,20260413T092058121365Z-f5d49d3f,4
+bangladesh_sns,HC,Gemini 3.1 Pro,final_test,20260413T094829690135Z-22df4ed6,4
+bangladesh_sns,HC,Gemini 3.1 Pro,validation,20260413T094447333266Z-d3631eeb,4
+bangladesh_sns,SADP,Claude Opus 4.6,final_test,20260907T141714297340Z-e69a87c0,4
+bangladesh_sns,SADP,Claude Opus 4.6,validation,20260907T124737958538Z-3a161b8f,4
+bangladesh_sns,SADP,GPT-5.4,final_test,20260907T124034438377Z-a5c45ddc,4
+bangladesh_sns,SADP,GPT-5.4,validation,20260907T121044049185Z-d1806a96,4
+bangladesh_sns,SADP,Gemini 3.1 Pro,final_test,20260907T133847149133Z-f42c1f13,4
+bangladesh_sns,SADP,Gemini 3.1 Pro,validation,20260907T122855768808Z-d7d8062e,4
+bangladesh_sns,SCP,Claude Opus 4.6,final_test,20260907T135413638577Z-5fbfcbd7,4
+bangladesh_sns,SCP,Claude Opus 4.6,validation,20260907T122426025551Z-ff0d366e,4
+bangladesh_sns,SCP,GPT-5.4,final_test,20260907T123019827407Z-004a4365,4
+bangladesh_sns,SCP,GPT-5.4,validation,20260907T115957735204Z-e924a16b,4
+bangladesh_sns,SCP,Gemini 3.1 Pro,final_test,20260907T132105636654Z-10435aab,4
+bangladesh_sns,SCP,Gemini 3.1 Pro,validation,20260907T120627091220Z-ea7830b8,4
+bangladesh_sns,TPSAP,Claude Opus 4.6,final_test,20260907T140908617519Z-aa94c57c,4
+bangladesh_sns,TPSAP,Claude Opus 4.6,validation,20260907T123932235463Z-77bc3578,4
+bangladesh_sns,TPSAP,GPT-5.4,final_test,20260907T123653201207Z-a23236f6,4
+bangladesh_sns,TPSAP,GPT-5.4,validation,20260907T120650871346Z-e36c3a32,4
+bangladesh_sns,TPSAP,Gemini 3.1 Pro,final_test,20260907T134847808762Z-5aa513b0,4
+bangladesh_sns,TPSAP,Gemini 3.1 Pro,validation,20260907T122216541824Z-40dffc06,4

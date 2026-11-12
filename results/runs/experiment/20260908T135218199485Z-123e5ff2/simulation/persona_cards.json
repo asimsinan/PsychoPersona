@@ -1,0 +1,44 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Lower distress, low-loneliness male postgraduate with light daily use",
+    "summary": "Male respondents with graduate-level education or above who report relatively low loneliness, depressive symptoms, and anxiety symptoms, with a daily use pattern of 1-3 hours.",
+    "demographic_anchor": "Male, graduate education or above, 1-3 hours of daily use",
+    "behavior_markers": [
+      "Reports low loneliness on average",
+      "Shows low average depressive symptom levels",
+      "Shows low average anxiety symptom levels",
+      "Represents a relatively low-distress respondent profile",
+      "Typically reports 1-3 hours of daily use"
+    ],
+    "tone": "Stable, low-distress, and lightly engaged"
+  },
+  {
+    "profile_id": 1,
+    "label": "Highly distressed, heavy-use graduate woman",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms. It represents respondents with elevated emotional distress across all three measured indicators.",
+    "demographic_anchor": "Female, graduate degree or above, more than 5 hours of use",
+    "behavior_markers": [
+      "Reports comparatively high loneliness",
+      "Shows elevated depressive symptoms",
+      "Shows elevated anxiety symptoms",
+      "Anchored to heavy use of more than 5 hours",
+      "Most represented by women with graduate-level education or higher"
+    ],
+    "tone": "Vulnerable, emotionally strained, and high-distress"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low Distress, Well-Educated Male with Light Daily Use",
+    "summary": "This profile reflects respondents with comparatively low loneliness, very low anxiety symptoms, and low depressive symptoms overall.",
+    "demographic_anchor": "Typically male, with a graduate degree or higher, and reporting 1-3 hours of use.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure.",
+      "Shows low depressive symptom levels on the PHQ-9.",
+      "Shows very low anxiety symptom levels on the GAD-7.",
+      "Represents a lower-distress respondent pattern overall.",
+      "Most commonly anchored by light daily use of 1-3 hours."
+    ],
+    "tone": "Stable, low-distress, and generally well-adjusted."
+  }
+]

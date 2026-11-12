@@ -1,0 +1,42 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low distress, low loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms.",
+    "demographic_anchor": "Male, graduate education or above, 1-3 hours",
+    "behavior_markers": [
+      "Low UCLA-8 loneliness score on average (0.79)",
+      "Low PHQ-9 depressive symptom score on average (0.28)",
+      "Very low GAD-7 anxiety symptom score on average (0.04)",
+      "Training-split profile size: 116 respondents"
+    ],
+    "tone": "Stable, low-distress, and relatively socially connected"
+  },
+  {
+    "profile_id": 1,
+    "label": "Profile 1",
+    "summary": "Respondents in this profile show comparatively higher loneliness, depressive symptoms, and anxiety symptoms, with anxiety appearing especially elevated among the three indicators.",
+    "demographic_anchor": "Female, graduate education or above, more than 5 hours",
+    "behavior_markers": [
+      "Reports relatively high loneliness on the UCLA-8 measure",
+      "Shows elevated depressive symptoms on the PHQ-9",
+      "Shows elevated anxiety symptoms on the GAD-7",
+      "Anxiety levels are the highest of the listed symptom indicators",
+      "Profile is anchored by respondents who are female, highly educated, and report more than 5 hours"
+    ],
+    "tone": "Distressed, emotionally burdened, and anxiety-prone"
+  },
+  {
+    "profile_id": 2,
+    "label": "Low Distress, Low Loneliness",
+    "summary": "Respondents in this profile report comparatively low loneliness, depressive symptoms, and anxiety symptoms across the measured indicators.",
+    "demographic_anchor": "Typically male, with graduate-level education or higher, and associated with the 1-3 hours category.",
+    "behavior_markers": [
+      "Low average loneliness score on the UCLA-8",
+      "Low average depressive symptom level on the PHQ-9",
+      "Low average anxiety symptom level on the GAD-7",
+      "Represents a relatively low-distress respondent group"
+    ],
+    "tone": "Stable, low-distress, and socially connected"
+  }
+]

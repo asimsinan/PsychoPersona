@@ -1,0 +1,5 @@
+dataset,constant_classifier,splits,hard,soft,difference,sd_difference,splits_soft_lower
+anket_tr,False,12,0.911924,0.908865,-0.003058,0.023461,7
+anket_tr,True,38,0.897295,0.900369,0.003074,0.027221,14
+bangladesh_sns,False,16,0.858366,0.807715,-0.050651,0.038833,14
+bangladesh_sns,True,34,0.793214,0.80026,0.007047,0.004846,2

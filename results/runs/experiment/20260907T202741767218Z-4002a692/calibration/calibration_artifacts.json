@@ -1,0 +1,616 @@
+{
+  "scale_columns": [
+    "digital_addiction_mean",
+    "social_anxiety_mean",
+    "wellbeing_mean"
+  ],
+  "item_columns": [
+    "digital_item_01",
+    "digital_item_02",
+    "digital_item_03",
+    "digital_item_04",
+    "digital_item_05",
+    "digital_item_06",
+    "digital_item_07",
+    "digital_item_08",
+    "digital_item_09",
+    "digital_item_10",
+    "social_item_01",
+    "social_item_02",
+    "social_item_03",
+    "social_item_04",
+    "social_item_05",
+    "social_item_06",
+    "social_item_07",
+    "social_item_08",
+    "social_item_09",
+    "social_item_10",
+    "social_item_11",
+    "social_item_12",
+    "wellbeing_item_01",
+    "wellbeing_item_02",
+    "wellbeing_item_03",
+    "wellbeing_item_04",
+    "wellbeing_item_05",
+    "wellbeing_item_06",
+    "wellbeing_item_07",
+    "wellbeing_item_08"
+  ],
+  "scale_to_items": {
+    "digital_addiction_mean": [
+      "digital_item_01",
+      "digital_item_02",
+      "digital_item_03",
+      "digital_item_04",
+      "digital_item_05",
+      "digital_item_06",
+      "digital_item_07",
+      "digital_item_08",
+      "digital_item_09",
+      "digital_item_10"
+    ],
+    "social_anxiety_mean": [
+      "social_item_01",
+      "social_item_02",
+      "social_item_03",
+      "social_item_04",
+      "social_item_05",
+      "social_item_06",
+      "social_item_07",
+      "social_item_08",
+      "social_item_09",
+      "social_item_10",
+      "social_item_11",
+      "social_item_12"
+    ],
+    "wellbeing_mean": [
+      "wellbeing_item_01",
+      "wellbeing_item_02",
+      "wellbeing_item_03",
+      "wellbeing_item_04",
+      "wellbeing_item_05",
+      "wellbeing_item_06",
+      "wellbeing_item_07",
+      "wellbeing_item_08"
+    ]
+  },
+  "scale_shift_aliases": {
+    "digital_addiction_mean": "digital",
+    "social_anxiety_mean": "social",
+    "wellbeing_mean": "wellbeing"
+  },
+  "profile_column": "profile_id",
+  "subgroup_columns": [
+    "gender",
+    "program",
+    "usage_band"
+  ],
+  "donor_pool_min": 20,
+  "profile_shrinkage": 0.25,
+  "signal_scale": 0.25,
+  "neighbor_count": 8,
+  "response_min": 1,
+  "response_max": 5,
+  "global_scale_means": {
+    "digital_addiction_mean": 2.729981378026071,
+    "social_anxiety_mean": 2.268880612456031,
+    "wellbeing_mean": 3.4052141527001862
+  },
+  "global_scale_stds": {
+    "digital_addiction_mean": 0.8666793074953588,
+    "social_anxiety_mean": 0.8869544848375106,
+    "wellbeing_mean": 0.9447330553801261
+  },
+  "global_scale_covariance": {
+    "digital_addiction_mean": {
+      "digital_addiction_mean": 0.7511330220406346,
+      "social_anxiety_mean": 0.27180680295127263,
+      "wellbeing_mean": 0.14182832222566336
+    },
+    "social_anxiety_mean": {
+      "digital_addiction_mean": 0.27180680295127263,
+      "social_anxiety_mean": 0.7866882581733737,
+      "wellbeing_mean": -0.034897074261833916
+    },
+    "wellbeing_mean": {
+      "digital_addiction_mean": 0.14182832222566336,
+      "social_anxiety_mean": -0.034897074261833916,
+      "wellbeing_mean": 0.8925205459278684
+    }
+  },
+  "profile_scale_means": {
+    "0": {
+      "digital_addiction_mean": 2.7321839080459767,
+      "social_anxiety_mean": 2.050207535121328,
+      "wellbeing_mean": 3.851754926108374
+    },
+    "1": {
+      "digital_addiction_mean": 1.5592592592592591,
+      "social_anxiety_mean": 1.5756172839506173,
+      "wellbeing_mean": 1.5740740740740742
+    },
+    "2": {
+      "digital_addiction_mean": 3.1925925925925926,
+      "social_anxiety_mean": 3.109876543209876,
+      "wellbeing_mean": 2.9865873015873015
+    }
+  },
+  "profile_scale_covariances": {
+    "0": {
+      "digital_addiction_mean": {
+        "digital_addiction_mean": 0.5920447845241643,
+        "social_anxiety_mean": 0.02434008340050276,
+        "wellbeing_mean": -0.025778133473403263
+      },
+      "social_anxiety_mean": {
+        "digital_addiction_mean": 0.02434008340050276,
+        "social_anxiety_mean": 0.3896718356964294,
+        "wellbeing_mean": -0.11785144709362762
+      },
+      "wellbeing_mean": {
+        "digital_addiction_mean": -0.025778133473403263,
+        "social_anxiety_mean": -0.11785144709362762,
+        "wellbeing_mean": 0.20797186430842832
+      }
+    },
+    "1": {
+      "digital_addiction_mean": {
+        "digital_addiction_mean": 0.11151642208245983,
+        "social_anxiety_mean": 0.08615769857908223,
+        "wellbeing_mean": 0.05755590496156534
+      },
+      "social_anxiety_mean": {
+        "digital_addiction_mean": 0.08615769857908223,
+        "social_anxiety_mean": 0.18088797655097447,
+        "wellbeing_mean": 0.02043297228045656
+      },
+      "wellbeing_mean": {
+        "digital_addiction_mean": 0.05755590496156534,
+        "social_anxiety_mean": 0.02043297228045656,
+        "wellbeing_mean": 0.2078529000698812
+      }
+    },
+    "2": {
+      "digital_addiction_mean": {
+        "digital_addiction_mean": 0.65934770591487,
+        "social_anxiety_mean": 0.27234304068881177,
+        "wellbeing_mean": -0.060046789860222716
+      },
+      "social_anxiety_mean": {
+        "digital_addiction_mean": 0.27234304068881177,
+        "social_anxiety_mean": 1.0357157686721985,
+        "wellbeing_mean": 0.2542182306361411
+      },
+      "wellbeing_mean": {
+        "digital_addiction_mean": -0.060046789860222716,
+        "social_anxiety_mean": 0.2542182306361411,
+        "wellbeing_mean": 0.9036813635902122
+      }
+    }
+  },
+  "profile_counts": {
+    "0": 348,
+    "1": 54,
+    "2": 135
+  },
+  "global_subgroup_offsets": {
+    "gender": {
+      "Erkek": {
+        "digital_addiction_mean": -0.14453361683204147,
+        "social_anxiety_mean": -0.19414067577579575,
+        "wellbeing_mean": -0.008825559949653172
+      },
+      "Kadın": {
+        "digital_addiction_mean": 0.14399631714121552,
+        "social_anxiety_mean": 0.1934189632264447,
+        "wellbeing_mean": 0.00879275117660594
+      }
+    },
+    "program": {
+      "Lisans": {
+        "digital_addiction_mean": 0.01786551192608199,
+        "social_anxiety_mean": 0.0854521892451916,
+        "wellbeing_mean": 0.13528482200931524
+      },
+      "Ön lisans": {
+        "digital_addiction_mean": -0.011383817050460987,
+        "social_anxiety_mean": -0.05444971814708799,
+        "wellbeing_mean": -0.08620282865837492
+      }
+    },
+    "usage_band": {
+      "0-3 saat": {
+        "digital_addiction_mean": -0.2474813780260705,
+        "social_anxiety_mean": -0.03865649629441492,
+        "wellbeing_mean": 0.07279924015695682
+      },
+      "10 saat ve üzeri": {
+        "digital_addiction_mean": 0.38335195530726196,
+        "social_anxiety_mean": 0.03667494309952435,
+        "wellbeing_mean": -0.0456903431763771
+      },
+      "4-6 saat": {
+        "digital_addiction_mean": 0.047323586512936444,
+        "social_anxiety_mean": -0.015146462445284836,
+        "wellbeing_mean": -0.0028838588805308873
+      },
+      "7-9 saat": {
+        "digital_addiction_mean": 0.2269416988970061,
+        "social_anxiety_mean": 0.14393990036448168,
+        "wellbeing_mean": -0.14559876808480166
+      }
+    }
+  },
+  "profile_subgroup_offsets": {
+    "0": {
+      "gender": {
+        "Erkek": {
+          "count": 181,
+          "offsets": {
+            "digital_addiction_mean": -0.08688004064266153,
+            "social_anxiety_mean": -0.11190182609738675,
+            "wellbeing_mean": 0.0268954290613177
+          }
+        },
+        "Kadın": {
+          "count": 167,
+          "offsets": {
+            "digital_addiction_mean": 0.09416339734324497,
+            "social_anxiety_mean": 0.1212828175067493,
+            "wellbeing_mean": -0.02915013568921232
+          }
+        }
+      },
+      "program": {
+        "Lisans": {
+          "count": 150,
+          "offsets": {
+            "digital_addiction_mean": -0.05285057471264354,
+            "social_anxiety_mean": 0.07849616858237551,
+            "wellbeing_mean": -0.00282635467980219
+          }
+        },
+        "Ön lisans": {
+          "count": 198,
+          "offsets": {
+            "digital_addiction_mean": 0.04003831417624548,
+            "social_anxiety_mean": -0.059466794380586885,
+            "wellbeing_mean": 0.00214117778772982
+          }
+        }
+      },
+      "usage_band": {
+        "0-3 saat": {
+          "count": 108,
+          "offsets": {
+            "digital_addiction_mean": -0.3423690932311616,
+            "social_anxiety_mean": -0.08441535405136902,
+            "wellbeing_mean": 0.09963396278051473
+          }
+        },
+        "10 saat ve üzeri": {
+          "count": 14,
+          "offsets": {
+            "digital_addiction_mean": 0.4892446633825944,
+            "social_anxiety_mean": -0.2942551541689471,
+            "wellbeing_mean": 0.15972466572836064
+          }
+        },
+        "4-6 saat": {
+          "count": 186,
+          "offsets": {
+            "digital_addiction_mean": 0.09254727474972224,
+            "social_anxiety_mean": 0.027301425452148642,
+            "wellbeing_mean": -0.030518366968589117
+          }
+        },
+        "7-9 saat": {
+          "count": 40,
+          "offsets": {
+            "digital_addiction_mean": 0.32281609195402305,
+            "social_anxiety_mean": 0.2039591315453384,
+            "wellbeing_mean": -0.18300492610837393
+          }
+        }
+      }
+    },
+    "1": {
+      "gender": {
+        "Erkek": {
+          "count": 32,
+          "offsets": {
+            "digital_addiction_mean": -0.0561342592592593,
+            "social_anxiety_mean": -0.049575617283950546,
+            "wellbeing_mean": -0.03110532407407418
+          }
+        },
+        "Kadın": {
+          "count": 22,
+          "offsets": {
+            "digital_addiction_mean": 0.08164983164983175,
+            "social_anxiety_mean": 0.07210998877665542,
+            "wellbeing_mean": 0.0452441077441077
+          }
+        }
+      },
+      "program": {
+        "Lisans": {
+          "count": 13,
+          "offsets": {
+            "digital_addiction_mean": -0.051566951566951236,
+            "social_anxiety_mean": -0.1397198480531816,
+            "wellbeing_mean": 0.0605413105413104
+          }
+        },
+        "Ön lisans": {
+          "count": 41,
+          "offsets": {
+            "digital_addiction_mean": 0.016350496838301698,
+            "social_anxiety_mean": 0.044301415236374764,
+            "wellbeing_mean": -0.019196025293586327
+          }
+        }
+      },
+      "usage_band": {
+        "0-3 saat": {
+          "count": 14,
+          "offsets": {
+            "digital_addiction_mean": 0.047883597883598306,
+            "social_anxiety_mean": 0.11485890652557318,
+            "wellbeing_mean": -0.14550264550264558
+          }
+        },
+        "10 saat ve üzeri": {
+          "count": 4,
+          "offsets": {
+            "digital_addiction_mean": 0.16574074074074074,
+            "social_anxiety_mean": 0.19521604938271597,
+            "wellbeing_mean": -0.16782407407407418
+          }
+        },
+        "4-6 saat": {
+          "count": 29,
+          "offsets": {
+            "digital_addiction_mean": -0.04546615581098323,
+            "social_anxiety_mean": -0.04688165176670922,
+            "wellbeing_mean": -0.009418901660281032
+          }
+        },
+        "7-9 saat": {
+          "count": 7,
+          "offsets": {
+            "digital_addiction_mean": -0.002116402116401961,
+            "social_anxiety_mean": -0.1470458553791889,
+            "wellbeing_mean": 0.4259259259259258
+          }
+        }
+      }
+    },
+    "2": {
+      "gender": {
+        "Erkek": {
+          "count": 55,
+          "offsets": {
+            "digital_addiction_mean": -0.17441077441077413,
+            "social_anxiety_mean": -0.26690133659830684,
+            "wellbeing_mean": -0.09892496392496408
+          }
+        },
+        "Kadın": {
+          "count": 80,
+          "offsets": {
+            "digital_addiction_mean": 0.11990740740740735,
+            "social_anxiety_mean": 0.1834946689113366,
+            "wellbeing_mean": 0.06801091269841253
+          }
+        }
+      },
+      "program": {
+        "Lisans": {
+          "count": 46,
+          "offsets": {
+            "digital_addiction_mean": 0.12914653784219077,
+            "social_anxiety_mean": 0.23976113794954435,
+            "wellbeing_mean": 0.08678226363008967
+          }
+        },
+        "Ön lisans": {
+          "count": 89,
+          "offsets": {
+            "digital_addiction_mean": -0.06674989596337921,
+            "social_anxiety_mean": -0.12392148703010086,
+            "wellbeing_mean": -0.044853754235776755
+          }
+        }
+      },
+      "usage_band": {
+        "0-3 saat": {
+          "count": 38,
+          "offsets": {
+            "digital_addiction_mean": -0.12417153996101371,
+            "social_anxiety_mean": 0.07074546635950174,
+            "wellbeing_mean": -0.09889933166248932
+          }
+        },
+        "10 saat ve üzeri": {
+          "count": 12,
+          "offsets": {
+            "digital_addiction_mean": 0.257407407407408,
+            "social_anxiety_mean": 0.015123456790123946,
+            "wellbeing_mean": 0.26341269841269854
+          }
+        },
+        "4-6 saat": {
+          "count": 67,
+          "offsets": {
+            "digital_addiction_mean": -5.527915975678255e-05,
+            "social_anxiety_mean": -0.05311489689599114,
+            "wellbeing_mean": 0.04822080075811419
+          }
+        },
+        "7-9 saat": {
+          "count": 18,
+          "offsets": {
+            "digital_addiction_mean": 0.09074074074074101,
+            "social_anxiety_mean": 0.038271604938271864,
+            "wellbeing_mean": -0.14630952380952378
+          }
+        }
+      }
+    }
+  },
+  "global_item_priority": {
+    "digital_addiction_mean": [
+      "digital_item_01",
+      "digital_item_02",
+      "digital_item_03",
+      "digital_item_04",
+      "digital_item_05",
+      "digital_item_06",
+      "digital_item_10",
+      "digital_item_08",
+      "digital_item_09",
+      "digital_item_07"
+    ],
+    "social_anxiety_mean": [
+      "social_item_08",
+      "social_item_06",
+      "social_item_07",
+      "social_item_09",
+      "social_item_01",
+      "social_item_05",
+      "social_item_11",
+      "social_item_04",
+      "social_item_02",
+      "social_item_10",
+      "social_item_03",
+      "social_item_12"
+    ],
+    "wellbeing_mean": [
+      "wellbeing_item_08",
+      "wellbeing_item_05",
+      "wellbeing_item_06",
+      "wellbeing_item_04",
+      "wellbeing_item_02",
+      "wellbeing_item_03",
+      "wellbeing_item_01",
+      "wellbeing_item_07"
+    ]
+  },
+  "profile_item_priority": {
+    "0": {
+      "digital_addiction_mean": [
+        "digital_item_01",
+        "digital_item_02",
+        "digital_item_03",
+        "digital_item_04",
+        "digital_item_05",
+        "digital_item_06",
+        "digital_item_10",
+        "digital_item_08",
+        "digital_item_07",
+        "digital_item_09"
+      ],
+      "social_anxiety_mean": [
+        "social_item_08",
+        "social_item_06",
+        "social_item_07",
+        "social_item_09",
+        "social_item_01",
+        "social_item_05",
+        "social_item_11",
+        "social_item_02",
+        "social_item_04",
+        "social_item_10",
+        "social_item_03",
+        "social_item_12"
+      ],
+      "wellbeing_mean": [
+        "wellbeing_item_08",
+        "wellbeing_item_05",
+        "wellbeing_item_06",
+        "wellbeing_item_04",
+        "wellbeing_item_02",
+        "wellbeing_item_03",
+        "wellbeing_item_07",
+        "wellbeing_item_01"
+      ]
+    },
+    "1": {
+      "digital_addiction_mean": [
+        "digital_item_08",
+        "digital_item_07",
+        "digital_item_09",
+        "digital_item_10",
+        "digital_item_04",
+        "digital_item_02",
+        "digital_item_01",
+        "digital_item_03",
+        "digital_item_06",
+        "digital_item_05"
+      ],
+      "social_anxiety_mean": [
+        "social_item_05",
+        "social_item_06",
+        "social_item_12",
+        "social_item_07",
+        "social_item_01",
+        "social_item_03",
+        "social_item_08",
+        "social_item_09",
+        "social_item_10",
+        "social_item_11",
+        "social_item_02",
+        "social_item_04"
+      ],
+      "wellbeing_mean": [
+        "wellbeing_item_08",
+        "wellbeing_item_02",
+        "wellbeing_item_05",
+        "wellbeing_item_01",
+        "wellbeing_item_07",
+        "wellbeing_item_03",
+        "wellbeing_item_06",
+        "wellbeing_item_04"
+      ]
+    },
+    "2": {
+      "digital_addiction_mean": [
+        "digital_item_01",
+        "digital_item_02",
+        "digital_item_03",
+        "digital_item_04",
+        "digital_item_05",
+        "digital_item_06",
+        "digital_item_08",
+        "digital_item_09",
+        "digital_item_10",
+        "digital_item_07"
+      ],
+      "social_anxiety_mean": [
+        "social_item_08",
+        "social_item_06",
+        "social_item_01",
+        "social_item_07",
+        "social_item_05",
+        "social_item_09",
+        "social_item_04",
+        "social_item_02",
+        "social_item_03",
+        "social_item_11",
+        "social_item_10",
+        "social_item_12"
+      ],
+      "wellbeing_mean": [
+        "wellbeing_item_05",
+        "wellbeing_item_04",
+        "wellbeing_item_06",
+        "wellbeing_item_08",
+        "wellbeing_item_02",
+        "wellbeing_item_03",
+        "wellbeing_item_01",
+        "wellbeing_item_07"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+respondent_id,profile_id,persona_label,run_label,prompt_version,model_id,preset_name,prompt_tokens,completion_tokens,total_tokens,self_consistency_samples,self_consistency_selected_index,ucla_item_01,ucla_item_02,ucla_item_03,ucla_item_04,ucla_item_05,ucla_item_06,ucla_item_07,ucla_item_08,phq9_item_01,phq9_item_02,phq9_item_03,phq9_item_04,phq9_item_05,phq9_item_06,phq9_item_07,phq9_item_08,phq9_item_09,gad7_item_01,gad7_item_02,gad7_item_03,gad7_item_04,gad7_item_05,gad7_item_06,gad7_item_07,ucla_loneliness_mean,phq9_mean,gad7_mean
+R0569,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,367,1311,1,0,1,1,1,2,1,2,0,0,1,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.0,1.4444444444444444,1.7142857142857142
+R0172,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,377,1321,1,0,1,1,1,2,1,2,1,2,1,2,1,1,1,2,1,1,0,1,2,2,1,1,1,1,1.375,1.1111111111111112,1.2857142857142858
+R0507,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,374,1318,1,0,2,1,2,2,1,2,0,0,2,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.25,1.5555555555555556,1.7142857142857142
+R0579,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,367,1311,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0614,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,953,374,1327,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0078,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,371,1327,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0163,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,942,381,1323,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.125,0.6666666666666666,0.8571428571428571
+R0084,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,373,1317,1,0,1,1,1,2,1,2,1,1,1,2,1,2,1,2,2,1,0,2,2,2,1,1,2,1,1.25,1.3333333333333333,1.5714285714285714
+R0669,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,388,1332,1,0,1,1,1,2,1,2,0,0,1,2,1,2,1,2,2,1,0,2,2,2,1,1,2,1,1.0,1.3333333333333333,1.5714285714285714
+R0479,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,389,1333,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0278,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,400,1344,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0745,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,957,382,1339,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0105,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,377,1333,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0476,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,366,1322,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0067,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,375,1321,1,0,1,1,2,2,1,2,1,1,1,2,1,2,1,2,2,1,0,2,2,2,1,1,2,1,1.375,1.3333333333333333,1.5714285714285714
+R0428,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,950,381,1331,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0100,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,367,1311,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0322,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,953,376,1329,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0218,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,957,367,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0747,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,370,1314,1,0,1,1,1,2,1,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,0.875,0.6666666666666666,0.7142857142857143
+R0261,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,949,381,1330,1,0,1,0,1,1,1,2,2,2,1,1,1,2,1,1,2,1,0,2,2,2,2,1,2,1,1.25,1.1111111111111112,1.7142857142857142
+R0765,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0129,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,383,1327,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.0,0.8888888888888888,1.0
+R0311,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,374,1318,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0554,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,941,368,1309,1,0,1,1,1,2,1,2,1,1,1,1,1,2,1,1,1,1,0,1,1,1,1,1,1,1,1.25,1.0,1.0
+R0128,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,372,1316,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0443,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,377,1321,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+R0149,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,385,1341,1,0,1,1,1,1,1,2,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.375,0.8888888888888888,1.0
+R0612,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,377,1333,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0501,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,369,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0445,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,953,367,1320,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0312,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,382,1337,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0505,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,945,374,1319,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0558,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,2,1,2,1,1,1,2,1,2,1,2,1,1,0,2,2,2,1,1,2,1,1.25,1.2222222222222223,1.5714285714285714
+R0152,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,369,1313,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0683,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,380,1335,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0363,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,380,1335,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0381,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,378,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0026,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,373,1328,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0394,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0106,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,953,378,1331,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0535,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,369,1313,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0275,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,381,1325,1,0,2,1,2,2,1,2,1,1,2,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.5,1.5555555555555556,1.7142857142857142
+R0176,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,369,1313,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0222,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,380,1324,1,0,1,1,1,2,1,2,0,1,1,2,1,2,1,2,2,1,0,2,2,2,1,1,2,1,1.125,1.3333333333333333,1.5714285714285714
+R0210,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,372,1316,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0784,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,377,1333,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0503,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,377,1323,1,0,1,1,1,2,1,2,1,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.375,0.6666666666666666,0.8571428571428571
+R0538,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,374,1318,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0338,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,372,1316,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0117,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,372,1316,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0711,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,949,388,1337,1,0,1,1,1,2,1,2,2,2,1,1,2,2,1,1,2,1,0,2,2,2,2,1,2,1,1.5,1.2222222222222223,1.7142857142857142
+R0040,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,368,1312,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1.125,0.6666666666666666,0.8571428571428571
+R0066,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,366,1322,1,0,1,1,1,1,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1.25,0.6666666666666666,1.0
+R0791,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,370,1326,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0486,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,383,1327,1,0,2,1,2,2,1,2,0,1,2,2,1,2,1,2,2,1,0,2,2,2,1,1,2,1,1.375,1.4444444444444444,1.5714285714285714
+R0341,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,370,1314,1,0,1,1,2,1,1,2,1,1,1,1,2,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,1.0,1.0
+R0372,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,394,1350,1,0,1,0,1,1,1,2,2,2,1,1,1,2,1,1,2,1,0,1,2,2,1,1,2,1,1.25,1.1111111111111112,1.4285714285714286
+R0228,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,957,378,1335,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0635,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,1,2,1,2,0,1,1,2,1,1,1,2,1,0,0,1,2,2,1,1,1,1,1.125,1.0,1.2857142857142858
+R0549,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,941,369,1310,1,0,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.125,0.8888888888888888,1.0
+R0333,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,369,1313,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0556,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,375,1319,1,0,1,1,1,2,1,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.375,0.6666666666666666,0.7142857142857143
+R0578,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,368,1323,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0751,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,367,1323,1,0,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.125,0.8888888888888888,1.0
+R0530,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,946,402,1348,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0774,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,942,373,1315,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.0,0.8888888888888888,1.0
+R0427,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,383,1339,1,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.0,0.0
+R0308,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,953,378,1331,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0416,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,383,1327,1,0,2,1,2,2,1,2,0,1,2,2,2,2,1,2,2,1,0,2,2,2,2,1,2,1,1.375,1.5555555555555556,1.7142857142857142
+R0636,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,940,383,1323,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.0,0.8888888888888888,1.0
+R0306,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,377,1321,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0248,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,379,1323,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0006,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,944,377,1321,1,0,1,1,1,1,0,1,2,2,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0,1.125,0.6666666666666666,0.7142857142857143
+R0094,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,955,366,1321,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0414,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,942,372,1314,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0145,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,376,1332,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0
+R0431,2,Low-Distress Graduate Male,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,395,1351,1,0,1,1,1,2,1,2,1,1,1,1,2,2,1,1,2,1,0,2,2,2,2,1,2,1,1.25,1.2222222222222223,1.7142857142857142
+R0432,1,High-Distress Graduate Female,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,954,380,1334,1,0,1,0,1,1,1,2,2,2,1,1,1,2,1,1,2,1,0,2,2,2,2,1,2,1,1.25,1.1111111111111112,1.7142857142857142
+R0178,0,Profil 0,primary,demographic_only_v1,qwen/qwen3.8-27b,primary,956,378,1334,1,0,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1.25,0.8888888888888888,1.0

@@ -1,0 +1,58 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Socially connected but emotionally strained heavy user",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms alongside heavier daily social-media use. It reflects respondents who spend substantial time on social platforms while also reporting elevated emotional distress indicators.",
+    "demographic_anchor": "Female, graduate education or above, more than 5 hours of daily social-media use",
+    "behavior_markers": [
+      "Reports comparatively higher loneliness on the UCLA-8 measure",
+      "Shows comparatively higher depressive symptoms on the PHQ-9",
+      "Shows comparatively higher anxiety symptoms on the GAD-7",
+      "Uses social media heavily on a daily basis",
+      "Profile is anchored in respondents with advanced education"
+    ],
+    "tone": "Emotionally burdened, digitally immersed, and at elevated risk of distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Low-distress light social-media users",
+    "summary": "Respondents in this profile report comparatively low loneliness, low depressive symptoms, and very low anxiety symptoms, alongside lighter daily social-media use.",
+    "demographic_anchor": "Predominantly male, educated to graduate level or above, with typical daily social-media use of about 1-3 hours.",
+    "behavior_markers": [
+      "Reports relatively low loneliness on the UCLA-8 measure",
+      "Shows low depressive symptom levels on the PHQ-9",
+      "Shows very low anxiety symptom levels on the GAD-7",
+      "Uses social media for a lighter amount of time per day compared with heavier-use groups",
+      "Daily social-media use centers around roughly 2.8 hours"
+    ],
+    "tone": "Generally psychologically well-adjusted and low-distress, with moderate restraint in daily social-media use."
+  },
+  {
+    "profile_id": 2,
+    "label": "Higher Loneliness, Lower Depression/Anxiety, Light Social-Media Use",
+    "summary": "Respondents in this profile report comparatively higher loneliness while showing lower average depressive and anxiety symptoms. Their daily social-media use is relatively light, centered around about 1–3 hours per day.",
+    "demographic_anchor": "More commonly anchored as female, educated to graduate level or above, with 1–3 hours of daily social-media use.",
+    "behavior_markers": [
+      "Reports comparatively elevated loneliness.",
+      "Shows lower average depressive symptoms.",
+      "Shows lower average anxiety symptoms.",
+      "Uses social media relatively lightly on a daily basis.",
+      "Typical daily social-media use falls around the 1–3 hour range."
+    ],
+    "tone": "Socially disconnected but not broadly distressed; relatively light digital engagement."
+  },
+  {
+    "profile_id": 3,
+    "label": "High-distress heavy social-media user",
+    "summary": "This profile is characterized by comparatively higher loneliness, depressive symptoms, and anxiety symptoms, alongside heavier daily social-media use. It represents respondents with elevated emotional distress indicators and substantial time spent on social media each day.",
+    "demographic_anchor": "Typically female, with graduate-level education or above, and reporting about 3-5 hours of daily social-media use.",
+    "behavior_markers": [
+      "Reports comparatively high loneliness levels",
+      "Shows higher average depressive symptom scores",
+      "Shows higher average anxiety symptom scores",
+      "Spends relatively heavy amounts of time on social media daily",
+      "Daily social-media use centers around roughly 4.9 hours"
+    ],
+    "tone": "Vulnerable, emotionally strained, and highly engaged online"
+  }
+]

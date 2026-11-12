@@ -1,0 +1,41 @@
+[
+  {
+    "profile_id": 0,
+    "label": "Low-Distress Graduate Male",
+    "summary": "A male respondent with graduate-level education who reports low loneliness and minimal depressive and anxiety symptoms, spending 1–3 hours in the measured activity.",
+    "demographic_anchor": "Male, graduate or above, 1–3 hours",
+    "behavior_markers": [
+      "Reports lower loneliness (UCLA-8 mean 0.78)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.25)",
+      "Reports minimal anxiety symptoms (GAD-7 mean 0.04)",
+      "Spends 1–3 hours in the measured activity"
+    ],
+    "tone": "Calm, stable, and low-distress"
+  },
+  {
+    "profile_id": 1,
+    "label": "Higher Distress Profile",
+    "summary": "A female respondent with graduate-level education and more than five hours of daily media use, showing elevated loneliness, depressive symptoms, and anxiety symptoms relative to the sample.",
+    "demographic_anchor": "Female; graduate degree or above; more than 5 hours of daily media use.",
+    "behavior_markers": [
+      "Reports higher loneliness (UCLA-8 mean 1.69)",
+      "Reports higher depressive symptoms (PHQ-9 mean 1.68)",
+      "Reports higher anxiety symptoms (GAD-7 mean 2.15)",
+      "Spends more than 5 hours per day using media"
+    ],
+    "tone": "Reserved and reflective, with a tendency toward worry and low mood."
+  },
+  {
+    "profile_id": 2,
+    "label": "Low-Distress Female Graduate Profile",
+    "summary": "A female respondent with graduate-level education and moderate daily online time (1–3 hours) who reports low loneliness and low symptoms of depression and anxiety.",
+    "demographic_anchor": "Female; graduate degree or above; 1–3 hours of daily online time.",
+    "behavior_markers": [
+      "Reports low loneliness (UCLA-8 mean 1.22)",
+      "Reports low depressive symptoms (PHQ-9 mean 0.82)",
+      "Reports low anxiety symptoms (GAD-7 mean 0.83)",
+      "Spends 1–3 hours online per day"
+    ],
+    "tone": "Calm, stable, and low-distress; responses suggest a generally well-regulated emotional state."
+  }
+]
