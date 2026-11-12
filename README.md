@@ -379,12 +379,18 @@ PYTHONPATH=src python scripts/restore_run_data.py
 
 Runs of the Bangladesh dataset are skipped until `datasets/bangladesh_sns/mmc2.xlsx` is in
 place. The script compares the SHA-256 of each survey file with the one recorded in the
-run manifests and skips a run when they differ. `--remove` deletes the rebuilt files again.
+run manifests and skips a run when they differ. This applies to 50 development runs of
+April 2026, which were made on an earlier export of the Turkish survey and back no result
+in the paper. `--remove` deletes the rebuilt files again.
+
+With both survey files in place the command reports 840 runs restored and 50 skipped.
 
 **Step 2. Run the analyses.** Each script writes its CSV files to `results/analysis/`, so
 `git diff results/analysis` afterwards shows whether the distributed files were
 reproduced. The first three commands recompute the dataset psychometrics, the bootstrap
-intervals and the demographic-only summary.
+intervals and the demographic-only summary. The whole sequence takes about half an hour
+on a recent laptop, most of it in the baselines and the invariance models. The
+invariance step needs R with the packages lavaan and semTools.
 
 ```bash
 export PYTHONPATH=src:scripts
@@ -410,7 +416,16 @@ python scripts/r2_manuscript_tables.py           # tables, written to results/an
 `r2_generation_summary.py` and `harvest_variance_and_cost.py` read token counts and costs
 from the request archive, which is not distributed. Their outputs,
 `r2_generation_summary.csv`, `generation_variance.csv` and `computational_cost.csv`, are
-included as computed.
+included as computed. For the same reason `r2_main_grid.py` keeps the recorded number of
+API calls of each run.
+
+**What to expect.** We ran both steps on a fresh copy of this repository with a new
+environment. Step 1 restored 840 runs, and every restored file was identical to the one
+the run had written. Step 2 reproduced the distributed files in `results/analysis/`
+exactly, with one exception. `r2_baselines_fit.csv` holds optimizer diagnostics and
+differed in the eighth decimal. Three files are written that are not distributed,
+because they hold one row per human respondent. They are `r2_item_records_<dataset>.csv`
+and `r2_respondent_errors.csv`, and `.gitignore` keeps them out of a commit.
 
 Only `scripts/run_pipeline.sh` spends API credit.
 

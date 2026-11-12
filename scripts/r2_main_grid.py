@@ -28,6 +28,8 @@ from r2_profile_sensitivity import recovery_labels
 REPO = Path(__file__).resolve().parents[1]
 ANALYSIS = REPO / "results" / "analysis"
 RUNS = REPO / "results" / "runs" / "experiment"
+GRID = ANALYSIS / "r2_main_grid.csv"
+RECORDED = pd.read_csv(GRID).set_index("run").api_calls.to_dict() if GRID.exists() else {}
 
 
 def describe(run: str, ds: str) -> dict:
@@ -48,8 +50,9 @@ def describe(run: str, ds: str) -> dict:
     row["profiles_assigned"] = int(human.profile_id.nunique())
     row["majority"] = (float(pd.Series(recovery_labels(human, human, cols.scale_columns)).value_counts(normalize=True).max())
                        if row["profiles_assigned"] > 1 else float("nan"))
-    calls = list((d / "llm_archive").glob("*chat_completions.json"))
-    row["api_calls"] = len(calls)
+    archive = d / "llm_archive"
+    # the request archive is not part of the public copy; the recorded count is kept there
+    row["api_calls"] = len(list(archive.glob("*chat_completions.json"))) if archive.is_dir() else RECORDED.get(run)
     return row
 
 
